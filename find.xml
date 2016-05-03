@@ -2,6 +2,7 @@
   <component name="FindSettings">
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -13,6 +14,7 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.tmpl</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
