@@ -2,7 +2,7 @@
   <component name="FindSettings">
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.sh" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -15,6 +15,7 @@
       <mask>*.tmpl</mask>
       <mask>*.yml</mask>
       <mask>*.xml</mask>
+      <mask>*.sh</mask>
     </recentFileMasks>
   </component>
 </application>
