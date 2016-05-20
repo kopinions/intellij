@@ -2,7 +2,7 @@
   <component name="FindSettings">
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="FILE_MASK" value="Makefile" />
+    <option name="FILE_MASK" value="*.go" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -17,6 +17,7 @@
       <mask>*.xml</mask>
       <mask>*.sh</mask>
       <mask>Makefile</mask>
+      <mask>*.go</mask>
     </recentFileMasks>
   </component>
 </application>
