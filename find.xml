@@ -1,12 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="localWholeWordsOnly" value="true" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="FILE_MASK" value="*.go" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -20,8 +17,8 @@
       <mask>*.yml</mask>
       <mask>*.xml</mask>
       <mask>*.sh</mask>
-      <mask>Makefile</mask>
       <mask>*.go</mask>
+      <mask>Makefile</mask>
     </recentFileMasks>
   </component>
 </application>
