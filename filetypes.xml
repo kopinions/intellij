@@ -6,6 +6,8 @@
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="gnu" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="toml" type="PLAIN_TEXT" />
+      <mapping ext="tompl" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
