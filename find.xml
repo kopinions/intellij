@@ -2,6 +2,7 @@
   <component name="FindSettings">
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
+    <option name="FILE_MASK" value="*.go" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -15,9 +16,11 @@
       <mask>*.yml</mask>
       <mask>*.xml</mask>
       <mask>*.sh</mask>
-      <mask>*.go</mask>
       <mask>Makefile</mask>
       <mask>tmpl</mask>
+      <mask>go</mask>
+      <mask>*。go</mask>
+      <mask>*.go</mask>
     </recentFileMasks>
   </component>
 </application>
