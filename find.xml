@@ -1,5 +1,6 @@
 <application>
   <component name="FindSettings">
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -11,13 +12,13 @@
       <mask>*.mxml</mask>
       <mask>*.tmpl</mask>
       <mask>*.yml</mask>
-      <mask>*.xml</mask>
       <mask>*.sh</mask>
       <mask>Makefile</mask>
       <mask>tmpl</mask>
       <mask>go</mask>
       <mask>*。go</mask>
       <mask>*.go</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
