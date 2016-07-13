@@ -5,6 +5,7 @@
       <mapping pattern="generate_certs" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="credentials" type="PLAIN_TEXT" />
+      <mapping ext="cf" type="PLAIN_TEXT" />
       <mapping ext="ctmpl" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="gnu" type="PLAIN_TEXT" />
