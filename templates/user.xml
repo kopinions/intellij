@@ -1,0 +1,9 @@
+<templateSet group="user">
+  <template name="ati" value="assertThat($actual$, is($expected$));" description="assertThat" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="actual" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="expected" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
