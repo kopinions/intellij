@@ -1,8 +1,5 @@
 <application>
   <component name="FindSettings">
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -19,8 +16,8 @@
       <mask>*。go</mask>
       <mask>*.sh</mask>
       <mask>*.xml</mask>
-      <mask>*.go</mask>
       <mask>*.java</mask>
+      <mask>*.go</mask>
     </recentFileMasks>
   </component>
 </application>
