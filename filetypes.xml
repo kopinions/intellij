@@ -1,10 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="start_verify" type="PLAIN_TEXT" />
       <mapping pattern="run" type="PLAIN_TEXT" />
-      <mapping pattern="generate_certs" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="credentials" type="PLAIN_TEXT" />
+      <mapping pattern="generate_certs" type="PLAIN_TEXT" />
       <mapping ext="cf" type="PLAIN_TEXT" />
       <mapping ext="ctmpl" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
