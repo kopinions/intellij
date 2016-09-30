@@ -6,6 +6,7 @@
       <mapping pattern="start_verify" type="PLAIN_TEXT" />
       <mapping pattern="lambda" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="credentials" type="PLAIN_TEXT" />
       <mapping ext="cf" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
