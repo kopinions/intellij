@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="consul-template" type="PLAIN_TEXT" />
       <mapping pattern="run" type="PLAIN_TEXT" />
       <mapping pattern="generate_certs" type="PLAIN_TEXT" />
       <mapping pattern="start_verify" type="PLAIN_TEXT" />
