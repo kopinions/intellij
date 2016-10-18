@@ -1,5 +1,6 @@
 <application>
   <component name="FindSettings">
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -9,7 +10,6 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.tmpl</mask>
-      <mask>*.yml</mask>
       <mask>Makefile</mask>
       <mask>tmpl</mask>
       <mask>go</mask>
@@ -20,6 +20,7 @@
       <mask>*.go</mask>
       <mask>Dockerfile*</mask>
       <mask>yml</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
