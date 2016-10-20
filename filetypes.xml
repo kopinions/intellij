@@ -21,6 +21,7 @@
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping ext="tompl" type="PLAIN_TEXT" />
+      <mapping pattern="Branding" type="TypeScript JSX" />
     </extensionMap>
   </component>
 </application>
