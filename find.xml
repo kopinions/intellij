@@ -4,6 +4,7 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
+    <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -24,6 +25,7 @@
       <mask>Dockerfile*</mask>
       <mask>yml</mask>
       <mask>*.yml</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
