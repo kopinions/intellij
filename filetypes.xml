@@ -5,6 +5,7 @@
       <mapping pattern="wait" type="Bash" />
       <mapping pattern="Dockerfile-app" type="Docker file" />
       <mapping pattern="Dockerfile-mig" type="Docker file" />
+      <mapping pattern="FunctionField" type="JavaScript" />
       <mapping pattern="consul-template" type="PLAIN_TEXT" />
       <mapping pattern="run" type="PLAIN_TEXT" />
       <mapping pattern="template" type="PLAIN_TEXT" />
