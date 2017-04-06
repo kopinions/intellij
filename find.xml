@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="tmpl" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -11,9 +12,7 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.tmpl</mask>
       <mask>Makefile</mask>
-      <mask>tmpl</mask>
       <mask>go</mask>
       <mask>*。go</mask>
       <mask>*.sh</mask>
@@ -23,8 +22,14 @@
       <mask>yml</mask>
       <mask>*.yml</mask>
       <mask>*.gradle</mask>
-      <mask>*.</mask>
       <mask>*.go</mask>
+      <mask>*.</mask>
+      <mask>*.t</mask>
+      <mask>*.tm</mask>
+      <mask>*.tmp</mask>
+      <mask>*.tmpl</mask>
+      <mask>.tmpl</mask>
+      <mask>tmpl</mask>
     </recentFileMasks>
   </component>
 </application>
