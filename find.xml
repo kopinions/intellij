@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.properties</mask>
@@ -23,7 +21,6 @@
       <mask>yml</mask>
       <mask>*.yml</mask>
       <mask>*.gradle</mask>
-      <mask>*.go</mask>
       <mask>*.</mask>
       <mask>*.t</mask>
       <mask>*.tm</mask>
@@ -31,6 +28,8 @@
       <mask>*.tmpl</mask>
       <mask>.tmpl</mask>
       <mask>tmpl</mask>
+      <mask>*</mask>
+      <mask>*.go</mask>
     </recentFileMasks>
   </component>
 </application>
