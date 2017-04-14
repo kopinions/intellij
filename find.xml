@@ -1,10 +1,13 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="wholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.go" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -23,14 +26,16 @@
       <mask>yml</mask>
       <mask>*.yml</mask>
       <mask>*.gradle</mask>
-      <mask>*.</mask>
+      <mask>.tmpl</mask>
+      <mask>tmpl</mask>
+      <mask>*.g</mask>
       <mask>*.t</mask>
       <mask>*.tm</mask>
       <mask>*.tmp</mask>
       <mask>*.tmpl</mask>
-      <mask>.tmpl</mask>
-      <mask>tmpl</mask>
+      <mask>.</mask>
       <mask>*</mask>
+      <mask>*.</mask>
       <mask>*.go</mask>
     </recentFileMasks>
   </component>
