@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tmpl" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -24,14 +25,15 @@
       <mask>.tmpl</mask>
       <mask>tmpl</mask>
       <mask>*.g</mask>
-      <mask>*.t</mask>
-      <mask>*.tm</mask>
-      <mask>*.tmp</mask>
-      <mask>*.tmpl</mask>
       <mask>.</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.go</mask>
+      <mask>*.te</mask>
+      <mask>*.t</mask>
+      <mask>*.tm</mask>
+      <mask>*.tmp</mask>
+      <mask>*.tmpl</mask>
     </recentFileMasks>
   </component>
 </application>
