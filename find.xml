@@ -3,14 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value=".gitignore" />
     <recentFileMasks>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>go</mask>
-      <mask>*。go</mask>
-      <mask>*.sh</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>Dockerfile*</mask>
@@ -20,7 +14,6 @@
       <mask>.tmpl</mask>
       <mask>tmpl</mask>
       <mask>*.g</mask>
-      <mask>.</mask>
       <mask>*</mask>
       <mask>*.te</mask>
       <mask>*.t</mask>
@@ -34,6 +27,14 @@
       <mask>Make</mask>
       <mask>Makefi</mask>
       <mask>Makefile</mask>
+      <mask>.</mask>
+      <mask>.gi</mask>
+      <mask>.git</mask>
+      <mask>.giti</mask>
+      <mask>.gitig</mask>
+      <mask>.gitign</mask>
+      <mask>.gitigno</mask>
+      <mask>.gitignore</mask>
     </recentFileMasks>
   </component>
 </application>
