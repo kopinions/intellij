@@ -2,15 +2,9 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="Dockerfile" />
     <recentFileMasks>
-      <mask>*.t</mask>
-      <mask>*.tm</mask>
-      <mask>*.tmp</mask>
-      <mask>*.tmpl</mask>
-      <mask>*.</mask>
       <mask>*.go</mask>
       <mask>M</mask>
       <mask>Ma</mask>
@@ -36,6 +30,11 @@
       <mask>xml</mask>
       <mask>*xml</mask>
       <mask>*.xml</mask>
+      <mask>D</mask>
+      <mask>Doc</mask>
+      <mask>Docker</mask>
+      <mask>Dockerfi</mask>
+      <mask>Dockerfile</mask>
     </recentFileMasks>
   </component>
 </application>
