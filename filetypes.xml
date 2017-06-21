@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="logstash" type="Bash" />
       <mapping pattern="build" type="Bash" />
+      <mapping pattern="jruby" type="Bash" />
     </extensionMap>
   </component>
 </application>
