@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="logstash" type="Bash" />
       <mapping pattern="build" type="Bash" />
     </extensionMap>
   </component>
