@@ -30,11 +30,11 @@
         <mark key="^" line="1" column="16" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/stack/core/Release.java" timestamp="1499069427362" />
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" timestamp="1499055552184">
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" timestamp="1499071713287">
         <mark key="'" line="69" column="2" />
-        <mark key="[" line="95" column="14" />
-        <mark key="]" line="95" column="14" />
-        <mark key="." line="95" column="14" />
+        <mark key="[" line="159" column="10" />
+        <mark key="]" line="159" column="10" />
+        <mark key="." line="159" column="10" />
         <mark key="^" line="54" column="15" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V25__add_volumes_for_process.sql" timestamp="1499064217538">
@@ -43,12 +43,12 @@
         <mark key="." line="1" column="27" />
         <mark key="^" line="1" column="27" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Process.java" timestamp="1499065023620">
-        <mark key="'" line="89" column="20" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Process.java" timestamp="1499071396903">
+        <mark key="'" line="25" column="31" />
+        <mark key="[" line="95" column="26" />
+        <mark key="]" line="25" column="31" />
+        <mark key="^" line="25" column="31" />
+        <mark key="." line="25" column="31" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/mappers/handlers/LinksHandler.java" timestamp="1499062520770">
         <mark key="'" line="29" column="21" />
@@ -170,19 +170,24 @@
       <jump line="35" column="8" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/mappers/handlers/VolumesSerializeHandler.java" />
       <jump line="24" column="1" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/UnifiedProcedures.xml" />
       <jump line="9" column="26" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/UnifiedProcedures.xml" />
+      <jump line="89" column="25" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Process.java" />
+      <jump line="37" column="12" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Process.java" />
+      <jump line="46" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Process.java" />
+      <jump line="26" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Process.java" />
+      <jump line="25" column="31" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Process.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxWb2x1bWU+IHZvbHVtZXM7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>maxConsecutiveFailures</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>maxConsecutiveFailures</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxWb2x1bWU+IHZvbHVtZXM7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxIZWFsdGg+IGhlYWx0aHM7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxWb2x1bWU+IHZvbHVtZXM7Cg==</text>
