@@ -11,6 +11,13 @@
         <mark key="." line="62" column="14" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/stack/core/Route.java" timestamp="1499065092222" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V26__add_health_table_for_process.sql" timestamp="1499073050347">
+        <mark key="'" line="1" column="48" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="7" column="50" />
+      </file>
       <file name="/a.dummy" timestamp="1499055153205">
         <mark key="[" line="0" column="0" />
       </file>
@@ -30,12 +37,12 @@
         <mark key="^" line="1" column="16" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/stack/core/Release.java" timestamp="1499069427362" />
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" timestamp="1499071713287">
-        <mark key="'" line="69" column="2" />
-        <mark key="[" line="159" column="10" />
-        <mark key="]" line="159" column="10" />
-        <mark key="." line="159" column="10" />
-        <mark key="^" line="54" column="15" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" timestamp="1499075015562">
+        <mark key="'" line="133" column="8" />
+        <mark key="[" line="39" column="6" />
+        <mark key="]" line="39" column="6" />
+        <mark key="^" line="63" column="9" />
+        <mark key="." line="134" column="11" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V25__add_volumes_for_process.sql" timestamp="1499064217538">
         <mark key="[" line="1" column="21" />
@@ -65,6 +72,10 @@
         <mark key="]" line="94" column="0" />
         <mark key="." line="94" column="0" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V22__create_procedure_instances.sql" timestamp="1499072471466">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="22" column="1" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mybatis/mybatis/3.4.4/652e324406c304df9e75ea1ac460d0abb791795f/mybatis-3.4.4-sources.jar!/org/apache/ibatis/type/TypeHandler.java" timestamp="1499062375124">
         <mark key="'" line="3" column="1" />
       </file>
@@ -77,13 +88,13 @@
         <mark key="^" line="45" column="40" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/UnifiedProcedures.xml" timestamp="1499064484057">
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/UnifiedProcedures.xml" timestamp="1499074766885">
         <mark key="a" line="9" column="340" />
         <mark key="'" line="9" column="26" />
-        <mark key="[" line="17" column="21" />
-        <mark key="]" line="18" column="22" />
-        <mark key="^" line="18" column="22" />
-        <mark key="." line="18" column="22" />
+        <mark key="[" line="31" column="22" />
+        <mark key="]" line="31" column="49" />
+        <mark key="." line="31" column="49" />
+        <mark key="^" line="31" column="49" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/mappers/handlers/VolumesSerializeHandler.java" timestamp="1499063029797">
         <mark key="'" line="31" column="8" />
@@ -175,55 +186,65 @@
       <jump line="46" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Process.java" />
       <jump line="26" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Process.java" />
       <jump line="25" column="31" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Process.java" />
+      <jump line="1" column="48" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V26__add_health_table_for_process.sql" />
+      <jump line="155" column="17" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
+      <jump line="119" column="20" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
+      <jump line="153" column="6" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
+      <jump line="174" column="8" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
+      <jump line="38" column="6" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
+      <jump line="62" column="8" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
+      <jump line="102" column="8" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
+      <jump line="121" column="8" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
+      <jump line="133" column="8" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>maxConsecutiveFailures</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="-" type="4">
-        <text>maxConsecutiveFailures</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>,</text>
+        <text>health</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxIZWFsdGg+IGhlYWx0aHM7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICAgIC0gcHJvdG9jb2w6ICJUQ1AiCiAgICAgICAgICAgIGluZGV4OiAwCiAgICAgICAgICAgIGludGVydmFsOiAzCiAgICAgICAgICAgIHRpbWVvdXQ6IDIKICAgICAgICAgICAgY29uc2VjdXRpdmU6IDIKICAgICAgICAgICAgaW5nb3JlOiAzMA==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxWb2x1bWU+IHZvbHVtZXM7Cg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICA=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="2" type="8">
+        <text encoding="base64">ICAgCiAgIAogICAKICAgCiAgIAogICA=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAtIHByb3RvY29sOiAiVENQIgogICAgICAgICAgcG9ydEluZGV4OiAwCiAgICAgICAgICBpbnRlcnZhbDogMwogICAgICAgICAgdGltZW91dDogMgogICAgICAgICAgZ3JhY2U6IDIKICAgICAgICAgIG1heENvbnNlY3V0aXZlRmFpbHVyZXM6IDI=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IHB1dCgidm9sdW1lcyIsIG5ldyBBcnJheUxpc3Q8TWFwPFN0cmluZywgT2JqZWN0Pj4oKSB7ewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYWRkKG5ldyBIYXNoTWFwPFN0cmluZywgT2JqZWN0PigpIHt7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHV0KCJzb3VyY2UiLCAie2NhY2hlfSIpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB1dCgidGFyZ2V0IiwgIi9ob21lLy5ncmFkbGUiKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH19KTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFkZChuZXcgSGFzaE1hcDxTdHJpbmcsIE9iamVjdD4oKSB7ewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB1dCgic291cmNlIiwgInthcnRpZmFjdHN9Iik7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHV0KCJ0YXJnZXQiLCAiL2FydGlmYWN0cyIpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfX0pOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9fSk7</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbWF4Q29uc2VjdXRpdmVGYWlsdXJlczogMgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH19KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ3JhY2U6IDIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwdXQoInRhcmdldCIsICIvYXJ0aWZhY3RzIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGltZW91dDogMgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwdXQoInNvdXJjZSIsICJ7YXJ0aWZhY3RzfSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50ZXJ2YWw6IDMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFkZChuZXcgSGFzaE1hcDxTdHJpbmcsIE9iamVjdD4oKXt7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG9ydEluZGV4OiAwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfX0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIC0gcHJvdG9jb2w6ICJUQ1AiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>,</last-search>
+      <last-search>health</last-search>
       <last-offset />
-      <last-pattern>,</last-pattern>
+      <last-pattern>health</last-pattern>
       <last-replace>,\r</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -244,10 +265,10 @@
         <entry encoding="base64">LCA=</entry>
         <entry encoding="base64">XDxsaW5rc1w+</entry>
         <entry>,</entry>
+        <entry>health</entry>
       </history-search>
       <history-cmd>
         <entry>help changelist</entry>
-        <entry>ew</entry>
         <entry>wq</entry>
         <entry>%s/Integer/String</entry>
         <entry>Lw</entry>
@@ -256,6 +277,10 @@
         <entry encoding="base64">JzwsJz5zLywgLyxcci9nYw==</entry>
         <entry encoding="base64">JzwsJz5zLywvXHIvZ2M=</entry>
         <entry encoding="base64">JzwsJz5zLywvLFxyL2dj</entry>
+        <entry>ew</entry>
+        <entry>qw</entry>
+        <entry>set reg</entry>
+        <entry>register</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
