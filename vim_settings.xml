@@ -139,6 +139,13 @@
         <mark key="." line="17" column="12" />
         <mark key="^" line="17" column="12" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/resources/UnifiedProcedureResource.java" timestamp="1499142226068">
+        <mark key="'" line="55" column="49" />
+        <mark key="[" line="55" column="46" />
+        <mark key="]" line="55" column="46" />
+        <mark key="^" line="13" column="16" />
+        <mark key="." line="55" column="46" />
+      </file>
       <file name="/workspace/golang/src/github.com/sjkyspa/stacks/contrib/iaas/aws/infrastructure.json" timestamp="1499137654744" />
       <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/resources/UnifiedProcedureResourceTest.java" timestamp="1499140857840">
         <mark key="'" line="88" column="79" />
@@ -152,7 +159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="4" filename="/workspace/golang/src/github.com/sjkyspa/stacks/contrib/doc/stackexample.yml" />
       <jump line="14" column="2" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V23__change_the_procedure_tables.sql" />
       <jump line="61" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V23__change_the_procedure_tables.sql" />
       <jump line="74" column="21" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V23__change_the_procedure_tables.sql" />
@@ -252,13 +258,14 @@
       <jump line="68" column="19" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/UnifiedProcedures.xml" />
       <jump line="66" column="31" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Process.java" />
       <jump line="51" column="27" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Process.java" />
+      <jump line="55" column="49" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/resources/UnifiedProcedureResource.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>MYSQL_USER</text>
+        <text>procedure</text>
       </register>
       <register name="-" type="4">
-        <text>MYSQL_USER</text>
+        <text>procedure</text>
       </register>
       <register name="/" type="4">
         <text>List</text>
