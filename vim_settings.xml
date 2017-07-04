@@ -57,6 +57,11 @@
         <mark key="^" line="70" column="37" />
         <mark key="." line="52" column="0" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Procedure.java" timestamp="1499131435162">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="69" />
+        <mark key="." line="72" column="0" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/mappers/handlers/LinksHandler.java" timestamp="1499062520770">
         <mark key="'" line="29" column="21" />
         <mark key="[" line="29" column="16" />
@@ -76,9 +81,6 @@
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V22__create_procedure_instances.sql" timestamp="1499072471466">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="22" column="1" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mybatis/mybatis/3.4.4/652e324406c304df9e75ea1ac460d0abb791795f/mybatis-3.4.4-sources.jar!/org/apache/ibatis/type/TypeHandler.java" timestamp="1499062375124">
-        <mark key="'" line="3" column="1" />
       </file>
       <file name="/Dummy.txt" timestamp="1499095556756">
         <mark key="[" line="0" column="0" />
@@ -136,14 +138,11 @@
         <mark key="." line="17" column="12" />
         <mark key="^" line="17" column="12" />
       </file>
-      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/contrib/doc/stackexample.yml" timestamp="1499055569116">
-        <mark key="'" line="34" column="4" />
-      </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/resources/UnifiedProcedureResourceTest.java" timestamp="1499130394769">
-        <mark key="[" line="61" column="16" />
-        <mark key="]" line="61" column="15" />
-        <mark key="^" line="61" column="15" />
-        <mark key="." line="61" column="15" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/resources/UnifiedProcedureResourceTest.java" timestamp="1499131482944">
+        <mark key="[" line="65" column="52" />
+        <mark key="]" line="60" column="0" />
+        <mark key="^" line="68" column="24" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1499062906331">
         <mark key="[" line="0" column="0" />
@@ -242,8 +241,8 @@
       <jump line="0" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Process.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>baseMppatcher</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImFjdHVhbCA9ICIgKyBhY3R1YWwpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>baseMppatcher</text>
@@ -251,32 +250,32 @@
       <register name="/" type="4">
         <text>ingore</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHV0KCJoZWFsdGhzIiwgbmV3IEFycmF5TGlzdDxNYXA8U3RyaW5nLCBPYmplY3Q+PigpIHt7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhZGQobmV3IEhhc2hNYXA8U3RyaW5nLCBPYmplY3Q+KCkge3sKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwdXQoInByb3RvY29sIiwgIlRDUCIpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB1dCgicG9ydCIsIDMzMDYpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB1dCgiaW50ZXJ2YWwiLCAzKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwdXQoInRpbWVvdXQiLCAyKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwdXQoImNvbnNlY3V0aXZlIiwgMik7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHV0KCJpZ25vcmUiLCAxMjApOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfX0pOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9fSk7</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHV0KCJydW50aW1lIiwgKChSZWNvcmQpIHJ1bnRpbWUpLnRvUmVmSnNvbihyb3V0ZXMpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImFjdHVhbCA9ICIgKyBhY3R1YWwpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSkuY29sbGVjdCh0b0xpc3QoKSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBoZWFsdGg7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSkuY29sbGVjdCh0b0xpc3QoKSkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGhlYWx0aC5wdXQoImNvbW1hbmQiLCBoLmNvbW1hbmQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBoZWFsdGg7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGhlYWx0aC5wdXQoInByb3RvY29sIiwgaC5wcm90b2NvbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhlYWx0aC5wdXQoImNvbW1hbmQiLCBoLmNvbW1hbmQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hcDxTdHJpbmcsIFN0cmluZz4gaGVhbHRoID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhlYWx0aC5wdXQoInByb3RvY29sIiwgaC5wcm90b2NvbCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHV0KCJoZWFsdGhzIiwgaGVhbHRocy5zdHJlYW0oKS5tYXAoaCAtPiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hcDxTdHJpbmcsIFN0cmluZz4gaGVhbHRoID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVzdWx0IHByb3BlcnR5PSJtYXBwZWQiIGNvbHVtbj0iTUFQUEVEIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHV0KCJoZWFsdGhzIiwgaGVhbHRocy5zdHJlYW0oKS5tYXAoaCAtPiB7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICA8cmVzdWx0IHByb3BlcnR5PSJtYXBwZWQiIGNvbHVtbj0iTUFQUEVEIi8+Cg==</text>
