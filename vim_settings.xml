@@ -55,13 +55,13 @@
         <mark key="." line="22" column="35" />
         <mark key="^" line="22" column="35" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" timestamp="1499218237581">
-        <mark key="e" line="18" column="74" />
-        <mark key="'" line="9" column="21" />
-        <mark key="[" line="18" column="93" />
-        <mark key="]" line="20" column="14" />
-        <mark key="." line="20" column="14" />
-        <mark key="^" line="20" column="14" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" timestamp="1499220561032">
+        <mark key="e" line="21" column="74" />
+        <mark key="'" line="10" column="21" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="22" column="7" />
+        <mark key="." line="22" column="7" />
+        <mark key="^" line="22" column="7" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/common/Factory.java" timestamp="1499155383371" />
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Process.java" timestamp="1499141535188">
@@ -148,11 +148,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Procedure.java" timestamp="1499143766927">
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Procedure.java" timestamp="1499220994478">
         <mark key="'" line="78" column="9" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="69" />
-        <mark key="." line="72" column="0" />
+        <mark key="[" line="56" column="44" />
+        <mark key="]" line="56" column="57" />
+        <mark key="." line="56" column="57" />
+        <mark key="^" line="56" column="57" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/mappers/handlers/LinksHandler.java" timestamp="1499062520770">
         <mark key="'" line="29" column="21" />
@@ -332,43 +333,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>null</text>
+        <text>startupWith</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>startupWith</text>
       </register>
       <register name="/" type="4">
         <text>NOT</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBJbmplY3QKICAgIGNvbS50aG91Z2h0d29ya3MuY251cC51cC5jb3JlLlByb3ZpZGVycyBwcm92aWRlcnM7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIG5hbWU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEZhY3Rvcnk8Q2xpZW50Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBJbmplY3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBPcHRpb25hbDxQcm92aWRlcj4gcHJvdmlkZXIgPSBwcm92aWRlcnMud2hpY2gobmV3IEhhc2hNYXA8U3RyaW5nLCBPYmplY3Q+KCkge3sKICAgICAgICAgICAgcHV0KCJpZCIsIGVucm9sbGVkLmdldElkKCkpOwogICAgICAgIH19KTsKICAgICAgICBhc3NlcnRUaGF0KHByb3ZpZGVyLmlzUHJlc2VudCgpLCBpcyh0cnVlKSk7CiAgICAgICAgYXNzZXJ0VGhhdChwcm92aWRlci5nZXQoKS5nZXRJZCgpLCBub3ROdWxsVmFsdWUoKSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8aWQgcHJvcGVydHk9ImlkIiBjb2x1bW49IlBfSUQiLz4K</text>
+        <text encoding="base64">ICAgICAgICBPcHRpb25hbDxQcm92aWRlcj4gcHJvdmlkZXIgPSBwcm92aWRlcnMud2hpY2gobmV3IEhhc2hNYXA8U3RyaW5nLCBPYmplY3Q+KCkge3sKICAgICAgICAgICAgcHV0KCJpZCIsIGVucm9sbGVkLmdldElkKCkpOwogICAgICAgIH19KTsKICAgICAgICBhc3NlcnRUaGF0KHByb3ZpZGVyLmlzUHJlc2VudCgpLCBpcyh0cnVlKSk7CiAgICAgICAgYXNzZXJ0VGhhdChwcm92aWRlci5nZXQoKS5nZXRJZCgpLCBub3ROdWxsVmFsdWUoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImVucm9sbGVkID0gIiArIGVucm9sbGVkKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBTdHJpbmc+IHBpZ2d5ID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
+        <text encoding="base64">ICAgICAgICA8aWQgcHJvcGVydHk9ImlkIiBjb2x1bW49IlBfSUQiLz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGluZm8ucHV0KCJfaWQiLCBpZHMuaWQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImVucm9sbGVkID0gIiArIGVucm9sbGVkKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdmFsdWUgPSBjcy5nZXRTdHJpbmcoY29sdW1uSW5kZXgpOwogICAgICAgIGlmIChTdHJpbmdzLmlzTnVsbE9yRW1wdHkodmFsdWUpKSB7CiAgICAgICAgICAgIHJldHVybiBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICByZXR1cm4gc3RyZWFtKHZhbHVlLnNwbGl0KCJcXHwiKSkubWFwKEludGVnZXI6OnZhbHVlT2YpLmNvbGxlY3QodG9MaXN0KCkpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBTdHJpbmc+IHBpZ2d5ID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
