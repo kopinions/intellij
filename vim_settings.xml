@@ -31,11 +31,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/stack/core/Release.java" timestamp="1499069427362" />
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Provider.java" timestamp="1499222240960">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" timestamp="1499248758726">
         <mark key="'" line="20" column="2" />
         <mark key="[" line="171" column="23" />
@@ -49,12 +44,13 @@
         <mark key="." line="22" column="35" />
         <mark key="^" line="22" column="35" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" timestamp="1499248127936">
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" timestamp="1499311918482">
         <mark key="a" line="70" column="17" />
         <mark key="'" line="123" column="0" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+        <mark key="[" line="48" column="33" />
+        <mark key="]" line="48" column="41" />
+        <mark key="." line="48" column="41" />
+        <mark key="^" line="48" column="41" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/common/Factory.java" timestamp="1499155383371" />
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Process.java" timestamp="1499141535188">
@@ -70,17 +66,20 @@
         <mark key="." line="31" column="26" />
         <mark key="^" line="31" column="26" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V28__add_providers_table.sql" timestamp="1499158966404">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/support/ProcedureMatcher.java" timestamp="1499138396837">
         <mark key="'" line="12" column="9" />
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
         <mark key="^" line="12" column="12" />
         <mark key="." line="49" column="0" />
+      </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/UnifiedProcedures.xml" timestamp="1499141380642">
+        <mark key="a" line="9" column="340" />
+        <mark key="'" line="68" column="19" />
+        <mark key="[" line="30" column="115" />
+        <mark key="]" line="30" column="115" />
+        <mark key="." line="30" column="115" />
+        <mark key="^" line="30" column="115" />
       </file>
       <file name="/workspace/solutions/cnup/ketsu/new-ketsu/src/main/java/com/thoughtworks/ketsu/web/jersey/CORSResponseFilter.java" timestamp="1499156563819" />
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/mappers/handlers/IdHandler.java" timestamp="1499160087299">
@@ -162,8 +161,22 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="27" />
       </file>
+      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/contrib/iaas/aws/customization.json" timestamp="1499313328805">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="^" line="3" column="37" />
+        <mark key="." line="70" column="0" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mybatis/mybatis/3.4.4/652e324406c304df9e75ea1ac460d0abb791795f/mybatis-3.4.4-sources.jar!/org/apache/ibatis/type/TypeHandler.java" timestamp="1499062375124">
         <mark key="'" line="3" column="1" />
+      </file>
+      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/contrib/iaas/aws/cde.json" timestamp="1499313761814">
+        <mark key="'" line="1520" column="25" />
+        <mark key="[" line="1534" column="21" />
+        <mark key="]" line="1534" column="21" />
+        <mark key="^" line="1534" column="21" />
+        <mark key="." line="1534" column="21" />
       </file>
       <file name="/Dummy.txt" timestamp="1499243822750">
         <mark key="[" line="0" column="0" />
@@ -192,18 +205,13 @@
         <mark key="." line="158" column="27" />
         <mark key="^" line="158" column="27" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/records/MarathonClient.java" timestamp="1499223683821">
-        <mark key="'" line="175" column="16" />
-        <mark key="[" line="176" column="0" />
-        <mark key="]" line="192" column="8" />
-      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/stack/core/Application.java" timestamp="1499226790942" />
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" timestamp="1499308879925">
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" timestamp="1499311933860">
         <mark key="'" line="1" column="38" />
-        <mark key="[" line="9" column="22" />
-        <mark key="]" line="9" column="7" />
-        <mark key="." line="9" column="7" />
-        <mark key="^" line="9" column="7" />
+        <mark key="[" line="10" column="32" />
+        <mark key="]" line="10" column="31" />
+        <mark key="." line="10" column="31" />
+        <mark key="^" line="10" column="31" />
       </file>
       <file name="/workspace/golang/src/github.com/sjkyspa/stacks/contrib/doc/stackexample.yml" timestamp="1499055569116">
         <mark key="'" line="34" column="4" />
@@ -227,28 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="27" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/UnifiedProcedures.xml" />
-      <jump line="117" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Process.java" />
-      <jump line="108" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Process.java" />
-      <jump line="64" column="12" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
-      <jump line="104" column="12" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
-      <jump line="40" column="15" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
-      <jump line="155" column="10" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
-      <jump line="123" column="12" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
-      <jump line="103" column="20" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Process.java" />
-      <jump line="86" column="72" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Records.xml" />
-      <jump line="135" column="12" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
-      <jump line="72" column="23" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Process.java" />
-      <jump line="74" column="56" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Process.java" />
-      <jump line="78" column="32" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Process.java" />
-      <jump line="113" column="36" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Process.java" />
-      <jump line="39" column="31" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Process.java" />
-      <jump line="49" column="53" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Process.java" />
-      <jump line="180" column="12" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
-      <jump line="108" column="12" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
-      <jump line="139" column="12" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
-      <jump line="159" column="10" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
-      <jump line="44" column="10" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
       <jump line="68" column="12" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
       <jump line="127" column="12" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
       <jump line="52" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Process.java" />
@@ -327,55 +313,77 @@
       <jump line="26" column="39" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
       <jump line="20" column="2" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
       <jump line="64" column="51" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProvidersTest.java" />
+      <jump line="1353" column="4" filename="/workspace/golang/src/github.com/sjkyspa/stacks/contrib/iaas/aws/cde.json" />
+      <jump line="1113" column="18" filename="/workspace/golang/src/github.com/sjkyspa/stacks/contrib/iaas/aws/cde.json" />
+      <jump line="1422" column="0" filename="/workspace/golang/src/github.com/sjkyspa/stacks/contrib/iaas/aws/cde.json" />
+      <jump line="352" column="3" filename="/workspace/golang/src/github.com/sjkyspa/stacks/contrib/iaas/aws/cde.json" />
+      <jump line="386" column="24" filename="/workspace/golang/src/github.com/sjkyspa/stacks/contrib/iaas/aws/cde.json" />
+      <jump line="176" column="5" filename="/workspace/golang/src/github.com/sjkyspa/stacks/contrib/iaas/aws/cde.json" />
+      <jump line="1360" column="18" filename="/workspace/golang/src/github.com/sjkyspa/stacks/contrib/iaas/aws/cde.json" />
+      <jump line="87" column="32" filename="/workspace/golang/src/github.com/sjkyspa/stacks/contrib/iaas/aws/customization.json" />
+      <jump line="15" column="4" filename="/workspace/golang/src/github.com/sjkyspa/stacks/contrib/iaas/aws/customization.json" />
+      <jump line="83" column="0" filename="/workspace/golang/src/github.com/sjkyspa/stacks/contrib/iaas/aws/customization.json" />
+      <jump line="3" column="34" filename="/workspace/golang/src/github.com/sjkyspa/stacks/contrib/iaas/aws/customization.json" />
+      <jump line="0" column="0" filename="/workspace/golang/src/github.com/sjkyspa/stacks/contrib/iaas/aws/customization.json" />
+      <jump line="118" column="0" filename="/workspace/golang/src/github.com/sjkyspa/stacks/contrib/iaas/aws/customization.json" />
+      <jump line="1" column="0" filename="/workspace/golang/src/github.com/sjkyspa/stacks/contrib/iaas/aws/customization.json" />
+      <jump line="75" column="0" filename="/workspace/golang/src/github.com/sjkyspa/stacks/contrib/iaas/aws/customization.json" />
+      <jump line="34" column="0" filename="/workspace/golang/src/github.com/sjkyspa/stacks/contrib/iaas/aws/customization.json" />
+      <jump line="74" column="0" filename="/workspace/golang/src/github.com/sjkyspa/stacks/contrib/iaas/aws/customization.json" />
+      <jump line="66" column="0" filename="/workspace/golang/src/github.com/sjkyspa/stacks/contrib/iaas/aws/customization.json" />
+      <jump line="55" column="0" filename="/workspace/golang/src/github.com/sjkyspa/stacks/contrib/iaas/aws/customization.json" />
+      <jump line="1370" column="12" filename="/workspace/golang/src/github.com/sjkyspa/stacks/contrib/iaas/aws/cde.json" />
+      <jump line="978" column="46" filename="/workspace/golang/src/github.com/sjkyspa/stacks/contrib/iaas/aws/cde.json" />
+      <jump line="1520" column="25" filename="/workspace/golang/src/github.com/sjkyspa/stacks/contrib/iaas/aws/cde.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwdXQoImlkIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>app</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
-        <text>build</text>
+        <text>LogstashCount</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1dCgiaWQiLCAiaWQiKTsgCg==</text>
+        <text encoding="base64">ICAgICJQYXJhbWV0ZXJWYWx1ZSI6ICJ0Mi5tZWRpdW0iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwdXQoImlkIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1dCgibWVtIikK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">XQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTZXQ8TWFwLkVudHJ5PFN0cmluZywgSGVscGVyPD8+Pj4gaGVscGVycyA9IGhhbmRsZWJhcnMuaGVscGVycygpOwo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImhlbHBlcnMgPSAiICsgaGVscGVycyk7Cg==</text>
+        <text encoding="base64">ICAgICJQYXJhbWV0ZXJWYWx1ZSI6ICIwIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBGaWVsZFZhbHVlUmVzb2x2ZXIK</text>
+        <text encoding="base64">ICAgICJQYXJhbWV0ZXJLZXkiOiAiRVNDb3VudCIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB7e2luZm8uZW52aXJvbm1lbnR9fQo=</text>
+        <text encoding="base64">ICB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7e2luZm8uZW52aXJvbWVudH19Cg==</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>build</last-search>
+      <last-search>LogstashCount</last-search>
       <last-offset />
-      <last-pattern>build</last-pattern>
+      <last-pattern>LogstashCount</last-pattern>
       <last-replace>ignore</last-replace>
       <last-substitute>ingore</last-substitute>
       <last-dir>1</last-dir>
@@ -383,15 +391,6 @@
     </search>
     <history>
       <history-search>
-        <entry>portIndex</entry>
-        <entry>index</entry>
-        <entry>health</entry>
-        <entry>toJson</entry>
-        <entry>ignore</entry>
-        <entry>ingo</entry>
-        <entry>ingore</entry>
-        <entry>volumes</entry>
-        <entry>volume</entry>
         <entry>protocol</entry>
         <entry>tcp</entry>
         <entry>TCP</entry>
@@ -403,6 +402,15 @@
         <entry>com.thoughtworks.cnup.up.mappers.handlers.MapHandler</entry>
         <entry encoding="base64">XDxsb3dlclw+</entry>
         <entry>build</entry>
+        <entry>cephSecurit</entry>
+        <entry>CephSecu</entry>
+        <entry>cephInstantanceType</entry>
+        <entry>instanceType</entry>
+        <entry>CephInstanceType</entry>
+        <entry>CephInstance</entry>
+        <entry>logstash</entry>
+        <entry>LogstasCount</entry>
+        <entry>LogstashCount</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvXHIvZ2M=</entry>
