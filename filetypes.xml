@@ -4,7 +4,6 @@
       <mapping pattern="logstash" type="Bash" />
       <mapping pattern="build" type="Bash" />
       <mapping pattern="jruby" type="Bash" />
-      <mapping ext="hbs" type="JSON" />
     </extensionMap>
   </component>
 </application>
