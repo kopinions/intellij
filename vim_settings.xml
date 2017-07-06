@@ -62,11 +62,6 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="27" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/.idea/workspace.xml" timestamp="1499350857838">
-        <mark key="[" line="2478" column="53" />
-        <mark key="]" line="2478" column="53" />
-        <mark key="." line="2478" column="53" />
-      </file>
       <file name="/workspace/golang/src/github.com/sjkyspa/stacks/contrib/iaas/aws/cde.json" timestamp="1499325045867">
         <mark key="'" line="1439" column="20" />
         <mark key="[" line="1534" column="21" />
@@ -91,6 +86,13 @@
         <mark key="]" line="30" column="115" />
         <mark key="." line="30" column="115" />
         <mark key="^" line="30" column="115" />
+      </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProvidersTest.java" timestamp="1499358210775">
+        <mark key="'" line="98" column="4" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="84" column="102" />
+        <mark key="." line="84" column="102" />
+        <mark key="^" line="84" column="102" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Columns.xml" timestamp="1499348791009">
         <mark key="'" line="113" column="21" />
@@ -127,11 +129,12 @@
         <mark key="[" line="176" column="0" />
         <mark key="]" line="192" column="8" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" timestamp="1499356477126">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" timestamp="1499358521057">
+        <mark key="'" line="10" column="15" />
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="8" column="6" />
+        <mark key="^" line="54" column="79" />
+        <mark key="." line="8" column="6" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/resources/UnifiedProcedureResource.java" timestamp="1499153486096">
         <mark key="'" line="75" column="0" />
@@ -163,17 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="36" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Records.xml" />
-      <jump line="166" column="62" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Records.xml" />
-      <jump line="19" column="3" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/mappers/handlers/IdHandler.java" />
-      <jump line="60" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/mappers/handlers/IdHandler.java" />
-      <jump line="9" column="21" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
-      <jump line="28" column="29" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProvidersTest.java" />
-      <jump line="24" column="11" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProvidersTest.java" />
-      <jump line="64" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
-      <jump line="39" column="7" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/records/MarathonClient.java" />
-      <jump line="135" column="18" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/records/MarathonClient.java" />
-      <jump line="37" column="18" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/records/MarathonClient.java" />
       <jump line="133" column="18" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/records/MarathonClient.java" />
       <jump line="165" column="18" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/records/MarathonClient.java" />
       <jump line="175" column="16" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/records/MarathonClient.java" />
@@ -185,7 +177,6 @@
       <jump line="54" column="11" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProvidersTest.java" />
       <jump line="50" column="38" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProvidersTest.java" />
       <jump line="23" column="0" filename="/workspace/solutions/cnup/stacks/launcher/build.gradle" />
-      <jump line="0" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
       <jump line="0" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/provider/records/RuntimeMarathonTranslatorTest.java" />
       <jump line="1" column="38" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
       <jump line="171" column="49" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
@@ -244,7 +235,6 @@
       <jump line="598" column="18" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jknack/handlebars/4.0.6/d97f2194c1158bdc22bd59f097fe4ff8fd340133/handlebars-4.0.6-sources.jar!/com/github/jknack/handlebars/helper/StringHelpers.java" />
       <jump line="720" column="34" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jknack/handlebars/4.0.6/d97f2194c1158bdc22bd59f097fe4ff8fd340133/handlebars-4.0.6-sources.jar!/com/github/jknack/handlebars/helper/StringHelpers.java" />
       <jump line="109" column="48" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Process.java" />
-      <jump line="55" column="7" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
       <jump line="35" column="8" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
       <jump line="51" column="48" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Procedure.java" />
       <jump line="59" column="16" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
@@ -252,7 +242,6 @@
       <jump line="14" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Records.xml" />
       <jump line="0" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/UnifiedProcedures.xml" />
       <jump line="175" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/UnifiedProcedures.xml" />
-      <jump line="122" column="4" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
       <jump line="65" column="4" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
       <jump line="19" column="36" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
       <jump line="0" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Columns.xml" />
@@ -263,144 +252,65 @@
       <jump line="112" column="21" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Columns.xml" />
       <jump line="37" column="1" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
       <jump line="54" column="10" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
+      <jump line="13" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
+      <jump line="110" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
+      <jump line="123" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
+      <jump line="0" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
+      <jump line="122" column="2" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
+      <jump line="61" column="11" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
+      <jump line="55" column="62" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
+      <jump line="81" column="8" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProvidersTest.java" />
+      <jump line="65" column="20" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProvidersTest.java" />
+      <jump line="96" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProvidersTest.java" />
+      <jump line="70" column="4" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProvidersTest.java" />
+      <jump line="95" column="4" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProvidersTest.java" />
+      <jump line="25" column="45" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
+      <jump line="10" column="15" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{
-  &quot;id&quot;: &quot;{{procedure.belongs.name}}_{{lower procedure.type}}&quot;,
-  &quot;dependencies&quot;: [],
-  &quot;groups&quot;: [
-    {
-      &quot;id&quot;: &quot;runtime&quot;,
-      &quot;apps&quot;: [
-        {
-          {{#each procedure.runtime.processes}}
-          &quot;id&quot;: &quot;{{name}}&quot;,
-          'cpus': {{lookup (lookup arguments.runtime name) 'cpu'}},
-		  [123+4*56]/2
-          &quot;mem&quot;: {{lookup (lookup arguments.runtime name) 'mem'}},
-          &quot;disk&quot;: {{lookup (lookup arguments.runtime name) 'disk'}},
-          &quot;instances&quot;: {{lookup (lookup arguments.runtime name) 'instances'}},
-          &quot;container&quot;: {
-            &quot;type&quot;: &quot;DOCKER&quot;,
-            &quot;docker&quot;: {
-              &quot;image&quot;: &quot;{{lookup (lookup arguments.runtime name) 'image'}}&quot;,
-              &quot;network&quot;: &quot;BRIDGE&quot;,
-              &quot;forcePullImage&quot;: false
-            },
-            &quot;volumes&quot;: [
-              {{#each volumes}}
-              {
-                &quot;containerPath&quot;: &quot;{{target}}&quot;,
-                &quot;hostPath&quot;: &quot;{{source}}&quot;,
-                &quot;mode&quot;: &quot;{{mode}}&quot;
-              }{{#unless @last}},{{/unless}}
-              {{/each}}
-            ]
-          },
-          &quot;healthChecks&quot;: [
-            {{#each healths}}
-              {
-                &quot;protocol&quot;: &quot;{{protocol}}&quot;,
-                &quot;intervalSeconds&quot;: {{interval}},
-                &quot;timeoutSeconds&quot;: {{timeout}},
-                &quot;maxConsecutiveFailures&quot;: {{consecutive}},
-                &quot;gracePeriodSeconds&quot;: {{ignore}}
-                {{#if (eq protocol &quot;COMMAND&quot;)}}
-                ,&quot;command&quot;: {&quot;value&quot;: &quot;{{command}}&quot;}
-                {{else if (gt port 0)}}
-                    ,&quot;port&quot;: {{port}}
-                {{else}}
-                  , &quot;portIndex&quot;: {{mapped}}
-                {{/if}}
-                {{#if (or (eq protocol &quot;HTTP&quot;) (eq protocol &quot;HTTPS&quot;))}}
-                  , &quot;path&quot;: &quot;{{defaultIfEmpty path '/'}}&quot;
-                {{/if}}
-              }
-            {{/each}}
-          ],
-          &quot;dependencies&quot;: [
-          {{#each links}}
-          &quot;{{}}&quot;
-          {{/each}}
-          ],
-          &quot;env&quot;: {
-            {{#each environment}}
-              &quot;{{@key}}&quot;: &quot;{{.}}&quot;{{#unless @last}},{{/unless}}
-            {{/each}}
-          }
-        }{{#unless @last}},{{/unless}}
-        {{/each}}
-      ]
-    }
-  ],
-  &quot;apps&quot;: [
-    {{#with procedure.process}}
-    {
-      &quot;id&quot;: &quot;{{name}}&quot;,
-      &quot;cpus&quot;: {{lookup arguments.app  'cpu'}},
-      &quot;mem&quot;: {{lookup arguments.app 'mem'}},
-      &quot;disk&quot;: {{lookup arguments.app 'disk'}},
-      &quot;instances&quot;: {{lookup arguments.app 'instances'}},
-      &quot;container&quot;: {
-        &quot;type&quot;: &quot;DOCKER&quot;,
-        &quot;docker&quot;: {
-          &quot;image&quot;: &quot;{{lookup arguments.app 'image'}}&quot;,
-          &quot;network&quot;: &quot;BRIDGE&quot;,
-          &quot;forcePullImage&quot;: false
-        },
-        &quot;volumes&quot;: [
-          {{#each volumes}}
-          {
-            &quot;containerPath&quot;: &quot;{{target}}&quot;,
-            &quot;hostPath&quot;: &quot;{{source}}&quot;,
-            &quot;mode&quot;: &quot;{{mode}}&quot;
-          }{{#unless @last}},{{/unless}}
-          {{/each}}
-        ]
-      },
-      &quot;healthChecks&quot;: [
-        {{#each healths}}
-          {
-            &quot;protocol&quot;: &quot;{{protocol}}&quot;,
-            &quot;intervalSeconds&quot;: {{interval}},
-            &quot;timeoutSeconds&quot;: {{timeout}},
-            &quot;maxConsecutiveFailures&quot;: {{consecutive}},
-            &quot;gracePeriodSeconds&quot;: {{ignore}}
-            {{#if (eq protocol &quot;COMMAND&quot;)}}
-            ,&quot;command&quot;: {&quot;value&quot;: &quot;{{command}}&quot;}
-            {{else if (gt port 0)}}
-                ,&quot;port&quot;: {{port}}
-            {{else}}
-              , &quot;portIndex&quot;: {{mapped}}
-            {{/if}}
-            {{#if (or (eq protocol &quot;HTTP&quot;) (eq protocol &quot;HTTPS&quot;))}}
-              , &quot;path&quot;: &quot;{{defaultIfEmpty path '/'}}&quot;
-            {{/if}}
-          }
-        {{/each}}
-      ],
-      &quot;dependencies&quot;: [],
-      &quot;env&quot;: {
-        {{#each environment}}
-          &quot;{{@key}}&quot;: &quot;{{.}}&quot;{{#unless @last}},{{/unless}}
-        {{/each}}
-      }
-    }
-    {{/with}}
-  ]
-}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>editor</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>process</text>
       </register>
       <register name="0" type="4">
-        <text>{{procedure.belongs.name}}_{{lower procedure.type}}</text>
+        <text>{{#unless @last}},{{/unless}}</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkgIFsxMjMrNCo1Nl0vMgo=</text>
+      </register>
+      <register name="3" type="4">
+        <text>{
+
+        }</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIHt7I2VhY2ggcHJvY2VkdXJlLnJ1bnRpbWUucHJvY2Vzc2VzfX0KICAgICAgICAgICJpZCI6ICJ7e25hbWV9fSIsCiAgICAgICAgICAnY3B1cyc6IHt7bG9va3VwIChsb29rdXAgYXJndW1lbnRzLnJ1bnRpbWUgbmFtZSkgJ2NwdSd9fSwKCQkgIFsxMjMrNCo1Nl0vMgogICAgICAgICAgIm1lbSI6IHt7bG9va3VwIChsb29rdXAgYXJndW1lbnRzLnJ1bnRpbWUgbmFtZSkgJ21lbSd9fSwKICAgICAgICAgICJkaXNrIjoge3tsb29rdXAgKGxvb2t1cCBhcmd1bWVudHMucnVudGltZSBuYW1lKSAnZGlzayd9fSwKICAgICAgICAgICJpbnN0YW5jZXMiOiB7e2xvb2t1cCAobG9va3VwIGFyZ3VtZW50cy5ydW50aW1lIG5hbWUpICdpbnN0YW5jZXMnfX0sCiAgICAgICAgICAiY29udGFpbmVyIjogewogICAgICAgICAgICAidHlwZSI6ICJET0NLRVIiLAogICAgICAgICAgICAiZG9ja2VyIjogewogICAgICAgICAgICAgICJpbWFnZSI6ICJ7e2xvb2t1cCAobG9va3VwIGFyZ3VtZW50cy5ydW50aW1lIG5hbWUpICdpbWFnZSd9fSIsCiAgICAgICAgICAgICAgIm5ldHdvcmsiOiAiQlJJREdFIiwKICAgICAgICAgICAgICAiZm9yY2VQdWxsSW1hZ2UiOiBmYWxzZQogICAgICAgICAgICB9LAogICAgICAgICAgICAidm9sdW1lcyI6IFsKICAgICAgICAgICAgICB7eyNlYWNoIHZvbHVtZXN9fQogICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICJjb250YWluZXJQYXRoIjogInt7dGFyZ2V0fX0iLAogICAgICAgICAgICAgICAgImhvc3RQYXRoIjogInt7c291cmNlfX0iLAogICAgICAgICAgICAgICAgIm1vZGUiOiAie3ttb2RlfX0iCiAgICAgICAgICAgICAgfXt7I3VubGVzcyBAbGFzdH19LHt7L3VubGVzc319CiAgICAgICAgICAgICAge3svZWFjaH19CiAgICAgICAgICAgIF0KICAgICAgICAgIH0sCiAgICAgICAgICAiaGVhbHRoQ2hlY2tzIjogWwogICAgICAgICAgICB7eyNlYWNoIGhlYWx0aHN9fQogICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICJwcm90b2NvbCI6ICJ7e3Byb3RvY29sfX0iLAogICAgICAgICAgICAgICAgImludGVydmFsU2Vjb25kcyI6IHt7aW50ZXJ2YWx9fSwKICAgICAgICAgICAgICAgICJ0aW1lb3V0U2Vjb25kcyI6IHt7dGltZW91dH19LAogICAgICAgICAgICAgICAgIm1heENvbnNlY3V0aXZlRmFpbHVyZXMiOiB7e2NvbnNlY3V0aXZlfX0sCiAgICAgICAgICAgICAgICAiZ3JhY2VQZXJpb2RTZWNvbmRzIjoge3tpZ25vcmV9fQogICAgICAgICAgICAgICAge3sjaWYgKGVxIHByb3RvY29sICJDT01NQU5EIil9fQogICAgICAgICAgICAgICAgLCJjb21tYW5kIjogeyJ2YWx1ZSI6ICJ7e2NvbW1hbmR9fSJ9CiAgICAgICAgICAgICAgICB7e2Vsc2UgaWYgKGd0IHBvcnQgMCl9fQogICAgICAgICAgICAgICAgICAgICwicG9ydCI6IHt7cG9ydH19CiAgICAgICAgICAgICAgICB7e2Vsc2V9fQogICAgICAgICAgICAgICAgICAsICJwb3J0SW5kZXgiOiB7e21hcHBlZH19CiAgICAgICAgICAgICAgICB7ey9pZn19CiAgICAgICAgICAgICAgICB7eyNpZiAob3IgKGVxIHByb3RvY29sICJIVFRQIikgKGVxIHByb3RvY29sICJIVFRQUyIpKX19CiAgICAgICAgICAgICAgICAgICwgInBhdGgiOiAie3tkZWZhdWx0SWZFbXB0eSBwYXRoICcvJ319IgogICAgICAgICAgICAgICAge3svaWZ9fQogICAgICAgICAgICAgIH0KICAgICAgICAgICAge3svZWFjaH19CiAgICAgICAgICBdLAogICAgICAgICAgImRlcGVuZGVuY2llcyI6IFsKICAgICAgICAgIHt7I2VhY2ggbGlua3N9fQogICAgICAgICAgICAie3t7e3Byb2NlZHVyZS5iZWxvbmdzLm5hbWV9fV97e2xvd2VyIHByb2NlZHVyZS50eXBlfX19fSIKICAgICAgICAgIHt7L2VhY2h9fQogICAgICAgICAgXSwKICAgICAgICAgICJlbnYiOiB7CiAgICAgICAgICAgIHt7I2VhY2ggZW52aXJvbm1lbnR9fQogICAgICAgICAgICAgICJ7e0BrZXl9fSI6ICJ7ey59fSJ7eyN1bmxlc3MgQGxhc3R9fSx7ey91bmxlc3N9fQogICAgICAgICAgICB7ey9lYWNofX0KICAgICAgICAgIH0K</text>
+      </register>
+      <register name="5" type="4">
+        <text>{
+
+        }</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIHt7I2VhY2ggcHJvY2VkdXJlLnJ1bnRpbWUucHJvY2Vzc2VzfX0KICAgICAgICAgICJpZCI6ICJ7e25hbWV9fSIsCiAgICAgICAgICAnY3B1cyc6IHt7bG9va3VwIChsb29rdXAgYXJndW1lbnRzLnJ1bnRpbWUgbmFtZSkgJ2NwdSd9fSwKCQkgIFsxMjMrNCo1Nl0vMgogICAgICAgICAgIm1lbSI6IHt7bG9va3VwIChsb29rdXAgYXJndW1lbnRzLnJ1bnRpbWUgbmFtZSkgJ21lbSd9fSwKICAgICAgICAgICJkaXNrIjoge3tsb29rdXAgKGxvb2t1cCBhcmd1bWVudHMucnVudGltZSBuYW1lKSAnZGlzayd9fSwKICAgICAgICAgICJpbnN0YW5jZXMiOiB7e2xvb2t1cCAobG9va3VwIGFyZ3VtZW50cy5ydW50aW1lIG5hbWUpICdpbnN0YW5jZXMnfX0sCiAgICAgICAgICAiY29udGFpbmVyIjogewogICAgICAgICAgICAidHlwZSI6ICJET0NLRVIiLAogICAgICAgICAgICAiZG9ja2VyIjogewogICAgICAgICAgICAgICJpbWFnZSI6ICJ7e2xvb2t1cCAobG9va3VwIGFyZ3VtZW50cy5ydW50aW1lIG5hbWUpICdpbWFnZSd9fSIsCiAgICAgICAgICAgICAgIm5ldHdvcmsiOiAiQlJJREdFIiwKICAgICAgICAgICAgICAiZm9yY2VQdWxsSW1hZ2UiOiBmYWxzZQogICAgICAgICAgICB9LAogICAgICAgICAgICAidm9sdW1lcyI6IFsKICAgICAgICAgICAgICB7eyNlYWNoIHZvbHVtZXN9fQogICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICJjb250YWluZXJQYXRoIjogInt7dGFyZ2V0fX0iLAogICAgICAgICAgICAgICAgImhvc3RQYXRoIjogInt7c291cmNlfX0iLAogICAgICAgICAgICAgICAgIm1vZGUiOiAie3ttb2RlfX0iCiAgICAgICAgICAgICAgfXt7I3VubGVzcyBAbGFzdH19LHt7L3VubGVzc319CiAgICAgICAgICAgICAge3svZWFjaH19CiAgICAgICAgICAgIF0KICAgICAgICAgIH0sCiAgICAgICAgICAiaGVhbHRoQ2hlY2tzIjogWwogICAgICAgICAgICB7eyNlYWNoIGhlYWx0aHN9fQogICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICJwcm90b2NvbCI6ICJ7e3Byb3RvY29sfX0iLAogICAgICAgICAgICAgICAgImludGVydmFsU2Vjb25kcyI6IHt7aW50ZXJ2YWx9fSwKICAgICAgICAgICAgICAgICJ0aW1lb3V0U2Vjb25kcyI6IHt7dGltZW91dH19LAogICAgICAgICAgICAgICAgIm1heENvbnNlY3V0aXZlRmFpbHVyZXMiOiB7e2NvbnNlY3V0aXZlfX0sCiAgICAgICAgICAgICAgICAiZ3JhY2VQZXJpb2RTZWNvbmRzIjoge3tpZ25vcmV9fQogICAgICAgICAgICAgICAge3sjaWYgKGVxIHByb3RvY29sICJDT01NQU5EIil9fQogICAgICAgICAgICAgICAgLCJjb21tYW5kIjogeyJ2YWx1ZSI6ICJ7e2NvbW1hbmR9fSJ9CiAgICAgICAgICAgICAgICB7e2Vsc2UgaWYgKGd0IHBvcnQgMCl9fQogICAgICAgICAgICAgICAgICAgICwicG9ydCI6IHt7cG9ydH19CiAgICAgICAgICAgICAgICB7e2Vsc2V9fQogICAgICAgICAgICAgICAgICAsICJwb3J0SW5kZXgiOiB7e21hcHBlZH19CiAgICAgICAgICAgICAgICB7ey9pZn19CiAgICAgICAgICAgICAgICB7eyNpZiAob3IgKGVxIHByb3RvY29sICJIVFRQIikgKGVxIHByb3RvY29sICJIVFRQUyIpKX19CiAgICAgICAgICAgICAgICAgICwgInBhdGgiOiAie3tkZWZhdWx0SWZFbXB0eSBwYXRoICcvJ319IgogICAgICAgICAgICAgICAge3svaWZ9fQogICAgICAgICAgICAgIH0KICAgICAgICAgICAge3svZWFjaH19CiAgICAgICAgICBdLAogICAgICAgICAgImRlcGVuZGVuY2llcyI6IFsKICAgICAgICAgIHt7I2VhY2ggbGlua3N9fQogICAgICAgICAgICAie3t7e3Byb2NlZHVyZS5iZWxvbmdzLm5hbWV9fV97e2xvd2VyIHByb2NlZHVyZS50eXBlfX19fSIKICAgICAgICAgIHt7L2VhY2h9fQogICAgICAgICAgXSwKICAgICAgICAgICJlbnYiOiB7CiAgICAgICAgICAgIHt7I2VhY2ggZW52aXJvbm1lbnR9fQogICAgICAgICAgICAgICJ7e0BrZXl9fSI6ICJ7ey59fSJ7eyN1bmxlc3MgQGxhc3R9fSx7ey91bmxlc3N9fQogICAgICAgICAgICB7ey9lYWNofX0KICAgICAgICAgIH0K</text>
+      </register>
+      <register name="7" type="4">
+        <text>{
+
+        }</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIHt7I2VhY2ggcHJvY2VkdXJlLnJ1bnRpbWUucHJvY2Vzc2VzfX0KICAgICAgICAgICJpZCI6ICJ7e25hbWV9fSIsCiAgICAgICAgICAnY3B1cyc6IHt7bG9va3VwIChsb29rdXAgYXJndW1lbnRzLnJ1bnRpbWUgbmFtZSkgJ2NwdSd9fSwKCQkgIFsxMjMrNCo1Nl0vMgogICAgICAgICAgIm1lbSI6IHt7bG9va3VwIChsb29rdXAgYXJndW1lbnRzLnJ1bnRpbWUgbmFtZSkgJ21lbSd9fSwKICAgICAgICAgICJkaXNrIjoge3tsb29rdXAgKGxvb2t1cCBhcmd1bWVudHMucnVudGltZSBuYW1lKSAnZGlzayd9fSwKICAgICAgICAgICJpbnN0YW5jZXMiOiB7e2xvb2t1cCAobG9va3VwIGFyZ3VtZW50cy5ydW50aW1lIG5hbWUpICdpbnN0YW5jZXMnfX0sCiAgICAgICAgICAiY29udGFpbmVyIjogewogICAgICAgICAgICAidHlwZSI6ICJET0NLRVIiLAogICAgICAgICAgICAiZG9ja2VyIjogewogICAgICAgICAgICAgICJpbWFnZSI6ICJ7e2xvb2t1cCAobG9va3VwIGFyZ3VtZW50cy5ydW50aW1lIG5hbWUpICdpbWFnZSd9fSIsCiAgICAgICAgICAgICAgIm5ldHdvcmsiOiAiQlJJREdFIiwKICAgICAgICAgICAgICAiZm9yY2VQdWxsSW1hZ2UiOiBmYWxzZQogICAgICAgICAgICB9LAogICAgICAgICAgICAidm9sdW1lcyI6IFsKICAgICAgICAgICAgICB7eyNlYWNoIHZvbHVtZXN9fQogICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICJjb250YWluZXJQYXRoIjogInt7dGFyZ2V0fX0iLAogICAgICAgICAgICAgICAgImhvc3RQYXRoIjogInt7c291cmNlfX0iLAogICAgICAgICAgICAgICAgIm1vZGUiOiAie3ttb2RlfX0iCiAgICAgICAgICAgICAgfXt7I3VubGVzcyBAbGFzdH19LHt7L3VubGVzc319CiAgICAgICAgICAgICAge3svZWFjaH19CiAgICAgICAgICAgIF0KICAgICAgICAgIH0sCiAgICAgICAgICAiaGVhbHRoQ2hlY2tzIjogWwogICAgICAgICAgICB7eyNlYWNoIGhlYWx0aHN9fQogICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICJwcm90b2NvbCI6ICJ7e3Byb3RvY29sfX0iLAogICAgICAgICAgICAgICAgImludGVydmFsU2Vjb25kcyI6IHt7aW50ZXJ2YWx9fSwKICAgICAgICAgICAgICAgICJ0aW1lb3V0U2Vjb25kcyI6IHt7dGltZW91dH19LAogICAgICAgICAgICAgICAgIm1heENvbnNlY3V0aXZlRmFpbHVyZXMiOiB7e2NvbnNlY3V0aXZlfX0sCiAgICAgICAgICAgICAgICAiZ3JhY2VQZXJpb2RTZWNvbmRzIjoge3tpZ25vcmV9fQogICAgICAgICAgICAgICAge3sjaWYgKGVxIHByb3RvY29sICJDT01NQU5EIil9fQogICAgICAgICAgICAgICAgLCJjb21tYW5kIjogeyJ2YWx1ZSI6ICJ7e2NvbW1hbmR9fSJ9CiAgICAgICAgICAgICAgICB7e2Vsc2UgaWYgKGd0IHBvcnQgMCl9fQogICAgICAgICAgICAgICAgICAgICwicG9ydCI6IHt7cG9ydH19CiAgICAgICAgICAgICAgICB7e2Vsc2V9fQogICAgICAgICAgICAgICAgICAsICJwb3J0SW5kZXgiOiB7e21hcHBlZH19CiAgICAgICAgICAgICAgICB7ey9pZn19CiAgICAgICAgICAgICAgICB7eyNpZiAob3IgKGVxIHByb3RvY29sICJIVFRQIikgKGVxIHByb3RvY29sICJIVFRQUyIpKX19CiAgICAgICAgICAgICAgICAgICwgInBhdGgiOiAie3tkZWZhdWx0SWZFbXB0eSBwYXRoICcvJ319IgogICAgICAgICAgICAgICAge3svaWZ9fQogICAgICAgICAgICAgIH0KICAgICAgICAgICAge3svZWFjaH19CiAgICAgICAgICBdLAogICAgICAgICAgImRlcGVuZGVuY2llcyI6IFsKICAgICAgICAgIHt7I2VhY2ggbGlua3N9fQogICAgICAgICAgICAie3t7e3Byb2NlZHVyZS5iZWxvbmdzLm5hbWV9fV97e2xvd2VyIHByb2NlZHVyZS50eXBlfX19fSIKICAgICAgICAgIHt7L2VhY2h9fQogICAgICAgICAgXSwKICAgICAgICAgICJlbnYiOiB7CiAgICAgICAgICAgIHt7I2VhY2ggZW52aXJvbm1lbnR9fQogICAgICAgICAgICAgICJ7e0BrZXl9fSI6ICJ7ey59fSJ7eyN1bmxlc3MgQGxhc3R9fSx7ey91bmxlc3N9fQogICAgICAgICAgICB7ey9lYWNofX0KICAgICAgICAgIH0K</text>
+      </register>
+      <register name="9" type="4">
         <text>{
   &quot;id&quot;: &quot;{{procedure.belongs.name}}_{{lower procedure.type}}&quot;,
   &quot;dependencies&quot;: [],
@@ -526,32 +436,8 @@
   ]
 }</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAiaWQiOiAie3twcm9jZWR1cmUuYmVsb25ncy5uYW1lfX1fe3tsb3dlciBwcm9jZWR1cmUudHlwZX19IiwK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAiaWQiOiAie3twcm9jZWR1cmUuYmVsb25ncy5uYW1lfX1fe3tsb3dlciBwcm9jZWR1cmUudHlwZX19IiwK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">PGVudHJ5IGZpbGU9ImZpbGU6Ly8kUFJPSkVDVF9ESVIkLy4uLy4uLy4uLy4uLy4uLy4uL3NvbHV0aW9ucy9jbnVwL3N0YWNrcy9sYXVuY2hlci9zcmMvbWFpbi9yZXNvdXJjZXMvcHJvdmlkZXJzL21hcmF0aG9uL3Byb2NlZHVyZS5oYnMiPgogICAgICA8cHJvdmlkZXIgc2VsZWN0ZWQ9InRydWUiIGVkaXRvci10eXBlLWlkPSJ0ZXh0LWVkaXRvciI+CiAgICAgICAgPHN0YXRlIHJlbGF0aXZlLWNhcmV0LXBvc2l0aW9uPSI1NzAiPgogICAgICAgICAgPGNhcmV0IGxpbmU9IjU3IiBjb2x1bW49IjkiIGxlYW4tZm9yd2FyZD0iZmFsc2UiIHNlbGVjdGlvbi1zdGFydC1saW5lPSI1NyIgc2VsZWN0aW9uLXN0YXJ0LWNvbHVtbj0iOSIgc2VsZWN0aW9uLWVuZC1saW5lPSI1NyIgc2VsZWN0aW9uLWVuZC1jb2x1bW49IjkiIC8+CiAgICAgICAgICA8Zm9sZGluZyAvPgogICAgICAgIDwvc3RhdGU+CiAgICAgIDwvcHJvdmlkZXI+CiAgICA8L2VudHJ5Pg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPGNoYW5nZSB0eXBlPSJORVciIGJlZm9yZVBhdGg9IiIgYWZ0ZXJQYXRoPSIkUFJPSkVDVF9ESVIkL3NyYy9tYWluL3Jlc291cmNlcy9wcm92aWRlcnMvbWFyYXRob24vcHJvY2VkdXJlLmhicyIgLz4K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8b3B0aW9uIHZhbHVlPSIkUFJPSkVDVF9ESVIkLy4uLy4uLy4uLy4uLy4uLy4uL3NvbHV0aW9ucy9jbnVwL3N0YWNrcy9sYXVuY2hlci9zcmMvbWFpbi9yZXNvdXJjZXMvcHJvdmlkZXJzL21hcmF0aG9uL3Byb2NlZHVyZS5oYnMiIC8+Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPC9maWxlPgo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8L2VudHJ5Pgo=</text>
-      </register>
       <register name=":" type="4">
-        <text>reg</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -587,13 +473,6 @@
         <entry>process</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLywvLFxyL2dj</entry>
-        <entry>set reg</entry>
-        <entry>register</entry>
-        <entry>&quot;w</entry>
-        <entry>sw</entry>
-        <entry encoding="base64">JzwsJz5zL19TRUMvL2dj</entry>
-        <entry encoding="base64">JzwsJz5zL1BfUF9IL1JfUF9IL2dj</entry>
         <entry encoding="base64">JzwsJz5jZW50ZXI=</entry>
         <entry encoding="base64">JzwsJz4hc29ydA==</entry>
         <entry encoding="base64">JzwsJz5zL3B1YmxpYy9wcml2YXRlL2c=</entry>
@@ -604,9 +483,16 @@
         <entry>qw</entry>
         <entry>ws</entry>
         <entry>ew</entry>
-        <entry>w</entry>
-        <entry>reg</entry>
         <entry>set vim-surround</entry>
+        <entry>set vim-surround=true</entry>
+        <entry>set vimsurround</entry>
+        <entry>set</entry>
+        <entry>map</entry>
+        <entry>set surround</entry>
+        <entry>help</entry>
+        <entry>ju</entry>
+        <entry>reg</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
