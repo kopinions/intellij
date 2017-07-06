@@ -206,12 +206,12 @@
         <mark key="^" line="158" column="27" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/stack/core/Application.java" timestamp="1499226790942" />
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" timestamp="1499318690125">
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" timestamp="1499321719187">
         <mark key="'" line="1" column="38" />
-        <mark key="[" line="10" column="32" />
-        <mark key="]" line="10" column="48" />
-        <mark key="." line="10" column="48" />
-        <mark key="^" line="10" column="48" />
+        <mark key="[" line="1" column="60" />
+        <mark key="]" line="1" column="60" />
+        <mark key="." line="1" column="60" />
+        <mark key="^" line="10" column="68" />
       </file>
       <file name="/workspace/golang/src/github.com/sjkyspa/stacks/contrib/doc/stackexample.yml" timestamp="1499055569116">
         <mark key="'" line="34" column="4" />
@@ -337,11 +337,11 @@
       <jump line="1520" column="25" filename="/workspace/golang/src/github.com/sjkyspa/stacks/contrib/iaas/aws/cde.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>LogstashCount</text>
