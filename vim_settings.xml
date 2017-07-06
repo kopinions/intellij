@@ -10,6 +10,12 @@
         <mark key="^" line="62" column="14" />
         <mark key="." line="62" column="14" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/merge.hbs" timestamp="1499324787171">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V26__add_health_table_for_process.sql" timestamp="1499095129318">
         <mark key="'" line="1" column="48" />
         <mark key="[" line="4" column="2" />
@@ -26,17 +32,36 @@
         <mark key="^" line="34" column="9" />
         <mark key="." line="34" column="9" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/UnifiedProcedureTest.java" timestamp="1499050752343">
+        <mark key="[" line="48" column="1" />
+        <mark key="]" line="48" column="0" />
+        <mark key="^" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/mesosphere/marathon-client/0.5.1-SNAPSHOT/marathon-client-0.5.1-SNAPSHOT.jar!/mesosphere/marathon/client/Marathon.class" timestamp="1499240107425" />
       <file name="/workspace/golang/src/github.com/sjkyspa/stacks/aa.go" timestamp="1496559302405">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V24__add_links_for_process.sql" timestamp="1499056632291">
+        <mark key="[" line="0" column="45" />
+        <mark key="]" line="1" column="16" />
+        <mark key="." line="1" column="16" />
+        <mark key="^" line="1" column="16" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/stack/core/Release.java" timestamp="1499069427362" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jknack/handlebars/4.0.6/d97f2194c1158bdc22bd59f097fe4ff8fd340133/handlebars-4.0.6-sources.jar!/com/github/jknack/handlebars/helper/EmbeddedHelper.java" timestamp="1499323420376" />
       <file name="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" timestamp="1499318860956">
         <mark key="'" line="20" column="2" />
         <mark key="[" line="171" column="23" />
         <mark key="]" line="171" column="48" />
         <mark key="^" line="39" column="22" />
         <mark key="." line="170" column="0" />
+      </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V25__add_volumes_for_process.sql" timestamp="1499064217538">
+        <mark key="[" line="1" column="21" />
+        <mark key="]" line="1" column="27" />
+        <mark key="." line="1" column="27" />
+        <mark key="^" line="1" column="27" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Providers.xml" timestamp="1499164255514">
         <mark key="[" line="22" column="35" />
@@ -60,11 +85,23 @@
         <mark key="^" line="51" column="27" />
         <mark key="." line="51" column="27" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V27__add_enviroment_for_process.sql" timestamp="1499140901849">
+        <mark key="[" line="1" column="36" />
+        <mark key="]" line="1" column="37" />
+        <mark key="." line="1" column="37" />
+        <mark key="^" line="1" column="37" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Providers.java" timestamp="1499164225505">
         <mark key="[" line="30" column="26" />
         <mark key="]" line="31" column="26" />
         <mark key="." line="31" column="26" />
         <mark key="^" line="31" column="26" />
+      </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/mappers/handlers/ExposesHandler.java" timestamp="1499159786559">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="^" line="45" column="40" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/support/ProcedureMatcher.java" timestamp="1499138396837">
         <mark key="'" line="12" column="9" />
@@ -103,6 +140,12 @@
         <mark key="^" line="173" column="64" />
         <mark key="." line="173" column="65" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/mappers/handlers/VolumesDeserializeHandler.java" timestamp="1499063936895">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="^" line="30" column="7" />
+        <mark key="." line="64" column="0" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/resources/UnifiedProcedureResource.java" timestamp="1499153486096">
         <mark key="'" line="75" column="0" />
         <mark key="[" line="50" column="58" />
@@ -116,6 +159,12 @@
         <mark key="]" line="47" column="0" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/stack/core/Route.java" timestamp="1499065092222" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/core/Provider.java" timestamp="1499155088054">
+        <mark key="[" line="23" column="4" />
+        <mark key="]" line="23" column="9" />
+        <mark key="." line="23" column="9" />
+        <mark key="^" line="23" column="9" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/build.gradle" timestamp="1499243437316">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="96" column="13" />
@@ -168,11 +217,8 @@
         <mark key="^" line="3" column="37" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mybatis/mybatis/3.4.4/652e324406c304df9e75ea1ac460d0abb791795f/mybatis-3.4.4-sources.jar!/org/apache/ibatis/type/TypeHandler.java" timestamp="1499062375124">
-        <mark key="'" line="3" column="1" />
-      </file>
-      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/contrib/iaas/aws/cde.json" timestamp="1499313761814">
-        <mark key="'" line="1520" column="25" />
+      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/contrib/iaas/aws/cde.json" timestamp="1499325045867">
+        <mark key="'" line="1439" column="20" />
         <mark key="[" line="1534" column="21" />
         <mark key="]" line="1534" column="21" />
         <mark key="^" line="1534" column="21" />
@@ -189,14 +235,12 @@
         <mark key="^" line="31" column="7" />
       </file>
       <file name="/workspace/golang/src/github.com/sjkyspa/stacks/receptor/rootfs/etc/consul-template/templates/nginx.conf.ctmpl" timestamp="1499241221421" />
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/core/Procedure.java" timestamp="1499224481946">
-        <mark key="'" line="38" column="18" />
-      </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProvidersTest.java" timestamp="1499248816570">
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProvidersTest.java" timestamp="1499322470606">
         <mark key="'" line="64" column="51" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
+        <mark key="[" line="66" column="31" />
+        <mark key="]" line="66" column="32" />
+        <mark key="." line="66" column="32" />
+        <mark key="^" line="66" column="32" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Columns.xml" timestamp="1499159238681">
         <mark key="'" line="136" column="32" />
@@ -206,15 +250,24 @@
         <mark key="^" line="158" column="27" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/stack/core/Application.java" timestamp="1499226790942" />
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" timestamp="1499321719187">
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" timestamp="1499324389611">
         <mark key="'" line="1" column="38" />
-        <mark key="[" line="1" column="60" />
-        <mark key="]" line="1" column="60" />
-        <mark key="." line="1" column="60" />
-        <mark key="^" line="10" column="68" />
+        <mark key="[" line="10" column="24" />
+        <mark key="]" line="10" column="24" />
+        <mark key="." line="10" column="24" />
+        <mark key="^" line="10" column="24" />
       </file>
-      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/contrib/doc/stackexample.yml" timestamp="1499055569116">
-        <mark key="'" line="34" column="4" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/mappers/handlers/ExposeHandler.java" timestamp="1499052659978">
+        <mark key="[" line="17" column="19" />
+        <mark key="]" line="17" column="12" />
+        <mark key="." line="17" column="12" />
+        <mark key="^" line="17" column="12" />
+      </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/config.xml" timestamp="1499157895983">
+        <mark key="[" line="41" column="42" />
+        <mark key="]" line="41" column="50" />
+        <mark key="." line="41" column="50" />
+        <mark key="^" line="41" column="50" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/resources/UnifiedProcedureResourceTest.java" timestamp="1499153545137">
         <mark key="'" line="150" column="8" />
@@ -235,16 +288,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="12" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
-      <jump line="127" column="12" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
-      <jump line="52" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Process.java" />
-      <jump line="25" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Process.java" />
-      <jump line="0" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Process.java" />
-      <jump line="78" column="9" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Procedure.java" />
-      <jump line="12" column="9" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/support/ProcedureMatcher.java" />
-      <jump line="48" column="13" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
-      <jump line="45" column="53" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Records.xml" />
-      <jump line="95" column="26" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Records.xml" />
       <jump line="130" column="13" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
       <jump line="55" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
       <jump line="78" column="6" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
@@ -335,55 +378,65 @@
       <jump line="1370" column="12" filename="/workspace/golang/src/github.com/sjkyspa/stacks/contrib/iaas/aws/cde.json" />
       <jump line="978" column="46" filename="/workspace/golang/src/github.com/sjkyspa/stacks/contrib/iaas/aws/cde.json" />
       <jump line="1520" column="25" filename="/workspace/golang/src/github.com/sjkyspa/stacks/contrib/iaas/aws/cde.json" />
+      <jump line="1482" column="14" filename="/workspace/golang/src/github.com/sjkyspa/stacks/contrib/iaas/aws/cde.json" />
+      <jump line="1489" column="5" filename="/workspace/golang/src/github.com/sjkyspa/stacks/contrib/iaas/aws/cde.json" />
+      <jump line="36" column="5" filename="/workspace/golang/src/github.com/sjkyspa/stacks/contrib/iaas/aws/cde.json" />
+      <jump line="965" column="5" filename="/workspace/golang/src/github.com/sjkyspa/stacks/contrib/iaas/aws/cde.json" />
+      <jump line="993" column="22" filename="/workspace/golang/src/github.com/sjkyspa/stacks/contrib/iaas/aws/cde.json" />
+      <jump line="1048" column="18" filename="/workspace/golang/src/github.com/sjkyspa/stacks/contrib/iaas/aws/cde.json" />
+      <jump line="1062" column="18" filename="/workspace/golang/src/github.com/sjkyspa/stacks/contrib/iaas/aws/cde.json" />
+      <jump line="1090" column="18" filename="/workspace/golang/src/github.com/sjkyspa/stacks/contrib/iaas/aws/cde.json" />
+      <jump line="1093" column="18" filename="/workspace/golang/src/github.com/sjkyspa/stacks/contrib/iaas/aws/cde.json" />
+      <jump line="1439" column="20" filename="/workspace/golang/src/github.com/sjkyspa/stacks/contrib/iaas/aws/cde.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>@</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>@</text>
       </register>
       <register name="/" type="4">
-        <text>LogstashCount</text>
+        <text>ESSec</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJQYXJhbWV0ZXJWYWx1ZSI6ICJ0Mi5tZWRpdW0iCg==</text>
+        <text encoding="base64">e3thcmd1bWVudHMucnVudGltZX19Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">e3thcmd1bWVudHMucnVudGltZS5bbmFtZV0uY3B1fX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">e3t0aGlzfX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">e3tuYW1lfX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">XQo=</text>
+        <text encoding="base64">e3tuYW1lfX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB7e3dpdGggfX19Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJQYXJhbWV0ZXJWYWx1ZSI6ICIwIgo=</text>
+        <text encoding="base64">ICAgICAgICAiY3B1Ijoge3tkZWZhdWx0SWZFbXB0eSBhcmd1bWVudHMucnVudGltZS4obmFtZSkuY3B1ICIifX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJQYXJhbWV0ZXJLZXkiOiAiRVNDb3VudCIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>LogstashCount</last-search>
+      <last-search>ESSec</last-search>
       <last-offset />
-      <last-pattern>LogstashCount</last-pattern>
+      <last-pattern>ESSec</last-pattern>
       <last-replace>ignore</last-replace>
       <last-substitute>ingore</last-substitute>
       <last-dir>1</last-dir>
@@ -391,9 +444,6 @@
     </search>
     <history>
       <history-search>
-        <entry>protocol</entry>
-        <entry>tcp</entry>
-        <entry>TCP</entry>
         <entry>run</entry>
         <entry>List</entry>
         <entry>NOT</entry>
@@ -411,6 +461,9 @@
         <entry>logstash</entry>
         <entry>LogstasCount</entry>
         <entry>LogstashCount</entry>
+        <entry>Logstash</entry>
+        <entry>ES</entry>
+        <entry>ESSec</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvXHIvZ2M=</entry>
@@ -430,8 +483,8 @@
         <entry>2w</entry>
         <entry>qw</entry>
         <entry>ws</entry>
-        <entry>reg</entry>
         <entry>ew</entry>
+        <entry>reg</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
