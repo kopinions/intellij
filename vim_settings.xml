@@ -127,6 +127,12 @@
         <mark key="[" line="176" column="0" />
         <mark key="]" line="192" column="8" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" timestamp="1499356477126">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/resources/UnifiedProcedureResource.java" timestamp="1499153486096">
         <mark key="'" line="75" column="0" />
         <mark key="[" line="50" column="58" />
@@ -259,8 +265,131 @@
       <jump line="54" column="10" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAiaWQiOiAie3twcm9jZWR1cmUuYmVsb25ncy5uYW1lfX1fe3tsb3dlciBwcm9jZWR1cmUudHlwZX19IiwK</text>
+      <register name="&quot;" type="4">
+        <text>{
+  &quot;id&quot;: &quot;{{procedure.belongs.name}}_{{lower procedure.type}}&quot;,
+  &quot;dependencies&quot;: [],
+  &quot;groups&quot;: [
+    {
+      &quot;id&quot;: &quot;runtime&quot;,
+      &quot;apps&quot;: [
+        {
+          {{#each procedure.runtime.processes}}
+          &quot;id&quot;: &quot;{{name}}&quot;,
+          'cpus': {{lookup (lookup arguments.runtime name) 'cpu'}},
+		  [123+4*56]/2
+          &quot;mem&quot;: {{lookup (lookup arguments.runtime name) 'mem'}},
+          &quot;disk&quot;: {{lookup (lookup arguments.runtime name) 'disk'}},
+          &quot;instances&quot;: {{lookup (lookup arguments.runtime name) 'instances'}},
+          &quot;container&quot;: {
+            &quot;type&quot;: &quot;DOCKER&quot;,
+            &quot;docker&quot;: {
+              &quot;image&quot;: &quot;{{lookup (lookup arguments.runtime name) 'image'}}&quot;,
+              &quot;network&quot;: &quot;BRIDGE&quot;,
+              &quot;forcePullImage&quot;: false
+            },
+            &quot;volumes&quot;: [
+              {{#each volumes}}
+              {
+                &quot;containerPath&quot;: &quot;{{target}}&quot;,
+                &quot;hostPath&quot;: &quot;{{source}}&quot;,
+                &quot;mode&quot;: &quot;{{mode}}&quot;
+              }{{#unless @last}},{{/unless}}
+              {{/each}}
+            ]
+          },
+          &quot;healthChecks&quot;: [
+            {{#each healths}}
+              {
+                &quot;protocol&quot;: &quot;{{protocol}}&quot;,
+                &quot;intervalSeconds&quot;: {{interval}},
+                &quot;timeoutSeconds&quot;: {{timeout}},
+                &quot;maxConsecutiveFailures&quot;: {{consecutive}},
+                &quot;gracePeriodSeconds&quot;: {{ignore}}
+                {{#if (eq protocol &quot;COMMAND&quot;)}}
+                ,&quot;command&quot;: {&quot;value&quot;: &quot;{{command}}&quot;}
+                {{else if (gt port 0)}}
+                    ,&quot;port&quot;: {{port}}
+                {{else}}
+                  , &quot;portIndex&quot;: {{mapped}}
+                {{/if}}
+                {{#if (or (eq protocol &quot;HTTP&quot;) (eq protocol &quot;HTTPS&quot;))}}
+                  , &quot;path&quot;: &quot;{{defaultIfEmpty path '/'}}&quot;
+                {{/if}}
+              }
+            {{/each}}
+          ],
+          &quot;dependencies&quot;: [
+          {{#each links}}
+          &quot;{{}}&quot;
+          {{/each}}
+          ],
+          &quot;env&quot;: {
+            {{#each environment}}
+              &quot;{{@key}}&quot;: &quot;{{.}}&quot;{{#unless @last}},{{/unless}}
+            {{/each}}
+          }
+        }{{#unless @last}},{{/unless}}
+        {{/each}}
+      ]
+    }
+  ],
+  &quot;apps&quot;: [
+    {{#with procedure.process}}
+    {
+      &quot;id&quot;: &quot;{{name}}&quot;,
+      &quot;cpus&quot;: {{lookup arguments.app  'cpu'}},
+      &quot;mem&quot;: {{lookup arguments.app 'mem'}},
+      &quot;disk&quot;: {{lookup arguments.app 'disk'}},
+      &quot;instances&quot;: {{lookup arguments.app 'instances'}},
+      &quot;container&quot;: {
+        &quot;type&quot;: &quot;DOCKER&quot;,
+        &quot;docker&quot;: {
+          &quot;image&quot;: &quot;{{lookup arguments.app 'image'}}&quot;,
+          &quot;network&quot;: &quot;BRIDGE&quot;,
+          &quot;forcePullImage&quot;: false
+        },
+        &quot;volumes&quot;: [
+          {{#each volumes}}
+          {
+            &quot;containerPath&quot;: &quot;{{target}}&quot;,
+            &quot;hostPath&quot;: &quot;{{source}}&quot;,
+            &quot;mode&quot;: &quot;{{mode}}&quot;
+          }{{#unless @last}},{{/unless}}
+          {{/each}}
+        ]
+      },
+      &quot;healthChecks&quot;: [
+        {{#each healths}}
+          {
+            &quot;protocol&quot;: &quot;{{protocol}}&quot;,
+            &quot;intervalSeconds&quot;: {{interval}},
+            &quot;timeoutSeconds&quot;: {{timeout}},
+            &quot;maxConsecutiveFailures&quot;: {{consecutive}},
+            &quot;gracePeriodSeconds&quot;: {{ignore}}
+            {{#if (eq protocol &quot;COMMAND&quot;)}}
+            ,&quot;command&quot;: {&quot;value&quot;: &quot;{{command}}&quot;}
+            {{else if (gt port 0)}}
+                ,&quot;port&quot;: {{port}}
+            {{else}}
+              , &quot;portIndex&quot;: {{mapped}}
+            {{/if}}
+            {{#if (or (eq protocol &quot;HTTP&quot;) (eq protocol &quot;HTTPS&quot;))}}
+              , &quot;path&quot;: &quot;{{defaultIfEmpty path '/'}}&quot;
+            {{/if}}
+          }
+        {{/each}}
+      ],
+      &quot;dependencies&quot;: [],
+      &quot;env&quot;: {
+        {{#each environment}}
+          &quot;{{@key}}&quot;: &quot;{{.}}&quot;{{#unless @last}},{{/unless}}
+        {{/each}}
+      }
+    }
+    {{/with}}
+  ]
+}</text>
       </register>
       <register name="-" type="4">
         <text>editor</text>
@@ -271,35 +400,158 @@
       <register name="0" type="4">
         <text>{{procedure.belongs.name}}_{{lower procedure.type}}</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAiaWQiOiAie3twcm9jZWR1cmUuYmVsb25ncy5uYW1lfX1fe3tsb3dlciBwcm9jZWR1cmUudHlwZX19IiwK</text>
+      <register name="1" type="4">
+        <text>{
+  &quot;id&quot;: &quot;{{procedure.belongs.name}}_{{lower procedure.type}}&quot;,
+  &quot;dependencies&quot;: [],
+  &quot;groups&quot;: [
+    {
+      &quot;id&quot;: &quot;runtime&quot;,
+      &quot;apps&quot;: [
+        {
+          {{#each procedure.runtime.processes}}
+          &quot;id&quot;: &quot;{{name}}&quot;,
+          'cpus': {{lookup (lookup arguments.runtime name) 'cpu'}},
+		  [123+4*56]/2
+          &quot;mem&quot;: {{lookup (lookup arguments.runtime name) 'mem'}},
+          &quot;disk&quot;: {{lookup (lookup arguments.runtime name) 'disk'}},
+          &quot;instances&quot;: {{lookup (lookup arguments.runtime name) 'instances'}},
+          &quot;container&quot;: {
+            &quot;type&quot;: &quot;DOCKER&quot;,
+            &quot;docker&quot;: {
+              &quot;image&quot;: &quot;{{lookup (lookup arguments.runtime name) 'image'}}&quot;,
+              &quot;network&quot;: &quot;BRIDGE&quot;,
+              &quot;forcePullImage&quot;: false
+            },
+            &quot;volumes&quot;: [
+              {{#each volumes}}
+              {
+                &quot;containerPath&quot;: &quot;{{target}}&quot;,
+                &quot;hostPath&quot;: &quot;{{source}}&quot;,
+                &quot;mode&quot;: &quot;{{mode}}&quot;
+              }{{#unless @last}},{{/unless}}
+              {{/each}}
+            ]
+          },
+          &quot;healthChecks&quot;: [
+            {{#each healths}}
+              {
+                &quot;protocol&quot;: &quot;{{protocol}}&quot;,
+                &quot;intervalSeconds&quot;: {{interval}},
+                &quot;timeoutSeconds&quot;: {{timeout}},
+                &quot;maxConsecutiveFailures&quot;: {{consecutive}},
+                &quot;gracePeriodSeconds&quot;: {{ignore}}
+                {{#if (eq protocol &quot;COMMAND&quot;)}}
+                ,&quot;command&quot;: {&quot;value&quot;: &quot;{{command}}&quot;}
+                {{else if (gt port 0)}}
+                    ,&quot;port&quot;: {{port}}
+                {{else}}
+                  , &quot;portIndex&quot;: {{mapped}}
+                {{/if}}
+                {{#if (or (eq protocol &quot;HTTP&quot;) (eq protocol &quot;HTTPS&quot;))}}
+                  , &quot;path&quot;: &quot;{{defaultIfEmpty path '/'}}&quot;
+                {{/if}}
+              }
+            {{/each}}
+          ],
+          &quot;dependencies&quot;: [
+          {{#each links}}
+          &quot;{{}}&quot;
+          {{/each}}
+          ],
+          &quot;env&quot;: {
+            {{#each environment}}
+              &quot;{{@key}}&quot;: &quot;{{.}}&quot;{{#unless @last}},{{/unless}}
+            {{/each}}
+          }
+        }{{#unless @last}},{{/unless}}
+        {{/each}}
+      ]
+    }
+  ],
+  &quot;apps&quot;: [
+    {{#with procedure.process}}
+    {
+      &quot;id&quot;: &quot;{{name}}&quot;,
+      &quot;cpus&quot;: {{lookup arguments.app  'cpu'}},
+      &quot;mem&quot;: {{lookup arguments.app 'mem'}},
+      &quot;disk&quot;: {{lookup arguments.app 'disk'}},
+      &quot;instances&quot;: {{lookup arguments.app 'instances'}},
+      &quot;container&quot;: {
+        &quot;type&quot;: &quot;DOCKER&quot;,
+        &quot;docker&quot;: {
+          &quot;image&quot;: &quot;{{lookup arguments.app 'image'}}&quot;,
+          &quot;network&quot;: &quot;BRIDGE&quot;,
+          &quot;forcePullImage&quot;: false
+        },
+        &quot;volumes&quot;: [
+          {{#each volumes}}
+          {
+            &quot;containerPath&quot;: &quot;{{target}}&quot;,
+            &quot;hostPath&quot;: &quot;{{source}}&quot;,
+            &quot;mode&quot;: &quot;{{mode}}&quot;
+          }{{#unless @last}},{{/unless}}
+          {{/each}}
+        ]
+      },
+      &quot;healthChecks&quot;: [
+        {{#each healths}}
+          {
+            &quot;protocol&quot;: &quot;{{protocol}}&quot;,
+            &quot;intervalSeconds&quot;: {{interval}},
+            &quot;timeoutSeconds&quot;: {{timeout}},
+            &quot;maxConsecutiveFailures&quot;: {{consecutive}},
+            &quot;gracePeriodSeconds&quot;: {{ignore}}
+            {{#if (eq protocol &quot;COMMAND&quot;)}}
+            ,&quot;command&quot;: {&quot;value&quot;: &quot;{{command}}&quot;}
+            {{else if (gt port 0)}}
+                ,&quot;port&quot;: {{port}}
+            {{else}}
+              , &quot;portIndex&quot;: {{mapped}}
+            {{/if}}
+            {{#if (or (eq protocol &quot;HTTP&quot;) (eq protocol &quot;HTTPS&quot;))}}
+              , &quot;path&quot;: &quot;{{defaultIfEmpty path '/'}}&quot;
+            {{/if}}
+          }
+        {{/each}}
+      ],
+      &quot;dependencies&quot;: [],
+      &quot;env&quot;: {
+        {{#each environment}}
+          &quot;{{@key}}&quot;: &quot;{{.}}&quot;{{#unless @last}},{{/unless}}
+        {{/each}}
+      }
+    }
+    {{/with}}
+  ]
+}</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAiaWQiOiAie3twcm9jZWR1cmUuYmVsb25ncy5uYW1lfX1fe3tsb3dlciBwcm9jZWR1cmUudHlwZX19IiwK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAiaWQiOiAie3twcm9jZWR1cmUuYmVsb25ncy5uYW1lfX1fe3tsb3dlciBwcm9jZWR1cmUudHlwZX19IiwK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">PGVudHJ5IGZpbGU9ImZpbGU6Ly8kUFJPSkVDVF9ESVIkLy4uLy4uLy4uLy4uLy4uLy4uL3NvbHV0aW9ucy9jbnVwL3N0YWNrcy9sYXVuY2hlci9zcmMvbWFpbi9yZXNvdXJjZXMvcHJvdmlkZXJzL21hcmF0aG9uL3Byb2NlZHVyZS5oYnMiPgogICAgICA8cHJvdmlkZXIgc2VsZWN0ZWQ9InRydWUiIGVkaXRvci10eXBlLWlkPSJ0ZXh0LWVkaXRvciI+CiAgICAgICAgPHN0YXRlIHJlbGF0aXZlLWNhcmV0LXBvc2l0aW9uPSI1NzAiPgogICAgICAgICAgPGNhcmV0IGxpbmU9IjU3IiBjb2x1bW49IjkiIGxlYW4tZm9yd2FyZD0iZmFsc2UiIHNlbGVjdGlvbi1zdGFydC1saW5lPSI1NyIgc2VsZWN0aW9uLXN0YXJ0LWNvbHVtbj0iOSIgc2VsZWN0aW9uLWVuZC1saW5lPSI1NyIgc2VsZWN0aW9uLWVuZC1jb2x1bW49IjkiIC8+CiAgICAgICAgICA8Zm9sZGluZyAvPgogICAgICAgIDwvc3RhdGU+CiAgICAgIDwvcHJvdmlkZXI+CiAgICA8L2VudHJ5Pg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgPGNoYW5nZSB0eXBlPSJORVciIGJlZm9yZVBhdGg9IiIgYWZ0ZXJQYXRoPSIkUFJPSkVDVF9ESVIkL3NyYy9tYWluL3Jlc291cmNlcy9wcm92aWRlcnMvbWFyYXRob24vcHJvY2VkdXJlLmhicyIgLz4K</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICA8b3B0aW9uIHZhbHVlPSIkUFJPSkVDVF9ESVIkLy4uLy4uLy4uLy4uLy4uLy4uL3NvbHV0aW9ucy9jbnVwL3N0YWNrcy9sYXVuY2hlci9zcmMvbWFpbi9yZXNvdXJjZXMvcHJvdmlkZXJzL21hcmF0aG9uL3Byb2NlZHVyZS5oYnMiIC8+Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgPC9maWxlPgo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICA8L2VudHJ5Pgo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8ZW50cnkgZmlsZT0iZmlsZTovLyRQUk9KRUNUX0RJUiQvLi4vLi4vLi4vLi4vLi4vLi4vc29sdXRpb25zL2NudXAvc3RhY2tzL2xhdW5jaGVyL3NyYy9tYWluL3Jlc291cmNlcy9wcm92aWRlcnMvbWFyYXRob24vcHJvY2VkdXJlLmhicyI+Cg==</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>reg</text>
       </register>
     </registers>
     <search>
@@ -335,7 +587,6 @@
         <entry>process</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLywvXHIvZ2M=</entry>
         <entry encoding="base64">JzwsJz5zLywvLFxyL2dj</entry>
         <entry>set reg</entry>
         <entry>register</entry>
@@ -353,8 +604,9 @@
         <entry>qw</entry>
         <entry>ws</entry>
         <entry>ew</entry>
-        <entry>reg</entry>
         <entry>w</entry>
+        <entry>reg</entry>
+        <entry>set vim-surround</entry>
       </history-cmd>
       <history-expr />
       <history-input />
