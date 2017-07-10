@@ -87,6 +87,10 @@
         <mark key="." line="30" column="115" />
         <mark key="^" line="30" column="115" />
       </file>
+      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/templates/logstash-app.tmpl" timestamp="1499655835721">
+        <mark key="[" line="41" column="3" />
+        <mark key="]" line="44" column="3" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProvidersTest.java" timestamp="1499358210775">
         <mark key="'" line="98" column="4" />
         <mark key="[" line="71" column="0" />
@@ -124,6 +128,13 @@
         <mark key="^" line="90" column="50" />
         <mark key="." line="90" column="50" />
       </file>
+      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/conf/cdectl.json" timestamp="1499655993882">
+        <mark key="'" line="555" column="15" />
+        <mark key="[" line="563" column="24" />
+        <mark key="]" line="563" column="26" />
+        <mark key="." line="563" column="26" />
+        <mark key="^" line="563" column="26" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/records/MarathonClient.java" timestamp="1499223683821">
         <mark key="'" line="175" column="16" />
         <mark key="[" line="176" column="0" />
@@ -142,6 +153,12 @@
         <mark key="]" line="50" column="71" />
         <mark key="^" line="50" column="71" />
         <mark key="." line="50" column="71" />
+      </file>
+      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/templates/consul.tmpl" timestamp="1499655866295">
+        <mark key="[" line="32" column="8" />
+        <mark key="]" line="32" column="8" />
+        <mark key="." line="32" column="8" />
+        <mark key="^" line="82" column="5" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/MainServer.java" timestamp="1499240326867">
         <mark key="[" line="44" column="0" />
@@ -166,9 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="18" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/records/MarathonClient.java" />
-      <jump line="165" column="18" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/records/MarathonClient.java" />
-      <jump line="175" column="16" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/records/MarathonClient.java" />
       <jump line="38" column="18" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/core/Procedure.java" />
       <jump line="165" column="64" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Records.xml" />
       <jump line="173" column="65" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Records.xml" />
@@ -266,33 +280,37 @@
       <jump line="95" column="4" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProvidersTest.java" />
       <jump line="25" column="45" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
       <jump line="10" column="15" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
+      <jump line="781" column="8" filename="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/conf/cdectl.json" />
+      <jump line="3" column="15" filename="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/conf/cdectl.json" />
+      <jump line="555" column="15" filename="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/conf/cdectl.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>256</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>256</text>
       </register>
       <register name="/" type="4">
-        <text>process</text>
+        <text>consul</text>
       </register>
       <register name="0" type="4">
-        <text>{{#unless @last}},{{/unless}}</text>
+        <text>,
+      &quot;acceptedResourceRoles&quot;: [
+        &quot;system&quot;
+      ],</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkgIFsxMjMrNCo1Nl0vMgo=</text>
+        <text encoding="base64">LAo=</text>
       </register>
-      <register name="3" type="4">
-        <text>{
-
-        }</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHt7I2VhY2ggcHJvY2VkdXJlLnJ1bnRpbWUucHJvY2Vzc2VzfX0KICAgICAgICAgICJpZCI6ICJ7e25hbWV9fSIsCiAgICAgICAgICAnY3B1cyc6IHt7bG9va3VwIChsb29rdXAgYXJndW1lbnRzLnJ1bnRpbWUgbmFtZSkgJ2NwdSd9fSwKCQkgIFsxMjMrNCo1Nl0vMgogICAgICAgICAgIm1lbSI6IHt7bG9va3VwIChsb29rdXAgYXJndW1lbnRzLnJ1bnRpbWUgbmFtZSkgJ21lbSd9fSwKICAgICAgICAgICJkaXNrIjoge3tsb29rdXAgKGxvb2t1cCBhcmd1bWVudHMucnVudGltZSBuYW1lKSAnZGlzayd9fSwKICAgICAgICAgICJpbnN0YW5jZXMiOiB7e2xvb2t1cCAobG9va3VwIGFyZ3VtZW50cy5ydW50aW1lIG5hbWUpICdpbnN0YW5jZXMnfX0sCiAgICAgICAgICAiY29udGFpbmVyIjogewogICAgICAgICAgICAidHlwZSI6ICJET0NLRVIiLAogICAgICAgICAgICAiZG9ja2VyIjogewogICAgICAgICAgICAgICJpbWFnZSI6ICJ7e2xvb2t1cCAobG9va3VwIGFyZ3VtZW50cy5ydW50aW1lIG5hbWUpICdpbWFnZSd9fSIsCiAgICAgICAgICAgICAgIm5ldHdvcmsiOiAiQlJJREdFIiwKICAgICAgICAgICAgICAiZm9yY2VQdWxsSW1hZ2UiOiBmYWxzZQogICAgICAgICAgICB9LAogICAgICAgICAgICAidm9sdW1lcyI6IFsKICAgICAgICAgICAgICB7eyNlYWNoIHZvbHVtZXN9fQogICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICJjb250YWluZXJQYXRoIjogInt7dGFyZ2V0fX0iLAogICAgICAgICAgICAgICAgImhvc3RQYXRoIjogInt7c291cmNlfX0iLAogICAgICAgICAgICAgICAgIm1vZGUiOiAie3ttb2RlfX0iCiAgICAgICAgICAgICAgfXt7I3VubGVzcyBAbGFzdH19LHt7L3VubGVzc319CiAgICAgICAgICAgICAge3svZWFjaH19CiAgICAgICAgICAgIF0KICAgICAgICAgIH0sCiAgICAgICAgICAiaGVhbHRoQ2hlY2tzIjogWwogICAgICAgICAgICB7eyNlYWNoIGhlYWx0aHN9fQogICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICJwcm90b2NvbCI6ICJ7e3Byb3RvY29sfX0iLAogICAgICAgICAgICAgICAgImludGVydmFsU2Vjb25kcyI6IHt7aW50ZXJ2YWx9fSwKICAgICAgICAgICAgICAgICJ0aW1lb3V0U2Vjb25kcyI6IHt7dGltZW91dH19LAogICAgICAgICAgICAgICAgIm1heENvbnNlY3V0aXZlRmFpbHVyZXMiOiB7e2NvbnNlY3V0aXZlfX0sCiAgICAgICAgICAgICAgICAiZ3JhY2VQZXJpb2RTZWNvbmRzIjoge3tpZ25vcmV9fQogICAgICAgICAgICAgICAge3sjaWYgKGVxIHByb3RvY29sICJDT01NQU5EIil9fQogICAgICAgICAgICAgICAgLCJjb21tYW5kIjogeyJ2YWx1ZSI6ICJ7e2NvbW1hbmR9fSJ9CiAgICAgICAgICAgICAgICB7e2Vsc2UgaWYgKGd0IHBvcnQgMCl9fQogICAgICAgICAgICAgICAgICAgICwicG9ydCI6IHt7cG9ydH19CiAgICAgICAgICAgICAgICB7e2Vsc2V9fQogICAgICAgICAgICAgICAgICAsICJwb3J0SW5kZXgiOiB7e21hcHBlZH19CiAgICAgICAgICAgICAgICB7ey9pZn19CiAgICAgICAgICAgICAgICB7eyNpZiAob3IgKGVxIHByb3RvY29sICJIVFRQIikgKGVxIHByb3RvY29sICJIVFRQUyIpKX19CiAgICAgICAgICAgICAgICAgICwgInBhdGgiOiAie3tkZWZhdWx0SWZFbXB0eSBwYXRoICcvJ319IgogICAgICAgICAgICAgICAge3svaWZ9fQogICAgICAgICAgICAgIH0KICAgICAgICAgICAge3svZWFjaH19CiAgICAgICAgICBdLAogICAgICAgICAgImRlcGVuZGVuY2llcyI6IFsKICAgICAgICAgIHt7I2VhY2ggbGlua3N9fQogICAgICAgICAgICAie3t7e3Byb2NlZHVyZS5iZWxvbmdzLm5hbWV9fV97e2xvd2VyIHByb2NlZHVyZS50eXBlfX19fSIKICAgICAgICAgIHt7L2VhY2h9fQogICAgICAgICAgXSwKICAgICAgICAgICJlbnYiOiB7CiAgICAgICAgICAgIHt7I2VhY2ggZW52aXJvbm1lbnR9fQogICAgICAgICAgICAgICJ7e0BrZXl9fSI6ICJ7ey59fSJ7eyN1bmxlc3MgQGxhc3R9fSx7ey91bmxlc3N9fQogICAgICAgICAgICB7ey9lYWNofX0KICAgICAgICAgIH0K</text>
+        <text encoding="base64">CQkgIFsxMjMrNCo1Nl0vMgo=</text>
       </register>
       <register name="5" type="4">
         <text>{
@@ -312,138 +330,17 @@
       </register>
       <register name="9" type="4">
         <text>{
-  &quot;id&quot;: &quot;{{procedure.belongs.name}}_{{lower procedure.type}}&quot;,
-  &quot;dependencies&quot;: [],
-  &quot;groups&quot;: [
-    {
-      &quot;id&quot;: &quot;runtime&quot;,
-      &quot;apps&quot;: [
-        {
-          {{#each procedure.runtime.processes}}
-          &quot;id&quot;: &quot;{{name}}&quot;,
-          'cpus': {{lookup (lookup arguments.runtime name) 'cpu'}},
-		  [123+4*56]/2
-          &quot;mem&quot;: {{lookup (lookup arguments.runtime name) 'mem'}},
-          &quot;disk&quot;: {{lookup (lookup arguments.runtime name) 'disk'}},
-          &quot;instances&quot;: {{lookup (lookup arguments.runtime name) 'instances'}},
-          &quot;container&quot;: {
-            &quot;type&quot;: &quot;DOCKER&quot;,
-            &quot;docker&quot;: {
-              &quot;image&quot;: &quot;{{lookup (lookup arguments.runtime name) 'image'}}&quot;,
-              &quot;network&quot;: &quot;BRIDGE&quot;,
-              &quot;forcePullImage&quot;: false
-            },
-            &quot;volumes&quot;: [
-              {{#each volumes}}
-              {
-                &quot;containerPath&quot;: &quot;{{target}}&quot;,
-                &quot;hostPath&quot;: &quot;{{source}}&quot;,
-                &quot;mode&quot;: &quot;{{mode}}&quot;
-              }{{#unless @last}},{{/unless}}
-              {{/each}}
-            ]
-          },
-          &quot;healthChecks&quot;: [
-            {{#each healths}}
-              {
-                &quot;protocol&quot;: &quot;{{protocol}}&quot;,
-                &quot;intervalSeconds&quot;: {{interval}},
-                &quot;timeoutSeconds&quot;: {{timeout}},
-                &quot;maxConsecutiveFailures&quot;: {{consecutive}},
-                &quot;gracePeriodSeconds&quot;: {{ignore}}
-                {{#if (eq protocol &quot;COMMAND&quot;)}}
-                ,&quot;command&quot;: {&quot;value&quot;: &quot;{{command}}&quot;}
-                {{else if (gt port 0)}}
-                    ,&quot;port&quot;: {{port}}
-                {{else}}
-                  , &quot;portIndex&quot;: {{mapped}}
-                {{/if}}
-                {{#if (or (eq protocol &quot;HTTP&quot;) (eq protocol &quot;HTTPS&quot;))}}
-                  , &quot;path&quot;: &quot;{{defaultIfEmpty path '/'}}&quot;
-                {{/if}}
-              }
-            {{/each}}
-          ],
-          &quot;dependencies&quot;: [
-          {{#each links}}
-          &quot;{{}}&quot;
-          {{/each}}
-          ],
-          &quot;env&quot;: {
-            {{#each environment}}
-              &quot;{{@key}}&quot;: &quot;{{.}}&quot;{{#unless @last}},{{/unless}}
-            {{/each}}
-          }
-        }{{#unless @last}},{{/unless}}
-        {{/each}}
-      ]
-    }
-  ],
-  &quot;apps&quot;: [
-    {{#with procedure.process}}
-    {
-      &quot;id&quot;: &quot;{{name}}&quot;,
-      &quot;cpus&quot;: {{lookup arguments.app  'cpu'}},
-      &quot;mem&quot;: {{lookup arguments.app 'mem'}},
-      &quot;disk&quot;: {{lookup arguments.app 'disk'}},
-      &quot;instances&quot;: {{lookup arguments.app 'instances'}},
-      &quot;container&quot;: {
-        &quot;type&quot;: &quot;DOCKER&quot;,
-        &quot;docker&quot;: {
-          &quot;image&quot;: &quot;{{lookup arguments.app 'image'}}&quot;,
-          &quot;network&quot;: &quot;BRIDGE&quot;,
-          &quot;forcePullImage&quot;: false
-        },
-        &quot;volumes&quot;: [
-          {{#each volumes}}
-          {
-            &quot;containerPath&quot;: &quot;{{target}}&quot;,
-            &quot;hostPath&quot;: &quot;{{source}}&quot;,
-            &quot;mode&quot;: &quot;{{mode}}&quot;
-          }{{#unless @last}},{{/unless}}
-          {{/each}}
-        ]
-      },
-      &quot;healthChecks&quot;: [
-        {{#each healths}}
-          {
-            &quot;protocol&quot;: &quot;{{protocol}}&quot;,
-            &quot;intervalSeconds&quot;: {{interval}},
-            &quot;timeoutSeconds&quot;: {{timeout}},
-            &quot;maxConsecutiveFailures&quot;: {{consecutive}},
-            &quot;gracePeriodSeconds&quot;: {{ignore}}
-            {{#if (eq protocol &quot;COMMAND&quot;)}}
-            ,&quot;command&quot;: {&quot;value&quot;: &quot;{{command}}&quot;}
-            {{else if (gt port 0)}}
-                ,&quot;port&quot;: {{port}}
-            {{else}}
-              , &quot;portIndex&quot;: {{mapped}}
-            {{/if}}
-            {{#if (or (eq protocol &quot;HTTP&quot;) (eq protocol &quot;HTTPS&quot;))}}
-              , &quot;path&quot;: &quot;{{defaultIfEmpty path '/'}}&quot;
-            {{/if}}
-          }
-        {{/each}}
-      ],
-      &quot;dependencies&quot;: [],
-      &quot;env&quot;: {
-        {{#each environment}}
-          &quot;{{@key}}&quot;: &quot;{{.}}&quot;{{#unless @last}},{{/unless}}
-        {{/each}}
-      }
-    }
-    {{/with}}
-  ]
-}</text>
+
+        }</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>process</last-search>
+      <last-search>consul</last-search>
       <last-offset />
-      <last-pattern>process</last-pattern>
+      <last-pattern>consul</last-pattern>
       <last-replace>ignore</last-replace>
       <last-substitute>ingore</last-substitute>
       <last-dir>1</last-dir>
@@ -451,7 +348,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb3dlclw+</entry>
         <entry>cephSecurit</entry>
         <entry>CephSecu</entry>
         <entry>cephInstantanceType</entry>
@@ -471,6 +367,7 @@
         <entry>register</entry>
         <entry encoding="base64">XDxdXD4=</entry>
         <entry>process</entry>
+        <entry>consul</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5jZW50ZXI=</entry>
