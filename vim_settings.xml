@@ -23,9 +23,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jknack/handlebars/4.0.6/d97f2194c1158bdc22bd59f097fe4ff8fd340133/handlebars-4.0.6-sources.jar!/com/github/jknack/handlebars/helper/EachHelper.java" timestamp="1499681405115" />
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" timestamp="1499826705815">
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" timestamp="1499827862159">
         <mark key="'" line="31" column="12" />
-        <mark key="[" line="32" column="23" />
+        <mark key="[" line="0" column="14" />
         <mark key="]" line="32" column="30" />
         <mark key="." line="32" column="30" />
         <mark key="^" line="32" column="30" />
@@ -138,12 +138,12 @@
         <mark key="." line="563" column="26" />
         <mark key="^" line="563" column="26" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" timestamp="1499827128135">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="100" column="12" />
-        <mark key="]" line="100" column="13" />
-        <mark key="." line="100" column="13" />
-        <mark key="^" line="100" column="13" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" timestamp="1499828175057">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="14" />
+        <mark key="." line="33" column="14" />
+        <mark key="^" line="27" column="7" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/resources/UnifiedProcedureResource.java" timestamp="1499153486096">
         <mark key="'" line="75" column="0" />
@@ -297,7 +297,13 @@
         <text>arguments</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICJrZXkiOiAidm9sdW1lLWRyaXZlciIsCiAgICAgICAgICAgICAgInZhbHVlIjogInJiZCIKICAgICAgICAgICAgfSwKIA==</text>
+        <text>,
+          &quot;parameters&quot;: [
+            {
+              &quot;key&quot;: &quot;volume-driver&quot;,
+              &quot;value&quot;: &quot;rbd&quot;
+            }
+          ]</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIH0sCg==</text>
