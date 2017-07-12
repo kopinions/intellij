@@ -25,11 +25,11 @@
       <file name="/workspace/golang/src/github.com/sjkyspa/stacks/aa.go" timestamp="1496559302405">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" timestamp="1499841120470">
-        <mark key="[" line="21" column="53" />
-        <mark key="]" line="21" column="59" />
-        <mark key="^" line="21" column="59" />
-        <mark key="." line="21" column="59" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" timestamp="1499850712963">
+        <mark key="[" line="21" column="42" />
+        <mark key="]" line="21" column="42" />
+        <mark key="^" line="21" column="22" />
+        <mark key="." line="21" column="42" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" timestamp="1499839129884">
         <mark key="'" line="46" column="8" />
@@ -44,14 +44,6 @@
         <mark key="]" line="49" column="52" />
         <mark key="^" line="49" column="102" />
         <mark key="." line="49" column="52" />
-      </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" timestamp="1499840284650">
-        <mark key="a" line="70" column="17" />
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="^" line="191" column="72" />
-        <mark key="." line="69" column="0" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Process.java" timestamp="1499344582625">
         <mark key="'" line="109" column="48" />
@@ -148,11 +140,11 @@
         <mark key="." line="9" column="34" />
         <mark key="^" line="9" column="34" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Procedure.java" timestamp="1499842025607">
-        <mark key="'" line="52" column="0" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Procedure.java" timestamp="1499850771583">
+        <mark key="[" line="50" column="29" />
+        <mark key="]" line="50" column="29" />
+        <mark key="." line="50" column="29" />
+        <mark key="^" line="51" column="29" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/mappers/handlers/LinksHandler.java" timestamp="1499062520770">
         <mark key="'" line="29" column="21" />
@@ -168,8 +160,8 @@
         <mark key="[" line="8" column="13" />
         <mark key="]" line="8" column="30" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/records/StackMarathonTranslator.java" timestamp="1499846354154">
-        <mark key="'" line="253" column="104" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/records/StackMarathonTranslator.java" timestamp="1499851437984">
+        <mark key="'" line="232" column="12" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/resources/UnifiedProceduresResourceTest.java" timestamp="1499844183760">
         <mark key="'" line="37" column="8" />
@@ -185,7 +177,7 @@
         <mark key="^" line="1534" column="21" />
         <mark key="." line="1534" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499842296007">
+      <file name="/Dummy.txt" timestamp="1499851121114">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/templates/cde.tmpl" timestamp="1499830001834">
@@ -233,7 +225,7 @@
         <mark key="." line="22" column="135" />
         <mark key="^" line="22" column="135" />
       </file>
-      <file name="/fragment.java" timestamp="1499681406303">
+      <file name="/fragment.java" timestamp="1499850715355">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/Modules.java" timestamp="1499159137738">
@@ -245,19 +237,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="18" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
-      <jump line="107" column="19" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
-      <jump line="18" column="19" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
-      <jump line="19" column="16" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
-      <jump line="38" column="43" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
-      <jump line="43" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
-      <jump line="122" column="4" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
-      <jump line="97" column="43" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProvidersTest.java" />
-      <jump line="86" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProvidersTest.java" />
-      <jump line="139" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProvidersTest.java" />
-      <jump line="39" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
-      <jump line="179" column="26" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
-      <jump line="6" column="57" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
       <jump line="177" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
       <jump line="125" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProvidersTest.java" />
       <jump line="54" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProvidersTest.java" />
@@ -345,55 +324,68 @@
       <jump line="27" column="11" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
       <jump line="82" column="11" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
       <jump line="29" column="36" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
+      <jump line="40" column="76" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/records/StackMarathonTranslator.java" />
+      <jump line="233" column="19" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/records/StackMarathonTranslator.java" />
+      <jump line="236" column="12" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/records/StackMarathonTranslator.java" />
+      <jump line="238" column="22" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/records/StackMarathonTranslator.java" />
+      <jump line="239" column="27" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/records/StackMarathonTranslator.java" />
+      <jump line="240" column="47" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/records/StackMarathonTranslator.java" />
+      <jump line="241" column="45" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/records/StackMarathonTranslator.java" />
+      <jump line="244" column="30" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/records/StackMarathonTranslator.java" />
+      <jump line="228" column="32" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/records/StackMarathonTranslator.java" />
+      <jump line="229" column="24" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/records/StackMarathonTranslator.java" />
+      <jump line="230" column="12" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/records/StackMarathonTranslator.java" />
+      <jump line="231" column="12" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/records/StackMarathonTranslator.java" />
+      <jump line="232" column="12" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/records/StackMarathonTranslator.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>instantiation</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>instantiation</text>
       </register>
       <register name="/" type="4">
-        <text>healthCheck</text>
+        <text>volume-driver</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgewogICAgICAgICAgICAgICAgInByb3RvY29sIjogInt7cHJvdG9jb2x9fSIsCiAgICAgICAgICAgICAgICAiaW50ZXJ2YWxTZWNvbmRzIjoge3tpbnRlcnZhbH19LAogICAgICAgICAgICAgICAgInRpbWVvdXRTZWNvbmRzIjoge3t0aW1lb3V0fX0sCiAgICAgICAgICAgICAgICAibWF4Q29uc2VjdXRpdmVGYWlsdXJlcyI6IHt7Y29uc2VjdXRpdmV9fSwKICAgICAgICAgICAgICAgICJncmFjZVBlcmlvZFNlY29uZHMiOiB7e2lnbm9yZX19CiAgICAgICAgICAgICAgICB7eyNpZiAoZXEgcHJvdG9jb2wgIkNPTU1BTkQiKX19CiAgICAgICAgICAgICAgICAsImNvbW1hbmQiOiB7InZhbHVlIjogInt7Y29tbWFuZH19In0KICAgICAgICAgICAgICAgIHt7ZWxzZSBpZiAoZ3QgcG9ydCAwKX19CiAgICAgICAgICAgICAgICAgICAgLCJwb3J0Ijoge3twb3J0fX0KICAgICAgICAgICAgICAgIHt7ZWxzZX19CiAgICAgICAgICAgICAgICAgICwgInBvcnRJbmRleCI6IHt7bWFwcGVkfX0KICAgICAgICAgICAgICAgIHt7L2lmfX0KICAgICAgICAgICAgICAgIHt7I2lmIChvciAoZXEgcHJvdG9jb2wgIkhUVFAiKSAoZXEgcHJvdG9jb2wgIkhUVFBTIikpfX0KICAgICAgICAgICAgICAgICAgLCAicGF0aCI6ICJ7e2RlZmF1bHRJZkVtcHR5IHBhdGggJy8nfX0iCiAgICAgICAgICAgICAgICB7ey9pZn19CiAgICAgICAgICAgICAgfQ==</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">ICAgICAKICAgICAKICAgICAKICAgICAKICAgICAKICAgICA=</text>
+      <register name="1" type="4">
+        <text encoding="base64">T3ZlcnJpZGUKICAgIHB1YmxpYyBQcm9jZWR1cmVJbnN0YW5jZSBpbnN0YW50aWF0aW9uKE1hcDxTdHJpbmcsIE9iamVjdD4gc3RhcnR1cFdpdGgpIHsKICAgICAgICByZXR1cm4gaW5zdGFuY2VzLnN0YXJ0dQ==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7L2lmfX0K</text>
+        <text encoding="base64">Ly8gICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gcHJvdmlkZSA9IHByb3ZpZGVyLnByb3ZpZGUodGhpcywgc3RhcnR1cFdpdGgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLCAicGF0aCI6ICJ7e2RlZmF1bHRJZkVtcHR5IHBhdGggJy8nfX0iCg==</text>
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IHByb3ZpZGUgPSBwcm92aWRlci5wcm92aWRlKHRoaXMsIHN0YXJ0dXBXaXRoKTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7I2lmIChvciAoZXEgcHJvdG9jb2wgIkhUVFAiKSAoZXEgcHJvdG9jb2wgIkhUVFBTIikpfX0K</text>
+      <register name="4" type="8">
+        <text encoding="base64">ICAgICAKICAgICAKICAgICAKICAgICAKICAgICAKICAgICA=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHt7L2lmfX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7ZWxzZX19Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLCAicGF0aCI6ICJ7e2RlZmF1bHRJZkVtcHR5IHBhdGggJy8nfX0iCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAsInBvcnQiOiB7e3BvcnR9fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7I2lmIChvciAoZXEgcHJvdG9jb2wgIkhUVFAiKSAoZXEgcHJvdG9jb2wgIkhUVFBTIikpfX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7ZWxzZSBpZiAoZ3QgcG9ydCAwKX19Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7L2lmfX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICwiY29tbWFuZCI6IHsidmFsdWUiOiAie3tjb21tYW5kfX0ifQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7ZWxzZX19Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>healthCheck</last-search>
+      <last-search>volume-driver</last-search>
       <last-offset />
-      <last-pattern>healthCheck</last-pattern>
+      <last-pattern>volume-driver</last-pattern>
       <last-replace />
       <last-substitute>arguments\.</last-substitute>
       <last-dir>1</last-dir>
@@ -401,10 +393,6 @@
     </search>
     <history>
       <history-search>
-        <entry>e=xpose</entry>
-        <entry>arguments</entry>
-        <entry>disposables</entry>
-        <entry>perman</entry>
         <entry>system</entry>
         <entry>name&quot;: &quot;cde</entry>
         <entry>name&quot;: &quot;system</entry>
@@ -421,6 +409,10 @@
         <entry>procedure</entry>
         <entry>artifact</entry>
         <entry>healthCheck</entry>
+        <entry>provider</entry>
+        <entry>provid</entry>
+        <entry>volume</entry>
+        <entry>volume-driver</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4hc29ydA==</entry>
