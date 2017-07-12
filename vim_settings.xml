@@ -47,12 +47,6 @@
         <mark key="^" line="51" column="27" />
         <mark key="." line="51" column="27" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Procedure.java" timestamp="1499676467219">
-        <mark key="'" line="81" column="17" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/mappers/handlers/LinksHandler.java" timestamp="1499062520770">
         <mark key="'" line="29" column="21" />
         <mark key="[" line="29" column="16" />
@@ -110,12 +104,12 @@
         <mark key="." line="166" column="36" />
         <mark key="^" line="166" column="36" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProcedureTest.java" timestamp="1499153870267">
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProcedureTest.java" timestamp="1499841020314">
         <mark key="'" line="47" column="4" />
-        <mark key="[" line="42" column="63" />
-        <mark key="]" line="42" column="68" />
-        <mark key="." line="42" column="68" />
-        <mark key="^" line="42" column="68" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="42" column="52" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Records.xml" timestamp="1499348289728">
         <mark key="'" line="14" column="0" />
@@ -289,7 +283,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text>SERVICES</text>
@@ -301,28 +295,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5vckVsc2VUaHJvdygoKSAtPiBuZXcgRXhjZXB0aW9uKCJDYW4gbm90IGZpbmQgdmVyaWZ5IHByb2NlZHVyZSIpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ImNwdXMiOiAwLjIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXJ0dXAocHJvdmlkZXIsIG5ldyBIYXNoTWFwPD4oKSkpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ImNwdXMiOiAwLjIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICJmb3JjZVB1bGxJbWFnZSI6IGZhbHNlCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIH0sCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICJmb3JjZVB1bGxJbWFnZSI6IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
