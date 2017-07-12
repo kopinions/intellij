@@ -204,6 +204,13 @@
         <mark key="." line="166" column="36" />
         <mark key="^" line="166" column="36" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" timestamp="1499845205677">
+        <mark key="'" line="29" column="36" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="32" column="40" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/templates/controller.tmpl" timestamp="1499827105284">
         <mark key="[" line="86" column="0" />
         <mark key="]" line="90" column="0" />
@@ -234,7 +241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="28" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
       <jump line="105" column="18" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
       <jump line="107" column="19" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
       <jump line="18" column="19" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
@@ -269,7 +275,6 @@
       <jump line="188" column="34" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
       <jump line="25" column="115" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
       <jump line="30" column="11" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
-      <jump line="82" column="9" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
       <jump line="83" column="18" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
       <jump line="86" column="27" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
       <jump line="21" column="13" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
@@ -294,7 +299,6 @@
       <jump line="31" column="26" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
       <jump line="60" column="20" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
       <jump line="41" column="14" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
-      <jump line="29" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
       <jump line="24" column="22" filename="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/templates/cde.tmpl" />
       <jump line="23" column="0" filename="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/templates/permanents.tmpl" />
       <jump line="1000" column="2" filename="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/conf/cdectl.json" />
@@ -334,55 +338,58 @@
       <jump line="90" column="29" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Records.xml" />
       <jump line="140" column="31" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Records.xml" />
       <jump line="37" column="8" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/resources/UnifiedProceduresResourceTest.java" />
+      <jump line="27" column="11" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
+      <jump line="82" column="11" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
+      <jump line="29" column="36" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>hub.deepi.cn/jersey-mysql-verify</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7L2lmfX0K</text>
       </register>
       <register name="-" type="4">
-        <text>hub.deepi.cn/jersey-mysql-verify</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>artifact</text>
+        <text>healthCheck</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CiAgICA8cmVzdWx0TWFwIGlkPSJydW50aW1lX2luc3RhbmNlX3Byb2Nlc3MiIHR5cGU9ImNvbS50aG91Z2h0d29ya3MuY251cC51cC5yZWNvcmRzLlByb2Nlc3NJbnN0YW5jZSI+CiAgICAgICAgPGlkIHByb3BlcnR5PSJpZCIgY29sdW1uPSJSUElfSUQiLz4KICAgIDwvcmVzdWx0TWFwPg==</text>
+        <text encoding="base64">ICAgewogICAgICAgICAgICAgICAgInByb3RvY29sIjogInt7cHJvdG9jb2x9fSIsCiAgICAgICAgICAgICAgICAiaW50ZXJ2YWxTZWNvbmRzIjoge3tpbnRlcnZhbH19LAogICAgICAgICAgICAgICAgInRpbWVvdXRTZWNvbmRzIjoge3t0aW1lb3V0fX0sCiAgICAgICAgICAgICAgICAibWF4Q29uc2VjdXRpdmVGYWlsdXJlcyI6IHt7Y29uc2VjdXRpdmV9fSwKICAgICAgICAgICAgICAgICJncmFjZVBlcmlvZFNlY29uZHMiOiB7e2lnbm9yZX19CiAgICAgICAgICAgICAgICB7eyNpZiAoZXEgcHJvdG9jb2wgIkNPTU1BTkQiKX19CiAgICAgICAgICAgICAgICAsImNvbW1hbmQiOiB7InZhbHVlIjogInt7Y29tbWFuZH19In0KICAgICAgICAgICAgICAgIHt7ZWxzZSBpZiAoZ3QgcG9ydCAwKX19CiAgICAgICAgICAgICAgICAgICAgLCJwb3J0Ijoge3twb3J0fX0KICAgICAgICAgICAgICAgIHt7ZWxzZX19CiAgICAgICAgICAgICAgICAgICwgInBvcnRJbmRleCI6IHt7bWFwcGVkfX0KICAgICAgICAgICAgICAgIHt7L2lmfX0KICAgICAgICAgICAgICAgIHt7I2lmIChvciAoZXEgcHJvdG9jb2wgIkhUVFAiKSAoZXEgcHJvdG9jb2wgIkhUVFBTIikpfX0KICAgICAgICAgICAgICAgICAgLCAicGF0aCI6ICJ7e2RlZmF1bHRJZkVtcHR5IHBhdGggJy8nfX0iCiAgICAgICAgICAgICAgICB7ey9pZn19CiAgICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGluY2x1ZGUgcmVmaWQ9ImNvbHVtbnMucHJvY2VkdXJlX2luc3RhbmNlX3Byb2Nlc3MiLz4sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7L2lmfX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMRUZUIEpPSU4gUFJPQ0VTU19JTlNUQU5DRVMgUFBJIE9OIFBQSS5QUk9DRURVUkVfSUQgPSBQRV9JLklECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLCAicGF0aCI6ICJ7e2RlZmF1bHRJZkVtcHR5IHBhdGggJy8nfX0iCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMRUZUIEpPSU4gUFJPQ0VTU19JTlNUQU5DRVMgUEkgT04gUEkuUFJPQ0VEVVJFX0lOU1RBTkNFX0lEID0gUEVfSS5JRAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7I2lmIChvciAoZXEgcHJvdG9jb2wgIkhUVFAiKSAoZXEgcHJvdG9jb2wgIkhUVFBTIikpfX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7L2lmfX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBJTlNFUlQgSU5UTyAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7ZWxzZX19Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBJTlNFUlQgSU5UTyAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAsInBvcnQiOiB7e3BvcnR9fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBWQVJDSEFSKDI1NSkgUkVGRVJFTkNFUyBSVU5USU1FX0lOU1RBTkNFUyAoSUQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7ZWxzZSBpZiAoZ3QgcG9ydCAwKX19Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">RFJPUCBUQUJMRSBJRiBFWElTVFMgVU5JRklFRF9QUk9DRURVUkVTOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICwiY29tbWFuZCI6IHsidmFsdWUiOiAie3tjb21tYW5kfX0ifQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">RFJPUCBUQUJMRSBJRiBFWElTVFMgVEFHUzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7I2lmIChlcSBwcm90b2NvbCAiQ09NTUFORCIpfX0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>artifact</last-search>
+      <last-search>healthCheck</last-search>
       <last-offset />
-      <last-pattern>artifact</last-pattern>
+      <last-pattern>healthCheck</last-pattern>
       <last-replace />
       <last-substitute>arguments\.</last-substitute>
       <last-dir>1</last-dir>
@@ -390,7 +397,6 @@
     </search>
     <history>
       <history-search>
-        <entry>exposes</entry>
         <entry>e=xpose</entry>
         <entry>arguments</entry>
         <entry>disposables</entry>
@@ -410,6 +416,7 @@
         <entry>process_in</entry>
         <entry>procedure</entry>
         <entry>artifact</entry>
+        <entry>healthCheck</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4hc29ydA==</entry>
