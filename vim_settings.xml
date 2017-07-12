@@ -5,6 +5,7 @@
     <filemarks>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V23__change_the_procedure_tables.sql" timestamp="1499841351780" />
       <file name="/workspace/solutions/cnup/cde-stacks/jersey-mysql-redis/stackfile.yml" timestamp="1499680112785" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/stack/impl/Stack.java" timestamp="1499846398678" />
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V26__add_health_table_for_process.sql" timestamp="1499095129318">
         <mark key="'" line="1" column="48" />
         <mark key="[" line="4" column="2" />
@@ -167,6 +168,9 @@
         <mark key="[" line="8" column="13" />
         <mark key="]" line="8" column="30" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/records/StackMarathonTranslator.java" timestamp="1499846354154">
+        <mark key="'" line="253" column="104" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/resources/UnifiedProceduresResourceTest.java" timestamp="1499844183760">
         <mark key="'" line="37" column="8" />
         <mark key="[" line="82" column="50" />
@@ -204,12 +208,12 @@
         <mark key="." line="166" column="36" />
         <mark key="^" line="166" column="36" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" timestamp="1499845205677">
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" timestamp="1499846432228">
         <mark key="'" line="29" column="36" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="32" column="40" />
-        <mark key="." line="34" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/templates/controller.tmpl" timestamp="1499827105284">
         <mark key="[" line="86" column="0" />
@@ -343,8 +347,8 @@
       <jump line="29" column="36" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7L2lmfX0K</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -355,32 +359,32 @@
       <register name="0" type="4">
         <text encoding="base64">ICAgewogICAgICAgICAgICAgICAgInByb3RvY29sIjogInt7cHJvdG9jb2x9fSIsCiAgICAgICAgICAgICAgICAiaW50ZXJ2YWxTZWNvbmRzIjoge3tpbnRlcnZhbH19LAogICAgICAgICAgICAgICAgInRpbWVvdXRTZWNvbmRzIjoge3t0aW1lb3V0fX0sCiAgICAgICAgICAgICAgICAibWF4Q29uc2VjdXRpdmVGYWlsdXJlcyI6IHt7Y29uc2VjdXRpdmV9fSwKICAgICAgICAgICAgICAgICJncmFjZVBlcmlvZFNlY29uZHMiOiB7e2lnbm9yZX19CiAgICAgICAgICAgICAgICB7eyNpZiAoZXEgcHJvdG9jb2wgIkNPTU1BTkQiKX19CiAgICAgICAgICAgICAgICAsImNvbW1hbmQiOiB7InZhbHVlIjogInt7Y29tbWFuZH19In0KICAgICAgICAgICAgICAgIHt7ZWxzZSBpZiAoZ3QgcG9ydCAwKX19CiAgICAgICAgICAgICAgICAgICAgLCJwb3J0Ijoge3twb3J0fX0KICAgICAgICAgICAgICAgIHt7ZWxzZX19CiAgICAgICAgICAgICAgICAgICwgInBvcnRJbmRleCI6IHt7bWFwcGVkfX0KICAgICAgICAgICAgICAgIHt7L2lmfX0KICAgICAgICAgICAgICAgIHt7I2lmIChvciAoZXEgcHJvdG9jb2wgIkhUVFAiKSAoZXEgcHJvdG9jb2wgIkhUVFBTIikpfX0KICAgICAgICAgICAgICAgICAgLCAicGF0aCI6ICJ7e2RlZmF1bHRJZkVtcHR5IHBhdGggJy8nfX0iCiAgICAgICAgICAgICAgICB7ey9pZn19CiAgICAgICAgICAgICAgfQ==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7L2lmfX0K</text>
+      <register name="1" type="8">
+        <text encoding="base64">ICAgICAKICAgICAKICAgICAKICAgICAKICAgICAKICAgICA=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLCAicGF0aCI6ICJ7e2RlZmF1bHRJZkVtcHR5IHBhdGggJy8nfX0iCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7I2lmIChvciAoZXEgcHJvdG9jb2wgIkhUVFAiKSAoZXEgcHJvdG9jb2wgIkhUVFBTIikpfX0K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHt7L2lmfX0K</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLCAicGF0aCI6ICJ7e2RlZmF1bHRJZkVtcHR5IHBhdGggJy8nfX0iCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7I2lmIChvciAoZXEgcHJvdG9jb2wgIkhUVFAiKSAoZXEgcHJvdG9jb2wgIkhUVFBTIikpfX0K</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7ZWxzZX19Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7L2lmfX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAsInBvcnQiOiB7e3BvcnR9fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7ZWxzZX19Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7ZWxzZSBpZiAoZ3QgcG9ydCAwKX19Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAsInBvcnQiOiB7e3BvcnR9fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICwiY29tbWFuZCI6IHsidmFsdWUiOiAie3tjb21tYW5kfX0ifQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7ZWxzZSBpZiAoZ3QgcG9ydCAwKX19Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7I2lmIChlcSBwcm90b2NvbCAiQ09NTUFORCIpfX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICwiY29tbWFuZCI6IHsidmFsdWUiOiAie3tjb21tYW5kfX0ifQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
