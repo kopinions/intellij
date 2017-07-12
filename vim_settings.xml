@@ -76,6 +76,13 @@
         <mark key="." line="948" column="29" />
         <mark key="^" line="948" column="29" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" timestamp="1499832749840">
+        <mark key="'" line="11" column="12" />
+        <mark key="[" line="14" column="26" />
+        <mark key="]" line="16" column="10" />
+        <mark key="^" line="16" column="10" />
+        <mark key="." line="16" column="10" />
+      </file>
       <file name="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/templates/consul.tmpl" timestamp="1499655866295">
         <mark key="[" line="32" column="8" />
         <mark key="]" line="32" column="8" />
@@ -108,7 +115,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="13" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Columns.xml" />
       <jump line="112" column="21" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Columns.xml" />
       <jump line="37" column="1" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
       <jump line="13" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
@@ -208,50 +214,47 @@
       <jump line="974" column="30" filename="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/conf/cdectl.json" />
       <jump line="948" column="29" filename="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/conf/cdectl.json" />
       <jump line="927" column="7" filename="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/conf/cdectl.json" />
+      <jump line="11" column="12" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>cde</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>cde</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>name&quot;: &quot;per</text>
       </register>
-      <register name="0" type="4">
-        <text>,
-        {
-          &quot;name&quot;: &quot;http_credential&quot;,
-          &quot;value&quot;: &quot;cde:pa$$word&quot;
-        }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAiaW5zdGFuY2VzIjogMSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ImNwdXMiOiAwLjIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICJmb3JjZVB1bGxJbWFnZSI6IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICJmb3JjZVB1bGxJbWFnZSI6IGZhbHNlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAiZm9yY2VQdWxsSW1hZ2UiOiBmYWxzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInBvcnRNYXBwaW5ncyI6IFsKICAgICAgICAgICAge3sjZWFjaCBleHBvc2VzfX0KICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAiY29udGFpbmVyUG9ydCI6IHt7Ln19LAogICAgICAgICAgICAgICAgICAgICJob3N0UG9ydCI6IDAKICAgICAgICAgICAgICAgIH17eyN1bmxlc3MgQGxhc3R9fSx7ey91bmxlc3N9fQogICAgICAgICAgICB7ey9lYWNofX0KICAgICAgICAgICAgXSwK</text>
+        <text encoding="base64">ICAgICAgICAgICJmb3JjZVB1bGxJbWFnZSI6IGZhbHNlCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAicG9ydE1hcHBpbmdzIjogWwogICAgICAgIHt7I2VhY2ggZXhwb3Nlc319CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICJjb250YWluZXJQb3J0Ijoge3sufX0sCiAgICAgICAgICAgICAgICAiaG9zdFBvcnQiOiAwCiAgICAgICAgICAgIH17eyN1bmxlc3MgQGxhc3R9fSx7ey91bmxlc3N9fQogICAgICAgIHt7L2VhY2h9fQogICAgICAgIF0s</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAiZm9yY2VQdWxsSW1hZ2UiOiBmYWxzZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gMzMwOAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgInBvcnRNYXBwaW5ncyI6IFsKICAgICAgICAgICAge3sjZWFjaCBleHBvc2VzfX0KICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAiY29udGFpbmVyUG9ydCI6IHt7Ln19LAogICAgICAgICAgICAgICAgICAgICJob3N0UG9ydCI6IDAKICAgICAgICAgICAgICAgIH17eyN1bmxlc3MgQGxhc3R9fSx7ey91bmxlc3N9fQogICAgICAgICAgICB7ey9lYWNofX0KICAgICAgICAgICAgXSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
