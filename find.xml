@@ -3,12 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="xml" />
     <recentFileMasks>
-      <mask>*.go</mask>
-      <mask>M</mask>
-      <mask>Ma</mask>
-      <mask>Make</mask>
-      <mask>Makefi</mask>
       <mask>Makefile</mask>
       <mask>.gi</mask>
       <mask>.git</mask>
@@ -26,7 +22,6 @@
       <mask>.x</mask>
       <mask>.xm</mask>
       <mask>.xml</mask>
-      <mask>xml</mask>
       <mask>*xml</mask>
       <mask>*.xml</mask>
       <mask>D</mask>
@@ -34,6 +29,12 @@
       <mask>Docker</mask>
       <mask>Dockerfi</mask>
       <mask>Dockerfile</mask>
+      <mask>X</mask>
+      <mask>XM</mask>
+      <mask>XML</mask>
+      <mask>x</mask>
+      <mask>xm</mask>
+      <mask>xml</mask>
     </recentFileMasks>
   </component>
 </application>
