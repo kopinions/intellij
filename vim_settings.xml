@@ -65,12 +65,12 @@
         <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jknack/handlebars/4.0.6/ccf00179b6648523e5c64b9b5fb783d89e42401b/handlebars-4.0.6.jar!/com/github/jknack/handlebars/helper/EachHelper.class" timestamp="1499681185696" />
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProcedureTest.java" timestamp="1499911242228">
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProcedureTest.java" timestamp="1499924191808">
         <mark key="'" line="47" column="4" />
-        <mark key="[" line="42" column="41" />
-        <mark key="]" line="41" column="54" />
-        <mark key="^" line="41" column="54" />
-        <mark key="." line="41" column="54" />
+        <mark key="[" line="42" column="50" />
+        <mark key="]" line="42" column="73" />
+        <mark key="^" line="42" column="73" />
+        <mark key="." line="42" column="73" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Records.xml" timestamp="1499843565003">
         <mark key="'" line="140" column="31" />
@@ -316,10 +316,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>enabledOn</text>
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>enabledOn</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>volume-driver</text>
@@ -328,34 +328,34 @@
         <text encoding="base64">ICAgewogICAgICAgICAgICAgICAgInByb3RvY29sIjogInt7cHJvdG9jb2x9fSIsCiAgICAgICAgICAgICAgICAiaW50ZXJ2YWxTZWNvbmRzIjoge3tpbnRlcnZhbH19LAogICAgICAgICAgICAgICAgInRpbWVvdXRTZWNvbmRzIjoge3t0aW1lb3V0fX0sCiAgICAgICAgICAgICAgICAibWF4Q29uc2VjdXRpdmVGYWlsdXJlcyI6IHt7Y29uc2VjdXRpdmV9fSwKICAgICAgICAgICAgICAgICJncmFjZVBlcmlvZFNlY29uZHMiOiB7e2lnbm9yZX19CiAgICAgICAgICAgICAgICB7eyNpZiAoZXEgcHJvdG9jb2wgIkNPTU1BTkQiKX19CiAgICAgICAgICAgICAgICAsImNvbW1hbmQiOiB7InZhbHVlIjogInt7Y29tbWFuZH19In0KICAgICAgICAgICAgICAgIHt7ZWxzZSBpZiAoZ3QgcG9ydCAwKX19CiAgICAgICAgICAgICAgICAgICAgLCJwb3J0Ijoge3twb3J0fX0KICAgICAgICAgICAgICAgIHt7ZWxzZX19CiAgICAgICAgICAgICAgICAgICwgInBvcnRJbmRleCI6IHt7bWFwcGVkfX0KICAgICAgICAgICAgICAgIHt7L2lmfX0KICAgICAgICAgICAgICAgIHt7I2lmIChvciAoZXEgcHJvdG9jb2wgIkhUVFAiKSAoZXEgcHJvdG9jb2wgIkhUVFBTIikpfX0KICAgICAgICAgICAgICAgICAgLCAicGF0aCI6ICJ7e2RlZmF1bHRJZkVtcHR5IHBhdGggJy8nfX0iCiAgICAgICAgICAgICAgICB7ey9pZn19CiAgICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0b2RvIGFzc2lnbiB0aGUgc2VydmljZSBwb3J0CiAgICAgICAgLy8gdG9kbyBhc3NpZ24gdGhlIHZvbHVtZXMKICAgICAgICAvLyB0b2RvIGFkZCBsaW5rcwogICAgICAgIC8vIHRvZG86IGFkZCBlbnYgZm9yIHNlcnZpY2UgZGlzY292ZXJ5CiAgICAgICAgLy8gdG9kbzogYXNzIHN5bmFwc2UgZm9yIHRoZSBzZXJ2aWNlIGFjY2Vzcwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyB0b2RvOiBzaG91bGQgYWJsZSB0byBzZXR1cCB0aGUgY29yZWxhdGVkIGVudgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcm92aWRlci5wcm92aWRlKCkK</text>
+        <text encoding="base64">ICAgICAgICAvLyB0b2RvIGFzc2lnbiB0aGUgc2VydmljZSBwb3J0CiAgICAgICAgLy8gdG9kbyBhc3NpZ24gdGhlIHZvbHVtZXMKICAgICAgICAvLyB0b2RvIGFkZCBsaW5rcwogICAgICAgIC8vIHRvZG86IGFkZCBlbnYgZm9yIHNlcnZpY2UgZGlzY292ZXJ5CiAgICAgICAgLy8gdG9kbzogYXNzIHN5bmFwc2UgZm9yIHRoZSBzZXJ2aWNlIGFjY2Vzcwo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcm92aWRlci5wcm92aWRlKCkK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB3aGljaC5nZXQoKS5wcm92aWRlKHByb2NlZHVyZUluc3RhbmNlKQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">T3ZlcnJpZGUKICAgIHB1YmxpYyBQcm9jZWR1cmVJbnN0YW5jZSBpbnN0YW50aWF0aW9uKE1hcDxTdHJpbmcsIE9iamVjdD4gc3RhcnR1cFdpdGgpIHsKICAgICAgICByZXR1cm4gaW5zdGFuY2VzLnN0YXJ0dQ==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Ly8gICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gcHJvdmlkZSA9IHByb3ZpZGVyLnByb3ZpZGUodGhpcywgc3RhcnR1cFdpdGgpOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IHByb3ZpZGUgPSBwcm92aWRlci5wcm92aWRlKHRoaXMsIHN0YXJ0dXBXaXRoKTsK</text>
       </register>
-      <register name="7" type="8">
+      <register name="8" type="8">
         <text encoding="base64">ICAgICAKICAgICAKICAgICAKICAgICAKICAgICAKICAgICA=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHt7L2lmfX0K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLCAicGF0aCI6ICJ7e2RlZmF1bHRJZkVtcHR5IHBhdGggJy8nfX0iCg==</text>
-      </register>
       <register name=":" type="4">
-        <text>reg</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -409,8 +409,8 @@
         <entry>ju</entry>
         <entry>%s/arguments\.//gc</entry>
         <entry>qw</entry>
-        <entry>w</entry>
         <entry>reg</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
