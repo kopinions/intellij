@@ -64,21 +64,13 @@
         <mark key="^" line="12" column="12" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/UnifiedProcedures.xml" timestamp="1499842907780">
-        <mark key="a" line="9" column="340" />
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="30" column="115" />
-        <mark key="]" line="30" column="115" />
-        <mark key="." line="30" column="115" />
-        <mark key="^" line="30" column="115" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jknack/handlebars/4.0.6/ccf00179b6648523e5c64b9b5fb783d89e42401b/handlebars-4.0.6.jar!/com/github/jknack/handlebars/helper/EachHelper.class" timestamp="1499681185696" />
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProcedureTest.java" timestamp="1499841020314">
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProcedureTest.java" timestamp="1499911242228">
         <mark key="'" line="47" column="4" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="^" line="42" column="52" />
-        <mark key="." line="41" column="0" />
+        <mark key="[" line="42" column="41" />
+        <mark key="]" line="41" column="54" />
+        <mark key="^" line="41" column="54" />
+        <mark key="." line="41" column="54" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Records.xml" timestamp="1499843565003">
         <mark key="'" line="140" column="31" />
@@ -94,12 +86,12 @@
         <mark key="." line="948" column="29" />
         <mark key="^" line="948" column="29" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/resources/UnifiedProcedureResource.java" timestamp="1499853737844">
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/resources/UnifiedProcedureResource.java" timestamp="1499910854030">
         <mark key="'" line="76" column="0" />
         <mark key="[" line="63" column="26" />
-        <mark key="]" line="63" column="34" />
-        <mark key="." line="63" column="34" />
-        <mark key="^" line="63" column="34" />
+        <mark key="]" line="63" column="33" />
+        <mark key="." line="63" column="33" />
+        <mark key="^" line="63" column="33" />
       </file>
       <file name="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/templates/consul.tmpl" timestamp="1499655866295">
         <mark key="[" line="32" column="8" />
@@ -165,7 +157,7 @@
         <mark key="^" line="1534" column="21" />
         <mark key="." line="1534" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499851121114">
+      <file name="/Dummy.txt" timestamp="1499910924991">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/templates/cde.tmpl" timestamp="1499830001834">
@@ -323,11 +315,11 @@
       <jump line="232" column="12" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/records/StackMarathonTranslator.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0b2RvIGFzc2lnbiB0aGUgc2VydmljZSBwb3J0CiAgICAgICAgLy8gdG9kbyBhc3NpZ24gdGhlIHZvbHVtZXMKICAgICAgICAvLyB0b2RvIGFkZCBsaW5rcwogICAgICAgIC8vIHRvZG86IGFkZCBlbnYgZm9yIHNlcnZpY2UgZGlzY292ZXJ5CiAgICAgICAgLy8gdG9kbzogYXNzIHN5bmFwc2UgZm9yIHRoZSBzZXJ2aWNlIGFjY2Vzcwo=</text>
+      <register name="&quot;" type="4">
+        <text>enabledOn</text>
       </register>
       <register name="-" type="4">
-        <text>landedOn</text>
+        <text>enabledOn</text>
       </register>
       <register name="/" type="4">
         <text>volume-driver</text>
@@ -363,7 +355,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgLCAicGF0aCI6ICJ7e2RlZmF1bHRJZkVtcHR5IHBhdGggJy8nfX0iCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>reg</text>
       </register>
     </registers>
     <search>
@@ -416,9 +408,9 @@
         <entry>help</entry>
         <entry>ju</entry>
         <entry>%s/arguments\.//gc</entry>
-        <entry>reg</entry>
         <entry>qw</entry>
         <entry>w</entry>
+        <entry>reg</entry>
       </history-cmd>
       <history-expr />
       <history-input />
