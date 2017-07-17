@@ -37,7 +37,12 @@
         <mark key="." line="2" column="29" />
         <mark key="^" line="2" column="29" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" timestamp="1500269774748" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" timestamp="1500277456902">
+        <mark key="[" line="48" column="56" />
+        <mark key="]" line="49" column="7" />
+        <mark key="." line="49" column="7" />
+        <mark key="^" line="49" column="7" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" timestamp="1500270778251">
         <mark key="'" line="155" column="15" />
         <mark key="[" line="155" column="15" />
@@ -92,10 +97,12 @@
       <file name="/workspace/solutions/p2p/midas/modules/api/src/main/java/com/thoughtworks/midas/api/FinancingRequestsResource.java" timestamp="1499950207731" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jknack/handlebars/4.0.6/ccf00179b6648523e5c64b9b5fb783d89e42401b/handlebars-4.0.6.jar!/com/github/jknack/handlebars/helper/EachHelper.class" timestamp="1499681185696" />
       <file name="/workspace/solutions/p2p/midas/modules/implementation-core/src/main/java/com/thoughtworks/midas/core/mybatis/records/CreditAssignmentProductRecord.java" timestamp="1499948606451" />
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProcedureTest.java" timestamp="1500271650359">
-        <mark key="'" line="66" column="42" />
-        <mark key="[" line="68" column="63" />
-        <mark key="^" line="68" column="59" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProcedureTest.java" timestamp="1500276008682">
+        <mark key="'" line="69" column="38" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="52" />
+        <mark key="^" line="69" column="38" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Records.xml" timestamp="1500270684826">
         <mark key="'" line="109" column="9" />
@@ -160,7 +167,7 @@
         <mark key="." line="25" column="52" />
         <mark key="^" line="25" column="52" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstance.java" timestamp="1500265518506">
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstance.java" timestamp="1500275032844">
         <mark key="[" line="53" column="4" />
         <mark key="]" line="53" column="4" />
         <mark key="." line="53" column="4" />
@@ -193,6 +200,9 @@
       </file>
       <file name="/HTML File.txt.ft" timestamp="1496580647200">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/records/StackMarathonTranslator.java" timestamp="1500276270922">
+        <mark key="'" line="223" column="60" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/resources/UnifiedProceduresResourceTest.java" timestamp="1499844183760">
         <mark key="'" line="37" column="8" />
@@ -231,6 +241,9 @@
         <mark key="^" line="29" column="18" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/resources/LambdasResource.java" timestamp="1500255255830" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProvidersTest.java" timestamp="1500275077443">
+        <mark key="'" line="148" column="0" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Columns.xml" timestamp="1500270932308">
         <mark key="'" line="148" column="8" />
         <mark key="[" line="149" column="8" />
@@ -244,12 +257,13 @@
         <mark key="." line="166" column="36" />
         <mark key="^" line="166" column="36" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" timestamp="1499935784291">
-        <mark key="'" line="29" column="36" />
-        <mark key="[" line="17" column="24" />
-        <mark key="]" line="17" column="27" />
-        <mark key="^" line="17" column="27" />
-        <mark key="." line="17" column="27" />
+      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/registry/000-synapse/Dockerfile" timestamp="1500274525636" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" timestamp="1500277379199">
+        <mark key="'" line="46" column="16" />
+        <mark key="[" line="20" column="20" />
+        <mark key="]" line="20" column="20" />
+        <mark key="." line="20" column="20" />
+        <mark key="^" line="20" column="20" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/resources/UnifiedProcedureResourceTest.java" timestamp="1499843944519">
         <mark key="'" line="150" column="8" />
@@ -278,11 +292,6 @@
       <file name="/workspace/solutions/p2p/midas/modules/implementation-core/src/main/java/com/thoughtworks/midas/core/mybatis/records/ProductRepository.java" timestamp="1499948325872" />
     </filemarks>
     <jumps>
-      <jump line="229" column="24" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/records/StackMarathonTranslator.java" />
-      <jump line="230" column="12" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/records/StackMarathonTranslator.java" />
-      <jump line="231" column="12" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/records/StackMarathonTranslator.java" />
-      <jump line="232" column="12" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/records/StackMarathonTranslator.java" />
-      <jump line="143" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Records.xml" />
       <jump line="159" column="19" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Records.xml" />
       <jump line="163" column="19" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Records.xml" />
       <jump line="166" column="51" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Records.xml" />
@@ -378,6 +387,11 @@
       <jump line="88" column="15" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Records.xml" />
       <jump line="109" column="9" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Records.xml" />
       <jump line="155" column="15" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
+      <jump line="148" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProvidersTest.java" />
+      <jump line="69" column="38" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProcedureTest.java" />
+      <jump line="173" column="7" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
+      <jump line="223" column="60" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/records/StackMarathonTranslator.java" />
+      <jump line="46" column="16" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -385,8 +399,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFByb2Nlc3NJbnN0YW5jZS5MaW5rPiBsaW5rcyA9ICQocHJvY2VzcywgImxpbmtzIik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -395,47 +409,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>exposei</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>id</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFByb2Nlc3NJbnN0YW5jZS5MaW5rPiBsaW5rcyA9ICQocHJvY2VzcywgImxpbmtzIik7Cg==</text>
+      <register name="0" type="4">
+        <text>{{#each procedure.runtime.processes}}
+            &quot;/{{procedure.belongs.name}}_{{lower procedure.type}}_{{arguments.meta.app.id}}/runtime/{{name}}&quot;{{#unless @last}},{{/unless}}
+          {{/each}}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFByb2Nlc3NJbnN0YW5jZS5FeHBvc2U+IGV4cG9zZXMgPSAkKHByb2Nlc3MsICJleHBvc2VzIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7I2VhY2ggICAK</text>
       </register>
-      <register name="2" type="8">
-        <text>id
-id
-id
-id</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="8">
-        <text>id
-id
-id
-id
-id</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC8vIHRvZG86IHNob3VsZCBhYmxlIHRvIHNldCB0aGUgaGVhbHRoIGNoZWNrIGZvciB0aGUgc3luYXBzZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">XAo=</text>
+        <text encoding="base64">ICAgIC8vIHRvZG86IHNob3VsZCBhYmxlIHRvIHNldCB0aGUgaGVhbHRoIGNoZWNrIGZvciB0aGUgc3luYXBzZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN0cmVhbSh2YWx1ZS5zcGxpdCgiXFx8IikpLm1hcChJbnRlZ2VyOjp2YWx1ZU9mKS5jb2xsZWN0KHRvTGlzdCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25maWcgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN0cmVhbSh2YWx1ZS5zcGxpdCgiXFx8IikpLm1hcChJbnRlZ2VyOjp2YWx1ZU9mKS5jb2xsZWN0KHRvTGlzdCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFByb2Nlc3NJbnN0YW5jZS5FeHBvc2U+IGV4cG9zZXMgPSAkKHByb2Nlc3MsICJleHBvc2VzIik7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN0cmVhbSh2YWx1ZS5zcGxpdCgiXFx8IikpLm1hcChJbnRlZ2VyOjp2YWx1ZU9mKS5jb2xsZWN0KHRvTGlzdCgpKTsK</text>
+      <register name="7" type="8">
+        <text>id
+id
+id
+id</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      <register name="8" type="8">
+        <text>id
+id
+id
+id
+id</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gc3VwZXIuZ2V0VHlwZSgpOwo=</text>
+        <text encoding="base64">XAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
