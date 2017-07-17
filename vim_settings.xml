@@ -37,11 +37,6 @@
         <mark key="." line="2" column="29" />
         <mark key="^" line="2" column="29" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" timestamp="1499999402607">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" timestamp="1499937265691">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="93" column="16" />
@@ -57,6 +52,7 @@
         <mark key="^" line="42" column="24" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/jersey/PageToJson.java" timestamp="1500255257718" />
+      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/templates/receptor.tmpl" timestamp="1500261216151" />
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Process.java" timestamp="1500257599326">
         <mark key="'" line="123" column="0" />
         <mark key="[" line="76" column="15" />
@@ -115,12 +111,12 @@
         <mark key="^" line="156" column="8" />
         <mark key="." line="157" column="0" />
       </file>
-      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/conf/cdectl.json" timestamp="1499830271334">
-        <mark key="'" line="927" column="7" />
-        <mark key="[" line="948" column="20" />
-        <mark key="]" line="948" column="29" />
-        <mark key="." line="948" column="29" />
-        <mark key="^" line="948" column="29" />
+      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/conf/cdectl.json" timestamp="1500261627715">
+        <mark key="'" line="847" column="15" />
+        <mark key="[" line="970" column="20" />
+        <mark key="]" line="970" column="20" />
+        <mark key="." line="970" column="20" />
+        <mark key="^" line="970" column="37" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/resources/UnifiedProcedureResource.java" timestamp="1500255193895">
         <mark key="'" line="76" column="0" />
@@ -160,6 +156,7 @@
         <mark key="." line="25" column="21" />
         <mark key="^" line="25" column="21" />
       </file>
+      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/te/te.go" timestamp="1500261180837" />
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/resources/DeploymentResource.java" timestamp="1499839335471" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jknack/handlebars/4.0.6/d97f2194c1158bdc22bd59f097fe4ff8fd340133/handlebars-4.0.6-sources.jar!/com/github/jknack/handlebars/helper/EachHelper.java" timestamp="1499681405115" />
       <file name="/workspace/solutions/p2p/midas/modules/implementation-core/src/main/java/com/thoughtworks/midas/core/mybatis/records/ProductRecord.java" timestamp="1499948597416" />
@@ -205,11 +202,6 @@
         <mark key="]" line="82" column="59" />
         <mark key="." line="82" column="59" />
         <mark key="^" line="82" column="59" />
-      </file>
-      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/receptor/Dockerfile" timestamp="1499998493994">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="/workspace/golang/src/github.com/sjkyspa/stacks/contrib/iaas/aws/cde.json" timestamp="1499325045867">
         <mark key="'" line="1439" column="20" />
@@ -288,24 +280,11 @@
       <file name="/workspace/solutions/p2p/midas/modules/implementation-core/src/main/java/com/thoughtworks/midas/core/mybatis/records/ProductRepository.java" timestamp="1499948325872" />
     </filemarks>
     <jumps>
-      <jump line="54" column="72" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
-      <jump line="122" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
-      <jump line="26" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
-      <jump line="53" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
-      <jump line="115" column="107" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
-      <jump line="0" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
-      <jump line="23" column="14" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
-      <jump line="31" column="26" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
-      <jump line="60" column="20" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
-      <jump line="41" column="14" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
       <jump line="24" column="22" filename="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/templates/cde.tmpl" />
       <jump line="23" column="0" filename="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/templates/permanents.tmpl" />
       <jump line="1000" column="2" filename="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/conf/cdectl.json" />
       <jump line="967" column="8" filename="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/conf/cdectl.json" />
       <jump line="945" column="8" filename="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/conf/cdectl.json" />
-      <jump line="556" column="19" filename="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/conf/cdectl.json" />
-      <jump line="730" column="19" filename="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/conf/cdectl.json" />
-      <jump line="748" column="19" filename="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/conf/cdectl.json" />
       <jump line="786" column="25" filename="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/conf/cdectl.json" />
       <jump line="792" column="19" filename="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/conf/cdectl.json" />
       <jump line="996" column="7" filename="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/conf/cdectl.json" />
@@ -388,6 +367,19 @@
       <jump line="18" column="23" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Runtime.java" />
       <jump line="54" column="13" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Procedure.java" />
       <jump line="93" column="127" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Procedure.java" />
+      <jump line="1005" column="19" filename="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/conf/cdectl.json" />
+      <jump line="133" column="7" filename="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/conf/cdectl.json" />
+      <jump line="181" column="7" filename="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/conf/cdectl.json" />
+      <jump line="229" column="7" filename="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/conf/cdectl.json" />
+      <jump line="285" column="7" filename="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/conf/cdectl.json" />
+      <jump line="429" column="7" filename="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/conf/cdectl.json" />
+      <jump line="556" column="7" filename="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/conf/cdectl.json" />
+      <jump line="596" column="7" filename="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/conf/cdectl.json" />
+      <jump line="712" column="7" filename="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/conf/cdectl.json" />
+      <jump line="730" column="7" filename="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/conf/cdectl.json" />
+      <jump line="748" column="7" filename="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/conf/cdectl.json" />
+      <jump line="766" column="7" filename="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/conf/cdectl.json" />
+      <jump line="847" column="15" filename="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/conf/cdectl.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -395,8 +387,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+      <register name="&quot;" type="4">
+        <text>cde.service.consul</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -405,13 +397,38 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>cde.service.consul</text>
       </register>
       <register name="/" type="4">
-        <text>vistor</text>
+        <text>receptor</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">cHVibGljIHN0YXRpYyBNYXA8U3RyaW5nLCBPYmplY3Q+ICQoU3RyaW5nIG5hbWUsIE9iamVjdCB2YWx1ZSkgewogICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gdGFyZ2V0ID0gbmV3IEhhc2hNYXA8PigpOwogICAgICAgIHRhcmdldC5wdXQobmFtZSwgdmFsdWUpOwogICAgICAgIHJldHVybiB0YXJnZXQ7CiAgICB9</text>
+        <text>{
+      &quot;name&quot;: &quot;cde&quot;,
+      &quot;provider&quot;: &quot;marathon&quot;,
+      &quot;attributes&quot;: [
+        {
+          &quot;name&quot;: &quot;mem&quot;,
+          &quot;value&quot;: &quot;1024&quot;
+        },
+        {
+          &quot;name&quot;: &quot;cpu&quot;,
+          &quot;value&quot;: &quot;0.1&quot;
+        },
+        {
+          &quot;name&quot;: &quot;instances&quot;,
+          &quot;value&quot;: &quot;1&quot;
+        },
+        {
+          &quot;name&quot;: &quot;image&quot;,
+          &quot;value&quot;: &quot;mesosphere/marathon:v1.4.3&quot;
+        },
+        {
+          &quot;name&quot;: &quot;http_credential&quot;,
+          &quot;value&quot;: &quot;cde:pa$$word&quot;
+        }
+      ]
+    }</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
@@ -445,9 +462,9 @@
       </register>
     </registers>
     <search>
-      <last-search>vistor</last-search>
+      <last-search>receptor</last-search>
       <last-offset />
-      <last-pattern>vistor</last-pattern>
+      <last-pattern>receptor</last-pattern>
       <last-replace>RPI</last-replace>
       <last-substitute>PPI</last-substitute>
       <last-dir>1</last-dir>
@@ -455,13 +472,11 @@
     </search>
     <history>
       <history-search>
-        <entry>runtime_proce</entry>
         <entry>procedure_in</entry>
         <entry>process_in</entry>
         <entry>procedure</entry>
         <entry>artifact</entry>
         <entry>healthCheck</entry>
-        <entry>provider</entry>
         <entry>provid</entry>
         <entry>volume</entry>
         <entry>volume-driver</entry>
@@ -475,6 +490,8 @@
         <entry>mem</entry>
         <entry>accept</entry>
         <entry>vistor</entry>
+        <entry>provider</entry>
+        <entry>receptor</entry>
       </history-search>
       <history-cmd>
         <entry>set vim-surround</entry>
