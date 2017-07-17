@@ -37,12 +37,12 @@
         <mark key="." line="2" column="29" />
         <mark key="^" line="2" column="29" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" timestamp="1500286228717">
-        <mark key="'" line="35" column="11" />
-        <mark key="[" line="37" column="26" />
-        <mark key="]" line="37" column="30" />
-        <mark key="." line="37" column="30" />
-        <mark key="^" line="37" column="30" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" timestamp="1500299614468">
+        <mark key="'" line="33" column="11" />
+        <mark key="[" line="40" column="4" />
+        <mark key="]" line="40" column="4" />
+        <mark key="." line="40" column="4" />
+        <mark key="^" line="40" column="4" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" timestamp="1500270778251">
         <mark key="'" line="155" column="15" />
@@ -167,7 +167,7 @@
       <file name="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/te/te.go" timestamp="1500261180837" />
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/resources/DeploymentResource.java" timestamp="1499839335471" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jknack/handlebars/4.0.6/d97f2194c1158bdc22bd59f097fe4ff8fd340133/handlebars-4.0.6-sources.jar!/com/github/jknack/handlebars/helper/EachHelper.java" timestamp="1499681405115" />
-      <file name="/workspace/solutions/p2p/midas/modules/implementation-core/src/main/java/com/thoughtworks/midas/core/mybatis/records/ProductRecord.java" timestamp="1500271517584" />
+      <file name="/workspace/solutions/p2p/midas/modules/implementation-core/src/main/java/com/thoughtworks/midas/core/mybatis/records/ProductRecord.java" timestamp="1500299655725" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/function/Function.java" timestamp="1499932102280" />
       <file name="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/templates/system.tmpl" timestamp="1499830113208">
         <mark key="[" line="25" column="47" />
@@ -411,7 +411,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>stringListPair</text>
+        <text encoding="base64">ICAgIGV4cG9zZXMuZm9yRWFjaChuZXcgQmlDb25zdW1lcjxTdHJpbmcsIExpc3Q8UHJvY2VkdXJlSW5zdGFuY2UuUHJvY2Vzc0luc3RhbmNlLkV4cG9zZT4+KCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgYWNjZXB0KFN0cmluZyBzLCBMaXN0PFByb2NlZHVyZUluc3RhbmNlLlByb2Nlc3NJbnN0YW5jZS5FeHBvc2U+IGV4cG9zZXMpIHsKCiAgICAgICAgICAgIH0KICAgICAgICB9KTs=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -420,7 +420,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>stringListPair</text>
+        <text>Throwable</text>
       </register>
       <register name="/" type="4">
         <text>id</text>
@@ -429,33 +429,33 @@
         <text>com.thoughtworks.cnup.up.core.ProcedureInstance.ProcessInstance.Expose</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">ICAgIGV4cG9zZXMuZm9yRWFjaChuZXcgQmlDb25zdW1lcjxTdHJpbmcsIExpc3Q8UHJvY2VkdXJlSW5zdGFuY2UuUHJvY2Vzc0luc3RhbmNlLkV4cG9zZT4+KCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgYWNjZXB0KFN0cmluZyBzLCBMaXN0PFByb2NlZHVyZUluc3RhbmNlLlByb2Nlc3NJbnN0YW5jZS5FeHBvc2U+IGV4cG9zZXMpIHsKCiAgICAgICAgICAgIH0KICAgICAgICB9KTs=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBIYXNoTWFwPE9iamVjdCwgT2JqZWN0PiBkZWZhdWx0Q29uZmlnID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
+      </register>
+      <register name="3" type="4">
         <text>{
                                 return concat.collect(toList());
                             }</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9KS5jb2xsZWN0KHRvTGlzdCgpKTsK</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHVibGljIFN0cmVhbTw/PiBhcHBseShQcm9jZWR1cmVJbnN0YW5jZS5Qcm9jZXNzSW5zdGFuY2UuRXhwb3NlIGV4cG9zZSkgewo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25jYXQuY29sbGVjdCh0b0xpc3QoKSk7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbGlzdC5hZGRBbGwobGlzdDIpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTGlzdHMuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25jYXQuY29sbGVjdCh0b0xpc3QoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
