@@ -15,7 +15,7 @@
       <file name="/a.dummy" timestamp="1499931817968">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V30__add_info_to_process_instance.sql" timestamp="1499933371432">
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V30__add_info_to_process_instance.sql" timestamp="1500271621461">
         <mark key="'" line="20" column="18" />
         <mark key="[" line="18" column="21" />
         <mark key="]" line="18" column="21" />
@@ -45,12 +45,12 @@
         <mark key="^" line="155" column="15" />
         <mark key="." line="155" column="15" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/ProcedureInstances.xml" timestamp="1500270502858">
-        <mark key="'" line="93" column="97" />
-        <mark key="[" line="75" column="42" />
-        <mark key="]" line="75" column="42" />
-        <mark key="." line="75" column="42" />
-        <mark key="^" line="75" column="42" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/ProcedureInstances.xml" timestamp="1500271562600">
+        <mark key="'" line="95" column="97" />
+        <mark key="[" line="54" column="18" />
+        <mark key="]" line="54" column="22" />
+        <mark key="." line="54" column="22" />
+        <mark key="^" line="54" column="22" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/jersey/PageToJson.java" timestamp="1500255257718" />
       <file name="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/templates/receptor.tmpl" timestamp="1500261216151" />
@@ -92,12 +92,10 @@
       <file name="/workspace/solutions/p2p/midas/modules/api/src/main/java/com/thoughtworks/midas/api/FinancingRequestsResource.java" timestamp="1499950207731" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jknack/handlebars/4.0.6/ccf00179b6648523e5c64b9b5fb783d89e42401b/handlebars-4.0.6.jar!/com/github/jknack/handlebars/helper/EachHelper.class" timestamp="1499681185696" />
       <file name="/workspace/solutions/p2p/midas/modules/implementation-core/src/main/java/com/thoughtworks/midas/core/mybatis/records/CreditAssignmentProductRecord.java" timestamp="1499948606451" />
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProcedureTest.java" timestamp="1500271095685">
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProcedureTest.java" timestamp="1500271650359">
         <mark key="'" line="66" column="42" />
-        <mark key="[" line="66" column="69" />
-        <mark key="]" line="66" column="7" />
-        <mark key="^" line="66" column="7" />
-        <mark key="." line="66" column="7" />
+        <mark key="[" line="68" column="63" />
+        <mark key="^" line="68" column="59" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Records.xml" timestamp="1500270684826">
         <mark key="'" line="109" column="9" />
@@ -154,7 +152,7 @@
       <file name="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/te/te.go" timestamp="1500261180837" />
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/resources/DeploymentResource.java" timestamp="1499839335471" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jknack/handlebars/4.0.6/d97f2194c1158bdc22bd59f097fe4ff8fd340133/handlebars-4.0.6-sources.jar!/com/github/jknack/handlebars/helper/EachHelper.java" timestamp="1499681405115" />
-      <file name="/workspace/solutions/p2p/midas/modules/implementation-core/src/main/java/com/thoughtworks/midas/core/mybatis/records/ProductRecord.java" timestamp="1500271471137" />
+      <file name="/workspace/solutions/p2p/midas/modules/implementation-core/src/main/java/com/thoughtworks/midas/core/mybatis/records/ProductRecord.java" timestamp="1500271517584" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/function/Function.java" timestamp="1499932102280" />
       <file name="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/templates/system.tmpl" timestamp="1499830113208">
         <mark key="[" line="25" column="47" />
@@ -388,7 +386,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFByb2Nlc3NJbnN0YW5jZS5FeHBvc2U+IGV4cG9zZXMgPSAkKHByb2Nlc3MsICJleHBvc2VzIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFByb2Nlc3NJbnN0YW5jZS5MaW5rPiBsaW5rcyA9ICQocHJvY2VzcywgImxpbmtzIik7Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -397,13 +395,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>RPI</text>
+        <text>exposei</text>
       </register>
       <register name="/" type="4">
         <text>id</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFByb2Nlc3NJbnN0YW5jZS5FeHBvc2U+IGV4cG9zZXMgPSAkKHByb2Nlc3MsICJleHBvc2VzIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFByb2Nlc3NJbnN0YW5jZS5MaW5rPiBsaW5rcyA9ICQocHJvY2VzcywgImxpbmtzIik7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBMaXN0PFByb2Nlc3NJbnN0YW5jZS5FeHBvc2U+IGV4cG9zZXMgPSAkKHByb2Nlc3MsICJleHBvc2VzIik7Cg==</text>
