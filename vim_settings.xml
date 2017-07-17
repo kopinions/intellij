@@ -37,12 +37,12 @@
         <mark key="." line="2" column="29" />
         <mark key="^" line="2" column="29" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" timestamp="1499937265691">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="93" column="16" />
-        <mark key="]" line="93" column="15" />
-        <mark key="^" line="93" column="15" />
-        <mark key="." line="93" column="15" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" timestamp="1500262691323">
+        <mark key="'" line="51" column="8" />
+        <mark key="[" line="132" column="20" />
+        <mark key="]" line="134" column="15" />
+        <mark key="^" line="134" column="15" />
+        <mark key="." line="134" column="15" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/ProcedureInstances.xml" timestamp="1500259680598">
         <mark key="'" line="89" column="97" />
@@ -167,18 +167,18 @@
         <mark key="." line="25" column="52" />
         <mark key="^" line="25" column="52" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstance.java" timestamp="1500000934336">
-        <mark key="[" line="40" column="4" />
-        <mark key="]" line="40" column="3" />
-        <mark key="." line="40" column="3" />
-        <mark key="^" line="40" column="3" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstance.java" timestamp="1500263443046">
+        <mark key="[" line="44" column="30" />
+        <mark key="]" line="44" column="19" />
+        <mark key="^" line="44" column="19" />
+        <mark key="." line="44" column="46" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Procedure.java" timestamp="1500260587288">
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Procedure.java" timestamp="1500263128683">
         <mark key="'" line="93" column="127" />
-        <mark key="[" line="85" column="34" />
-        <mark key="]" line="100" column="34" />
-        <mark key="." line="100" column="34" />
-        <mark key="^" line="100" column="34" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="7" />
+        <mark key="." line="60" column="7" />
+        <mark key="^" line="60" column="7" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/mappers/handlers/LinksHandler.java" timestamp="1499062520770">
         <mark key="'" line="29" column="21" />
@@ -267,7 +267,7 @@
         <mark key="." line="22" column="135" />
         <mark key="^" line="22" column="135" />
       </file>
-      <file name="/fragment.java" timestamp="1500258645599">
+      <file name="/fragment.java" timestamp="1500262542529">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/Modules.java" timestamp="1500259834929">
@@ -280,11 +280,6 @@
       <file name="/workspace/solutions/p2p/midas/modules/implementation-core/src/main/java/com/thoughtworks/midas/core/mybatis/records/ProductRepository.java" timestamp="1499948325872" />
     </filemarks>
     <jumps>
-      <jump line="24" column="22" filename="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/templates/cde.tmpl" />
-      <jump line="23" column="0" filename="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/templates/permanents.tmpl" />
-      <jump line="1000" column="2" filename="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/conf/cdectl.json" />
-      <jump line="967" column="8" filename="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/conf/cdectl.json" />
-      <jump line="945" column="8" filename="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/conf/cdectl.json" />
       <jump line="786" column="25" filename="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/conf/cdectl.json" />
       <jump line="792" column="19" filename="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/conf/cdectl.json" />
       <jump line="996" column="7" filename="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/conf/cdectl.json" />
@@ -380,6 +375,11 @@
       <jump line="748" column="7" filename="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/conf/cdectl.json" />
       <jump line="766" column="7" filename="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/conf/cdectl.json" />
       <jump line="847" column="15" filename="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/conf/cdectl.json" />
+      <jump line="153" column="8" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
+      <jump line="75" column="8" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
+      <jump line="110" column="8" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
+      <jump line="152" column="8" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
+      <jump line="51" column="8" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -388,7 +388,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>cde.service.consul</text>
+        <text>ProcessInstanceBuilder</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -397,62 +397,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>cde.service.consul</text>
+        <text>ProcessInstanceBuilder</text>
       </register>
       <register name="/" type="4">
-        <text>receptor</text>
+        <text>exposes</text>
       </register>
       <register name="0" type="4">
-        <text>{
-      &quot;name&quot;: &quot;cde&quot;,
-      &quot;provider&quot;: &quot;marathon&quot;,
-      &quot;attributes&quot;: [
-        {
-          &quot;name&quot;: &quot;mem&quot;,
-          &quot;value&quot;: &quot;1024&quot;
-        },
-        {
-          &quot;name&quot;: &quot;cpu&quot;,
-          &quot;value&quot;: &quot;0.1&quot;
-        },
-        {
-          &quot;name&quot;: &quot;instances&quot;,
-          &quot;value&quot;: &quot;1&quot;
-        },
-        {
-          &quot;name&quot;: &quot;image&quot;,
-          &quot;value&quot;: &quot;mesosphere/marathon:v1.4.3&quot;
-        },
-        {
-          &quot;name&quot;: &quot;http_credential&quot;,
-          &quot;value&quot;: &quot;cde:pa$$word&quot;
-        }
-      ]
-    }</text>
+        <text encoding="base64">IHB1YmxpYyBQcm9jZXNzSW5zdGFuY2VCdWlsZGVyIHByb2Nlc3MoUHJvY2VzcyBwcm9jZXNzKSB7CiAgICAgICAgICAgIHJldHVybiBuZXcgUHJvY2Vzc0luc3RhbmNlQnVpbGRlcihwcm9jZXNzKTsgCiAgICAgICAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0YXJnZXQucHV0QWxsKHZhbHVlKTsK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgQnVpbGRlcihQcm9jZXNzIHByb2Nlc3MpIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBleHBvc2VzOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEVYUE9TRVMK</text>
+        <text encoding="base64">ICAgICAgICB0YXJnZXQucHV0QWxsKHZhbHVlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIElOU1RBTkNFUywKICAgICAgICAgICAgICAgIEVYUE9TRVMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBleHBvc2VzOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICN7cHJvY2Vzcy5leHBvc2VzfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEVYUE9TRVMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIElOU1RBTkNFUywKICAgICAgICAgICAgICAgIEVYUE9TRVMK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIGFjY2VwdChWaXNpdG9yPFJ1bnRpbWU+IHZpc2l0b3IpIHsKICAgICAgICB2aXNpdG9yLnZpc2l0KHRoaXMpOwogICAgfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICN7cHJvY2Vzcy5leHBvc2VzfQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -462,9 +437,9 @@
       </register>
     </registers>
     <search>
-      <last-search>receptor</last-search>
+      <last-search>exposes</last-search>
       <last-offset />
-      <last-pattern>receptor</last-pattern>
+      <last-pattern>exposes</last-pattern>
       <last-replace>RPI</last-replace>
       <last-substitute>PPI</last-substitute>
       <last-dir>1</last-dir>
@@ -472,7 +447,6 @@
     </search>
     <history>
       <history-search>
-        <entry>procedure_in</entry>
         <entry>process_in</entry>
         <entry>procedure</entry>
         <entry>artifact</entry>
@@ -492,9 +466,9 @@
         <entry>vistor</entry>
         <entry>provider</entry>
         <entry>receptor</entry>
+        <entry>exposes</entry>
       </history-search>
       <history-cmd>
-        <entry>set vim-surround</entry>
         <entry>set vim-surround=true</entry>
         <entry>set vimsurround</entry>
         <entry>set</entry>
@@ -513,6 +487,7 @@
         <entry encoding="base64">Pnc=</entry>
         <entry>wq</entry>
         <entry>reg</entry>
+        <entry>&quot;w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
