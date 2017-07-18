@@ -10,15 +10,15 @@
         <mark key="^" line="18" column="21" />
         <mark key="." line="18" column="21" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" timestamp="1500350283570">
-        <mark key="'" line="38" column="21" />
-        <mark key="[" line="56" column="179" />
-        <mark key="]" line="56" column="7" />
-        <mark key="^" line="56" column="7" />
-        <mark key="." line="56" column="7" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" timestamp="1500351307390">
+        <mark key="'" line="39" column="21" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="^" line="65" column="7" />
+        <mark key="." line="68" column="0" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/ProcedureInstances.xml" timestamp="1500271562600">
-        <mark key="'" line="95" column="97" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/ProcedureInstances.xml" timestamp="1500350912670">
+        <mark key="'" line="95" column="75" />
         <mark key="[" line="54" column="18" />
         <mark key="]" line="54" column="22" />
         <mark key="." line="54" column="22" />
@@ -141,9 +141,11 @@
         <mark key="." line="22" column="135" />
         <mark key="^" line="22" column="135" />
       </file>
+      <file name="/fragment.java" timestamp="1500351321318">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="45" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
       <jump line="0" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
       <jump line="62" column="47" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProcedureTest.java" />
       <jump line="65" column="42" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProcedureTest.java" />
@@ -243,6 +245,7 @@
       <jump line="58" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" />
       <jump line="75" column="7" filename="/workspace/solutions/cnup/stacks/cdectl/templates/consul.tmpl" />
       <jump line="6" column="0" filename="/workspace/solutions/cnup/stacks/cdectl/templates/consul.tmpl" />
+      <jump line="95" column="75" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/ProcedureInstances.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -251,7 +254,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInN5bmFwc2VFeHBvc2VzID0gIiArIEpzb24udG9Kc29uKGV4cG9zZXMudmFsdWVzKCkuc3RyZWFtKCkubWFwKENvbGxlY3Rpb246OnN0cmVhbSkucmVkdWNlKFN0cmVhbS5lbXB0eSgpLCBTdHJlYW06OmNvbmNhdCkuY29sbGVjdCh0b0xpc3QoKSkpKTsK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -260,7 +263,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>links2</text>
       </register>
       <register name="/" type="4">
         <text>slave</text>
@@ -269,35 +272,35 @@
         <text encoding="base64">c3luYXBzZUxpbmtzIA==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInN5bmFwc2VFeHBvc2VzID0gIiArIEpzb24udG9Kc29uKGV4cG9zZXMudmFsdWVzKCkuc3RyZWFtKCkubWFwKENvbGxlY3Rpb246OnN0cmVhbSkucmVkdWNlKFN0cmVhbS5lbXB0eSgpLCBTdHJlYW06OmNvbmNhdCkuY29sbGVjdCh0b0xpc3QoKSkpKTsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInN5bmFwc2VMaW5rcyA9ICIgKyBKc29uLnRvSnNvbihsaW5rcy52YWx1ZXMoKS5zdHJlYW0oKS5tYXAoQ29sbGVjdGlvbjo6c3RyZWFtKS5yZWR1Y2UoU3RyZWFtLmVtcHR5KCksIFN0cmVhbTo6Y29uY2F0KS5jb2xsZWN0KHRvTGlzdCgpKSkpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBMaXN0PFByb2NlZHVyZUluc3RhbmNlLlByb2Nlc3NJbnN0YW5jZS5FeHBvc2U+IHN5bmFwc2VFeHBvc2VzID0gZXhwb3Nlcy52YWx1ZXMoKS5zdHJlYW0oKS5tYXAoQ29sbGVjdGlvbjo6c3RyZWFtKS5yZWR1Y2UoU3RyZWFtLmVtcHR5KCksIFN0cmVhbTo6Y29uY2F0KS5jb2xsZWN0KHRvTGlzdCgpKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiA7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBsaW5rcy5tZXJnZSgic3luYXBzZSIsIHN5KQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="8" type="4">
         <text>[
           &quot;role&quot;,
           &quot;UNLIKE&quot;,
           &quot;consul-master&quot;
         ],</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbnN0YW5jZXMuc2V0dXAocHJvY2VkdXJlLCBjb25maWcsIG5ldyBIYXNoTWFwPD4oKSwgbmV3IEhhc2hNYXA8PigpLCBwaWdneSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBIYXNoTWFwPFN0cmluZywgU3RyaW5nPiBwaWdneSA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImV4cG9zZXMgPSAiICsgSnNvbi50b0pzb24oZXhwb3NlcykpOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImxpbmtzID0gIiArIEpzb24udG9Kc29uKGxpbmtzKSk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInN5bmFwc2VFeHBvc2VzID0gIiArIHN5bmFwc2VFeHBvc2VzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
