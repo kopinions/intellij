@@ -11,11 +11,12 @@
         <mark key="^" line="18" column="21" />
         <mark key="." line="18" column="21" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" timestamp="1500366559811">
-        <mark key="'" line="69" column="43" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" timestamp="1500534211029">
+        <mark key="'" line="81" column="43" />
+        <mark key="[" line="75" column="49" />
+        <mark key="]" line="76" column="31" />
+        <mark key="^" line="76" column="31" />
+        <mark key="." line="76" column="31" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" timestamp="1500366093896">
         <mark key="[" line="105" column="7" />
@@ -23,22 +24,34 @@
         <mark key="^" line="105" column="7" />
         <mark key="." line="105" column="7" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/ProcedureInstances.xml" timestamp="1500365931829">
-        <mark key="'" line="122" column="24" />
-        <mark key="[" line="154" column="51" />
-        <mark key="]" line="154" column="54" />
-        <mark key="." line="154" column="54" />
-        <mark key="^" line="154" column="54" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/ProcedureInstances.xml" timestamp="1500533157213">
+        <mark key="'" line="126" column="24" />
+        <mark key="[" line="57" column="119" />
+        <mark key="]" line="57" column="120" />
+        <mark key="." line="57" column="120" />
+        <mark key="^" line="57" column="19" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mybatis/mybatis/3.4.4/652e324406c304df9e75ea1ac460d0abb791795f/mybatis-3.4.4-sources.jar!/org/apache/ibatis/scripting/xmltags/ExpressionEvaluator.java" timestamp="1500361617263" />
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Process.java" timestamp="1500365755569">
-        <mark key="'" line="60" column="43" />
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="115" column="26" />
-        <mark key="." line="25" column="11" />
-        <mark key="^" line="25" column="11" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Process.java" timestamp="1500533317328">
+        <mark key="'" line="59" column="43" />
+        <mark key="[" line="83" column="15" />
+        <mark key="]" line="83" column="15" />
+        <mark key="." line="83" column="15" />
+        <mark key="^" line="24" column="11" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mybatis/mybatis/3.4.4/31f6ee836efc0a69e07d44f71deb0b0b4fd0f0c4/mybatis-3.4.4.jar!/org/apache/ibatis/ognl/SimpleNode.class" timestamp="1500362007458" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V29__runtime_process_intances_table.sql" timestamp="1499842169689">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="37" />
+        <mark key="^" line="0" column="37" />
+        <mark key="." line="0" column="37" />
+      </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcessInstance.java" timestamp="1500359083699">
+        <mark key="[" line="21" column="11" />
+        <mark key="]" line="21" column="17" />
+        <mark key="." line="21" column="17" />
+        <mark key="^" line="21" column="17" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mybatis/mybatis/3.4.4/31f6ee836efc0a69e07d44f71deb0b0b4fd0f0c4/mybatis-3.4.4.jar!/org/apache/ibatis/ognl/OgnlRuntime.class" timestamp="1500362343903" />
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/UnifiedProcedures.xml" timestamp="1500365472145">
         <mark key="'" line="152" column="41" />
@@ -80,6 +93,12 @@
         <mark key="." line="63" column="33" />
         <mark key="^" line="63" column="33" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/mappers/ProcedureInstances.java" timestamp="1500358523407">
+        <mark key="[" line="22" column="89" />
+        <mark key="]" line="22" column="93" />
+        <mark key="." line="22" column="93" />
+        <mark key="^" line="22" column="93" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V31__add_info_to_process_instance.sql" timestamp="1500359315382">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="11" column="47" />
@@ -100,6 +119,12 @@
         <mark key="." line="56" column="0" />
         <mark key="^" line="55" column="14" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/common/Util.java" timestamp="1500260262465">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="18" column="22" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mybatis/mybatis/3.4.4/31f6ee836efc0a69e07d44f71deb0b0b4fd0f0c4/mybatis-3.4.4.jar!/org/apache/ibatis/ognl/ASTProperty.class" timestamp="1500363970509" />
       <file name="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/templates/cde.tmpl" timestamp="1499830001834">
         <mark key="'" line="24" column="22" />
@@ -108,11 +133,12 @@
         <mark key="^" line="24" column="83" />
         <mark key="." line="24" column="83" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/core/ProcedureInstance.java" timestamp="1500371633960">
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/core/ProcedureInstance.java" timestamp="1500533641809">
         <mark key="'" line="23" column="14" />
-        <mark key="[" line="70" column="36" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
+        <mark key="[" line="78" column="21" />
+        <mark key="]" line="78" column="26" />
+        <mark key="." line="78" column="26" />
+        <mark key="^" line="78" column="26" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V30__add_health_for_process_instance.sql" timestamp="1500359312457" />
       <file name="/workspace/solutions/cnup/stacks/cdectl/templates/consul.tmpl" timestamp="1500349900366">
@@ -120,6 +146,12 @@
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
+      </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/core/Procedure.java" timestamp="1500533249998">
+        <mark key="[" line="29" column="13" />
+        <mark key="]" line="29" column="13" />
+        <mark key="." line="29" column="13" />
+        <mark key="^" line="29" column="59" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Columns.xml" timestamp="1500365624427">
         <mark key="'" line="159" column="30" />
@@ -157,7 +189,7 @@
         <mark key="." line="22" column="135" />
         <mark key="^" line="22" column="135" />
       </file>
-      <file name="/fragment.java" timestamp="1500364207119">
+      <file name="/fragment.java" timestamp="1500533259384">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
         <mark key="." line="0" column="29" />
@@ -271,8 +303,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdQo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -281,40 +313,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Health</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>.env</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFByb2NlZHVyZUluc3RhbmNlLlByb2Nlc3NJbnN0YW5jZS5IZWFsdGg+IHZvbHVtZXMgPSAkKHByb2Nlc3MsICJ2b2x1bWVzIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICN7bGlua3NbJHtwcm9jZXNzLm5hbWV9XSwgdHlwZUhhbmRsZXI9Y29tLnRob3VnaHR3b3Jrcy5jbnVwLnVwLm1hcHBlcnMuaGFuZGxlcnMuSW5zdGFuY2VMaW5rSGFuZGxlcn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpdmF0ZSBTdHJpbmcgbW9kOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImV4cG9zZXMgPSAiICsgSnNvbi50b0pzb24oZXhwb3NlcykpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImxpbmtzID0gIiArIEpzb24udG9Kc29uKGxpbmtzKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHt7ZW52IC59fQo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImV4cG9zZXMgPSAiICsgSnNvbi50b0pzb24oZXhwb3NlcykpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVzdWx0IHByb3BlcnR5PSJoZWFsdGhzIiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImxpbmtzID0gIiArIEpzb24udG9Kc29uKGxpbmtzKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIHt7ZW52IC59fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
