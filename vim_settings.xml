@@ -11,14 +11,15 @@
         <mark key="^" line="18" column="21" />
         <mark key="." line="18" column="21" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" timestamp="1500534211029">
-        <mark key="'" line="81" column="43" />
-        <mark key="[" line="75" column="49" />
-        <mark key="]" line="76" column="31" />
-        <mark key="^" line="76" column="31" />
-        <mark key="." line="76" column="31" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" timestamp="1500536476217">
+        <mark key="'" line="82" column="43" />
+        <mark key="[" line="78" column="129" />
+        <mark key="]" line="79" column="0" />
+        <mark key="^" line="79" column="0" />
+        <mark key="." line="79" column="0" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" timestamp="1500366093896">
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" timestamp="1500536401092">
+        <mark key="'" line="139" column="19" />
         <mark key="[" line="105" column="7" />
         <mark key="]" line="105" column="7" />
         <mark key="^" line="105" column="7" />
@@ -32,12 +33,12 @@
         <mark key="^" line="57" column="19" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mybatis/mybatis/3.4.4/652e324406c304df9e75ea1ac460d0abb791795f/mybatis-3.4.4-sources.jar!/org/apache/ibatis/scripting/xmltags/ExpressionEvaluator.java" timestamp="1500361617263" />
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Process.java" timestamp="1500533317328">
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Process.java" timestamp="1500534626910">
         <mark key="'" line="59" column="43" />
         <mark key="[" line="83" column="15" />
-        <mark key="]" line="83" column="15" />
-        <mark key="." line="83" column="15" />
-        <mark key="^" line="24" column="11" />
+        <mark key="]" line="83" column="21" />
+        <mark key="." line="83" column="21" />
+        <mark key="^" line="83" column="21" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mybatis/mybatis/3.4.4/31f6ee836efc0a69e07d44f71deb0b0b4fd0f0c4/mybatis-3.4.4.jar!/org/apache/ibatis/ognl/SimpleNode.class" timestamp="1500362007458" />
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V29__runtime_process_intances_table.sql" timestamp="1499842169689">
@@ -147,11 +148,11 @@
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/core/Procedure.java" timestamp="1500533249998">
-        <mark key="[" line="29" column="13" />
-        <mark key="]" line="29" column="13" />
-        <mark key="." line="29" column="13" />
-        <mark key="^" line="29" column="59" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/core/Procedure.java" timestamp="1500536254377">
+        <mark key="[" line="56" column="19" />
+        <mark key="]" line="56" column="29" />
+        <mark key="." line="56" column="29" />
+        <mark key="^" line="56" column="29" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Columns.xml" timestamp="1500365624427">
         <mark key="'" line="159" column="30" />
@@ -196,7 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="22" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Records.xml" />
       <jump line="164" column="15" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Records.xml" />
       <jump line="174" column="15" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Records.xml" />
       <jump line="175" column="22" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Records.xml" />
@@ -296,6 +296,7 @@
       <jump line="43" column="8" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
       <jump line="48" column="31" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
       <jump line="74" column="52" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProcedureTest.java" />
+      <jump line="139" column="19" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -304,7 +305,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>private</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -313,7 +314,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
         <text>.env</text>
