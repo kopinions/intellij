@@ -16,12 +16,12 @@
         <mark key="^" line="18" column="21" />
         <mark key="." line="18" column="21" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" timestamp="1500969053651">
-        <mark key="'" line="103" column="12" />
-        <mark key="[" line="99" column="36" />
-        <mark key="]" line="99" column="41" />
-        <mark key="." line="99" column="41" />
-        <mark key="^" line="99" column="41" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" timestamp="1500970200472">
+        <mark key="'" line="106" column="12" />
+        <mark key="[" line="100" column="82" />
+        <mark key="]" line="101" column="45" />
+        <mark key="." line="101" column="45" />
+        <mark key="^" line="101" column="45" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/classes/test/stacks-launcher/ups/jersey-mysql.ftl" timestamp="1500867103154">
         <mark key="[" line="19" column="0" />
@@ -115,12 +115,12 @@
         <mark key="." line="176" column="33" />
         <mark key="^" line="176" column="33" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProcedureTest.java" timestamp="1500969128692">
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProcedureTest.java" timestamp="1500970078817">
         <mark key="'" line="82" column="29" />
-        <mark key="[" line="87" column="31" />
-        <mark key="]" line="87" column="32" />
-        <mark key="^" line="86" column="31" />
-        <mark key="." line="87" column="32" />
+        <mark key="[" line="87" column="53" />
+        <mark key="]" line="87" column="59" />
+        <mark key="^" line="87" column="59" />
+        <mark key="." line="87" column="59" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/receptor/rootfs/etc/consul-template/templates/nginx.conf.ctmpl" timestamp="1500890102768" />
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Records.xml" timestamp="1500887594861">
@@ -319,7 +319,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHZvbHVtZXMuZ2V0KDEpLmdldFNvdXJjZSgpLCBpcygiIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -331,7 +331,7 @@
         <text encoding="base64">dG9NYXAoUGFpcjo6Z2V0S2V5LCBQYWlyOjpnZXRWYWx1ZSwgKGwsIHIpIC0+IFN0cmVhbS5jb25jYXQobC5zdHJlYW0oKSwgci5zdHJlYW0oKSkuY29sbGVjdCh0b0xpc3QoKSkp</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>subject</text>
       </register>
       <register name="/" type="4">
         <text>{}</text>
@@ -340,31 +340,32 @@
         <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHZvbHVtZXMuZ2V0KDEpLmdldFNvdXJjZSgpLCBpcygiIikpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="8">
+        <text>app
+app</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdm9sdW1lLmdldFNjb3BlKCkgPT0gUHJvY2VkdXJlLlByb2Nlc3MuVm9sdW1lLlNjb3BlLlBST0NFRFVSRQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2LmdldFNvdXJjZSgpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdm9sdW1lLmdldFNjb3BlKCkgPT0gUHJvY2VkdXJlLlByb2Nlc3MuVm9sdW1lLlNjb3BlLlBST0NFRFVSRQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2LmdldFNvdXJjZSgpLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hcDxTdHJpbmcsIFN0cmluZz4gdm9sdW1lMTEgPSBuZXcgSGFzaE1hcDw+KCk7CiAgICAgICAgICAgICAgICB2b2x1bWUxMS5wdXQoInNvdXJjZSIsIHZvbHVtZS5nZXRTb3VyY2UoKSk7CiAgICAgICAgICAgICAgICB2b2x1bWUxMS5wdXQoInRhcmdldCIsIHZvbHVtZS5nZXRUYXJnZXQoKSk7CiAgICAgICAgICAgICAgICB2b2x1bWUxMS5wdXQoIm1vZGUiLCBTdHJpbmcudmFsdWVPZih2b2x1bWUuZ2V0TW9kZSgpKSk7CiAgICAgICAgICAgICAgICB2b2x1bWUxMS5wdXQoInNjb3BlIiwgU3RyaW5nLnZhbHVlT2Yodm9sdW1lLmdldFNjb3BlKCkpKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIiI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB2b2x1bWUxMTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hcDxTdHJpbmcsIFN0cmluZz4gdm9sdW1lMTEgPSBuZXcgSGFzaE1hcDw+KCk7CiAgICAgICAgICAgICAgICB2b2x1bWUxMS5wdXQoInNvdXJjZSIsIHZvbHVtZS5nZXRTb3VyY2UoKSk7CiAgICAgICAgICAgICAgICB2b2x1bWUxMS5wdXQoInRhcmdldCIsIHZvbHVtZS5nZXRUYXJnZXQoKSk7CiAgICAgICAgICAgICAgICB2b2x1bWUxMS5wdXQoIm1vZGUiLCBTdHJpbmcudmFsdWVPZih2b2x1bWUuZ2V0TW9kZSgpKSk7CiAgICAgICAgICAgICAgICB2b2x1bWUxMS5wdXQoInNjb3BlIiwgU3RyaW5nLnZhbHVlT2Yodm9sdW1lLmdldFNjb3BlKCkpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -403,7 +404,6 @@
         <entry>{}</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLywgLyxcclxuL2dj</entry>
         <entry encoding="base64">JzwsJz5zLywgLyxcci9nYw==</entry>
         <entry>regh</entry>
         <entry encoding="base64">JzwsJz5zL1JQSS9QUEkvZ2M=</entry>
@@ -417,11 +417,12 @@
         <entry encoding="base64">JzwsJz5SX1BfSC9QUElIL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1JfUF9IL1BQSUgvZw==</entry>
         <entry encoding="base64">Pnc=</entry>
-        <entry>reg</entry>
         <entry>ew</entry>
         <entry encoding="base64">JzwsJz5zL1x7XH0vJXMvZ2M=</entry>
         <entry encoding="base64">JzwsJz5zL1xce1xcfS8lcy9nYw==</entry>
         <entry encoding="base64">JzwsJz5zL3t9LyVzL2dj</entry>
+        <entry>we</entry>
+        <entry>reg</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
