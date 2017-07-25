@@ -16,12 +16,12 @@
         <mark key="^" line="18" column="21" />
         <mark key="." line="18" column="21" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" timestamp="1500892171352">
-        <mark key="'" line="98" column="43" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="^" line="79" column="125" />
-        <mark key="." line="90" column="0" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" timestamp="1500966614540">
+        <mark key="'" line="97" column="43" />
+        <mark key="[" line="88" column="84" />
+        <mark key="]" line="88" column="82" />
+        <mark key="^" line="88" column="82" />
+        <mark key="." line="88" column="82" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/classes/test/stacks-launcher/ups/jersey-mysql.ftl" timestamp="1500867103154">
         <mark key="[" line="19" column="0" />
@@ -106,12 +106,12 @@
         <mark key="." line="176" column="33" />
         <mark key="^" line="176" column="33" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProcedureTest.java" timestamp="1500963444133">
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProcedureTest.java" timestamp="1500966063952">
         <mark key="'" line="82" column="29" />
         <mark key="[" line="81" column="111" />
-        <mark key="]" line="81" column="110" />
-        <mark key="^" line="81" column="110" />
-        <mark key="." line="81" column="110" />
+        <mark key="]" line="86" column="0" />
+        <mark key="^" line="86" column="0" />
+        <mark key="." line="86" column="0" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/receptor/rootfs/etc/consul-template/templates/nginx.conf.ctmpl" timestamp="1500890102768" />
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Records.xml" timestamp="1500887594861">
@@ -309,8 +309,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBQRVJfUFJPQ0VEVVJFICJ7YXBwaWR9X3t1bmlmaWVkX3Byb2NlZHVyZV9uYW1lfV97cHJvY2VkdXJlX3R5cGV9X3twcm9jZWR1cmVfaW5zdGFuY2VfaWR9X3ZvbHVtZSIK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">U3RyZWFtLm9mKCJ7Y2FjaGV9IiwgIntidWlsZC5jYWNoZX0iLCAie2FydGlmYWN0c30iLCAie2NvZGViYXNlfSIpLmFueU1hdGNoKGMgLT4gT2JqZWN0cy5lcXVhbHMoYywgdi5nZXQoInNvdXJjZSIpKSk=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -322,13 +322,13 @@
         <text encoding="base64">dG9NYXAoUGFpcjo6Z2V0S2V5LCBQYWlyOjpnZXRWYWx1ZSwgKGwsIHIpIC0+IFN0cmVhbS5jb25jYXQobC5zdHJlYW0oKSwgci5zdHJlYW0oKSkuY29sbGVjdCh0b0xpc3QoKSkp</text>
       </register>
       <register name="-" type="4">
-        <text>procedure_id</text>
+        <text>v</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PDw8</text>
       </register>
       <register name="0" type="4">
-        <text>appid_</text>
+        <text encoding="base64">U3RyZWFtLm9mKCJ7Y2FjaGV9IiwgIntidWlsZC5jYWNoZX0iLCAie2FydGlmYWN0c30iLCAie2NvZGViYXNlfSIpLmFueU1hdGNoKGMgLT4gT2JqZWN0cy5lcXVhbHMoYywgdi5nZXQoInNvdXJjZSIpKSk=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAvLyBQRVJfUFJPQ0VEVVJFICJ7YXBwaWR9X3t1bmlmaWVkX3Byb2NlZHVyZV9uYW1lfV97cHJvY2VkdXJlX3R5cGV9X3twcm9jZWR1cmVfaW5zdGFuY2VfaWR9X3ZvbHVtZSIK</text>
@@ -405,7 +405,6 @@
         <entry>wq</entry>
         <entry>&quot;w</entry>
         <entry>re</entry>
-        <entry>reg</entry>
         <entry>ew</entry>
         <entry>qw</entry>
         <entry encoding="base64">JzwsJz5zL1JfUF9IL1JQSUg=</entry>
@@ -413,6 +412,7 @@
         <entry encoding="base64">JzwsJz5SX1BfSC9QUElIL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1JfUF9IL1BQSUgvZw==</entry>
         <entry encoding="base64">Pnc=</entry>
+        <entry>reg</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
