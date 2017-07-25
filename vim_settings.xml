@@ -16,12 +16,11 @@
         <mark key="^" line="18" column="21" />
         <mark key="." line="18" column="21" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" timestamp="1500970200472">
-        <mark key="'" line="106" column="12" />
-        <mark key="[" line="100" column="82" />
-        <mark key="]" line="101" column="45" />
-        <mark key="." line="101" column="45" />
-        <mark key="^" line="101" column="45" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" timestamp="1500972958538">
+        <mark key="'" line="109" column="12" />
+        <mark key="[" line="103" column="118" />
+        <mark key="]" line="105" column="156" />
+        <mark key="." line="105" column="0" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/classes/test/stacks-launcher/ups/jersey-mysql.ftl" timestamp="1500867103154">
         <mark key="[" line="19" column="0" />
@@ -101,8 +100,8 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="19" column="60" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/core/Procedure.java" timestamp="1500967824531">
-        <mark key="'" line="32" column="35" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/core/Procedure.java" timestamp="1500972810975">
+        <mark key="'" line="29" column="30" />
         <mark key="[" line="31" column="22" />
         <mark key="]" line="32" column="35" />
         <mark key="." line="32" column="35" />
@@ -211,7 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="176" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" />
       <jump line="44" column="11" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" />
       <jump line="646" column="71" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/stream/Collectors.java" />
       <jump line="67" column="76" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" />
@@ -311,6 +309,7 @@
       <jump line="105" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" />
       <jump line="99" column="110" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" />
       <jump line="103" column="12" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" />
+      <jump line="29" column="30" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/core/Procedure.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -319,7 +318,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFN0cmluZy5mb3JtYXQoInt7c3ViamVjdC5pZH19XyVzXyVzXyVzIiwgcHJvY2VkdXJlLmJlbG9uZ3MoKS5nZXROYW1lKCksIHByb2NlZHVyZS50eXBlKCksIHZvbHVtZS5nZXRTb3VyY2UoKS5yZXBsYWNlQWxsKCJbe31dIiwgIiIpKTsK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -337,35 +336,35 @@
         <text>{}</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHZvbHVtZXMuZ2V0KDEpLmdldFNvdXJjZSgpLCBpcygiIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFN0cmluZy5mb3JtYXQoInt7c3ViamVjdC5pZH19XyVzXyVzXyVzIiwgcHJvY2VkdXJlLmJlbG9uZ3MoKS5nZXROYW1lKCksIHByb2NlZHVyZS50eXBlKCksIHZvbHVtZS5nZXRTb3VyY2UoKS5yZXBsYWNlQWxsKCJbe31dIiwgIiIpKTsK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBTdHJpbmcuZm9ybWF0KGRkKSAK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
       </register>
-      <register name="2" type="8">
+      <register name="3" type="8">
         <text>app
 app</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdm9sdW1lLmdldFNjb3BlKCkgPT0gUHJvY2VkdXJlLlByb2Nlc3MuVm9sdW1lLlNjb3BlLlBST0NFRFVSRQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2LmdldFNvdXJjZSgpLAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gIiI7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hcDxTdHJpbmcsIFN0cmluZz4gdm9sdW1lMTEgPSBuZXcgSGFzaE1hcDw+KCk7CiAgICAgICAgICAgICAgICB2b2x1bWUxMS5wdXQoInNvdXJjZSIsIHZvbHVtZS5nZXRTb3VyY2UoKSk7CiAgICAgICAgICAgICAgICB2b2x1bWUxMS5wdXQoInRhcmdldCIsIHZvbHVtZS5nZXRUYXJnZXQoKSk7CiAgICAgICAgICAgICAgICB2b2x1bWUxMS5wdXQoIm1vZGUiLCBTdHJpbmcudmFsdWVPZih2b2x1bWUuZ2V0TW9kZSgpKSk7CiAgICAgICAgICAgICAgICB2b2x1bWUxMS5wdXQoInNjb3BlIiwgU3RyaW5nLnZhbHVlT2Yodm9sdW1lLmdldFNjb3BlKCkpKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
