@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/util/Json.java" timestamp="1500889722264">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
-      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V30__add_info_to_process_instance.sql" timestamp="1500359210997">
         <mark key="'" line="20" column="18" />
         <mark key="[" line="18" column="21" />
@@ -51,70 +45,15 @@
         <mark key="." line="163" column="19" />
         <mark key="^" line="163" column="19" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/UnifiedProcedure.java" timestamp="1500967665927">
-        <mark key="[" line="22" column="15" />
-        <mark key="]" line="22" column="18" />
-        <mark key="." line="22" column="18" />
-        <mark key="^" line="22" column="18" />
-      </file>
-      <file name="/workspace/solutions/cnup/stacks/receptor/rootfs/etc/consul-template/templates/cde.conf.ctmpl" timestamp="1500890105783" />
-      <file name="/workspace/solutions/cnup/stacks/receptor/Dockerfile" timestamp="1501039628636" />
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstance.java" timestamp="1501050002418">
-        <mark key="'" line="46" column="20" />
-        <mark key="[" line="47" column="27" />
-        <mark key="]" line="47" column="34" />
-        <mark key="." line="47" column="34" />
-        <mark key="^" line="47" column="34" />
-      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Process.java" timestamp="1500967246387">
         <mark key="'" line="66" column="43" />
         <mark key="[" line="66" column="48" />
         <mark key="]" line="72" column="13" />
         <mark key="." line="66" column="48" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Procedure.java" timestamp="1501052699803">
-        <mark key="'" line="95" column="0" />
-        <mark key="[" line="91" column="68" />
-        <mark key="]" line="91" column="68" />
-        <mark key="." line="91" column="68" />
-        <mark key="^" line="90" column="9" />
-      </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/core/UnifiedProcedure.java" timestamp="1500967659732">
-        <mark key="[" line="6" column="19" />
-        <mark key="]" line="8" column="20" />
-        <mark key="^" line="8" column="20" />
-        <mark key="." line="8" column="20" />
-      </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/resources/UnifiedProceduresResourceTest.java" timestamp="1501052551191">
-        <mark key="'" line="135" column="0" />
-        <mark key="[" line="133" column="58" />
-        <mark key="]" line="133" column="66" />
-        <mark key="." line="133" column="66" />
-        <mark key="^" line="133" column="66" />
-      </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V22__create_procedure_instances.sql" timestamp="1501048575748">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="30" column="1" />
-      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V29__runtime_process_intances_table.sql" timestamp="1501048655157">
         <mark key="[" line="0" column="20" />
         <mark key="]" line="0" column="37" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1500887389113">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/templates/cde.tmpl" timestamp="1499830001834">
-        <mark key="'" line="24" column="22" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="24" column="84" />
-        <mark key="^" line="24" column="83" />
-        <mark key="." line="24" column="83" />
-      </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V32__add_procedure_provided_info.sql" timestamp="1501050505665">
-        <mark key="[" line="11" column="19" />
-        <mark key="]" line="11" column="39" />
-        <mark key="^" line="11" column="39" />
-        <mark key="." line="11" column="39" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/mappers/handlers/InstanceVolumesHandler.java" timestamp="1500886763902">
         <mark key="[" line="57" column="63" />
@@ -122,35 +61,9 @@
         <mark key="^" line="57" column="102" />
         <mark key="." line="57" column="102" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/mappers/handlers/VolumesSerializeHandler.java" timestamp="1500607521380">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="19" column="60" />
-      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V31__add_health_for_process_instance.sql" timestamp="1501042411275">
         <mark key="[" line="11" column="2" />
         <mark key="]" line="11" column="22" />
-      </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/provider/support/ApiTestRunner.java" timestamp="1501048964932">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="101" column="65" />
-        <mark key="]" line="103" column="15" />
-        <mark key="^" line="103" column="15" />
-        <mark key="." line="103" column="15" />
-      </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/core/Procedure.java" timestamp="1500973822384">
-        <mark key="'" line="26" column="30" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Columns.xml" timestamp="1500887532697">
-        <mark key="'" line="160" column="30" />
-        <mark key="[" line="176" column="27" />
-        <mark key="]" line="176" column="33" />
-        <mark key="." line="176" column="33" />
-        <mark key="^" line="176" column="33" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProcedureInstanceTest.java" timestamp="1501053058311">
         <mark key="[" line="32" column="8" />
@@ -158,13 +71,13 @@
         <mark key="." line="32" column="8" />
         <mark key="^" line="39" column="7" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProcedureTest.java" timestamp="1501051535424">
-        <mark key="'" line="57" column="40" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="24" column="34" />
-        <mark key="." line="23" column="0" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProcedureTest.java" timestamp="1501053983737">
+        <mark key="'" line="56" column="40" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+        <mark key="^" line="76" column="9" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/receptor/rootfs/etc/consul-template/templates/nginx.conf.ctmpl" timestamp="1500890102768" />
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Records.xml" timestamp="1500887594861">
         <mark key="'" line="95" column="50" />
         <mark key="[" line="163" column="111" />
@@ -185,13 +98,6 @@
         <mark key="^" line="29" column="11" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" timestamp="1500366398175">
-        <mark key="'" line="48" column="31" />
-        <mark key="[" line="48" column="33" />
-        <mark key="]" line="48" column="31" />
-        <mark key="." line="48" column="31" />
-        <mark key="^" line="48" column="31" />
-      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/resources/UnifiedProcedureResource.java" timestamp="1501052410229">
         <mark key="'" line="74" column="0" />
         <mark key="[" line="61" column="41" />
@@ -204,6 +110,113 @@
         <mark key="]" line="27" column="35" />
         <mark key="^" line="27" column="35" />
         <mark key="." line="27" column="35" />
+      </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/UnifiedProcedures.java" timestamp="1500607900901">
+        <mark key="'" line="55" column="75" />
+        <mark key="[" line="64" column="70" />
+        <mark key="]" line="75" column="19" />
+        <mark key="^" line="75" column="19" />
+        <mark key="." line="75" column="19" />
+      </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V31__add_info_to_process_instance.sql" timestamp="1500359315382">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="11" column="47" />
+        <mark key="]" line="11" column="63" />
+        <mark key="." line="11" column="63" />
+        <mark key="^" line="11" column="63" />
+      </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/UnifiedProcedure.java" timestamp="1500967665927">
+        <mark key="[" line="22" column="15" />
+        <mark key="]" line="22" column="18" />
+        <mark key="." line="22" column="18" />
+        <mark key="^" line="22" column="18" />
+      </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstance.java" timestamp="1501054150636">
+        <mark key="'" line="46" column="20" />
+        <mark key="[" line="46" column="13" />
+        <mark key="]" line="46" column="21" />
+        <mark key="." line="47" column="34" />
+        <mark key="^" line="47" column="34" />
+      </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Procedure.java" timestamp="1501054087419">
+        <mark key="'" line="94" column="0" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
+        <mark key="^" line="90" column="9" />
+      </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/core/UnifiedProcedure.java" timestamp="1500967659732">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="8" column="20" />
+        <mark key="^" line="8" column="20" />
+        <mark key="." line="8" column="20" />
+      </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/resources/UnifiedProceduresResourceTest.java" timestamp="1501052551191">
+        <mark key="'" line="135" column="0" />
+        <mark key="[" line="133" column="58" />
+        <mark key="]" line="133" column="66" />
+        <mark key="." line="133" column="66" />
+        <mark key="^" line="133" column="66" />
+      </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V22__create_procedure_instances.sql" timestamp="1501048575748">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="30" column="1" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1500887389113">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/templates/cde.tmpl" timestamp="1499830001834">
+        <mark key="'" line="24" column="22" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="24" column="84" />
+        <mark key="^" line="24" column="83" />
+        <mark key="." line="24" column="83" />
+      </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V32__add_procedure_provided_info.sql" timestamp="1501050505665">
+        <mark key="[" line="11" column="19" />
+        <mark key="]" line="11" column="39" />
+        <mark key="^" line="11" column="39" />
+        <mark key="." line="11" column="39" />
+      </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/mappers/handlers/VolumesSerializeHandler.java" timestamp="1500607521380">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="19" column="60" />
+      </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/provider/support/ApiTestRunner.java" timestamp="1501048964932">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="101" column="65" />
+        <mark key="]" line="103" column="15" />
+        <mark key="^" line="103" column="15" />
+        <mark key="." line="103" column="15" />
+      </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/core/Procedure.java" timestamp="1501053619812">
+        <mark key="'" line="26" column="30" />
+        <mark key="[" line="11" column="53" />
+        <mark key="]" line="11" column="58" />
+        <mark key="." line="11" column="58" />
+        <mark key="^" line="11" column="58" />
+      </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProvidersTest.java" timestamp="1501054695403">
+        <mark key="[" line="115" column="30" />
+        <mark key="]" line="116" column="15" />
+        <mark key="." line="116" column="15" />
+        <mark key="^" line="116" column="15" />
+      </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Columns.xml" timestamp="1500887532697">
+        <mark key="'" line="160" column="30" />
+        <mark key="[" line="176" column="27" />
+        <mark key="]" line="176" column="33" />
+        <mark key="." line="176" column="33" />
+        <mark key="^" line="176" column="33" />
+      </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" timestamp="1500366398175">
+        <mark key="'" line="48" column="31" />
+        <mark key="[" line="48" column="33" />
+        <mark key="]" line="48" column="31" />
+        <mark key="." line="48" column="31" />
+        <mark key="^" line="48" column="31" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/mappers/handlers/InstanceLinkHandler.java" timestamp="1500886705564">
         <mark key="'" line="62" column="0" />
@@ -218,13 +231,6 @@
         <mark key="]" line="106" column="0" />
         <mark key="." line="106" column="0" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/UnifiedProcedures.java" timestamp="1500607900901">
-        <mark key="'" line="55" column="75" />
-        <mark key="[" line="64" column="70" />
-        <mark key="]" line="75" column="19" />
-        <mark key="^" line="75" column="19" />
-        <mark key="." line="75" column="19" />
-      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/resources/UnifiedProcedureResourceTest.java" timestamp="1501052568005">
         <mark key="'" line="135" column="0" />
         <mark key="[" line="140" column="0" />
@@ -238,14 +244,7 @@
         <mark key="." line="22" column="135" />
         <mark key="^" line="22" column="135" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V31__add_info_to_process_instance.sql" timestamp="1500359315382">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="11" column="47" />
-        <mark key="]" line="11" column="63" />
-        <mark key="." line="11" column="63" />
-        <mark key="^" line="11" column="63" />
-      </file>
-      <file name="/fragment.java" timestamp="1501050611368">
+      <file name="/fragment.java" timestamp="1501053959065">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
         <mark key="." line="0" column="29" />
@@ -359,8 +358,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -372,43 +371,43 @@
         <text encoding="base64">dG9NYXAoUGFpcjo6Z2V0S2V5LCBQYWlyOjpnZXRWYWx1ZSwgKGwsIHIpIC0+IFN0cmVhbS5jb25jYXQobC5zdHJlYW0oKSwgci5zdHJlYW0oKSkuY29sbGVjdCh0b0xpc3QoKSkp</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>{}</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBJbmplY3QKICAgIHByaXZhdGUgVW5pZmllZFByb2NlZHVyZXMgdXBzOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">cHJvdmlkZWQg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBJbmplY3QKICAgIEBNb2NrCiAgICBQcm92aWRlcnMgcHJvdmlkZXJzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICQoImNvbmZpZyIsIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICQoImNvbmZpZyIsICQoCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHByb3ZpZGUsIG5vdE51bGxWYWx1ZSgpKTsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9jZWR1cmVJbnN0YW5jZSBwcm9jZWR1cmVJbnN0YW5jZSA9IGluc3RhbmNlcy5zZXR1cCh0aGlzLCBwYXlsb2FkKTsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiBwcm92aWRlID0gZW5yb2xsZWQucHJvdmlkZSh1bmlmaWVkUHJvY2VkdXJlLnByb2NlZHVyZShQcm9jZWR1cmUuVHlwZS5CVUlMRCkuZ2V0KCksIG5ldyBIYXNoTWFwPFN0cmluZywgT2JqZWN0PigpIHt7CiAgICAgICAgICAgIHB1dCgibWV0YSIsICQoImFwcCIsICQoImlkIiwgImtldHN1IikpKTsKICAgICAgICAgICAgcHV0KCJhcHAiLCBuZXcgSGFzaE1hcDxTdHJpbmcsIE9iamVjdD4oKSB7ewogICAgICAgICAgICAgICAgcHV0KCJpZCIsICJrZXRzdSIpOwogICAgICAgICAgICAgICAgcHV0KCJjcHUiLCAxKTsKICAgICAgICAgICAgICAgIHB1dCgiZW52aXJvbm1lbnQiLCBuZXcgSGFzaE1hcDw+KCkpOwogICAgICAgICAgICB9fSk7CgogICAgICAgICAgICBwdXQoInJ1bnRpbWUiLCBuZXcgSGFzaE1hcDxTdHJpbmcsIE9iamVjdD4oKSB7ewogICAgICAgICAgICAgICAgcHV0KCJkYiIsIG5ldyBIYXNoTWFwPFN0cmluZywgT2JqZWN0PigpIHt7CiAgICAgICAgICAgICAgICAgICAgcHV0KCJlbnZpcm9ubWVudCIsIG5ldyBIYXNoTWFwPD4oKSk7CiAgICAgICAgICAgICAgICB9fSk7CiAgICAgICAgICAgIH19KTsKICAgICAgICB9fSk7</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJpZnkocHJvdmlkZXIsIHRpbWVzKDEpKS5wcm92aWRlKGFueShQcm9jZWR1cmVJbnN0YW5jZS5jbGFzcykpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">JCgKICAgICAgICAgICAgICAgICQoInJ1bnRpbWUiLCBuZXcgSGFzaE1hcDw+KCkpLAogICAgICAgICAgICAgICAgJCgicHJvY2VzcyIsIG5ldyBIYXNoTWFwPD4oKSkKICAgICAgICAp</text>
+        <text encoding="base64">ICAgICAgICAgJCgiYXBwIiwgJCgKICAgICAgICAgICAgICAgICAgICAgICAgJCgiaWQiLCAia2V0c3UiKSwKICAgICAgICAgICAgICAgICAgICAgICAgJCgiY3B1IiwgMSksCiAgICAgICAgICAgICAgICAgICAgICAgICQoImVudmlyb25tZW50IiwgbmV3IEhhc2hNYXA8PigpKQogICAgICAgICAgICAgICAgKSk=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKHByb3ZpZGVycy53aGljaChhbnkoKSkpLnRoZW5SZXR1cm4oT3B0aW9uYWwub2YocHJvdmlkZXIpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
