@@ -23,24 +23,12 @@
         <mark key="." line="101" column="38" />
         <mark key="^" line="101" column="38" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/classes/test/stacks-launcher/ups/jersey-mysql.ftl" timestamp="1500867103154">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="9" />
-        <mark key="." line="19" column="9" />
-        <mark key="^" line="19" column="9" />
-      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" timestamp="1500976091450">
         <mark key="'" line="26" column="43" />
         <mark key="[" line="100" column="11" />
         <mark key="]" line="100" column="11" />
         <mark key="." line="100" column="11" />
         <mark key="^" line="100" column="11" />
-      </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/ProcedureInstances.xml" timestamp="1500887725184">
-        <mark key="[" line="111" column="127" />
-        <mark key="]" line="111" column="126" />
-        <mark key="." line="111" column="126" />
-        <mark key="^" line="111" column="126" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/UnifiedProcedure.java" timestamp="1500967665927">
         <mark key="[" line="22" column="15" />
@@ -89,17 +77,22 @@
         <mark key="^" line="106" column="25" />
         <mark key="." line="106" column="25" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/mappers/handlers/InstanceVolumesHandler.java" timestamp="1500886763902">
-        <mark key="[" line="57" column="63" />
-        <mark key="]" line="57" column="102" />
-        <mark key="^" line="57" column="102" />
-        <mark key="." line="57" column="102" />
-      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/mappers/handlers/VolumesSerializeHandler.java" timestamp="1500607521380">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="19" column="60" />
+      </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V31__add_health_for_process_instance.sql" timestamp="1501042411275">
+        <mark key="[" line="11" column="2" />
+        <mark key="]" line="11" column="22" />
+      </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/provider/support/ApiTestRunner.java" timestamp="1501042418669">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="106" column="53" />
+        <mark key="]" line="106" column="53" />
+        <mark key="." line="106" column="53" />
+        <mark key="^" line="105" column="76" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/core/Procedure.java" timestamp="1500973822384">
         <mark key="'" line="29" column="30" />
@@ -114,12 +107,11 @@
         <mark key="." line="176" column="33" />
         <mark key="^" line="176" column="33" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProcedureTest.java" timestamp="1500976627495">
-        <mark key="'" line="82" column="29" />
-        <mark key="[" line="87" column="51" />
-        <mark key="]" line="87" column="55" />
-        <mark key="." line="87" column="55" />
-        <mark key="^" line="87" column="55" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProcedureTest.java" timestamp="1501041820783">
+        <mark key="'" line="61" column="40" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/receptor/rootfs/etc/consul-template/templates/nginx.conf.ctmpl" timestamp="1500890102768" />
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Records.xml" timestamp="1500887594861">
@@ -149,7 +141,7 @@
         <mark key="." line="48" column="31" />
         <mark key="^" line="48" column="31" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/resources/UnifiedProcedureResource.java" timestamp="1500255193895">
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/resources/UnifiedProcedureResource.java" timestamp="1501041676107">
         <mark key="'" line="76" column="0" />
         <mark key="[" line="63" column="26" />
         <mark key="]" line="63" column="33" />
@@ -182,12 +174,12 @@
         <mark key="^" line="75" column="19" />
         <mark key="." line="75" column="19" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/resources/UnifiedProcedureResourceTest.java" timestamp="1500889637725">
-        <mark key="'" line="151" column="8" />
-        <mark key="[" line="86" column="58" />
-        <mark key="]" line="86" column="70" />
-        <mark key="." line="86" column="70" />
-        <mark key="^" line="86" column="70" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/resources/UnifiedProcedureResourceTest.java" timestamp="1501042214558">
+        <mark key="'" line="142" column="42" />
+        <mark key="[" line="142" column="43" />
+        <mark key="]" line="142" column="69" />
+        <mark key="." line="142" column="69" />
+        <mark key="^" line="142" column="69" />
       </file>
       <file name="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/templates/permanents.tmpl" timestamp="1499830094321">
         <mark key="'" line="23" column="0" />
@@ -210,13 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="646" column="71" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/stream/Collectors.java" />
-      <jump line="67" column="76" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" />
-      <jump line="26" column="14" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/core/ProcedureInstance.java" />
-      <jump line="62" column="21" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" />
-      <jump line="58" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" />
-      <jump line="75" column="7" filename="/workspace/solutions/cnup/stacks/cdectl/templates/consul.tmpl" />
-      <jump line="6" column="0" filename="/workspace/solutions/cnup/stacks/cdectl/templates/consul.tmpl" />
       <jump line="95" column="75" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/ProcedureInstances.xml" />
       <jump line="71" column="43" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" />
       <jump line="58" column="100" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/mappers/handlers/InstanceLinkHandler.java" />
@@ -310,6 +295,13 @@
       <jump line="103" column="12" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" />
       <jump line="29" column="30" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/core/Procedure.java" />
       <jump line="26" column="43" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
+      <jump line="95" column="95" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProcedureTest.java" />
+      <jump line="76" column="40" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProcedureTest.java" />
+      <jump line="68" column="4" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/resources/UnifiedProcedureResourceTest.java" />
+      <jump line="131" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/resources/UnifiedProcedureResourceTest.java" />
+      <jump line="46" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/resources/UnifiedProcedureResourceTest.java" />
+      <jump line="142" column="42" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/resources/UnifiedProcedureResourceTest.java" />
+      <jump line="1" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/provider/support/ApiTestRunner.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -318,7 +310,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>PHANTOM</text>
+        <text>PROCESS_INSTANCE_HEALTHS</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -330,37 +322,40 @@
         <text encoding="base64">dG9NYXAoUGFpcjo6Z2V0S2V5LCBQYWlyOjpnZXRWYWx1ZSwgKGwsIHIpIC0+IFN0cmVhbS5jb25jYXQobC5zdHJlYW0oKSwgci5zdHJlYW0oKSkuY29sbGVjdCh0b0xpc3QoKSkp</text>
       </register>
       <register name="-" type="4">
-        <text>PHANTOM</text>
+        <text>PROCESS_INSTANCE_HEALTHS</text>
       </register>
       <register name="/" type="4">
         <text>{}</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHZvbHVtZXMuZ2V0KDEpLmdldFNvdXJjZSgpLCBpcygie3tzdWJqZWN0LmlkfX1famVyc2V5LW15c3FsX1ZFUklGWV9hcnRpZmFjdHMiKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXRlbWVudC5leGVjdXRlVXBkYXRlKCJERUxFVEUgRlJPTSBQUk9DRVNTX0lOU1RBTkNFX0hFQUxUSFMiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXRlbWVudC5leGVjdXRlVXBkYXRlKCJERUxFVEUgRlJPTSBQUk9DRURVUkVfSU5TVEFOQ0VTIik7Cg==</text>
+      </register>
+      <register name="q" type="4">
+        <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBzY29wZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXRlbWVudC5leGVjdXRlVXBkYXRlKCJERUxFVEUgRlJPTSBIRUFMVEhTIik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIFByb2NlZHVyZUluc3RhbmNlcyBpbnN0YW5jZXM7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIFNjb3BlIGdldFNjb3BlKCkgewo=</text>
+        <text encoding="base64">ICAgIEBNb2NrCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpdmF0ZSBTY29wZSBzY29wZTsK</text>
+        <text encoding="base64">ICAgIEBJbmplY3QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKGluc3RhbmNlcy5zZXR1cChhbnlPYmplY3QoKSwgYW55T2JqZWN0KCkpKS50aGVuUmV0dXJuKGluc3RhbmNlKTsK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIGVudW0gU2NvcGUgewogICAgICAgICAgICAgICAgLy8gYWxsIHByb2NlZHVyZSB1bmRlciB1bmlmaWVkIHByb2NlZHVyZSBzaGFyZSB0aGUgc2FtZSB2b2x1bWUKICAgICAgICAgICAgICAgIFVOSUZJRURfUFJPQ0VEVVJFLAogICAgICAgICAgICAgICAgLy8gYWxsIHByb2NlZHVyZSBpbnN0YW5jZSBzaGFyZSB0aGUgc2FtZSB2b2x1bWUKICAgICAgICAgICAgICAgIFBST0NFRFVSRSwKICAgICAgICAgICAgICAgIC8vIHBlciBwcm9jZWR1cmUgaW5zdGFuY2Ugc2hvdWxkIGFzc2lnbmVkIHByaXZhdGUgY2FjaGUKICAgICAgICAgICAgICAgIFBFUl9QUk9DRURVUkU7CiAgICAgICAgICAgIH0K</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB3aGVuKGluc3RhbmNlLmdldElkKCkpLnRoZW5SZXR1cm4oImluc3RhbmNlLWlkIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBQcm9jZWR1cmVJbnN0YW5jZSBpbnN0YW5jZSA9IE1vY2tpdG8ubW9jayhQcm9jZWR1cmVJbnN0YW5jZS5jbGFzcyk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -402,7 +397,6 @@
         <entry>{}</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLywgLyxcci9nYw==</entry>
         <entry>regh</entry>
         <entry encoding="base64">JzwsJz5zL1JQSS9QUEkvZ2M=</entry>
         <entry encoding="base64">JzwsJz5zL1BQSS9SUEk=</entry>
@@ -418,9 +412,10 @@
         <entry encoding="base64">JzwsJz5zL1xce1xcfS8lcy9nYw==</entry>
         <entry encoding="base64">JzwsJz5zL3t9LyVzL2dj</entry>
         <entry>we</entry>
-        <entry>reg</entry>
-        <entry>wq</entry>
         <entry>qw</entry>
+        <entry>wq</entry>
+        <entry>reg</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
