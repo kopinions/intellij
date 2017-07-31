@@ -20,11 +20,12 @@
       <file name="/a.dummy" timestamp="1501061676678">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" timestamp="1501485486918">
-        <mark key="[" line="117" column="62" />
-        <mark key="]" line="118" column="23" />
-        <mark key="^" line="118" column="23" />
-        <mark key="." line="118" column="23" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" timestamp="1501487528491">
+        <mark key="'" line="118" column="70" />
+        <mark key="[" line="134" column="109" />
+        <mark key="]" line="135" column="19" />
+        <mark key="^" line="135" column="19" />
+        <mark key="." line="135" column="19" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/classes/test/stacks-launcher/ups/jersey-mysql.ftl" timestamp="1500867103154">
         <mark key="[" line="19" column="0" />
@@ -32,12 +33,12 @@
         <mark key="." line="19" column="9" />
         <mark key="^" line="19" column="9" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" timestamp="1501484785680">
-        <mark key="'" line="100" column="12" />
-        <mark key="[" line="129" column="42" />
-        <mark key="]" line="129" column="42" />
-        <mark key="." line="129" column="42" />
-        <mark key="^" line="129" column="42" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" timestamp="1501487830389">
+        <mark key="'" line="100" column="23" />
+        <mark key="[" line="100" column="12" />
+        <mark key="]" line="100" column="21" />
+        <mark key="." line="100" column="22" />
+        <mark key="^" line="103" column="23" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/ProcedureInstances.xml" timestamp="1501485356925">
         <mark key="'" line="9" column="17" />
@@ -119,12 +120,12 @@
         <mark key="^" line="28" column="31" />
         <mark key="." line="28" column="31" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/UnifiedProcedures.java" timestamp="1500607900901">
-        <mark key="'" line="55" column="75" />
-        <mark key="[" line="64" column="70" />
-        <mark key="]" line="75" column="19" />
-        <mark key="^" line="75" column="19" />
-        <mark key="." line="75" column="19" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/UnifiedProcedures.java" timestamp="1501487677623">
+        <mark key="'" line="94" column="95" />
+        <mark key="[" line="94" column="97" />
+        <mark key="]" line="94" column="97" />
+        <mark key="^" line="92" column="43" />
+        <mark key="." line="94" column="97" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V31__add_info_to_process_instance.sql" timestamp="1500359315382">
         <mark key="'" line="0" column="0" />
@@ -180,11 +181,11 @@
         <mark key="^" line="8" column="20" />
         <mark key="." line="8" column="20" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/resources/UnifiedProceduresResourceTest.java" timestamp="1501485866117">
-        <mark key="'" line="98" column="40" />
-        <mark key="[" line="98" column="80" />
-        <mark key="]" line="98" column="39" />
-        <mark key="." line="98" column="39" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/resources/UnifiedProceduresResourceTest.java" timestamp="1501487189096">
+        <mark key="'" line="82" column="62" />
+        <mark key="[" line="82" column="50" />
+        <mark key="]" line="82" column="60" />
+        <mark key="." line="82" column="61" />
         <mark key="^" line="98" column="39" />
       </file>
       <file name="/Dummy.txt" timestamp="1501468776058">
@@ -301,26 +302,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="210" column="15" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
-      <jump line="25" column="38" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/ProcedureInstances.xml" />
-      <jump line="54" column="56" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/ProcedureInstances.xml" />
-      <jump line="55" column="54" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/ProcedureInstances.xml" />
-      <jump line="56" column="44" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/ProcedureInstances.xml" />
-      <jump line="3" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/core/ProcedureInstance.java" />
-      <jump line="77" column="86" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/core/ProcedureInstance.java" />
-      <jump line="98" column="31" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/core/ProcedureInstance.java" />
-      <jump line="98" column="60" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/util/Json.java" />
-      <jump line="95" column="50" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Records.xml" />
-      <jump line="119" column="73" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/util/Json.java" />
-      <jump line="26" column="56" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/util/Json.java" />
-      <jump line="141" column="26" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/util/Json.java" />
-      <jump line="61" column="39" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/util/Json.java" />
-      <jump line="71" column="8" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/core/ProcedureInstance.java" />
-      <jump line="74" column="55" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/util/Json.java" />
-      <jump line="73" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
-      <jump line="0" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/resources/UnifiedProceduresResourceTest.java" />
-      <jump line="25" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/util/Json.java" />
-      <jump line="50" column="12" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/core/Procedure.java" />
       <jump line="118" column="34" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/core/ProcedureInstance.java" />
       <jump line="48" column="0" filename="/workspace/solutions/cnup/stacks/cdectl/conf/cdectl.json" />
       <jump line="53" column="0" filename="/workspace/solutions/cnup/stacks/cdectl/conf/cdectl.json" />
@@ -369,8 +350,6 @@
       <jump line="78" column="14" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
       <jump line="110" column="18" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
       <jump line="33" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
-      <jump line="99" column="12" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
-      <jump line="105" column="40" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" />
       <jump line="21" column="34" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/mappers/ProcedureInstances.java" />
       <jump line="24" column="17" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/ProcedureInstances.xml" />
       <jump line="28" column="39" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/ProcedureInstances.xml" />
@@ -401,6 +380,28 @@
       <jump line="98" column="77" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/resources/UnifiedProceduresResourceTest.java" />
       <jump line="103" column="60" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/resources/UnifiedProceduresResourceTest.java" />
       <jump line="99" column="40" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/resources/UnifiedProceduresResourceTest.java" />
+      <jump line="212" column="1" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
+      <jump line="180" column="37" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
+      <jump line="181" column="39" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
+      <jump line="182" column="39" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
+      <jump line="183" column="39" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
+      <jump line="184" column="41" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
+      <jump line="174" column="26" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
+      <jump line="82" column="62" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/resources/UnifiedProceduresResourceTest.java" />
+      <jump line="44" column="23" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
+      <jump line="73" column="11" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
+      <jump line="103" column="44" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
+      <jump line="104" column="46" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
+      <jump line="76" column="24" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" />
+      <jump line="81" column="11" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" />
+      <jump line="86" column="161" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" />
+      <jump line="94" column="153" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" />
+      <jump line="105" column="42" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" />
+      <jump line="118" column="70" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" />
+      <jump line="92" column="48" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/UnifiedProcedures.java" />
+      <jump line="94" column="95" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/UnifiedProcedures.java" />
+      <jump line="99" column="19" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
+      <jump line="100" column="23" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -408,8 +409,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB1dCgiREJfREFUQUJBU0UiLCAie3tkYi5PTl9DUkVBVEVfREJ9fSIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -424,13 +425,23 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>process</text>
+        <text>{</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">YXNzZXJ0VGhhdCh2ZXJpZnlQcm9jZWR1cmUsIHByb2NlZHVyZSgiVkVSSUZZIiwKICAgICAgICAgICAgICAgIGFwcChuZXcgSGFzaE1hcDxTdHJpbmcsIE9iamVjdD4oKSB7ewogICAgICAgICAgICAgICAgICAgIHB1dCgiaW1hZ2UiLCAiaHViLmRlZXBpLmNuL2plcnNleS1teXNxbC12ZXJpZnkiKTsKICAgICAgICAgICAgICAgIH19KSwKICAgICAgICAgICAgICAgIHJ1bnRpbWUoCiAgICAgICAgICAgICAgICAgICAgICAgIHByb2Nlc3NlcygKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcm9jZXNzKCJhcGkiLCBuZXcgSGFzaE1hcDxTdHJpbmcsIE9iamVjdD4oKSB7ewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwdXQoImltYWdlIiwgIntydW5uYWJsZX0iKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHV0KCJjcHUiLCAxLjApOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwdXQoIm1lbSIsIDEuMCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB1dCgiaW5zdGFuY2VzIiwgMSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB1dCgiZGlzayIsIDEwMjQpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwdXQoImV4cG9zZXMiLCBuZXcgQXJyYXlMaXN0PEludGVnZXI+KCkge3sKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFkZCg4MDgwKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfX0pOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwdXQoImxpbmtzIiwgbmV3IEFycmF5TGlzdDxTdHJpbmc+KCkge3sKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFkZCgibW9jayIpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYWRkKCJkYiIpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9fSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB1dCgiZW52aXJvbm1lbnQiLCBuZXcgSGFzaE1hcDxTdHJpbmcsIFN0cmluZz4oKXt7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwdXQoIkRCX0hPU1QiLCAie3tydW50aW1lIGRiLmhvc3R9fSIpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHV0KCJEQl9QT1JUIiwgInt7cnVudGltZSBkYi5wb3J0IDB9fSIpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHV0KCJEQl9QQVNTV09SRCIsICJ7e2RiLk1ZU1FMX1BBU1N9fSIpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHV0KCJEQl9VU0VSTkFNRSIsICJ7e2RiLk1ZU1FMX1VTRVJ9fSIpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHV0KCJEQl9EQVRBQkFTRSIsICJ7ZGIuT05fQ1JFQVRFX0RCfSIpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9fSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB1dCgiaGVhbHRocyIsIG5ldyBBcnJheUxpc3Q8TWFwPFN0cmluZywgT2JqZWN0Pj4oKSB7ewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYWRkKG5ldyBIYXNoTWFwPFN0cmluZywgT2JqZWN0PigpIHt7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHV0KCJwcm90b2NvbCIsICJUQ1AiKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwdXQoIm1hcHBlZCIsIDApOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB1dCgiaW50ZXJ2YWwiLCA2MCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHV0KCJ0aW1lb3V0IiwgNSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHV0KCJjb25zZWN1dGl2ZSIsIDMpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB1dCgiaWdub3JlIiwgMTIwKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH19KTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfX0pOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH19KSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcm9jZXNzKCJkYiIsIG5ldyBIYXNoTWFwPFN0cmluZywgT2JqZWN0PigpIHt7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB1dCgiaW1hZ2UiLCAibXlzcWw6NS43Iik7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfX0pCiAgICAgICAgICAgICAgICAgICAgICAgICkpCiAgICAgICAgKSk7</text>
+        <text>private String scope(String source, String procedureName) {
+        if (Objects.equals(source, &quot;{codebase}&quot;)) {
+            return &quot;UNIFIED_PROCEDURE&quot;;
+        } else if (Objects.equals(source, &quot;{cache}&quot;) || Objects.equals(source, &quot;{artifacts}&quot;) || Objects.equals(source, &quot;{build.artifacts}&quot;)) {
+            return &quot;PROCEDURE&quot;;
+        } else if (Objects.equals(procedureName, &quot;build&quot;) || Objects.equals(procedureName, &quot;verify&quot;)) {
+            return &quot;PER_PROCEDURE&quot;;
+        } else {
+            return &quot;PROCEDURE&quot;;
+        }
+    }</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB1dCgiREJfREFUQUJBU0UiLCAie3tkYi5PTl9DUkVBVEVfREJ9fSIpOwo=</text>
@@ -467,9 +478,9 @@
       </register>
     </registers>
     <search>
-      <last-search>process</last-search>
+      <last-search>{</last-search>
       <last-offset />
-      <last-pattern>process</last-pattern>
+      <last-pattern>{</last-pattern>
       <last-replace>%s</last-replace>
       <last-substitute>{}</last-substitute>
       <last-dir>1</last-dir>
@@ -477,8 +488,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mybatis</entry>
-        <entry>R_P_H</entry>
         <entry>health</entry>
         <entry>PPID</entry>
         <entry>healths</entry>
@@ -497,6 +506,8 @@
         <entry>artifacts</entry>
         <entry>piggy</entry>
         <entry>process</entry>
+        <entry encoding="base64">PA==</entry>
+        <entry>{</entry>
       </history-search>
       <history-cmd>
         <entry>re</entry>
