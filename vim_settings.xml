@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/builder/git/git.go" timestamp="1501494949290" />
+      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/builder/git/git.go" timestamp="1501495778582" />
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Owners.xml" timestamp="1501059404165">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="7" column="14" />
@@ -21,12 +21,12 @@
       <file name="/a.dummy" timestamp="1501061676678">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" timestamp="1501490942053">
-        <mark key="'" line="118" column="70" />
-        <mark key="[" line="108" column="159" />
-        <mark key="]" line="108" column="173" />
-        <mark key="^" line="108" column="173" />
-        <mark key="." line="108" column="173" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" timestamp="1501496421135">
+        <mark key="'" line="115" column="70" />
+        <mark key="[" line="43" column="64" />
+        <mark key="]" line="43" column="31" />
+        <mark key="^" line="43" column="31" />
+        <mark key="." line="43" column="31" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/classes/test/stacks-launcher/ups/jersey-mysql.ftl" timestamp="1500867103154">
         <mark key="[" line="19" column="0" />
@@ -34,7 +34,7 @@
         <mark key="." line="19" column="9" />
         <mark key="^" line="19" column="9" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" timestamp="1501494370270">
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" timestamp="1501496030956">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="33" column="34" />
         <mark key="^" line="38" column="52" />
@@ -171,7 +171,7 @@
         <mark key="." line="21" column="19" />
         <mark key="^" line="21" column="19" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Procedure.java" timestamp="1501054941970">
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Procedure.java" timestamp="1501496437274">
         <mark key="'" line="94" column="0" />
         <mark key="[" line="92" column="0" />
         <mark key="]" line="92" column="0" />
@@ -413,7 +413,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAtICJ7e2NhY2hlfX06L2hvbWUvLmdyYWRsZSIKICAgICAgICAtICJ7e2FydGlmYWN0c319Oi9hcnRpZmFjdHMiCiAgICAgICAgLSAie3tjb2RlYmFzZX19Oi9jb2RlYmFzZSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAubWFwKHAgLT4gUGFpci5vZihwLm5hbWUoKSwgcG9ydEFzc2lnbmVyLmFzc2lnbihwLCAoKE1hcDxTdHJpbmcsIE9iamVjdD4pIGNvbmZpZy5nZXQoInJ1bnRpbWUiKSkuZ2V0KHAubmFtZSgpKSkpKQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -437,34 +437,34 @@
         <text encoding="base64">ICAgICAgICAtICJ7e2NhY2hlfX06L2hvbWUvLmdyYWRsZSIKICAgICAgICAtICJ7e2FydGlmYWN0c319Oi9hcnRpZmFjdHMiCiAgICAgICAgLSAie3tjb2RlYmFzZX19Oi9jb2RlYmFzZSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBSVU5OQUJMRTogInJlZ2lzdHJ5LnNlcnZpY2UuY29uc3VsOjMxNTAwL3Rlc3QiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAubWFwKHAgLT4gUGFpci5vZihwLm5hbWUoKSwgcG9ydEFzc2lnbmVyLmFzc2lnbihwLCAoKE1hcDxTdHJpbmcsIE9iamVjdD4pIGNvbmZpZy5nZXQoInJ1bnRpbWUiKSkuZ2V0KHAubmFtZSgpKSkpKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVzdWw+PC9yZXN1bD4K</text>
+        <text encoding="base64">ICAgICAgICBSVU5OQUJMRTogInJlZ2lzdHJ5LnNlcnZpY2UuY29uc3VsOjMxNTAwL3Rlc3QiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cmVzdWw+PC9yZXN1bD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB1dCgiREJfREFUQUJBU0UiLCAie3tkYi5PTl9DUkVBVEVfREJ9fSIpOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB1dCgiREJfREFUQUJBU0UiLCAie3tkYi5PTl9DUkVBVEVfREJ9fSIpOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBQYWlyLm9mKHByb2NlZHVyZS5wcm9jZXNzKCkubmFtZSgpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInJ1bnRpbWVFbnYgPSAiICsgcnVudGltZUVudik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBQYWlyLm9mKHByb2NlZHVyZS5wcm9jZXNzKCkubmFtZSgpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInByb2Nlc3NFbnYgPSAiICsgcHJvY2Vzc0Vudik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInJ1bnRpbWVFbnYgPSAiICsgcnVudGltZUVudik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInByb2Nlc3NFbnYgPSAiICsgcHJvY2Vzc0Vudik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
