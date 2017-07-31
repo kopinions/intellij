@@ -33,12 +33,12 @@
         <mark key="." line="19" column="9" />
         <mark key="^" line="19" column="9" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" timestamp="1500976091450">
-        <mark key="'" line="26" column="43" />
-        <mark key="[" line="100" column="11" />
-        <mark key="]" line="100" column="11" />
-        <mark key="." line="100" column="11" />
-        <mark key="^" line="100" column="11" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" timestamp="1501466985671">
+        <mark key="'" line="99" column="12" />
+        <mark key="[" line="100" column="18" />
+        <mark key="]" line="100" column="21" />
+        <mark key="." line="100" column="21" />
+        <mark key="^" line="100" column="21" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/ProcedureInstances.xml" timestamp="1501061294772">
         <mark key="'" line="27" column="45" />
@@ -48,10 +48,6 @@
         <mark key="^" line="153" column="46" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/builder/images/build/Dockerfile" timestamp="1501464365030" />
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V29__runtime_process_intances_table.sql" timestamp="1501048655157">
-        <mark key="[" line="0" column="20" />
-        <mark key="]" line="0" column="37" />
-      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/core/Owers.java" timestamp="1501057618012">
         <mark key="[" line="8" column="43" />
         <mark key="]" line="8" column="50" />
@@ -63,10 +59,6 @@
         <mark key="]" line="57" column="102" />
         <mark key="^" line="57" column="102" />
         <mark key="." line="57" column="102" />
-      </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V31__add_health_for_process_instance.sql" timestamp="1501042411275">
-        <mark key="[" line="11" column="2" />
-        <mark key="]" line="11" column="22" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProcedureInstanceTest.java" timestamp="1501061547816">
         <mark key="[" line="37" column="44" />
@@ -182,10 +174,6 @@
         <mark key="." line="133" column="66" />
         <mark key="^" line="133" column="66" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V22__create_procedure_instances.sql" timestamp="1501059229838">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="27" />
-      </file>
       <file name="/Dummy.txt" timestamp="1501061068439">
         <mark key="[" line="0" column="0" />
       </file>
@@ -235,12 +223,12 @@
         <mark key="^" line="145" column="27" />
         <mark key="." line="145" column="27" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" timestamp="1501062420964">
-        <mark key="'" line="169" column="30" />
-        <mark key="[" line="1" column="34" />
-        <mark key="]" line="1" column="33" />
-        <mark key="^" line="1" column="33" />
-        <mark key="." line="1" column="33" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" timestamp="1501466842896">
+        <mark key="'" line="110" column="18" />
+        <mark key="[" line="184" column="61" />
+        <mark key="]" line="184" column="62" />
+        <mark key="^" line="184" column="62" />
+        <mark key="." line="184" column="62" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Owers.java" timestamp="1501058776031">
         <mark key="[" line="22" column="34" />
@@ -260,6 +248,12 @@
         <mark key="]" line="42" column="47" />
         <mark key="." line="42" column="47" />
         <mark key="^" line="42" column="47" />
+      </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/resources/log4j.properties" timestamp="1501467012245">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+        <mark key="^" line="0" column="20" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/resources/UnifiedProcedureResourceTest.java" timestamp="1501062091749">
         <mark key="'" line="136" column="0" />
@@ -288,10 +282,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="25" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Process.java" />
-      <jump line="0" column="0" filename="/workspace/solutions/cnup/stacks/launcher/build.gradle" />
-      <jump line="40" column="17" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Process.java" />
-      <jump line="55" column="43" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Process.java" />
       <jump line="122" column="24" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/ProcedureInstances.xml" />
       <jump line="67" column="19" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/UnifiedProcedures.xml" />
       <jump line="91" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/UnifiedProcedures.xml" />
@@ -388,6 +378,10 @@
       <jump line="27" column="45" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/ProcedureInstances.xml" />
       <jump line="50" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProcedureTest.java" />
       <jump line="169" column="30" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
+      <jump line="78" column="14" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
+      <jump line="110" column="18" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
+      <jump line="33" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
+      <jump line="99" column="12" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -396,7 +390,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>IMAGE</text>
+        <text>TRACE</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -408,10 +402,10 @@
         <text encoding="base64">dG9NYXAoUGFpcjo6Z2V0S2V5LCBQYWlyOjpnZXRWYWx1ZSwgKGwsIHIpIC0+IFN0cmVhbS5jb25jYXQobC5zdHJlYW0oKSwgci5zdHJlYW0oKSkuY29sbGVjdCh0b0xpc3QoKSkp</text>
       </register>
       <register name="-" type="4">
-        <text>IMAGE</text>
+        <text>TRACE</text>
       </register>
       <register name="/" type="4">
-        <text>arguments</text>
+        <text>artifacts</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBQUEkuSU1BR0UgQVMgUFBJX0lNQUdFLAo=</text>
@@ -451,9 +445,9 @@
       </register>
     </registers>
     <search>
-      <last-search>arguments</last-search>
+      <last-search>artifacts</last-search>
       <last-offset />
-      <last-pattern>arguments</last-pattern>
+      <last-pattern>artifacts</last-pattern>
       <last-replace>%s</last-replace>
       <last-substitute>{}</last-substitute>
       <last-dir>1</last-dir>
@@ -461,8 +455,6 @@
     </search>
     <history>
       <history-search>
-        <entry>exposes</entry>
-        <entry>typehan</entry>
         <entry>id</entry>
         <entry>slave</entry>
         <entry>mybatis</entry>
@@ -481,6 +473,8 @@
         <entry>{}</entry>
         <entry>expose</entry>
         <entry>arguments</entry>
+        <entry>depend</entry>
+        <entry>artifacts</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1BQSS9SUEk=</entry>
