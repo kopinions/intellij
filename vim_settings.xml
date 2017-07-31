@@ -33,12 +33,10 @@
         <mark key="." line="19" column="9" />
         <mark key="^" line="19" column="9" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" timestamp="1501491082114">
-        <mark key="'" line="87" column="12" />
-        <mark key="[" line="164" column="12" />
-        <mark key="]" line="164" column="13" />
-        <mark key="." line="164" column="13" />
-        <mark key="^" line="164" column="13" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" timestamp="1501492632404">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="33" column="34" />
+        <mark key="^" line="38" column="52" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/ProcedureInstances.xml" timestamp="1501485356925">
         <mark key="'" line="9" column="17" />
@@ -306,7 +304,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="0" filename="/workspace/solutions/cnup/stacks/cdectl/conf/cdectl.json" />
       <jump line="81" column="34" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProcedureTest.java" />
       <jump line="32" column="35" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/core/Procedure.java" />
       <jump line="99" column="110" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" />
@@ -406,6 +403,7 @@
       <jump line="109" column="49" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
       <jump line="125" column="7" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
       <jump line="184" column="46" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
+      <jump line="39" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -414,7 +412,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CWFwcGxpY2F0aW9uLkFkZEVudigiQ09ERUJBU0UiLCBjb2RlYmFzZSkKCWFwcGxpY2F0aW9uLkFkZEVudigiUkVHSVNUUlkiLCBjb25maWdSZXBvc2l0b3J5LkdldERvY2tlclJlZ2lzdHJ5KCkpCglhcHBsaWNhdGlvbi5BZGRFbnYoIkFQUF9OQU1FIiwgYXBwRGV0YWlsLklkKCkpCglhcHBsaWNhdGlvbi5BZGRFbnYoIkdJVF9TSEEiLCBidWlsZC5HaXRTaGEoKSkKCWFwcGxpY2F0aW9uLkFkZEVudigiQlVJTERfVVJJIiwgYnVpbGQuTGlua3MoKS5TZWxmKCkuVVJJKQoJYXBwbGljYXRpb24uQWRkRW52KCJTVEFDS19CVUlMRF9JTUFHRSIsIGJ1aWxkSW1hZ2UuTmFtZSkKCWFwcGxpY2F0aW9uLkFkZEVudigiQ09OVFJPTExFUl9BQ0NFU1NfVE9LRU4iLCBvcy5HZXRlbnYoIkNPTlRST0xMRVJfQUNDRVNTX1RPS0VOIikpCglhcHBsaWNhdGlvbi5BZGRFbnYoIkxBVU5DSEVSX0FDQ0VTU19UT0tFTiIsIG9zLkdldGVudigiTEFVTkNIRVJfQUNDRVNTX1RPS0VOIikpCglhcHBsaWNhdGlvbi5BZGRFbnYoIk1BUkFUSE9OX0VORFBPSU5UIiwgY29uZmlnUmVwb3NpdG9yeS5HZXRNYXJhdGhvbigpKQoJYXBwbGljYXRpb24uQWRkRW52KCJDQUNIRV9ESVIiLCBjYWNoZSkKCWFwcGxpY2F0aW9uLkFkZEVudigiQ09OVFJPTExFUl9FTkRQT0lOVCIsIGNvbmZpZ1JlcG9zaXRvcnkuQXBpRW5kcG9pbnQoKSkKCWFwcGxpY2F0aW9uLkFkZEVudigiQ09OU1VMX1VSSSIsIG9zLkdldGVudigiQ09OU1VMX1VSSSIpKQoJYXBwbGljYXRpb24uQWRkRW52KCJMQVVOQ0hFUl9FTkRQT0lOVCIsIGNvbmZpZ1JlcG9zaXRvcnkuRGVwbG95bWVudEVuZHBvaW50KCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAtICJ7e2NhY2hlfX06L2hvbWUvLmdyYWRsZSIKICAgICAgICAtICJ7e2FydGlmYWN0c319Oi9hcnRpZmFjdHMiCiAgICAgICAgLSAie3tjb2RlYmFzZX19Oi9jb2RlYmFzZSIK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -429,43 +427,43 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text>8888</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>id</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWFwcGxpY2F0aW9uLkFkZEVudigiQ09ERUJBU0UiLCBjb2RlYmFzZSkKCWFwcGxpY2F0aW9uLkFkZEVudigiUkVHSVNUUlkiLCBjb25maWdSZXBvc2l0b3J5LkdldERvY2tlclJlZ2lzdHJ5KCkpCglhcHBsaWNhdGlvbi5BZGRFbnYoIkFQUF9OQU1FIiwgYXBwRGV0YWlsLklkKCkpCglhcHBsaWNhdGlvbi5BZGRFbnYoIkdJVF9TSEEiLCBidWlsZC5HaXRTaGEoKSkKCWFwcGxpY2F0aW9uLkFkZEVudigiQlVJTERfVVJJIiwgYnVpbGQuTGlua3MoKS5TZWxmKCkuVVJJKQoJYXBwbGljYXRpb24uQWRkRW52KCJTVEFDS19CVUlMRF9JTUFHRSIsIGJ1aWxkSW1hZ2UuTmFtZSkKCWFwcGxpY2F0aW9uLkFkZEVudigiQ09OVFJPTExFUl9BQ0NFU1NfVE9LRU4iLCBvcy5HZXRlbnYoIkNPTlRST0xMRVJfQUNDRVNTX1RPS0VOIikpCglhcHBsaWNhdGlvbi5BZGRFbnYoIkxBVU5DSEVSX0FDQ0VTU19UT0tFTiIsIG9zLkdldGVudigiTEFVTkNIRVJfQUNDRVNTX1RPS0VOIikpCglhcHBsaWNhdGlvbi5BZGRFbnYoIk1BUkFUSE9OX0VORFBPSU5UIiwgY29uZmlnUmVwb3NpdG9yeS5HZXRNYXJhdGhvbigpKQoJYXBwbGljYXRpb24uQWRkRW52KCJDQUNIRV9ESVIiLCBjYWNoZSkKCWFwcGxpY2F0aW9uLkFkZEVudigiQ09OVFJPTExFUl9FTkRQT0lOVCIsIGNvbmZpZ1JlcG9zaXRvcnkuQXBpRW5kcG9pbnQoKSkKCWFwcGxpY2F0aW9uLkFkZEVudigiQ09OU1VMX1VSSSIsIG9zLkdldGVudigiQ09OU1VMX1VSSSIpKQoJYXBwbGljYXRpb24uQWRkRW52KCJMQVVOQ0hFUl9FTkRQT0lOVCIsIGNvbmZpZ1JlcG9zaXRvcnkuRGVwbG95bWVudEVuZHBvaW50KCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAtICJ7e2NhY2hlfX06L2hvbWUvLmdyYWRsZSIKICAgICAgICAtICJ7e2FydGlmYWN0c319Oi9hcnRpZmFjdHMiCiAgICAgICAgLSAie3tjb2RlYmFzZX19Oi9jb2RlYmFzZSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVzdWw+PC9yZXN1bD4K</text>
+        <text encoding="base64">ICAgICAgICBSVU5OQUJMRTogInJlZ2lzdHJ5LnNlcnZpY2UuY29uc3VsOjMxNTAwL3Rlc3QiCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cmVzdWw+PC9yZXN1bD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB1dCgiREJfREFUQUJBU0UiLCAie3tkYi5PTl9DUkVBVEVfREJ9fSIpOwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB1dCgiREJfREFUQUJBU0UiLCAie3tkYi5PTl9DUkVBVEVfREJ9fSIpOwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBQYWlyLm9mKHByb2NlZHVyZS5wcm9jZXNzKCkubmFtZSgpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInJ1bnRpbWVFbnYgPSAiICsgcnVudGltZUVudik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBQYWlyLm9mKHByb2NlZHVyZS5wcm9jZXNzKCkubmFtZSgpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInByb2Nlc3NFbnYgPSAiICsgcHJvY2Vzc0Vudik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInJ1bnRpbWVFbnYgPSAiICsgcnVudGltZUVudik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInByb2Nlc3NFbnYgPSAiICsgcHJvY2Vzc0Vudik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExpc3Q8UHJvY2VkdXJlSW5zdGFuY2UuUHJvY2Vzc0luc3RhbmNlLkV4cG9zZT4gZXhwb3NlczE7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
