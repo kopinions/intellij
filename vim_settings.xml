@@ -3,6 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/workspace/solutions/cnup/cde-stacks/jersey-mysql/build/build.sh" timestamp="1501568710709">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="92" column="13" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Owners.xml" timestamp="1501059404165">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="7" column="14" />
@@ -17,18 +21,12 @@
         <mark key="^" line="18" column="21" />
         <mark key="." line="18" column="21" />
       </file>
-      <file name="/a.dummy" timestamp="1501061676678">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" timestamp="1501557473658">
         <mark key="'" line="148" column="0" />
         <mark key="[" line="43" column="64" />
         <mark key="]" line="43" column="31" />
         <mark key="^" line="43" column="31" />
         <mark key="." line="43" column="31" />
-      </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Owners.java" timestamp="1501061383333">
-        <mark key="[" line="20" column="26" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/ProcedureInstances.xml" timestamp="1501555205723">
         <mark key="'" line="9" column="17" />
@@ -57,6 +55,7 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="33" column="23" />
       </file>
+      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/client/client.go" timestamp="1501568991145" />
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Procedure.java" timestamp="1501551352757">
         <mark key="'" line="94" column="0" />
         <mark key="[" line="92" column="0" />
@@ -77,9 +76,6 @@
         <mark key="^" line="98" column="39" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V22__create_procedure_instances.sql" timestamp="1501554726330" />
-      <file name="/Dummy.txt" timestamp="1501550669008">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/templates/cde.tmpl" timestamp="1499830001834">
         <mark key="'" line="24" column="22" />
         <mark key="[" line="23" column="0" />
@@ -313,7 +309,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW52LnB1dEFsbCgpOwo=</text>
+        <text encoding="base64">KGNhdCAgPDwnRU9GJwojIS9iaW4vYmFzaApzZXQgLWVvIHBpcGVmYWlsCgp1bnRpbCBuYyAteiAtdyA1ICREQl9IT1NUICREQl9QT1JUOyBkbwogICAgZWNobyAiLi4uLiIKICAgIHNsZWVwIDEKZG9uZQoKZXhwb3J0IERBVEFCQVNFPSJqZGJjOm15c3FsOi8vJERCX0hPU1Q6JERCX1BPUlQvJERCX0RBVEFCQVNFP3VzZXI9JERCX1VTRVJOQU1FJnBhc3N3b3JkPSREQl9QQVNTV09SRCZhbGxvd011bHRpUXVlcmllcz10cnVlJnplcm9EYXRlVGltZUJlaGF2aW9yPWNvbnZlcnRUb051bGwmY3JlYXRlRGF0YWJhc2VJZk5vdEV4aXN0PXRydWUiCmZseXdheSBtaWdyYXRlIC11cmw9IiREQVRBQkFTRSIgLWxvY2F0aW9ucz1maWxlc3lzdGVtOmBwd2RgL2RibWlncmF0aW9uIC1iYXNlbGluZU9uTWlncmF0ZT10cnVlIC1iYXNlbGluZVZlcnNpb249MApbIC1kIGBwd2RgL2luaXRtaWdyYXRpb24gIF0gJiYgZmx5d2F5IG1pZ3JhdGUgLXVybD0iJERBVEFCQVNFIiAtbG9jYXRpb25zPWZpbGVzeXN0ZW06YHB3ZGAvaW5pdG1pZ3JhdGlvbiAtdGFibGU9ImluaXRfdmVyc2lvbiIgLWJhc2VsaW5lT25NaWdyYXRlPXRydWUgLWJhc2VsaW5lVmVyc2lvbj0wCmphdmEgLVhteDQ1MG0gLVhYOitVbmxvY2tFeHBlcmltZW50YWxWTU9wdGlvbnMgLVhYOitVc2VHMUdDIC1qYXIgYXBwLXN0YW5kYWxvbmUuamFyCkVPRgopID4gd3JhcHBlci5zaAo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -333,8 +329,8 @@
       <register name="/" type="4">
         <text>wrap</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgY2xhc3MgV3JhcCBpbXBsZW1lbnRzIEhlbHBlcjxPYmplY3Q+IHsKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgT2JqZWN0IGFwcGx5KE9iamVjdCBjb250ZXh0LCBPcHRpb25zIG9wdGlvbnMpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICAgICAgICAgIHJldHVybiAid3JhcHBlciI7CiAgICAgICAgfQogICAgfQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">KGNhdCAgPDwnRU9GJwojIS9iaW4vYmFzaApzZXQgLWVvIHBpcGVmYWlsCgp1bnRpbCBuYyAteiAtdyA1ICREQl9IT1NUICREQl9QT1JUOyBkbwogICAgZWNobyAiLi4uLiIKICAgIHNsZWVwIDEKZG9uZQoKZXhwb3J0IERBVEFCQVNFPSJqZGJjOm15c3FsOi8vJERCX0hPU1Q6JERCX1BPUlQvJERCX0RBVEFCQVNFP3VzZXI9JERCX1VTRVJOQU1FJnBhc3N3b3JkPSREQl9QQVNTV09SRCZhbGxvd011bHRpUXVlcmllcz10cnVlJnplcm9EYXRlVGltZUJlaGF2aW9yPWNvbnZlcnRUb051bGwmY3JlYXRlRGF0YWJhc2VJZk5vdEV4aXN0PXRydWUiCmZseXdheSBtaWdyYXRlIC11cmw9IiREQVRBQkFTRSIgLWxvY2F0aW9ucz1maWxlc3lzdGVtOmBwd2RgL2RibWlncmF0aW9uIC1iYXNlbGluZU9uTWlncmF0ZT10cnVlIC1iYXNlbGluZVZlcnNpb249MApbIC1kIGBwd2RgL2luaXRtaWdyYXRpb24gIF0gJiYgZmx5d2F5IG1pZ3JhdGUgLXVybD0iJERBVEFCQVNFIiAtbG9jYXRpb25zPWZpbGVzeXN0ZW06YHB3ZGAvaW5pdG1pZ3JhdGlvbiAtdGFibGU9ImluaXRfdmVyc2lvbiIgLWJhc2VsaW5lT25NaWdyYXRlPXRydWUgLWJhc2VsaW5lVmVyc2lvbj0wCmphdmEgLVhteDQ1MG0gLVhYOitVbmxvY2tFeHBlcmltZW50YWxWTU9wdGlvbnMgLVhYOitVc2VHMUdDIC1qYXIgYXBwLXN0YW5kYWxvbmUuamFyCkVPRgopID4gd3JhcHBlci5zaAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZW52LnB1dEFsbCgpOwo=</text>
