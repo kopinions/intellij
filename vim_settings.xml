@@ -24,12 +24,12 @@
         <mark key="^" line="11" column="53" />
         <mark key="." line="11" column="53" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/wrappers/build/rootfs/run" timestamp="1501637971488">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="46" column="108" />
-        <mark key="]" line="46" column="108" />
-        <mark key="^" line="46" column="105" />
-        <mark key="." line="46" column="108" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/wrappers/build/rootfs/run" timestamp="1501639036812">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="^" line="69" column="19" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" timestamp="1501573671475">
         <mark key="'" line="46" column="122" />
@@ -45,11 +45,12 @@
         <mark key="^" line="23" column="56" />
         <mark key="." line="23" column="56" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" timestamp="1501581428741">
-        <mark key="[" line="247" column="22" />
-        <mark key="]" line="248" column="11" />
-        <mark key="." line="248" column="11" />
-        <mark key="^" line="248" column="11" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" timestamp="1501638968395">
+        <mark key="'" line="23" column="22" />
+        <mark key="[" line="254" column="0" />
+        <mark key="]" line="254" column="0" />
+        <mark key="." line="254" column="0" />
+        <mark key="^" line="253" column="27" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Process.java" timestamp="1501556025228">
         <mark key="[" line="26" column="0" />
@@ -237,9 +238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="213" column="15" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Records.xml" />
-      <jump line="146" column="13" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/ProcedureInstances.xml" />
-      <jump line="27" column="45" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/ProcedureInstances.xml" />
       <jump line="50" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProcedureTest.java" />
       <jump line="169" column="30" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
       <jump line="78" column="14" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
@@ -337,6 +335,9 @@
       <jump line="10" column="0" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/rootfs/run" />
       <jump line="56" column="0" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/rootfs/run" />
       <jump line="11" column="0" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/rootfs/run" />
+      <jump line="224" column="50" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
+      <jump line="18" column="8" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
+      <jump line="22" column="22" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -344,8 +345,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -360,16 +361,16 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ion</text>
       </register>
       <register name="/" type="4">
         <text>&quot;process&quot;</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW52LnB1dCgiT1dORVIiLCBwcm9jZWR1cmUub3duZXIoKS5nZXRJZCgpKTsK</text>
+      <register name="0" type="4">
+        <text>&quot;WRAPPED_RUNNABLE&quot;, &quot;registry.service.consul:31500/test&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVjbGFyZSAtYSBqYXZhX2FyZ3MK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -378,25 +379,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBkZWZpbmUgaW1hZ2UgbmFtZXMK</text>
+        <text encoding="base64">UlVOTkFCTEU9IiRSVU5OQUJMRSIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">U0hPUlRfU0hBPSR7R0lUX1NIQTowOjh9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UlVOTkFCTEU9IiRPUlRfU0hBIgo=</text>
+        <text encoding="base64">cm0gL21udC9tZXNvcy9zYW5kYm94L2NvZGViYXNlLnRhci5nego=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">VE1QX0lNQUdFPSIkUkVHSVNUUlkvJElNQUdFX05BTUUiCg==</text>
+        <text encoding="base64">dGFyIC16eGYgL21udC9tZXNvcy9zYW5kYm94L2NvZGViYXNlLnRhci5neiAtQyAkQ09ERUJBU0UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UlVOTkFCTEU9IiRPUlRfU0hBIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW52LnB1dCgiV1JBUFBFRF9SVU5OQUJMRSIsICJyZWdpc3RyeS5zZXJ2aWNlLmNvbnN1bDozMTUwMC90ZXN0Iik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">U0hPUlRfU0hBPSR7R0lUX1NIQTowOjh9Cg==</text>
+        <text encoding="base64">c2V0IC1lbyBwaXBlZmFpbAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -451,9 +452,9 @@
         <entry>&quot;qw</entry>
         <entry>we</entry>
         <entry encoding="base64">JzwsJz5yZWc=</entry>
-        <entry>&quot;w</entry>
         <entry>qw</entry>
         <entry>ew</entry>
+        <entry>&quot;w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
