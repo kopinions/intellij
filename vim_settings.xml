@@ -33,12 +33,12 @@
         <mark key="^" line="71" column="29" />
         <mark key="." line="70" column="30" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/wrappers/build/rootfs/run" timestamp="1501650594779">
-        <mark key="'" line="69" column="17" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-        <mark key="^" line="60" column="0" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/wrappers/build/rootfs/run" timestamp="1501651539007">
+        <mark key="'" line="68" column="17" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="55" column="79" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" timestamp="1501573671475">
         <mark key="'" line="46" column="122" />
@@ -70,6 +70,13 @@
         <mark key="[" line="28" column="24" />
         <mark key="]" line="28" column="24" />
         <mark key="." line="28" column="24" />
+      </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/wrappers/build/test/test.sh" timestamp="1501652076618">
+        <mark key="'" line="21" column="18" />
+        <mark key="[" line="35" column="40" />
+        <mark key="]" line="35" column="46" />
+        <mark key="." line="35" column="46" />
+        <mark key="^" line="35" column="46" />
       </file>
       <file name="/workspace/golang/src/github.com/sjkyspa/stacks/builder/Makefile" timestamp="1501574135223">
         <mark key="[" line="10" column="0" />
@@ -168,10 +175,10 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="33" column="23" />
       </file>
-      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/builder/rootfs/home/git/builder" timestamp="1501646704392">
+      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/builder/rootfs/home/git/builder" timestamp="1501651449225">
         <mark key="'" line="89" column="46" />
-        <mark key="[" line="92" column="176" />
-        <mark key="]" line="92" column="208" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="91" column="50" />
         <mark key="." line="92" column="208" />
         <mark key="^" line="92" column="208" />
       </file>
@@ -203,6 +210,12 @@
       </file>
       <file name="/Dummy.txt" timestamp="1501643009923">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/.gitignore" timestamp="1501651390164">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/templates/cde.tmpl" timestamp="1499830001834">
         <mark key="'" line="24" column="22" />
@@ -281,8 +294,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProcedureInstanceTest.java" />
-      <jump line="68" column="7" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProcedureInstanceTest.java" />
       <jump line="82" column="31" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProcedureInstanceTest.java" />
       <jump line="98" column="19" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProcedureInstanceTest.java" />
       <jump line="101" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProcedureInstanceTest.java" />
@@ -381,6 +392,8 @@
       <jump line="19" column="99" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/test/test.sh" />
       <jump line="37" column="18" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/test/test.sh" />
       <jump line="69" column="17" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/rootfs/run" />
+      <jump line="17" column="39" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/test/test.sh" />
+      <jump line="21" column="18" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/test/test.sh" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -389,7 +402,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -404,43 +417,43 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>sed</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">Y29kZWJhc2Ug</text>
+      <register name="0" type="2">
+        <text encoding="base64">bWtkaXIgLXAgJHtDT0RFQkFTRX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bHMgLWx0cmNoIC9jb2RlYmFzZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGFyIC16eGYgY29kZWJhc2UudGFyLmd6IC1DIC9jb2RlYmFzZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dHJhcCBvbl9leGl0IEhVUCBJTlQgVEVSTSBRVUlUIEFCUlQgRVhJVAo=</text>
+        <text encoding="base64">Y3AgJHtDVVJSRU5UX0JVSUxEX0RJUn0vY29kZWJhc2UudGFyLmd6ICR7VEVNUF9ESVJ9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC12IC9jYWNoZTovaG9tZS8uZ3JhZGxlIFwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIC12IC9jb2RlYmFzZTovY29kZWJhc2UgXAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0IDA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVsc2UK</text>
+        <text encoding="base64">dHJhcCBvbl9leGl0IEhVUCBJTlQgVEVSTSBRVUlUIEFCUlQgRVhJVAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0IDE7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
