@@ -24,12 +24,12 @@
         <mark key="^" line="11" column="53" />
         <mark key="." line="11" column="53" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/wrappers/build/rootfs/run" timestamp="1501579844176">
+      <file name="/workspace/solutions/cnup/stacks/launcher/wrappers/build/rootfs/run" timestamp="1501581642931">
         <mark key="'" line="11" column="0" />
-        <mark key="[" line="56" column="13" />
-        <mark key="]" line="56" column="25" />
-        <mark key="^" line="56" column="25" />
-        <mark key="." line="56" column="25" />
+        <mark key="[" line="50" column="20" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" timestamp="1501573671475">
         <mark key="'" line="46" column="122" />
@@ -45,10 +45,11 @@
         <mark key="^" line="23" column="56" />
         <mark key="." line="23" column="56" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" timestamp="1501579898539">
-        <mark key="[" line="242" column="0" />
-        <mark key="]" line="242" column="0" />
-        <mark key="." line="242" column="0" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" timestamp="1501581428741">
+        <mark key="[" line="247" column="22" />
+        <mark key="]" line="248" column="11" />
+        <mark key="." line="248" column="11" />
+        <mark key="^" line="248" column="11" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Process.java" timestamp="1501556025228">
         <mark key="[" line="26" column="0" />
@@ -343,8 +344,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>IMAGE</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -359,43 +360,43 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>IMAGE</text>
       </register>
       <register name="/" type="4">
         <text>&quot;process&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW52LnB1dCgiV1JBUFBFRF9SRUdJU1RSWSIsICJyZWdpc3RyeS5zZXJ2aWNlLmNvbnN1bDozMTUwMCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW52LnB1dCgiT1dORVIiLCBwcm9jZWR1cmUub3duZXIoKS5nZXRJZCgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aWYgWyAteiAiJFdSQVBQRURfSU1BR0UiIF07IHRoZW4gcHV0c19yZWQgIkVycm9yIGhhcHBlbmVkOiBubyBidWlsZCBpbWFnZSBmb3VuZCI7IGZpCg==</text>
+        <text encoding="base64">IyBkZWZpbmUgaW1hZ2UgbmFtZXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c291cmNlIC4vdXRpbC5zaAo=</text>
+        <text encoding="base64">U0hPUlRfU0hBPSR7R0lUX1NIQTowOjh9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">UlVOTkFCTEU9IiRPUlRfU0hBIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">VE1QX0lNQUdFPSIkUkVHSVNUUlkvJElNQUdFX05BTUUiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBXUkFQUEVEX1JFR0lTVFJZPXJlZ2lzdHJ5LnNlcnZpY2UuY29uc3VsOjMxNTAwCg==</text>
+        <text encoding="base64">UlVOTkFCTEU9IiRPUlRfU0hBIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBXUkFQUEVEX0lNQUdFPWh1Yi5kZWVwaS5jbi9qZXJzZXktbXlzcWwtYnVpbGQK</text>
+        <text encoding="base64">U0hPUlRfU0hBPSR7R0lUX1NIQTowOjh9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBXUkFQUEVEX0xBVU5DSEVSX0FDQ0VTU1RPS0VOCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBXUkFQUEVEX0NPTlRST0xMRVJfQUNDRVNTVE9LRU4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW52LnB1dCgiIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
