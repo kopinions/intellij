@@ -65,10 +65,10 @@
         <mark key="]" line="28" column="24" />
         <mark key="." line="28" column="24" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/wrappers/build/test/test.sh" timestamp="1501642692202">
+      <file name="/workspace/solutions/cnup/stacks/launcher/wrappers/build/test/test.sh" timestamp="1501645198516">
         <mark key="'" line="24" column="4" />
-        <mark key="[" line="21" column="24" />
-        <mark key="]" line="21" column="25" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="10" column="20" />
         <mark key="." line="21" column="25" />
         <mark key="^" line="21" column="25" />
       </file>
@@ -163,11 +163,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="33" column="23" />
       </file>
-      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/builder/rootfs/home/git/builder" timestamp="1501643710616">
-        <mark key="[" line="89" column="149" />
-        <mark key="]" line="89" column="154" />
-        <mark key="." line="89" column="154" />
-        <mark key="^" line="89" column="154" />
+      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/builder/rootfs/home/git/builder" timestamp="1501645537962">
+        <mark key="'" line="89" column="46" />
+        <mark key="[" line="92" column="142" />
+        <mark key="]" line="92" column="146" />
+        <mark key="." line="92" column="146" />
+        <mark key="^" line="92" column="146" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Procedure.java" timestamp="1501551352757">
         <mark key="'" line="94" column="0" />
@@ -274,7 +275,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="39" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/ProcedureInstances.xml" />
       <jump line="4" column="32" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/ProcedureInstances.xml" />
       <jump line="9" column="17" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/ProcedureInstances.xml" />
       <jump line="102" column="43" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" />
@@ -374,6 +374,7 @@
       <jump line="22" column="4" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/test/test.sh" />
       <jump line="4" column="25" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/rootfs/run" />
       <jump line="62" column="0" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/rootfs/run" />
+      <jump line="89" column="46" filename="/workspace/golang/src/github.com/sjkyspa/stacks/builder/rootfs/home/git/builder" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -382,7 +383,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>tmp</text>
+        <text>build</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -397,49 +398,43 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text>tmp</text>
+        <text>build</text>
       </register>
       <register name="/" type="4">
         <text>sed</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;volumes&quot;: [
-          {
-            &quot;containerPath&quot;: &quot;/var/run/docker.sock&quot;,
-            &quot;hostPath&quot;: &quot;/var/run/docker.sock&quot;,
-            &quot;mode&quot;: &quot;RW&quot;
-          }
-        ]</text>
+      <register name="0" type="2">
+        <text encoding="base64">VEVNUF9ESVI9Ii90bXAvJCh1dWlkZ2VuKSIKbWtkaXIgLXAgJHtURU1QX0RJUn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC1lIFdSQVBQRURfVk9MVU1FUz0ke1dSQVBQRURfVk9MVU1FU30gXAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC1lIFdSQVBQRURfUkVHSVNUUlk9aHViLmRlZXBpLmNuIFwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC1lIFdSQVBQRURfSU1BR0U9aHViLmRlZXBpLmNuL2plcnNleS1teXNxbC1idWlsZCBcCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC1lIFdSQVBQRURfT1dORVI9JHtXUkFQUEVEX09XTkVSfSBcCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIC1lIFdSQVBQRURfVk9MVU1FUz0ke1dSQVBQRURfVk9MVU1FU30gXAo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC1lIFdSQVBQRURfUkVHSVNUUlk9aHViLmRlZXBpLmNuIFwK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC1lIFdSQVBQRURfSU1BR0U9aHViLmRlZXBpLmNuL2plcnNleS1teXNxbC1idWlsZCBcCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC1lIEhPU1Q9JEhPU1QgXAo=</text>
+        <text encoding="base64">ICAgIC1lIFdSQVBQRURfT1dORVI9JHtXUkFQUEVEX09XTkVSfSBcCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC1lIE1BUkFUSE9OX0VORFBPSU5UPWh0dHA6Ly8kSE9TVDo4MDgwIFwK</text>
+        <text encoding="base64">ICAgIC1lIFdSQVBQRURfVk9MVU1FUz0ke1dSQVBQRURfVk9MVU1FU30gXAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC1lIEFQUF9OQU1FPWtldHN1IFwK</text>
+        <text encoding="base64">ICAgIC1lIEhPU1Q9JEhPU1QgXAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC1lIEdJVF9TSEE9NzA4ZmFhMDg0Y2Y2YzNmMjQ4ODlmNjgzMDI4ODY2NzVjYWRlMGY3ZCBcCg==</text>
+        <text encoding="base64">ICAgIC1lIE1BUkFUSE9OX0VORFBPSU5UPWh0dHA6Ly8kSE9TVDo4MDgwIFwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
