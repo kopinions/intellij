@@ -264,12 +264,12 @@
         <mark key="^" line="0" column="47" />
         <mark key="." line="0" column="55" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" timestamp="1501729226894">
-        <mark key="'" line="193" column="12" />
-        <mark key="[" line="22" column="18" />
-        <mark key="]" line="22" column="18" />
-        <mark key="^" line="22" column="19" />
-        <mark key="." line="22" column="18" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" timestamp="1501729885803">
+        <mark key="'" line="195" column="12" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/mappers/handlers/InstanceLinkHandler.java" timestamp="1500886705564">
         <mark key="'" line="62" column="0" />
@@ -418,7 +418,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>mapping</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -433,43 +433,47 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>mapping</text>
       </register>
       <register name="/" type="4">
         <text>PERMAN</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhZGREb2NrZXJBcmdzICItLXZvbHVtZS1kcml2ZXIiOwo=</text>
+      <register name="0" type="4">
+        <text>{{#unless @last}},{{/unless}}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIlNFUlZJQ0VTIjoiIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBXUkFQUEVEX1JFR0lTVFJZPXJlZ2lzdHJ5LnNlcnZpY2UuY29uc3VsOjMxNTAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBXUkFQUEVEX0lNQUdFPWh1Yi5kZWVwaS5jbi9qZXJzZXktbXlzcWwtYnVpbGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBXUkFQUEVEX0xBVU5DSEVSX0FDQ0VTU1RPS0VOCg==</text>
+      <register name="4" type="4">
+        <text>{{#each (mapping procedure=procedure)}}
+                {
+                    
+                }
+                {{/each}}</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBXUkFQUEVEX0NPTlRST0xMRVJfQUNDRVNTVE9LRU4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgIlNFUlZJQ0VTIjoiIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBXUkFQUEVEX0xBVU5DSEVSX1BPUlQ9eHh4Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBXUkFQUEVEX1JFR0lTVFJZPXJlZ2lzdHJ5LnNlcnZpY2UuY29uc3VsOjMxNTAwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBXUkFQUEVEX0xBVU5DSEVSX0hPU1Q9eHh4Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBXUkFQUEVEX0lNQUdFPWh1Yi5kZWVwaS5jbi9qZXJzZXktbXlzcWwtYnVpbGQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBXUkFQUEVEX0NPTlRST0xMRVJfUE9SVD14eHh4Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBXUkFQUEVEX0xBVU5DSEVSX0FDQ0VTU1RPS0VOCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBXUkFQUEVEX0NPTlRST0xMRVJfSE9TVD14eHh4Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBXUkFQUEVEX0NPTlRST0xMRVJfQUNDRVNTVE9LRU4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
