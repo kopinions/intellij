@@ -34,12 +34,11 @@
         <mark key="." line="50" column="28" />
         <mark key="^" line="50" column="28" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/wrappers/build/rootfs/run" timestamp="1501668980536">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="65" column="19" />
-        <mark key="]" line="74" column="11" />
-        <mark key="." line="74" column="11" />
-        <mark key="^" line="74" column="11" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/wrappers/build/rootfs/run" timestamp="1501727813675">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+        <mark key="^" line="63" column="39" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" timestamp="1501670606504">
         <mark key="'" line="107" column="72" />
@@ -78,19 +77,19 @@
         <mark key="]" line="28" column="24" />
         <mark key="." line="28" column="24" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/wrappers/build/test/test.sh" timestamp="1501664358127">
-        <mark key="'" line="35" column="35" />
-        <mark key="[" line="72" column="18" />
-        <mark key="]" line="73" column="7" />
-        <mark key="^" line="73" column="7" />
-        <mark key="." line="73" column="7" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/wrappers/build/test/test.sh" timestamp="1501727742615">
+        <mark key="'" line="14" column="8" />
+        <mark key="[" line="14" column="51" />
+        <mark key="]" line="14" column="60" />
+        <mark key="^" line="14" column="60" />
+        <mark key="." line="14" column="60" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProcedureInstanceTest.java" timestamp="1501668310873">
-        <mark key="'" line="105" column="0" />
-        <mark key="[" line="140" column="74" />
-        <mark key="]" line="140" column="73" />
-        <mark key="." line="140" column="73" />
-        <mark key="^" line="140" column="73" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProcedureInstanceTest.java" timestamp="1501726046013">
+        <mark key="'" line="108" column="64" />
+        <mark key="[" line="108" column="62" />
+        <mark key="]" line="108" column="64" />
+        <mark key="." line="108" column="64" />
+        <mark key="^" line="108" column="64" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProcedureTest.java" timestamp="1501470538886">
         <mark key="'" line="52" column="0" />
@@ -236,13 +235,12 @@
         <mark key="^" line="24" column="83" />
         <mark key="." line="24" column="83" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/core/ProcedureInstance.java" timestamp="1501554770133">
-        <mark key="[" line="11" column="19" />
-        <mark key="]" line="13" column="25" />
-        <mark key="." line="13" column="25" />
-        <mark key="^" line="13" column="25" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/core/ProcedureInstance.java" timestamp="1501725533315">
+        <mark key="[" line="115" column="16" />
+        <mark key="]" line="115" column="24" />
+        <mark key="." line="115" column="24" />
+        <mark key="^" line="115" column="24" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V32__add_procedure_provided_info.sql" timestamp="1501667369858" />
       <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/provider/support/ApiTestRunner.java" timestamp="1501062307226">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="120" column="53" />
@@ -312,18 +310,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="205" column="32" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Records.xml" />
-      <jump line="175" column="28" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Columns.xml" />
-      <jump line="134" column="55" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProcedureInstanceTest.java" />
-      <jump line="83" column="109" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" />
-      <jump line="148" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" />
-      <jump line="29" column="46" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
-      <jump line="127" column="22" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
-      <jump line="198" column="28" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
-      <jump line="182" column="12" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
-      <jump line="114" column="83" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
-      <jump line="210" column="8" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
-      <jump line="97" column="35" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
       <jump line="86" column="76" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" />
       <jump line="100" column="26" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" />
       <jump line="105" column="128" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" />
@@ -347,7 +333,6 @@
       <jump line="7" column="54" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/rootfs/run" />
       <jump line="7" column="33" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/test/test.sh" />
       <jump line="8" column="30" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/test/test.sh" />
-      <jump line="62" column="0" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/rootfs/run" />
       <jump line="89" column="46" filename="/workspace/golang/src/github.com/sjkyspa/stacks/builder/rootfs/home/git/builder" />
       <jump line="30" column="4" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/rootfs/run" />
       <jump line="15" column="18" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/test/run-test.sh" />
@@ -364,7 +349,6 @@
       <jump line="22" column="0" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/test/test.sh" />
       <jump line="49" column="3" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/test/test.sh" />
       <jump line="42" column="0" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/test/test.sh" />
-      <jump line="51" column="69" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/test/test.sh" />
       <jump line="44" column="150" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/test/test.sh" />
       <jump line="54" column="36" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/test/test.sh" />
       <jump line="67" column="0" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/rootfs/run" />
@@ -374,13 +358,11 @@
       <jump line="16" column="1" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/rootfs/run" />
       <jump line="18" column="0" filename="/workspace/solutions/cnup/cde-stacks/up-jersey-mysql/build/build.sh" />
       <jump line="12" column="13" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/test/test.sh" />
-      <jump line="14" column="35" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/test/test.sh" />
       <jump line="13" column="38" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/test/test.sh" />
       <jump line="0" column="18" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/test/test.sh" />
       <jump line="82" column="0" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/test/test.sh" />
       <jump line="41" column="12" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/test/test.sh" />
       <jump line="80" column="0" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/test/test.sh" />
-      <jump line="67" column="98" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/test/test.sh" />
       <jump line="57" column="28" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/test/test.sh" />
       <jump line="28" column="35" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/test/test.sh" />
       <jump line="2" column="12" filename="/workspace/golang/src/github.com/sjkyspa/stacks/builder/rootfs/home/git/builder" />
@@ -393,7 +375,6 @@
       <jump line="53" column="0" filename="/workspace/golang/src/github.com/sjkyspa/stacks/builder/rootfs/home/git/builder" />
       <jump line="72" column="9" filename="/workspace/solutions/cnup/cde-stacks/up-jersey-mysql/build/build.sh" />
       <jump line="45" column="7" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/rootfs/run" />
-      <jump line="56" column="11" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/rootfs/run" />
       <jump line="9" column="0" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/rootfs/run" />
       <jump line="41" column="16" filename="/workspace/golang/src/github.com/sjkyspa/stacks/controller/src/test/resources/javajersey.yml" />
       <jump line="58" column="0" filename="/workspace/golang/src/github.com/sjkyspa/stacks/controller/src/test/resources/javajersey.yml" />
@@ -412,6 +393,23 @@
       <jump line="226" column="11" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
       <jump line="241" column="43" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
       <jump line="188" column="12" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
+      <jump line="77" column="16" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/test/test.sh" />
+      <jump line="31" column="0" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/test/test.sh" />
+      <jump line="76" column="0" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/test/test.sh" />
+      <jump line="4" column="5" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/test/test.sh" />
+      <jump line="57" column="0" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/rootfs/run" />
+      <jump line="60" column="41" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/rootfs/run" />
+      <jump line="56" column="41" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/rootfs/run" />
+      <jump line="63" column="3" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/rootfs/run" />
+      <jump line="71" column="4" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/rootfs/run" />
+      <jump line="108" column="64" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProcedureInstanceTest.java" />
+      <jump line="65" column="32" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/rootfs/run" />
+      <jump line="67" column="25" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/test/test.sh" />
+      <jump line="64" column="10" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/rootfs/run" />
+      <jump line="51" column="0" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/test/test.sh" />
+      <jump line="58" column="3" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/rootfs/run" />
+      <jump line="62" column="23" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/rootfs/run" />
+      <jump line="14" column="8" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/test/test.sh" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -419,8 +417,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGVjaG8gJHt2b2x1bWVfdHlwZX0K</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -435,52 +433,54 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>PERMANENT</text>
       </register>
       <register name="/" type="4">
-        <text>runtime</text>
+        <text>PERMAN</text>
       </register>
-      <register name="0" type="4">
-        <text>new ProcedureInstance.ProcessInstance.Volume(ProcedureInstance.ProcessInstance.Volume.Type.DISPOSABLE, &quot;/var/run/docker.sock&quot;, &quot;/var/run/docker.sock&quot;, ProcedureInstance.ProcessInstance.Volume.Mode.RW)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBhZGREb2NrZXJBcmdzICItLXZvbHVtZS1kcml2ZXIiOwo=</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">ICAKICAKICA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGVjaG8gJHt2b2x1bWVfdHlwZX0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGlmIFsgIlBFUk1BTkVOVCIgPT0gJHt2b2x1bWVfb3B9IF07IHRoZW4K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLnN0cmVhbSgpCg==</text>
+      <register name="3" type="4">
+        <text>echo ${WRAPPED_VOLUMES}|sed 's/#/\
+/g'| awk -F: '{print $4}'</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJvY2Vzcy5nZXRWb2x1bWVzKCkuc3RyZWFtKCkpIAo=</text>
+      <register name="4" type="4">
+        <text>echo ${WRAPPED_VOLUMES}|sed 's/#/\
+/g'| awk -F: '{print $4}'</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGVjaG8gJDQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUHJvY2Vzc0luc3RhbmNlIHByb2Nlc3MgPSBvcHRpb25zLmhhc2goInByb2Nlc3MiKTsK</text>
+        <text encoding="base64">ICAgIGVjaG8gJDMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVjaG8gJDIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFwPFN0cmluZywgU3RyaW5nPiBlbnYgPSBvcmlnaW4uZW50cnlTZXQoKS5zdHJlYW0oKQogICAgICAgICAgICAgICAgICAgIC5tYXAocCAtPiBvZigiV1JBUFBFRF8iICsgcC5nZXRLZXkoKSwgcC5nZXRWYWx1ZSgpKSkKICAgICAgICAgICAgICAgICAgICAuY29sbGVjdCh0b01hcChQYWlyOjpnZXRLZXksIFBhaXI6OmdldFZhbHVlKSk7Cg==</text>
+        <text encoding="base64">ICAgIGVjaG8gJDEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBXUkFQUEVEX1ZPTFVNRVM6IHNyYzp0YXJnZXQ6bW9kZTp0eXBlCi8vICAgICAgICAgICAgV1JBUFBFRF9DT05UUk9MTEVSX0hPU1Q9eHh4eAovLyAgICAgICAgICAgIFdSQVBQRURfQ09OVFJPTExFUl9QT1JUPXh4eHgKLy8gICAgICAgICAgICBXUkFQUEVEX0xBVU5DSEVSX0hPU1Q9eHh4Ci8vICAgICAgICAgICAgV1JBUFBFRF9MQVVOQ0hFUl9QT1JUPXh4eAovLyAgICAgICAgICAgIFdSQVBQRURfQ09OVFJPTExFUl9BQ0NFU1NUT0tFTgovLyAgICAgICAgICAgIFdSQVBQRURfTEFVTkNIRVJfQUNDRVNTVE9LRU4KLy8gICAgICAgICAgICBXUkFQUEVEX0lNQUdFPWh1Yi5kZWVwaS5jbi9qZXJzZXktbXlzcWwtYnVpbGQKLy8gICAgICAgICAgICBXUkFQUEVEX1JFR0lTVFJZPXJlZ2lzdHJ5LnNlcnZpY2UuY29uc3VsOjMxNTAwCiAgICAgICAgICAgIGVudi5wdXQoIldSQVBQRURfVk9MVU1FUyIsIHByb2Nlc3MuZ2V0Vm9sdW1lcygpLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAgICAgLm1hcCh2IC0+IHYuZ2V0U291cmNlKCkgKyAiOiIgKyB2LmdldFRhcmdldCgpICsgIjoiICsgdi5nZXRNb2RlKCkgKyAiOiIgKyB2LmdldFR5cGUoKSkKICAgICAgICAgICAgICAgICAgICAuY29sbGVjdChqb2luaW5nKCIjIikpKTsKICAgICAgICAgICAgZW52LnB1dCgiV1JBUFBFRF9JTUFHRSIsIHByb2Nlc3MuZ2V0SW1hZ2UoKSk7CgogICAgICAgICAgICBlbnYucHV0KCJXUkFQUEVEX09XTkVSIiwgcHJvY2VkdXJlLm93bmVyKCkuZ2V0SWQoKSk7CiAgICAgICAgICAgIGVudi5lbnRyeVNldCgpLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAgICAgLmZpbHRlcihlIC0+IGUuZ2V0VmFsdWUoKS5tYXRjaGVzKCJcXHtcXHtcXHMqcnVubmFibGVcXHMqfX0iKSkKICAgICAgICAgICAgICAgICAgICAuZmluZEZpcnN0KCkKICAgICAgICAgICAgICAgICAgICAuaWZQcmVzZW50KGUgLT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVudi5jb21wdXRlKGUuZ2V0S2V5KCksIChvLCBuKSAtPiAicmVnaXN0cnkuc2VydmljZS5jb25zdWw6MzE1MDAvdGVzdCIpCiAgICAgICAgICAgICAgICAgICAgKTsKCiAgICAgICAgICAgIGVudi5wdXRJZkFic2VudCgiV1JBUFBFRF9SVU5OQUJMRSIsICJyZWdpc3RyeS5zZXJ2aWNlLmNvbnN1bDozMTUwMC90ZXN0Iik7CiAgICAgICAgICAgIGVudi5wdXQoIldSQVBQRURfUkVHSVNUUlkiLCAicmVnaXN0cnkuc2VydmljZS5jb25zdWw6MzE1MDAiKTsKICAgICAgICAgICAgZW52LnB1dCgiV1JBUFBFRF9DT05UUk9MTEVSX0FDQ0VTU1RPS0VOIiwgInRva2VuIik7CiAgICAgICAgICAgIGVudi5wdXQoIldSQVBQRURfTEFVTkNIRVJfQUNDRVNTVE9LRU4iLCAidG9rZW4iKTsKICAgICAgICAgICAgZW52LnB1dCgiV1JBUFBFRF9MQVVOQ0hFUl9IT1NUIiwgInRva2VuIik7CiAgICAgICAgICAgIGVudi5wdXQoIldSQVBQRURfQ09OVFJPTExFUl9QT1JUIiwgInRva2VuIik7CiAgICAgICAgICAgIGVudi5wdXQoIldSQVBQRURfQ09OVFJPTExFUl9IT1NUIiwgInRva2VuIik7CiAgICAgICAgICAgIHJldHVybiBlbnY7Cg==</text>
+        <text encoding="base64">c2V0IC14Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>runtime</last-search>
+      <last-search>PERMAN</last-search>
       <last-offset />
-      <last-pattern>runtime</last-pattern>
+      <last-pattern>PERMAN</last-pattern>
       <last-replace>verify-wrapper-up</last-replace>
       <last-substitute>verify-wrapper</last-substitute>
       <last-dir>1</last-dir>
@@ -488,8 +488,6 @@
     </search>
     <history>
       <history-search>
-        <entry>expose</entry>
-        <entry>arguments</entry>
         <entry>depend</entry>
         <entry>artifacts</entry>
         <entry>piggy</entry>
@@ -508,6 +506,8 @@
         <entry>build-wrapper</entry>
         <entry>verify-wrapper</entry>
         <entry>runtime</entry>
+        <entry>perman</entry>
+        <entry>PERMAN</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">Pnc=</entry>
@@ -521,7 +521,6 @@
         <entry>we</entry>
         <entry encoding="base64">JzwsJz5yZWc=</entry>
         <entry>ew</entry>
-        <entry>qw</entry>
         <entry>reg</entry>
         <entry>&quot;w</entry>
         <entry>Lw</entry>
@@ -529,6 +528,7 @@
         <entry>%s/build-wrapper/build-wrapper-up/gcy</entry>
         <entry>%s/build-wrapper/build-wrapper-up/gc</entry>
         <entry>%s/verify-wrapper/verify-wrapper-up/gc</entry>
+        <entry>qw</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
