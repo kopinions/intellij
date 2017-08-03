@@ -5,12 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>Makefile</mask>
-      <mask>.gi</mask>
-      <mask>.git</mask>
-      <mask>.giti</mask>
-      <mask>.gitig</mask>
       <mask>.gitign</mask>
       <mask>.gitigno</mask>
       <mask>.gitignore</mask>
@@ -33,9 +29,14 @@
       <mask>X</mask>
       <mask>XM</mask>
       <mask>XML</mask>
-      <mask>x</mask>
-      <mask>xm</mask>
       <mask>xml</mask>
+      <mask>xm</mask>
+      <mask>x</mask>
+      <mask>j</mask>
+      <mask>ja</mask>
+      <mask>java</mask>
+      <mask>.java</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
