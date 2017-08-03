@@ -60,12 +60,12 @@
         <mark key="^" line="23" column="56" />
         <mark key="." line="23" column="56" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" timestamp="1501670697705">
-        <mark key="'" line="241" column="43" />
-        <mark key="[" line="212" column="63" />
-        <mark key="]" line="212" column="74" />
-        <mark key="." line="212" column="74" />
-        <mark key="^" line="212" column="74" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" timestamp="1501728760598">
+        <mark key="'" line="148" column="35" />
+        <mark key="[" line="233" column="0" />
+        <mark key="]" line="233" column="0" />
+        <mark key="^" line="213" column="74" />
+        <mark key="." line="233" column="0" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Process.java" timestamp="1501666749115">
         <mark key="[" line="101" column="15" />
@@ -264,12 +264,12 @@
         <mark key="^" line="0" column="47" />
         <mark key="." line="0" column="55" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" timestamp="1501670944024">
-        <mark key="'" line="187" column="12" />
-        <mark key="[" line="40" column="10" />
-        <mark key="]" line="40" column="10" />
-        <mark key="^" line="25" column="10" />
-        <mark key="." line="40" column="10" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" timestamp="1501729226894">
+        <mark key="'" line="193" column="12" />
+        <mark key="[" line="22" column="18" />
+        <mark key="]" line="22" column="18" />
+        <mark key="^" line="22" column="19" />
+        <mark key="." line="22" column="18" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/mappers/handlers/InstanceLinkHandler.java" timestamp="1500886705564">
         <mark key="'" line="62" column="0" />
@@ -310,7 +310,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="76" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" />
       <jump line="100" column="26" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" />
       <jump line="105" column="128" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" />
       <jump line="117" column="126" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" />
@@ -410,6 +409,7 @@
       <jump line="58" column="3" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/rootfs/run" />
       <jump line="62" column="23" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/rootfs/run" />
       <jump line="14" column="8" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/test/test.sh" />
+      <jump line="148" column="35" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -417,8 +417,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJHt2b2x1bWVfdHlwZX0K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -433,7 +433,7 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text>PERMANENT</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>PERMAN</text>
@@ -442,36 +442,34 @@
         <text encoding="base64">ICAgICAgICBhZGREb2NrZXJBcmdzICItLXZvbHVtZS1kcml2ZXIiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJHt2b2x1bWVfdHlwZX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgIlNFUlZJQ0VTIjoiIiwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIFsgIlBFUk1BTkVOVCIgPT0gJHt2b2x1bWVfb3B9IF07IHRoZW4K</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBXUkFQUEVEX1JFR0lTVFJZPXJlZ2lzdHJ5LnNlcnZpY2UuY29uc3VsOjMxNTAwCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>echo ${WRAPPED_VOLUMES}|sed 's/#/\
-/g'| awk -F: '{print $4}'</text>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICBXUkFQUEVEX0lNQUdFPWh1Yi5kZWVwaS5jbi9qZXJzZXktbXlzcWwtYnVpbGQK</text>
       </register>
-      <register name="4" type="4">
-        <text>echo ${WRAPPED_VOLUMES}|sed 's/#/\
-/g'| awk -F: '{print $4}'</text>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICBXUkFQUEVEX0xBVU5DSEVSX0FDQ0VTU1RPS0VOCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJDQK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBXUkFQUEVEX0NPTlRST0xMRVJfQUNDRVNTVE9LRU4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJDMK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBXUkFQUEVEX0xBVU5DSEVSX1BPUlQ9eHh4Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJDIK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBXUkFQUEVEX0xBVU5DSEVSX0hPU1Q9eHh4Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJDEK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBXUkFQUEVEX0NPTlRST0xMRVJfUE9SVD14eHh4Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2V0IC14Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBXUkFQUEVEX0NPTlRST0xMRVJfSE9TVD14eHh4Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -514,7 +512,6 @@
         <entry encoding="base64">JzwsJz5zL1x7XH0vJXMvZ2M=</entry>
         <entry encoding="base64">JzwsJz5zL1xce1xcfS8lcy9nYw==</entry>
         <entry encoding="base64">JzwsJz5zL3t9LyVzL2dj</entry>
-        <entry>wq</entry>
         <entry>q</entry>
         <entry>w]</entry>
         <entry>&quot;qw</entry>
@@ -529,6 +526,7 @@
         <entry>%s/build-wrapper/build-wrapper-up/gc</entry>
         <entry>%s/verify-wrapper/verify-wrapper-up/gc</entry>
         <entry>qw</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
