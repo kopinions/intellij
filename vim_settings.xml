@@ -17,12 +17,11 @@
         <mark key="^" line="10" column="17" />
         <mark key="." line="10" column="17" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/resources/ProceduresResourceTest.java" timestamp="1501815908001">
-        <mark key="'" line="48" column="53" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="^" line="88" column="59" />
-        <mark key="." line="56" column="0" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/resources/ProceduresResourceTest.java" timestamp="1501817644822">
+        <mark key="[" line="97" column="93" />
+        <mark key="]" line="97" column="36" />
+        <mark key="." line="97" column="36" />
+        <mark key="^" line="97" column="36" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/Makefile" timestamp="1501732853968">
         <mark key="'" line="20" column="4" />
@@ -57,11 +56,11 @@
         <mark key="^" line="58" column="23" />
         <mark key="." line="31" column="22" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Providers.xml" timestamp="1501815324121">
-        <mark key="[" line="23" column="16" />
-        <mark key="]" line="23" column="21" />
-        <mark key="^" line="23" column="21" />
-        <mark key="." line="23" column="21" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Providers.xml" timestamp="1501817077359">
+        <mark key="[" line="26" column="40" />
+        <mark key="]" line="26" column="43" />
+        <mark key="." line="26" column="43" />
+        <mark key="^" line="26" column="43" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/ProcedureInstances.xml" timestamp="1501815947241">
         <mark key="'" line="129" column="0" />
@@ -84,12 +83,33 @@
         <mark key="." line="0" column="30" />
         <mark key="^" line="0" column="30" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Providers.java" timestamp="1501815079545">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Process.java" timestamp="1501666749115">
+        <mark key="[" line="101" column="15" />
+        <mark key="]" line="101" column="15" />
+        <mark key="." line="101" column="15" />
+      </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Providers.java" timestamp="1501817324375">
+        <mark key="[" line="20" column="66" />
+        <mark key="]" line="20" column="60" />
+        <mark key="." line="20" column="60" />
+        <mark key="^" line="20" column="60" />
+      </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/wrappers/build/Dockerfile" timestamp="1501574409949">
+        <mark key="[" line="28" column="24" />
+        <mark key="]" line="28" column="24" />
+        <mark key="." line="28" column="24" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V28__add_providers_table.sql" timestamp="1501751126532" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/synapse/Dockerfile" timestamp="1501740209370">
+        <mark key="[" line="28" column="24" />
+        <mark key="]" line="28" column="24" />
+        <mark key="." line="28" column="24" />
+      </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcessInstance.java" timestamp="1501730748181">
+        <mark key="[" line="47" column="15" />
+        <mark key="]" line="47" column="15" />
+        <mark key="." line="47" column="15" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/wrappers/build/test/test.sh" timestamp="1501727742615">
         <mark key="'" line="14" column="8" />
         <mark key="[" line="14" column="51" />
@@ -105,12 +125,11 @@
         <mark key="^" line="61" column="62" />
         <mark key="." line="84" column="0" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProcedureTest.java" timestamp="1501815793249">
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProcedureTest.java" timestamp="1501817112695">
         <mark key="'" line="57" column="17" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="73" column="11" />
-        <mark key="^" line="77" column="27" />
-        <mark key="." line="77" column="27" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Records.xml" timestamp="1501815448123">
         <mark key="'" line="5" column="0" />
@@ -160,6 +179,12 @@
         <mark key="." line="11" column="63" />
         <mark key="^" line="11" column="63" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Owner.java" timestamp="1501817845329">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="28" column="10" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="21" column="9" />
+      </file>
       <file name="/workspace/solutions/cnup/cde-stacks/up-jersey-mysql/build/Dockerfile" timestamp="1501663277146">
         <mark key="[" line="18" column="5" />
         <mark key="]" line="18" column="8" />
@@ -171,11 +196,6 @@
         <mark key="]" line="24" column="3" />
         <mark key="." line="24" column="3" />
         <mark key="^" line="24" column="3" />
-      </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/wrappers/verify/Dockerfile" timestamp="1501739523172">
-        <mark key="[" line="28" column="24" />
-        <mark key="]" line="28" column="24" />
-        <mark key="." line="28" column="24" />
       </file>
       <file name="/workspace/golang/src/github.com/sjkyspa/stacks/builder/Dockerfile" timestamp="1501646660246">
         <mark key="[" line="3" column="91" />
@@ -197,12 +217,17 @@
         <mark key="." line="190" column="16" />
         <mark key="^" line="190" column="16" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstance.java" timestamp="1501816044402">
-        <mark key="'" line="57" column="20" />
-        <mark key="[" line="67" column="43" />
-        <mark key="]" line="68" column="32" />
-        <mark key="^" line="68" column="32" />
-        <mark key="." line="68" column="32" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/wrappers/verify/rootfs/entrypoint" timestamp="1501739617356">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstance.java" timestamp="1501818489375">
+        <mark key="'" line="31" column="12" />
+        <mark key="[" line="80" column="63" />
+        <mark key="]" line="80" column="61" />
+        <mark key="." line="80" column="61" />
+        <mark key="^" line="80" column="61" />
       </file>
       <file name="/workspace/golang/src/github.com/sjkyspa/stacks/builder/rootfs/home/git/builder" timestamp="1501662808513">
         <mark key="'" line="53" column="0" />
@@ -217,6 +242,11 @@
         <mark key="]" line="119" column="50" />
         <mark key="." line="119" column="50" />
         <mark key="^" line="119" column="50" />
+      </file>
+      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/builder/images/build/Dockerfile" timestamp="1501574446124">
+        <mark key="[" line="28" column="24" />
+        <mark key="]" line="28" column="24" />
+        <mark key="." line="28" column="24" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/resources/UnifiedProceduresResourceTest.java" timestamp="1501487189096">
         <mark key="'" line="82" column="62" />
@@ -262,17 +292,27 @@
         <mark key="^" line="120" column="58" />
         <mark key="." line="120" column="58" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/resources/ProceduresResource.java" timestamp="1501750729641">
-        <mark key="[" line="26" column="24" />
-        <mark key="]" line="26" column="36" />
-        <mark key="^" line="26" column="36" />
-        <mark key="." line="26" column="36" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/core/Procedure.java" timestamp="1501749212346">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="11" column="4" />
+        <mark key="." line="11" column="4" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProvidersTest.java" timestamp="1501755954640">
-        <mark key="'" line="145" column="33" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="89" column="11" />
-        <mark key="." line="109" column="0" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/synapse/rootfs/etc/consul-template/templates/haproxy.cfg.ctmpl" timestamp="1501740039645">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+      </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/resources/ProceduresResource.java" timestamp="1501817566487">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProvidersTest.java" timestamp="1501817243967">
+        <mark key="'" line="170" column="33" />
+        <mark key="[" line="106" column="44" />
+        <mark key="]" line="106" column="48" />
+        <mark key="." line="106" column="48" />
+        <mark key="^" line="106" column="48" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Columns.xml" timestamp="1501815385244">
         <mark key="'" line="195" column="12" />
@@ -293,6 +333,11 @@
         <mark key="]" line="22" column="60" />
         <mark key="." line="22" column="60" />
         <mark key="^" line="22" column="60" />
+      </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/core/ProcedureInstances.java" timestamp="1501749173820">
+        <mark key="[" line="8" column="83" />
+        <mark key="]" line="8" column="83" />
+        <mark key="." line="8" column="83" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/mappers/handlers/InstanceLinkHandler.java" timestamp="1500886705564">
         <mark key="'" line="62" column="0" />
@@ -342,8 +387,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="55" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/test/test.sh" />
-      <jump line="16" column="1" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/rootfs/run" />
       <jump line="18" column="0" filename="/workspace/solutions/cnup/cde-stacks/up-jersey-mysql/build/build.sh" />
       <jump line="12" column="13" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/test/test.sh" />
       <jump line="13" column="38" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/test/test.sh" />
@@ -442,6 +485,8 @@
       <jump line="47" column="59" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/resources/ProceduresResourceTest.java" />
       <jump line="0" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/resources/ProceduresResourceTest.java" />
       <jump line="48" column="53" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/resources/ProceduresResourceTest.java" />
+      <jump line="80" column="37" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstance.java" />
+      <jump line="31" column="12" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstance.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -449,8 +494,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>null</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICQoImFwcCIsICgoUmVjb3JkKSBwcm9jZXNzKS50b1JlZkpzb24ocm91dGVzKSkK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -465,46 +510,43 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>Result</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gcHJvdmlkZShQcm9jZWR1cmVJbnN0YW5jZSBwcm9jZWR1cmVJbnN0YW5jZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICQoInJ1bnRpbWUiLCAoKFJlY29yZCkgcnVudGltZSkudG9SZWZKc29uKHJvdXRlcykpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICQoImFwcCIsICgoUmVjb3JkKSBwcm9jZXNzKS50b1JlZkpzb24ocm91dGVzKSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKHByb3ZpZGVycy53aGljaChNb2NraXRvLmFueU1hcCgpKSkudGhlblJldHVybihPcHRpb25hbC5vZihNb2NraXRvLm1vY2soUHJvdmlkZXIuY2xhc3MpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICQoInJ1bnRpbWUiLCAoKFJlY29yZCkgcnVudGltZSkudG9SZWZKc29uKHJvdXRlcykpLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBNb2NrCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGlkOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKGlkcy5pZCgpKS50aGVuUmV0dXJuKCJwaWQiKTsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">ewogICAgICAgIE1hcmF0aG9uIG1vY2sgPSBNb2NraXRvLm1vY2soTWFyYXRob24uY2xhc3MpOwogICAgICAgIHdoZW4obW9jay5jcmVhdGVHcm91cChhbnkoKSkpLnRoZW5SZXR1cm4obmV3IFJlc3VsdCgpKTsKICAgICAgICB3aGVuKG1hcmF0aG9ucy5jcmVhdGUoYW55KE1hcC5jbGFzcykpKS50aGVuUmV0dXJuKG1vY2spOwogICAgICAgIHByb3ZpZGVycy5lbnJvbGwobmV3IEhhc2hNYXA8U3RyaW5nLCBPYmplY3Q+KCkge3sKICAgICAgICAgICAgcHV0KCJuYW1lIiwgImRpc3Bvc2FibGVzIik7CiAgICAgICAgICAgIHB1dCgidHlwZSIsICJNQVJBVEhPTiIpOwogICAgICAgICAgICBwdXQoImNvbmZpZyIsIG5ldyBIYXNoTWFwPD4oKSk7CiAgICAgICAgfX0pOwoKICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IHVwID0gcmVxdWVzdHMudW5pZmllZFByb2Nlc3MoImplcnNleS1teXNxbCIsIG5ldyBIYXNoTWFwPD4oKSk7CiAgICAgICAgUmVzcG9uc2UgcmVzID0gdGFyZ2V0KCIvdXBzIikucmVxdWVzdCgpLnBvc3QoanNvbih1cCkpOwoKICAgICAgICBhc3NlcnRUaGF0KHJlcy5nZXRTdGF0dXNJbmZvKCkuZ2V0U3RhdHVzQ29kZSgpLCBpcyhSZXNwb25zZS5TdGF0dXMuQ1JFQVRFRC5nZXRTdGF0dXNDb2RlKCkpKTsKICAgICAgICBhc3NlcnRUaGF0KHJlcy5nZXRMb2NhdGlvbigpLnRvQVNDSUlTdHJpbmcoKSwgY29udGFpbnNTdHJpbmcoIi91cHMiKSk7CgogICAgICAgIFJlc3BvbnNlIHJlc3BvbnNlID0gdGFyZ2V0KHJlcy5nZXRMb2NhdGlvbigpLmdldFBhdGgoKSkucmVxdWVzdCgpCiAgICAgICAgICAgICAgICAuYWNjZXB0KE1lZGlhVHlwZS5BUFBMSUNBVElPTl9KU09OX1RZUEUpCiAgICAgICAgICAgICAgICAuZ2V0KCk7CiAgICAgICAgYXNzZXJ0VGhhdChyZXNwb25zZS5nZXRTdGF0dXMoKSwgaXMoUmVzcG9uc2UuU3RhdHVzLk9LLmdldFN0YXR1c0NvZGUoKSkpOwogICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gdW5pZmllZFByb2NlZHVyZSA9IHJlc3BvbnNlLnJlYWRFbnRpdHkoTWFwLmNsYXNzKTsKICAgICAgICBMaXN0PE1hcDxTdHJpbmcsIE9iamVjdD4+IHByb2NlZHVyZXMgPSAoTGlzdDxNYXA8U3RyaW5nLCBPYmplY3Q+PikgdW5pZmllZFByb2NlZHVyZS5nZXQoInByb2NlZHVyZXMiKTsKCiAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiBidWlsZFByb2NlZHVyZSA9IHByb2NlZHVyZXMuc3RyZWFtKCkuZmlsdGVyKHAgLT4gT2JqZWN0cy5lcXVhbHMocC5nZXQoInR5cGUiKSwgIkJVSUxEIikpLmZpbmRGaXJzdCgpLm9yRWxzZVRocm93KCgpIC0+IG5ldyBFeGNlcHRpb24oImNhbiBub3QgZmluZCBidWlsZCBwcm9jZWR1cmUiKSk7CiAgICAgICAgTGlzdDxNYXA8U3RyaW5nLCBTdHJpbmc+PiBsaW5rcyA9IChMaXN0PE1hcDxTdHJpbmcsIFN0cmluZz4+KSBidWlsZFByb2NlZHVyZS5nZXQoImxpbmtzIik7CiAgICAgICAgU3RyaW5nIGluc3RhbnRpYXRpb25VcmkgPSBsaW5rcy5zdHJlYW0oKS5maWx0ZXIobCAtPiBPYmplY3RzLmVxdWFscyhsLmdldCgicmVsIiksICJpbnN0YW50aWF0aW9uIikpLmZpbmRGaXJzdCgpLm9yRWxzZVRocm93KCgpIC0+IG5ldyBFeGNlcHRpb24oImNhbiBub3QgZmluZCBpbnN0YW50aWF0aW9uIGxpbmsiKSkuZ2V0KCJ1cmkiKTsKCiAgICAgICAgUmVzcG9uc2UgcHJvY2VkdXJlSW5zdGFuY2UgPSB0YXJnZXQoaW5zdGFudGlhdGlvblVyaSkucmVxdWVzdChNZWRpYVR5cGUuQVBQTElDQVRJT05fSlNPTl9UWVBFKS5wb3N0KEVudGl0eS5qc29uKAogICAgICAgICAgICAgICAgJCgKICAgICAgICAgICAgICAgICAgICAgICAgJCgib3duZXIiLCAkKCJpZCIsICJrZXRzdSIpKSwKICAgICAgICAgICAgICAgICAgICAgICAgJCgicHJvY2VkdXJlIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJCgiYXBwIiwgJCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJCgiaWQiLCAia2V0c3UiKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJCgiY3B1IiwgMSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICQoImVudmlyb25tZW50IiwgbmV3IEhhc2hNYXA8PigpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKCJydW50aW1lIiwgJCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJCgiZGIiLCAkKCJlbnZpcm9ubWVudCIsIG5ldyBIYXNoTWFwPD4oKSkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICApKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICAgICAgICAgICAgJCgicHJvdmlkZXIiLCAkKCJuYW1lIiwgImRpc3Bvc2FibGVzIikpCgogICAgICAgICAgICAgICAgKSkKICAgICAgICApOwogICAgICAgIGFzc2VydFRoYXQocHJvY2VkdXJlSW5zdGFuY2UuZ2V0U3RhdHVzKCksIGlzKFJlc3BvbnNlLlN0YXR1cy5DUkVBVEVELmdldFN0YXR1c0NvZGUoKSkpOwoKICAgICAgICBSZXNwb25zZSBwcm9jZWR1cmVJbnN0YW5jZUJlZm9yZURlc3Ryb3kgPSB0YXJnZXQocHJvY2VkdXJlSW5zdGFuY2UuZ2V0TG9jYXRpb24oKS5nZXRQYXRoKCkpLnJlcXVlc3QoKS5nZXQoKTsKICAgICAgICBhc3NlcnRUaGF0KHByb2NlZHVyZUluc3RhbmNlQmVmb3JlRGVzdHJveS5nZXRTdGF0dXMoKSwgaXMoUmVzcG9uc2UuU3RhdHVzLk9LLmdldFN0YXR1c0NvZGUoKSkpOwoKICAgICAgICBwcm9jZWR1cmVJbnN0YW5jZUJlZm9yZURlc3Ryb3kucmVhZEVudGl0eShNYXA8U3RyaW5nLCBPYmplY3Q+KQogICAgfQ==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8aWQgcHJvcGVydHk9ImlkIiBjb2x1bW49IlBST1ZJRF9JRCIvPgo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ewogICAgICAgIE1hcmF0aG9uIG1vY2sgPSBNb2NraXRvLm1vY2soTWFyYXRob24uY2xhc3MpOwogICAgICAgIHdoZW4obW9jay5jcmVhdGVHcm91cChhbnkoKSkpLnRoZW5SZXR1cm4obmV3IFJlc3VsdCgpKTsKICAgICAgICB3aGVuKG1hcmF0aG9ucy5jcmVhdGUoYW55KE1hcC5jbGFzcykpKS50aGVuUmV0dXJuKG1vY2spOwogICAgICAgIHByb3ZpZGVycy5lbnJvbGwobmV3IEhhc2hNYXA8U3RyaW5nLCBPYmplY3Q+KCkge3sKICAgICAgICAgICAgcHV0KCJuYW1lIiwgImRpc3Bvc2FibGVzIik7CiAgICAgICAgICAgIHB1dCgidHlwZSIsICJNQVJBVEhPTiIpOwogICAgICAgICAgICBwdXQoImNvbmZpZyIsIG5ldyBIYXNoTWFwPD4oKSk7CiAgICAgICAgfX0pOwoKICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IHVwID0gcmVxdWVzdHMudW5pZmllZFByb2Nlc3MoImplcnNleS1teXNxbCIsIG5ldyBIYXNoTWFwPD4oKSk7CiAgICAgICAgUmVzcG9uc2UgcmVzID0gdGFyZ2V0KCIvdXBzIikucmVxdWVzdCgpLnBvc3QoanNvbih1cCkpOwoKICAgICAgICBhc3NlcnRUaGF0KHJlcy5nZXRTdGF0dXNJbmZvKCkuZ2V0U3RhdHVzQ29kZSgpLCBpcyhSZXNwb25zZS5TdGF0dXMuQ1JFQVRFRC5nZXRTdGF0dXNDb2RlKCkpKTsKICAgICAgICBhc3NlcnRUaGF0KHJlcy5nZXRMb2NhdGlvbigpLnRvQVNDSUlTdHJpbmcoKSwgY29udGFpbnNTdHJpbmcoIi91cHMiKSk7CgogICAgICAgIFJlc3BvbnNlIHJlc3BvbnNlID0gdGFyZ2V0KHJlcy5nZXRMb2NhdGlvbigpLmdldFBhdGgoKSkucmVxdWVzdCgpCiAgICAgICAgICAgICAgICAuYWNjZXB0KE1lZGlhVHlwZS5BUFBMSUNBVElPTl9KU09OX1RZUEUpCiAgICAgICAgICAgICAgICAuZ2V0KCk7CiAgICAgICAgYXNzZXJ0VGhhdChyZXNwb25zZS5nZXRTdGF0dXMoKSwgaXMoUmVzcG9uc2UuU3RhdHVzLk9LLmdldFN0YXR1c0NvZGUoKSkpOwogICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gdW5pZmllZFByb2NlZHVyZSA9IHJlc3BvbnNlLnJlYWRFbnRpdHkoTWFwLmNsYXNzKTsKICAgICAgICBMaXN0PE1hcDxTdHJpbmcsIE9iamVjdD4+IHByb2NlZHVyZXMgPSAoTGlzdDxNYXA8U3RyaW5nLCBPYmplY3Q+PikgdW5pZmllZFByb2NlZHVyZS5nZXQoInByb2NlZHVyZXMiKTsKCiAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiBidWlsZFByb2NlZHVyZSA9IHByb2NlZHVyZXMuc3RyZWFtKCkuZmlsdGVyKHAgLT4gT2JqZWN0cy5lcXVhbHMocC5nZXQoInR5cGUiKSwgIkJVSUxEIikpLmZpbmRGaXJzdCgpLm9yRWxzZVRocm93KCgpIC0+IG5ldyBFeGNlcHRpb24oImNhbiBub3QgZmluZCBidWlsZCBwcm9jZWR1cmUiKSk7CiAgICAgICAgTGlzdDxNYXA8U3RyaW5nLCBTdHJpbmc+PiBsaW5rcyA9IChMaXN0PE1hcDxTdHJpbmcsIFN0cmluZz4+KSBidWlsZFByb2NlZHVyZS5nZXQoImxpbmtzIik7CiAgICAgICAgU3RyaW5nIGluc3RhbnRpYXRpb25VcmkgPSBsaW5rcy5zdHJlYW0oKS5maWx0ZXIobCAtPiBPYmplY3RzLmVxdWFscyhsLmdldCgicmVsIiksICJpbnN0YW50aWF0aW9uIikpLmZpbmRGaXJzdCgpLm9yRWxzZVRocm93KCgpIC0+IG5ldyBFeGNlcHRpb24oImNhbiBub3QgZmluZCBpbnN0YW50aWF0aW9uIGxpbmsiKSkuZ2V0KCJ1cmkiKTsKCiAgICAgICAgUmVzcG9uc2UgcHJvY2VkdXJlSW5zdGFuY2UgPSB0YXJnZXQoaW5zdGFudGlhdGlvblVyaSkucmVxdWVzdChNZWRpYVR5cGUuQVBQTElDQVRJT05fSlNPTl9UWVBFKS5wb3N0KEVudGl0eS5qc29uKAogICAgICAgICAgICAgICAgJCgKICAgICAgICAgICAgICAgICAgICAgICAgJCgib3duZXIiLCAkKCJpZCIsICJrZXRzdSIpKSwKICAgICAgICAgICAgICAgICAgICAgICAgJCgicHJvY2VkdXJlIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJCgiYXBwIiwgJCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJCgiaWQiLCAia2V0c3UiKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJCgiY3B1IiwgMSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICQoImVudmlyb25tZW50IiwgbmV3IEhhc2hNYXA8PigpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKCJydW50aW1lIiwgJCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJCgiZGIiLCAkKCJlbnZpcm9ubWVudCIsIG5ldyBIYXNoTWFwPD4oKSkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICApKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICAgICAgICAgICAgJCgicHJvdmlkZXIiLCAkKCJuYW1lIiwgImRpc3Bvc2FibGVzIikpCgogICAgICAgICAgICAgICAgKSkKICAgICAgICApOwogICAgICAgIGFzc2VydFRoYXQocHJvY2VkdXJlSW5zdGFuY2UuZ2V0U3RhdHVzKCksIGlzKFJlc3BvbnNlLlN0YXR1cy5DUkVBVEVELmdldFN0YXR1c0NvZGUoKSkpOwoKICAgICAgICBSZXNwb25zZSBwcm9jZWR1cmVJbnN0YW5jZUJlZm9yZURlc3Ryb3kgPSB0YXJnZXQocHJvY2VkdXJlSW5zdGFuY2UuZ2V0TG9jYXRpb24oKS5nZXRQYXRoKCkpLnJlcXVlc3QoKS5nZXQoKTsKICAgICAgICBhc3NlcnRUaGF0KHByb2NlZHVyZUluc3RhbmNlQmVmb3JlRGVzdHJveS5nZXRTdGF0dXMoKSwgaXMoUmVzcG9uc2UuU3RhdHVzLk9LLmdldFN0YXR1c0NvZGUoKSkpOwoKICAgICAgICBwcm9jZWR1cmVJbnN0YW5jZUJlZm9yZURlc3Ryb3kucmVhZEVudGl0eShNYXA8U3RyaW5nLCBPYmplY3Q+KQogICAgfQ==</text>
       </register>
-      <register name="9" type="8">
-        <text>ERS
-ERS
-ERS
-ERS</text>
+      <register name="9" type="2">
+        <text encoding="base64">CiAgICBAREVMRVRFCiAgICBAUGF0aCgie2lkfSIpCiAgICBwdWJsaWMgUmVzcG9uc2UgZGVzdHJveShAUGF0aFBhcmFtKCJpZCIpIFN0cmluZyBpZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBDb250ZXh0IFByb2NlZHVyZUluc3RhbmNlcyBpbnN0YW5jZXMpIHsKICAgICAgICBpbnN0YW5jZXMub2YoaWQpLnRlcm1pbmF0ZWQoKTsKICAgICAgICByZXR1cm4gUmVzcG9uc2Uub2soKS5idWlsZCgpOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
