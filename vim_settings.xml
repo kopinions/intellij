@@ -193,11 +193,12 @@
         <mark key="." line="190" column="16" />
         <mark key="^" line="190" column="16" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstance.java" timestamp="1502079746520">
-        <mark key="'" line="95" column="9" />
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="." line="108" column="0" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstance.java" timestamp="1502080708292">
+        <mark key="'" line="56" column="12" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="46" column="66" />
       </file>
       <file name="/workspace/golang/src/github.com/sjkyspa/stacks/builder/rootfs/home/git/builder" timestamp="1501662808513">
         <mark key="'" line="53" column="0" />
@@ -250,11 +251,11 @@
         <mark key="^" line="24" column="83" />
         <mark key="." line="24" column="83" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/core/ProcedureInstance.java" timestamp="1502079761759">
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/core/ProcedureInstance.java" timestamp="1502080450272">
         <mark key="[" line="30" column="8" />
-        <mark key="]" line="30" column="11" />
-        <mark key="^" line="30" column="11" />
-        <mark key="." line="30" column="11" />
+        <mark key="]" line="30" column="24" />
+        <mark key="^" line="30" column="24" />
+        <mark key="." line="30" column="24" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.inject/guice/3.0/d117c4481f64955cb1862ed38cb568add2f5fe05/guice-3.0-sources.jar!/com/google/inject/internal/InjectorImpl.java" timestamp="1501756503195" />
       <file name="/workspace/solutions/cnup/stacks/launcher/synapse/rootfs/usr/bin/wait" timestamp="1501739751068" />
@@ -352,7 +353,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/rootfs/run" />
       <jump line="53" column="0" filename="/workspace/golang/src/github.com/sjkyspa/stacks/builder/rootfs/home/git/builder" />
       <jump line="72" column="9" filename="/workspace/solutions/cnup/cde-stacks/up-jersey-mysql/build/build.sh" />
       <jump line="45" column="7" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/rootfs/run" />
@@ -452,6 +452,7 @@
       <jump line="223" column="15" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Records.xml" />
       <jump line="182" column="19" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Records.xml" />
       <jump line="32" column="32" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/core/ProcedureInstance.java" />
+      <jump line="56" column="12" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstance.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -459,8 +460,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>ProcedureInstance</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -475,7 +476,7 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text>ProcedureInstance</text>
+        <text>operation1</text>
       </register>
       <register name="/" type="4">
         <text>procedure_instance</text>
@@ -484,31 +485,31 @@
         <text encoding="base64">ICAgICAgICA8aWQgcHJvcGVydHk9ImlkIiBjb2x1bW49IlBFX0lfSUQiLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5zdGFuY2VhLm1hcHBlci4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5zdGFuY2VhLm1hcHBlci51cGRhdGUodGhpcyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8VD4gVCBhcHBseWEoVCBpbnN0YW5jZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5zdGFuY2VhLnN0YXR1cyA9IFN0YXR1cy5TVUNDRUVEOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5zdGFuY2VhLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5zdGFuY2VhLm1hcHBlci4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9jZWR1cmVJbnN0YW5jZSBhcHBseShQcm9jZWR1cmVJbnN0YW5jZSBpbnN0YW5jZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUHJvY2VkdXJlSW5zdGFuY2Uuc3RhIAo=</text>
+        <text encoding="base64">ICAgICAgICA8VD4gVCBhcHBseWEoVCBpbnN0YW5jZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvcGVyYXRpb24xLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5zdGFuY2VhLgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
