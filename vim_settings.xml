@@ -17,12 +17,12 @@
         <mark key="^" line="10" column="17" />
         <mark key="." line="10" column="17" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/resources/ProceduresResourceTest.java" timestamp="1501834915640">
-        <mark key="'" line="38" column="0" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/resources/ProceduresResourceTest.java" timestamp="1502075369199">
+        <mark key="'" line="43" column="41" />
         <mark key="[" line="101" column="12" />
-        <mark key="]" line="99" column="33" />
-        <mark key="." line="99" column="33" />
-        <mark key="^" line="99" column="33" />
+        <mark key="]" line="102" column="7" />
+        <mark key="." line="102" column="7" />
+        <mark key="^" line="102" column="7" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/Makefile" timestamp="1501732853968">
         <mark key="'" line="20" column="4" />
@@ -335,7 +335,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="28" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/test/test.sh" />
       <jump line="28" column="35" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/test/test.sh" />
       <jump line="2" column="12" filename="/workspace/golang/src/github.com/sjkyspa/stacks/builder/rootfs/home/git/builder" />
       <jump line="54" column="52" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/rootfs/run" />
@@ -435,6 +434,7 @@
       <jump line="98" column="35" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/resources/ProceduresResourceTest.java" />
       <jump line="38" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/resources/ProceduresResourceTest.java" />
       <jump line="152" column="56" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/resources/UnifiedProcedureResourceTest.java" />
+      <jump line="43" column="41" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/resources/ProceduresResourceTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
