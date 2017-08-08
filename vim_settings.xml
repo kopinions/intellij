@@ -58,6 +58,7 @@
         <mark key="." line="112" column="48" />
         <mark key="^" line="112" column="48" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" timestamp="1502182964817" />
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Providers.xml" timestamp="1502179129676">
         <mark key="'" line="14" column="8" />
         <mark key="[" line="51" column="43" />
@@ -144,6 +145,13 @@
         <mark key="]" line="969" column="20" />
         <mark key="." line="969" column="20" />
         <mark key="^" line="969" column="37" />
+      </file>
+      <file name="/workspace/solutions/cnup/stacks/cdectl/templates/controller.tmpl" timestamp="1502183715489">
+        <mark key="'" line="57" column="21" />
+        <mark key="[" line="101" column="35" />
+        <mark key="]" line="101" column="33" />
+        <mark key="." line="101" column="33" />
+        <mark key="^" line="101" column="33" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/resources/UnifiedProcedureResource.java" timestamp="1502173349145">
         <mark key="'" line="57" column="125" />
@@ -245,6 +253,9 @@
         <mark key="." line="7" column="100" />
         <mark key="^" line="7" column="100" />
       </file>
+      <file name="/Dummy.txt" timestamp="1502183660994">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/provider/support/InjectBasedRunner.java" timestamp="1502174967961">
         <mark key="[" line="178" column="138" />
         <mark key="]" line="178" column="166" />
@@ -318,6 +329,10 @@
         <mark key="^" line="22" column="60" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runner/manipulation/Filter.java" timestamp="1502175550665" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.media/jersey-media-json-jackson/2.17/d84924a29b18e2e4619478152948fdccf5cdbdb/jersey-media-json-jackson-2.17-sources.jar!/org/glassfish/jersey/jackson/JacksonFeature.java" timestamp="1502182298556">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="64" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/mappers/handlers/InstanceLinkHandler.java" timestamp="1500886705564">
         <mark key="'" line="62" column="0" />
         <mark key="[" line="21" column="0" />
@@ -344,10 +359,11 @@
         <mark key="." line="22" column="135" />
         <mark key="^" line="22" column="135" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/features/error/ErrorFeature.java" timestamp="1502163696501">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/features/error/ErrorFeature.java" timestamp="1502182336516">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="15" column="19" />
       </file>
       <file name="/fragment.java" timestamp="1502176198875">
         <mark key="[" line="0" column="0" />
@@ -361,24 +377,22 @@
         <mark key="." line="17" column="1" />
         <mark key="^" line="17" column="1" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/Modules.java" timestamp="1502173197541">
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/Modules.java" timestamp="1502182474351">
         <mark key="'" line="18" column="38" />
-        <mark key="[" line="180" column="0" />
-        <mark key="]" line="180" column="0" />
-        <mark key="." line="180" column="0" />
-        <mark key="^" line="92" column="7" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
+        <mark key="^" line="87" column="7" />
+      </file>
+      <file name="/workspace/solutions/cnup/stacks/cdectl/templates/launcher.tmpl" timestamp="1502183719195">
+        <mark key="'" line="75" column="28" />
+        <mark key="[" line="98" column="34" />
+        <mark key="]" line="98" column="32" />
+        <mark key="^" line="98" column="32" />
+        <mark key="." line="98" column="32" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="23" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProcedureInstanceTest.java" />
-      <jump line="42" column="17" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProcedureTest.java" />
-      <jump line="119" column="27" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProvidersTest.java" />
-      <jump line="89" column="31" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Procedure.java" />
-      <jump line="0" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/ProcedureInstances.xml" />
-      <jump line="91" column="3" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/ProcedureInstances.xml" />
-      <jump line="129" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/ProcedureInstances.xml" />
-      <jump line="0" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/UnifiedProcedures.xml" />
-      <jump line="0" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Columns.xml" />
       <jump line="201" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Columns.xml" />
       <jump line="195" column="12" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Columns.xml" />
       <jump line="0" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Records.xml" />
@@ -470,6 +484,15 @@
       <jump line="14" column="8" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Providers.xml" />
       <jump line="154" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
       <jump line="131" column="33" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/resources/ProvidersResourceTest.java" />
+      <jump line="11" column="125" filename="/workspace/solutions/cnup/stacks/cdectl/templates/launcher.tmpl" />
+      <jump line="160" column="0" filename="/workspace/solutions/cnup/stacks/cdectl/templates/launcher.tmpl" />
+      <jump line="54" column="19" filename="/workspace/solutions/cnup/stacks/cdectl/templates/launcher.tmpl" />
+      <jump line="68" column="13" filename="/workspace/solutions/cnup/stacks/cdectl/templates/launcher.tmpl" />
+      <jump line="47" column="21" filename="/workspace/solutions/cnup/stacks/cdectl/templates/launcher.tmpl" />
+      <jump line="75" column="28" filename="/workspace/solutions/cnup/stacks/cdectl/templates/launcher.tmpl" />
+      <jump line="133" column="8" filename="/workspace/solutions/cnup/stacks/cdectl/templates/controller.tmpl" />
+      <jump line="50" column="21" filename="/workspace/solutions/cnup/stacks/cdectl/templates/controller.tmpl" />
+      <jump line="57" column="21" filename="/workspace/solutions/cnup/stacks/cdectl/templates/controller.tmpl" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -478,7 +501,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAiRVhUUkFfT1BUUyI6ICItLWxvd2VyX2Nhc2VfdGFibGVfbmFtZXM9MSIK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -493,43 +516,43 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ON_CREATE_DB</text>
       </register>
       <register name="/" type="4">
-        <text>toJson</text>
+        <text>db</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGVudGl0eUFmdGVyUHV0LmdldCgibmFtZSIpLCBpcygicGVybWFuZW50cyIpKTsK</text>
+        <text encoding="base64">ICAgICAgICAiTVlTUUxfVVNFUiI6ICJteXNxbCIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAiRVhUUkFfT1BUUyI6ICItLWxvd2VyX2Nhc2VfdGFibGVfbmFtZXM9MSIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAiRVhUUkFfT1BUUyI6ICItLWxvd2VyX2Nhc2VfdGFibGVfbmFtZXM9MSIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZAo=</text>
+        <text encoding="base64">ICAgICAgICAiT05fQ1JFQVRFX0RCIjogImRlcGxveW1lbnRzIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbnJvbGxlZC5nZQo=</text>
+        <text encoding="base64">ICAgICAgICBiaW5kZXIuYmluZChuZXcgVHlwZUxpdGVyYWw8RnVuY3Rpb248VGhyb3dhYmxlLCBCb29sZWFuPj4oKSB7CiAgICAgICAgfSkuYW5ub3RhdGVkV2l0aChOYW1lcy5uYW1lZCgibWFwcGFibGUiKSkudG9JbnN0YW5jZSgKICAgICAgICAgICAgICAgIHRocm93YWJsZSAtPiB0aHJvd2FibGUuZ2V0Q2xhc3MoKS5pc0Fzc2lnbmFibGVGcm9tKEVycm9yLmNsYXNzKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHJlc3BvbnNlLmdldFN0YXR1cygpLCBpcyhPSy5nZXRTdGF0dXNDb2RlKCkpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb250ZXh0LnJlZ2lzdGVyKEVycm9yc01hcHBlci5jbGFzcyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgcmVuZXdhbChNYXA8U3RyaW5nLCBPYmplY3Q+IHJlbmV3YWwpIHsKCiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
@@ -539,9 +562,9 @@
       </register>
     </registers>
     <search>
-      <last-search>toJson</last-search>
+      <last-search>db</last-search>
       <last-offset />
-      <last-pattern>toJson</last-pattern>
+      <last-pattern>db</last-pattern>
       <last-replace>PROVIDERS</last-replace>
       <last-substitute>P</last-substitute>
       <last-dir>1</last-dir>
@@ -549,7 +572,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sed</entry>
         <entry>done</entry>
         <entry>docker build</entry>
         <entry>build-wrapper</entry>
@@ -569,6 +591,7 @@
         <entry>api</entry>
         <entry>errors</entry>
         <entry>toJson</entry>
+        <entry>db</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -588,8 +611,8 @@
         <entry>qw</entry>
         <entry>&quot;w</entry>
         <entry>reg</entry>
-        <entry>we</entry>
         <entry>ew</entry>
+        <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
