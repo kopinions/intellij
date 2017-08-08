@@ -60,12 +60,6 @@
         <mark key="." line="112" column="48" />
         <mark key="^" line="112" column="48" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql.ftl" timestamp="1501741996201">
-        <mark key="[" line="31" column="22" />
-        <mark key="]" line="31" column="22" />
-        <mark key="^" line="58" column="23" />
-        <mark key="." line="31" column="22" />
-      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Providers.xml" timestamp="1501817077359">
         <mark key="[" line="26" column="40" />
         <mark key="]" line="26" column="43" />
@@ -79,6 +73,8 @@
         <mark key="." line="193" column="27" />
         <mark key="^" line="193" column="27" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/records/DeploymentRecord.java" timestamp="1501733401033" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/common/Record.java" timestamp="1501834416508" />
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" timestamp="1502092451897">
         <mark key="'" line="97" column="12" />
         <mark key="[" line="143" column="88" />
@@ -86,18 +82,7 @@
         <mark key="^" line="143" column="88" />
         <mark key="." line="143" column="88" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V35__add_foreign_key_to_provider_on_procedure_instance.sql" timestamp="1501751656238">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="30" />
-        <mark key="." line="0" column="30" />
-        <mark key="^" line="0" column="30" />
-      </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Providers.java" timestamp="1501817324375">
-        <mark key="[" line="20" column="66" />
-        <mark key="]" line="20" column="60" />
-        <mark key="." line="20" column="60" />
-        <mark key="^" line="20" column="60" />
-      </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V28__add_providers_table.sql" timestamp="1501751126532" />
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V36__add_procedure_instance_status_and_operations.sql" timestamp="1502093666461">
         <mark key="[" line="15" column="2" />
         <mark key="]" line="15" column="13" />
@@ -110,10 +95,8 @@
         <mark key="^" line="14" column="60" />
         <mark key="." line="14" column="60" />
       </file>
-      <file name="/workspace/solutions/p2p/midas/modules/implementation-db/src/main/resources/db/migration/mysql/MySQL-1_10__create_instalments.sql" timestamp="1502090077432">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="67" />
-      </file>
+      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/registry/000-synapse-external/rootfs/etc/consul-template/templates/haproxy.cfg.ctmpl" timestamp="1501731822487" />
+      <file name="/workspace/solutions/p2p/midas/modules/api/src/main/java/com/thoughtworks/midas/api/FinancingRequestsResource.java" timestamp="1502077339537" />
       <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProcedureInstanceTest.java" timestamp="1501815628375">
         <mark key="'" line="56" column="42" />
         <mark key="[" line="60" column="0" />
@@ -134,12 +117,6 @@
         <mark key="]" line="969" column="20" />
         <mark key="." line="969" column="20" />
         <mark key="^" line="969" column="37" />
-      </file>
-      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/templates/builder.tmpl" timestamp="1501669859947">
-        <mark key="[" line="115" column="10" />
-        <mark key="]" line="119" column="11" />
-        <mark key="^" line="122" column="30" />
-        <mark key="." line="122" column="30" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/resources/UnifiedProcedureResource.java" timestamp="1502097464271">
         <mark key="'" line="57" column="125" />
@@ -175,29 +152,12 @@
         <mark key="." line="7" column="22" />
         <mark key="^" line="7" column="22" />
       </file>
-      <file name="/workspace/solutions/cnup/cde-stacks/up-jersey-mysql/build/Dockerfile" timestamp="1501663277146">
-        <mark key="[" line="18" column="5" />
-        <mark key="]" line="18" column="8" />
-        <mark key="." line="18" column="8" />
-        <mark key="^" line="18" column="8" />
-      </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/core/Provider.java" timestamp="1501816079629">
-        <mark key="[" line="23" column="69" />
-        <mark key="]" line="24" column="3" />
-        <mark key="." line="24" column="3" />
-        <mark key="^" line="24" column="3" />
-      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/wrappers/verify/Dockerfile" timestamp="1501739523172">
         <mark key="[" line="28" column="24" />
         <mark key="]" line="28" column="24" />
         <mark key="." line="28" column="24" />
       </file>
-      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/builder/Dockerfile" timestamp="1501646660246">
-        <mark key="[" line="3" column="91" />
-        <mark key="]" line="3" column="91" />
-        <mark key="^" line="3" column="91" />
-        <mark key="." line="3" column="91" />
-      </file>
+      <file name="/ProcedureTest.java" timestamp="1501749044736" />
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Owners.java" timestamp="1501061383333">
         <mark key="[" line="20" column="26" />
       </file>
@@ -207,12 +167,6 @@
         <mark key="]" line="28" column="25" />
         <mark key="." line="28" column="25" />
         <mark key="^" line="28" column="25" />
-      </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/build.hbs" timestamp="1501553767645">
-        <mark key="[" line="190" column="17" />
-        <mark key="]" line="190" column="16" />
-        <mark key="." line="190" column="16" />
-        <mark key="^" line="190" column="16" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstance.java" timestamp="1502097406225">
         <mark key="'" line="144" column="46" />
@@ -235,6 +189,9 @@
         <mark key="." line="119" column="50" />
         <mark key="^" line="119" column="50" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/controller/src/main/java/com/thoughtworks/controller/Modules.java" timestamp="1502157443999">
+        <mark key="'" line="13" column="28" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/resources/UnifiedProceduresResourceTest.java" timestamp="1501487189096">
         <mark key="'" line="82" column="62" />
         <mark key="[" line="82" column="50" />
@@ -242,6 +199,7 @@
         <mark key="." line="82" column="61" />
         <mark key="^" line="98" column="39" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V22__create_procedure_instances.sql" timestamp="1502089640678" />
       <file name="/workspace/solutions/cnup/stacks/launcher/wrappers/build/test/run-test.sh" timestamp="1501648392016">
         <mark key="'" line="15" column="18" />
         <mark key="[" line="7" column="96" />
@@ -249,14 +207,8 @@
         <mark key="." line="7" column="100" />
         <mark key="^" line="7" column="100" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502097548732">
+      <file name="/Dummy.txt" timestamp="1502157419267">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/.gitignore" timestamp="1501651390164">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/provider/support/InjectBasedRunner.java" timestamp="1501814137169">
         <mark key="[" line="124" column="120" />
@@ -271,13 +223,15 @@
         <mark key="^" line="24" column="83" />
         <mark key="." line="24" column="83" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/core/ProcedureInstance.java" timestamp="1502097699031">
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/core/ProcedureInstance.java" timestamp="1502156914549">
         <mark key="'" line="33" column="37" />
         <mark key="[" line="15" column="58" />
         <mark key="]" line="16" column="3" />
         <mark key="^" line="16" column="3" />
         <mark key="." line="16" column="3" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.inject/guice/3.0/d117c4481f64955cb1862ed38cb568add2f5fe05/guice-3.0-sources.jar!/com/google/inject/internal/InjectorImpl.java" timestamp="1501756503195" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/synapse/rootfs/usr/bin/wait" timestamp="1501739751068" />
       <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/provider/support/ApiTestRunner.java" timestamp="1502091904354">
         <mark key="'" line="104" column="62" />
         <mark key="[" line="104" column="53" />
@@ -290,12 +244,6 @@
         <mark key="]" line="30" column="26" />
         <mark key="." line="30" column="26" />
         <mark key="^" line="30" column="26" />
-      </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/v37_create_operations_table_for_procedure_instance.sql" timestamp="1502089842554">
-        <mark key="[" line="6" column="2" />
-        <mark key="]" line="6" column="11" />
-        <mark key="." line="6" column="11" />
-        <mark key="^" line="6" column="11" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProvidersTest.java" timestamp="1501819483945">
         <mark key="'" line="85" column="0" />
@@ -311,12 +259,7 @@
         <mark key="." line="208" column="31" />
         <mark key="^" line="208" column="31" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V34__change_environement_of_procedure_instance_to_text.sql" timestamp="1501667722721">
-        <mark key="[" line="0" column="55" />
-        <mark key="]" line="0" column="55" />
-        <mark key="^" line="0" column="47" />
-        <mark key="." line="0" column="55" />
-      </file>
+      <file name="/workspace/solutions/cnup/stacks/cdectl/conf/conf.go" timestamp="1502156959419" />
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" timestamp="1502092268167">
         <mark key="'" line="193" column="12" />
         <mark key="[" line="1" column="9" />
@@ -330,18 +273,6 @@
         <mark key="]" line="26" column="8" />
         <mark key="^" line="58" column="100" />
         <mark key="." line="58" column="100" />
-      </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/resources/log4j.properties" timestamp="1501755103140">
-        <mark key="[" line="0" column="17" />
-        <mark key="]" line="0" column="21" />
-        <mark key="." line="0" column="21" />
-        <mark key="^" line="0" column="21" />
-      </file>
-      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/contrib/doc/stackexample.yml" timestamp="1501664500555">
-        <mark key="[" line="23" column="27" />
-        <mark key="]" line="23" column="29" />
-        <mark key="^" line="23" column="29" />
-        <mark key="." line="23" column="29" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/resources/UnifiedProcedureResourceTest.java" timestamp="1501819577125">
         <mark key="'" line="163" column="56" />
@@ -376,10 +307,9 @@
         <mark key="^" line="173" column="68" />
         <mark key="." line="174" column="0" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V33__add_procedure_instance_owner.sql" timestamp="1502089613733" />
     </filemarks>
     <jumps>
-      <jump line="60" column="41" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/rootfs/run" />
-      <jump line="56" column="41" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/rootfs/run" />
       <jump line="63" column="3" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/rootfs/run" />
       <jump line="71" column="4" filename="/workspace/solutions/cnup/stacks/launcher/wrappers/build/rootfs/run" />
       <jump line="108" column="64" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProcedureInstanceTest.java" />
@@ -478,6 +408,8 @@
       <jump line="87" column="14" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/ProcedureInstances.xml" />
       <jump line="182" column="50" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/ProcedureInstances.xml" />
       <jump line="19" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/ProcedureInstances.xml" />
+      <jump line="44" column="11" filename="/workspace/solutions/cnup/stacks/controller/src/main/java/com/thoughtworks/controller/Modules.java" />
+      <jump line="13" column="28" filename="/workspace/solutions/cnup/stacks/controller/src/main/java/com/thoughtworks/controller/Modules.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -504,7 +436,7 @@
         <text>ProcedureInstance</text>
       </register>
       <register name="/" type="4">
-        <text>procedure_instance</text>
+        <text>server</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFByb2NlZHVyZUluc3RhbmNlIHRha2UoTWFwPFN0cmluZywgT2JqZWN0PiBvcGVyYXRpb24pOwo=</text>
@@ -547,9 +479,9 @@
       </register>
     </registers>
     <search>
-      <last-search>procedure_instance</last-search>
+      <last-search>server</last-search>
       <last-offset />
-      <last-pattern>procedure_instance</last-pattern>
+      <last-pattern>server</last-pattern>
       <last-replace>PROVIDERS</last-replace>
       <last-substitute>P</last-substitute>
       <last-dir>1</last-dir>
@@ -557,7 +489,6 @@
     </search>
     <history>
       <history-search>
-        <entry>wrap</entry>
         <entry>&quot;runtime&quot;</entry>
         <entry>&quot;process&quot;</entry>
         <entry>test</entry>
@@ -577,6 +508,7 @@
         <entry>result</entry>
         <entry>Result</entry>
         <entry>procedure_instance</entry>
+        <entry>server</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
