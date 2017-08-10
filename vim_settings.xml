@@ -81,8 +81,8 @@
         <mark key="." line="24" column="21" />
         <mark key="^" line="24" column="24" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" timestamp="1502180279726">
-        <mark key="'" line="154" column="0" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" timestamp="1502353541143">
+        <mark key="'" line="139" column="12" />
         <mark key="[" line="154" column="0" />
         <mark key="]" line="154" column="0" />
         <mark key="." line="154" column="0" />
@@ -143,12 +143,12 @@
         <mark key="." line="77" column="7" />
         <mark key="^" line="77" column="7" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/resources/UnifiedProcedureResource.java" timestamp="1502249775934">
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/resources/UnifiedProcedureResource.java" timestamp="1502353445852">
         <mark key="'" line="57" column="125" />
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
         <mark key="^" line="57" column="105" />
-        <mark key="." line="58" column="0" />
+        <mark key="." line="48" column="33" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/mappers/ProcedureInstances.java" timestamp="1502096830948">
         <mark key="'" line="22" column="34" />
@@ -177,18 +177,13 @@
         <mark key="." line="7" column="22" />
         <mark key="^" line="7" column="22" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/controller/src/main/java/com/thoughtworks/controller/resources/ApplicationResource.java" timestamp="1502353763807" />
       <file name="/workspace/golang/src/github.com/sjkyspa/stacks/controller/src/test/resources/javajersey.yml" timestamp="1501664449442">
         <mark key="'" line="58" column="0" />
         <mark key="[" line="28" column="14" />
         <mark key="]" line="28" column="25" />
         <mark key="." line="28" column="25" />
         <mark key="^" line="28" column="25" />
-      </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/resources/ProvidersResourceTest.java" timestamp="1502179282872">
-        <mark key="'" line="131" column="33" />
-        <mark key="[" line="148" column="0" />
-        <mark key="]" line="148" column="0" />
-        <mark key="." line="148" column="0" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstance.java" timestamp="1502172577328">
         <mark key="'" line="146" column="46" />
@@ -331,15 +326,8 @@
         <mark key="^" line="87" column="7" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/cdectl/templates/launcher.tmpl" timestamp="1502244326220">
-        <mark key="'" line="114" column="24" />
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="77" column="8" />
-        <mark key="." line="75" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/Modules.java" />
       <jump line="21" column="18" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/Modules.java" />
       <jump line="32" column="25" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/Modules.java" />
       <jump line="93" column="21" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/Modules.java" />
@@ -439,6 +427,7 @@
       <jump line="175" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/resources/UnifiedProcedureResourceTest.java" />
       <jump line="0" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
       <jump line="272" column="12" filename="/workspace/golang/src/github.com/sjkyspa/stacks/builder/git/git.go" />
+      <jump line="139" column="12" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
