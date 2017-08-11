@@ -176,6 +176,12 @@
         <mark key="." line="7" column="22" />
         <mark key="^" line="7" column="22" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/build.gradle" timestamp="1502437248662">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="27" column="52" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/controller/src/main/java/com/thoughtworks/controller/resources/ApplicationResource.java" timestamp="1502419333587" />
       <file name="/workspace/golang/src/github.com/sjkyspa/stacks/controller/src/test/resources/javajersey.yml" timestamp="1501664449442">
         <mark key="'" line="58" column="0" />
@@ -435,8 +441,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -451,7 +457,7 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>db</text>
@@ -460,34 +466,34 @@
         <text encoding="base64">KE1hcDxTdHJpbmcsIE9iamVjdD4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHByb2NlZHVyZUluc3RhbmNlLmdldFN0YXR1cygpLCBpcyhDUkVBVEVELmdldFN0YXR1c0NvZGUoKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHByb2NlZHVyZUluc3RhbmNlLmdldFN0YXR1cygpLCBpcyhDUkVBVEVELmdldFN0YXR1c0NvZGUoKSkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIEBEZXNjcmlwdGlvbigiUE9TVCAvdXBzL3t1cHMtaWR9L3Byb2NlZHVyZXMve3AtaWR9L2luc3RhbmNlcyAyMDEiKQogICAgcHVibGljIHZvaWQgc2hvdWRsX3N1Y2Nlc3Nfd2hlbl9vd25lcl9pc19hbHJlYWR5X2V4aXN0cygpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIFByb2NlZHVyZUluc3RhbmNlIGluc3RhbmNlID0gTW9ja2l0by5tb2NrKFByb2NlZHVyZUluc3RhbmNlLmNsYXNzKTsKICAgICAgICB3aGVuKGluc3RhbmNlLmdldElkKCkpLnRoZW5SZXR1cm4oImluc3RhbmNlLWlkIik7CgoKICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IHByb2NlZHVyZSA9IGZpbmRQcm9jZWR1cmVGcm9tKFByb2NlZHVyZS5UeXBlLkJVSUxELCB1bmlmaWVkUHJvY2VkdXJlKTsKICAgICAgICBSZXNwb25zZSBwcm9jZWR1cmVJbnN0YW5jZSA9IHRhcmdldChmaW5kUmVsYXRpb24oImluc3RhbnRpYXRpb24iLCBwcm9jZWR1cmUpKQogICAgICAgICAgICAgICAgLnJlcXVlc3QoKS5hY2NlcHQoTWVkaWFUeXBlLkFQUExJQ0FUSU9OX0pTT04pLnBvc3QoRW50aXR5Lmpzb24obmV3IEhhc2hNYXA8U3RyaW5nLCBPYmplY3Q+KCkge3sKICAgICAgICAgICAgICAgICAgICBwdXQoInByb3ZpZGVyIiwgJCgibmFtZSIsICJub3QtZXhpc3RzIikpOwogICAgICAgICAgICAgICAgICAgIHB1dCgicHJvY2VkdXJlIiwgJCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICQoInJ1bnRpbWUiLCBuZXcgSGFzaE1hcDw+KCkpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJCgiYXBwIiwgbmV3IEhhc2hNYXA8PigpKSkpOwogICAgICAgICAgICAgICAgICAgIHB1dCgib3duZXIiLCAkKCJpZCIsICJrZXRzdSIpKTsKCiAgICAgICAgICAgICAgICB9fSkpOwoKICAgICAgICBhc3NlcnRUaGF0KHByb2NlZHVyZUluc3RhbmNlLmdldFN0YXR1cygpLCBpcyhOT1RfRk9VTkQuZ2V0U3RhdHVzQ29kZSgpKSk7CiAgICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGVucm9sbC5nZXRJZCgpLCBpcygia2V0c3UiKSk7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEBEZXNjcmlwdGlvbigiUE9TVCAvdXBzL3t1cHMtaWR9L3Byb2NlZHVyZXMve3AtaWR9L2luc3RhbmNlcyAyMDEiKQogICAgcHVibGljIHZvaWQgc2hvdWRsX3N1Y2Nlc3Nfd2hlbl9vd25lcl9pc19hbHJlYWR5X2V4aXN0cygpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIFByb2NlZHVyZUluc3RhbmNlIGluc3RhbmNlID0gTW9ja2l0by5tb2NrKFByb2NlZHVyZUluc3RhbmNlLmNsYXNzKTsKICAgICAgICB3aGVuKGluc3RhbmNlLmdldElkKCkpLnRoZW5SZXR1cm4oImluc3RhbmNlLWlkIik7CgoKICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IHByb2NlZHVyZSA9IGZpbmRQcm9jZWR1cmVGcm9tKFByb2NlZHVyZS5UeXBlLkJVSUxELCB1bmlmaWVkUHJvY2VkdXJlKTsKICAgICAgICBSZXNwb25zZSBwcm9jZWR1cmVJbnN0YW5jZSA9IHRhcmdldChmaW5kUmVsYXRpb24oImluc3RhbnRpYXRpb24iLCBwcm9jZWR1cmUpKQogICAgICAgICAgICAgICAgLnJlcXVlc3QoKS5hY2NlcHQoTWVkaWFUeXBlLkFQUExJQ0FUSU9OX0pTT04pLnBvc3QoRW50aXR5Lmpzb24obmV3IEhhc2hNYXA8U3RyaW5nLCBPYmplY3Q+KCkge3sKICAgICAgICAgICAgICAgICAgICBwdXQoInByb3ZpZGVyIiwgJCgibmFtZSIsICJub3QtZXhpc3RzIikpOwogICAgICAgICAgICAgICAgICAgIHB1dCgicHJvY2VkdXJlIiwgJCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICQoInJ1bnRpbWUiLCBuZXcgSGFzaE1hcDw+KCkpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJCgiYXBwIiwgbmV3IEhhc2hNYXA8PigpKSkpOwogICAgICAgICAgICAgICAgICAgIHB1dCgib3duZXIiLCAkKCJpZCIsICJrZXRzdSIpKTsKCiAgICAgICAgICAgICAgICB9fSkpOwoKICAgICAgICBhc3NlcnRUaGF0KHByb2NlZHVyZUluc3RhbmNlLmdldFN0YXR1cygpLCBpcyhOT1RfRk9VTkQuZ2V0U3RhdHVzQ29kZSgpKSk7CiAgICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGVucm9sbC5nZXRJZCgpLCBpcygia2V0c3UiKSk7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIE93bmVycyBvd25lcnM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBJbmplY3QK</text>
+        <text encoding="base64">ICAgIE93bmVycyBvd25lcnM7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
