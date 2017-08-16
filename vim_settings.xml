@@ -215,11 +215,11 @@
         <mark key="^" line="87" column="69" />
       </file>
       <file name="/workspace/clients/harvestfund/jiashi_p2p_file_server/modules/core-mybatis/src/main/java/com/thoughtworks/fms/core/mybatis/service/DefaultFileService.java" timestamp="1502851060796" />
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/atp/resources/FilesResourceTest.java" timestamp="1502872177196">
-        <mark key="[" line="20" column="70" />
-        <mark key="]" line="20" column="69" />
-        <mark key="." line="20" column="69" />
-        <mark key="^" line="20" column="69" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/atp/resources/FilesResourceTest.java" timestamp="1502874173533">
+        <mark key="[" line="25" column="102" />
+        <mark key="]" line="25" column="101" />
+        <mark key="." line="25" column="101" />
+        <mark key="^" line="25" column="101" />
       </file>
       <file name="/workspace/golang/src/github.com/sjkyspa/stacks/controller/src/test/resources/javajersey.yml" timestamp="1501664449442">
         <mark key="'" line="58" column="0" />
@@ -230,7 +230,11 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.media/jersey-media-multipart/2.17/988600bd824e3ef511a9cddbff01fc2dcbc15509/jersey-media-multipart-2.17-sources.jar!/org/glassfish/jersey/media/multipart/FormDataParam.java" timestamp="1502872082170" />
       <file name="/workspace/clients/harvestfund/jiashi_p2p_file_server/modules/core/src/main/java/com/thoughtworks/fms/api/resources/FilesResource.java" timestamp="1502866776322" />
-      <file name="/workspace/clients/harvestfund/jiashi_p2p_file_server/modules/core-mybatis/src/test/java/com/thoughtworks/fms/api/FilesResourceTest.java" timestamp="1502872207492" />
+      <file name="/workspace/clients/harvestfund/jiashi_p2p_file_server/modules/core-mybatis/src/test/java/com/thoughtworks/fms/api/FilesResourceTest.java" timestamp="1502874163040">
+        <mark key="[" line="297" column="0" />
+        <mark key="]" line="306" column="9" />
+        <mark key="." line="297" column="99" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstance.java" timestamp="1502172577328">
         <mark key="'" line="146" column="46" />
         <mark key="[" line="49" column="169" />
@@ -507,7 +511,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Entity.form()</text>
+        <text>;</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -522,40 +526,40 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text>Entity.form()</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>db</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgIm9yZy5nbGFzc2Zpc2guamVyc2V5Lm1lZGlhOmplcnNleS1tZWRpYS1tdWx0aXBhcnQ6JGplcnNleVZlcnNpb24iCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgKElucHV0U3RyZWFtIGlucHV0U3RyZWFtID0gZ2V0Q2xhc3MoKS5nZXRDbGFzc0xvYWRlcigpLmdldFJlc291cmNlQXNTdHJlYW0odGVzdEZpbGUpKSB7CiAgICAgICAgICAgIGJ5dGVbXSBieXRlcyA9IEJ5dGVTdHJlYW1zLnRvQnl0ZUFycmF5KGlucHV0U3RyZWFtKTsKCiAgICAgICAgICAgIEZpbGVCdWlsZGVyIGJ1aWxkZXIgPSBuZXcgRmlsZUJ1aWxkZXIodGVzdEZpbGUpOwogICAgICAgICAgICBGaWxlIGZpbGUgPSBidWlsZGVyLndpdGhDb250ZW50KGJ5dGVzKS5idWlsZCgpOwogICAgICAgICAgICBmaWxlLmRlbGV0ZU9uRXhpdCgpOwogICAgICAgICAgICByZXR1cm4gZmlsZTsKICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIExPR0dFUi5lcnJvcihlLmdldE1lc3NhZ2UoKSwgZSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgKElucHV0U3RyZWFtIGlucHV0U3RyZWFtID0gZ2V0Q2xhc3MoKS5nZXRDbGFzc0xvYWRlcigpLmdldFJlc291cmNlQXNTdHJlYW0odGVzdEZpbGUpKSB7CiAgICAgICAgICAgIGJ5dGVbXSBieXRlcyA9IEJ5dGVTdHJlYW1zLnRvQnl0ZUFycmF5KGlucHV0U3RyZWFtKTsKCiAgICAgICAgICAgIEZpbGVCdWlsZGVyIGJ1aWxkZXIgPSBuZXcgRmlsZUJ1aWxkZXIodGVzdEZpbGUpOwogICAgICAgICAgICBGaWxlIGZpbGUgPSBidWlsZGVyLndpdGhDb250ZW50KGJ5dGVzKS5idWlsZCgpOwogICAgICAgICAgICBmaWxlLmRlbGV0ZU9uRXhpdCgpOwogICAgICAgICAgICByZXR1cm4gZmlsZTsKICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIExPR0dFUi5lcnJvcihlLmdldE1lc3NhZ2UoKSwgZSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBDbGllbnQubgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBKZXJzZXlDbGllbnQK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBDbGllbnQubgo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBJbmplY3QK</text>
+        <text encoding="base64">ICAgICAgICBKZXJzZXlDbGllbnQK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBASW5qZWN0CiAgICBwcml2YXRlIFNxbFNlc3Npb25NYW5hZ2VyIHNxbFNlc3Npb25NYW5hZ2VyOwo=</text>
+        <text encoding="base64">ICAgIEBJbmplY3QK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -614,11 +618,11 @@
         <entry>W</entry>
         <entry>w3</entry>
         <entry>'w</entry>
-        <entry>qw</entry>
         <entry>&quot;w</entry>
         <entry>reg</entry>
         <entry>ew</entry>
         <entry>we</entry>
+        <entry>qw</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
