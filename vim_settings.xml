@@ -76,10 +76,11 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/modules/atp/src/main/java/com/thoughtworks/cnup/atp/resources/FilesResource.java" timestamp="1502941457278">
-        <mark key="[" line="16" column="35" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/modules/atp/src/main/java/com/thoughtworks/cnup/atp/resources/FilesResource.java" timestamp="1502950585977">
+        <mark key="[" line="23" column="8" />
+        <mark key="]" line="23" column="7" />
+        <mark key="^" line="23" column="7" />
+        <mark key="." line="23" column="7" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/atp/support/AtpRunner.java" timestamp="1502877542779">
         <mark key="[" line="127" column="5" />
@@ -156,6 +157,7 @@
         <mark key="." line="4" column="22" />
         <mark key="^" line="4" column="22" />
       </file>
+      <file name="/workspace/solutions/p2p/midas/modules/api-tck/src/main/java/com/thoughtworks/midas/api/UsersApiTest.java" timestamp="1502950610558" />
       <file name="/workspace/solutions/cnup/stacks/launcher/modules/atptck/src/main/java/com/thoughtworks/cnup/atp/ResourceTck.java" timestamp="1502940447863">
         <mark key="[" line="2" column="7" />
         <mark key="]" line="2" column="28" />
@@ -184,7 +186,10 @@
         <mark key="." line="54" column="19" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/modules/atptck/src/main/java/com/thoughtworks/cnup/atp/support/ApiSupport.java" timestamp="1502940528291" />
-      <file name="/workspace/clients/harvestfund/jiashi_p2p_file_server/modules/core/src/main/java/com/thoughtworks/fms/api/resources/FilesResource.java" timestamp="1502941333247" />
+      <file name="/workspace/clients/harvestfund/jiashi_p2p_file_server/modules/core/src/main/java/com/thoughtworks/fms/api/resources/FilesResource.java" timestamp="1502950460371">
+        <mark key="[" line="56" column="39" />
+        <mark key="]" line="56" column="83" />
+      </file>
       <file name="/workspace/clients/harvestfund/jiashi_p2p_file_server/modules/core-mybatis/src/test/java/com/thoughtworks/fms/api/FilesResourceTest.java" timestamp="1502877266154">
         <mark key="[" line="297" column="0" />
         <mark key="]" line="306" column="9" />
@@ -338,7 +343,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgZmlsZU5hbWUgPSBkaXNwb3NpdGlvbi5nZXRGaWxlTmFtZSgpOwo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -353,43 +358,43 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text>suffix</text>
+        <text>metadata</text>
       </register>
       <register name="/" type="4">
         <text>id=&quot;procedure</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHRlc3RDb21waWxlICJvcmcuZ2xhc3NmaXNoLmplcnNleS50ZXN0LWZyYW1ld29yazpqZXJzZXktdGVzdC1mcmFtZXdvcmstY29yZTokamVyc2V5Igo=</text>
+      <register name="0" type="4">
+        <text>metadata.getFileName().getBytes(&quot;ISO-8859-1&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgZmlsZU5hbWUgPSBkaXNwb3NpdGlvbi5nZXRGaWxlTmFtZSgpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLmdldEJ5dGVzKCJJU08tODg1OS0xIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlcy5zdG9yZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZAo=</text>
+        <text encoding="base64">ICAgICAgICBDb250ZW50RGlzcG9zaXRpb24gY29udGVudERpc3Bvc2l0aW9uID0gZmlsZS5nZXRDb250ZW50RGlzcG9zaXRpb24oKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBGb3JtRGF0YUJvZHlQYXJ0IGZpbGUgPSBtdWx0aVBhcnQuZ2V0RmllbGQoImZpbGUiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRlc3RDb21waWxlICJvcmcubW9ja2l0bzptb2NraXRvLWFsbDokbW9ja2l0byIK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEJvZHlQYXJ0PiBib2R5UGFydHMgPSBtdWx0aVBhcnQuZ2V0Qm9keVBhcnRzKCk7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGp1bml0dmkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQEZvcm1EYXRhUGFyYW0oImZpbGUiKSBJbnB1dFN0cmVhbSBpbnB1dFN0cmVhbSwK</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
