@@ -16,9 +16,6 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="106" column="33" />
       </file>
-      <file name="/a.dummy" timestamp="1503038578503">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/core/Error.java" timestamp="1502166441184">
         <mark key="[" line="14" column="16" />
         <mark key="]" line="14" column="16" />
@@ -70,11 +67,7 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/atp/support/DatabaseTestRunner.java" timestamp="1502871242828">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="14" column="48" />
-        <mark key="." line="18" column="0" />
-      </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/UserImpl.java" timestamp="1503043767657" />
       <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/atp/support/DBSupport.java" timestamp="1502871267959">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -87,21 +80,11 @@
         <mark key="." line="71" column="0" />
         <mark key="^" line="71" column="0" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/features/error/Errors.java" timestamp="1502964547365">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/features/error/ConflictExceptionMapper.java" timestamp="1502159852767">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
         <mark key="^" line="9" column="56" />
-      </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/modules/features/routing/build.gradle" timestamp="1503027525101">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/core/Errors.java" timestamp="1502964027127">
         <mark key="'" line="51" column="0" />
@@ -116,6 +99,7 @@
         <mark key="." line="9" column="44" />
         <mark key="^" line="9" column="44" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V36__add_procedure_instance_status_and_operations.sql" timestamp="1503042957653" />
       <file name="/workspace/solutions/cnup/stacks/launcher/modules/guice-feature/build.gradle" timestamp="1502940485598">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="20" />
@@ -193,11 +177,6 @@
         <mark key="." line="128" column="3" />
         <mark key="^" line="128" column="3" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/modules/atp/src/main/java/com/thoughtworks/cnup/atp/core/FAT.java" timestamp="1503038807429">
-        <mark key="[" line="2" column="17" />
-        <mark key="]" line="2" column="17" />
-        <mark key="." line="2" column="17" />
-      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/modules/atp/src/test/java/com/thoughtworks/cnup/atp/ResourceTck.java" timestamp="1502939864960">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="5" column="42" />
@@ -206,11 +185,6 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.media/jersey-media-multipart/2.17/988600bd824e3ef511a9cddbff01fc2dcbc15509/jersey-media-multipart-2.17-sources.jar!/org/glassfish/jersey/media/multipart/file/FileDataBodyPart.java" timestamp="1503037853731" />
       <file name="/workspace/solutions/cnup/stacks/launcher/build.gradle" timestamp="1503028530987" />
-      <file name="/workspace/solutions/cnup/stacks/launcher/modules/errors/build.gradle" timestamp="1502964143908">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/Modules.java" timestamp="1503037044851">
         <mark key="'" line="128" column="66" />
         <mark key="[" line="126" column="0" />
@@ -220,11 +194,6 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.core/jersey-common/2.17/fee3f53adfb09a445c35eb2bdbbf7272600b6eeb/jersey-common-2.17-sources.jar!/org/glassfish/jersey/internal/ContextResolverFactory.java" timestamp="1502962234589" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.core/jersey-server/2.17/38d718833c4978ed5ffd86ed323dc95e0c4a26cd/jersey-server-2.17-sources.jar!/org/glassfish/jersey/server/internal/inject/WebTargetValueFactoryProvider.java" timestamp="1502961880310" />
-      <file name="/workspace/solutions/cnup/stacks/launcher/modules/features/routing/src/main/java/com/thoughtworks/cnup/features/routing/Route.java" timestamp="1502969873992">
-        <mark key="[" line="6" column="8" />
-        <mark key="]" line="6" column="8" />
-        <mark key="." line="6" column="8" />
-      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/modules/atptck/src/main/java/com/thoughtworks/cnup/atp/support/AtpRunner.java" timestamp="1503020085731" />
       <file name="/workspace/solutions/cnup/stacks/launcher/modules/atptck/build.gradle" timestamp="1503027473449">
         <mark key="[" line="6" column="0" />
@@ -267,9 +236,6 @@
         <mark key="^" line="16" column="3" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/FileTestSuite.java" timestamp="1503019174761">
-        <mark key="[" line="1" column="0" />
-      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/modules/routing/src/main/java/com/thoughtworks/cnup/features/routing/RoutingFeature.java" timestamp="1502962596588">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="20" column="38" />
@@ -294,11 +260,6 @@
         <mark key="]" line="0" column="42" />
         <mark key="." line="0" column="42" />
         <mark key="^" line="0" column="42" />
-      </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/modules/atp/src/main/resources/mybatis/config.xml" timestamp="1502878239591">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/hk2-api/2.4.0-b10/e542a62178b10242d66a786ed1c4dbdc2a2341cc/hk2-api-2.4.0-b10-sources.jar!/org/glassfish/hk2/utilities/InjecteeImpl.java" timestamp="1502962004077" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.core/jersey-server/2.17/38d718833c4978ed5ffd86ed323dc95e0c4a26cd/jersey-server-2.17-sources.jar!/org/glassfish/jersey/server/internal/inject/AbstractValueFactoryProvider.java" timestamp="1502962303780" />
@@ -335,11 +296,6 @@
         <mark key="^" line="163" column="78" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/hk2-api/2.4.0-b10/e542a62178b10242d66a786ed1c4dbdc2a2341cc/hk2-api-2.4.0-b10-sources.jar!/org/glassfish/hk2/utilities/binding/ServiceBindingBuilder.java" timestamp="1502952861078" />
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/resources/Route.java" timestamp="1502963143624">
-        <mark key="[" line="8" column="76" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/modules/atp/src/main/java/com/thoughtworks/cnup/atp/core/Fat.java" timestamp="1503038855570">
         <mark key="[" line="7" column="8" />
         <mark key="]" line="7" column="50" />
@@ -417,11 +373,6 @@
       </file>
       <file name="/workspace/solutions/p2p/midas/modules/api/src/main/java/com/thoughtworks/midas/api/UsersResource.java" timestamp="1502950679355" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.core/jersey-server/2.17/38d718833c4978ed5ffd86ed323dc95e0c4a26cd/jersey-server-2.17-sources.jar!/org/glassfish/jersey/server/internal/inject/EntityParamValueFactoryProvider.java" timestamp="1502961668710" />
-      <file name="/workspace/solutions/cnup/stacks/launcher/modules/features/guice-feature/build.gradle" timestamp="1503027515827">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/mappers/Providers.java" timestamp="1502178867809">
         <mark key="[" line="18" column="11" />
         <mark key="]" line="18" column="25" />
@@ -429,11 +380,6 @@
         <mark key="^" line="18" column="25" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/InstantiationException.java" timestamp="1502957651110" />
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Providers.java" timestamp="1502964333373">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/settings.gradle" timestamp="1502964125889">
         <mark key="[" line="6" column="17" />
         <mark key="]" line="6" column="22" />
@@ -484,8 +430,11 @@
         <mark key="^" line="15" column="10" />
         <mark key="." line="15" column="10" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/modules/atptck/src/main/java/com/thoughtworks/cnup/atp/CoreTck.java" timestamp="1502940576354">
-        <mark key="[" line="0" column="7" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V39__add_files.sql" timestamp="1503043066165">
+        <mark key="[" line="4" column="31" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="6" column="1" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/resources/UnifiedProceduresResource.java" timestamp="1502963840919">
         <mark key="[" line="21" column="32" />
@@ -569,11 +518,6 @@
         <mark key="^" line="28" column="25" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.core/jersey-server/2.17/38d718833c4978ed5ffd86ed323dc95e0c4a26cd/jersey-server-2.17-sources.jar!/org/glassfish/jersey/server/internal/inject/ParamInjectionResolver.java" timestamp="1502960518129" />
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/resources/ProvidersResourceTest.java" timestamp="1502878025433">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstance.java" timestamp="1502964317386">
         <mark key="'" line="146" column="46" />
         <mark key="[" line="15" column="0" />
@@ -588,22 +532,12 @@
         <mark key="." line="92" column="208" />
         <mark key="^" line="92" column="208" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/Resources.java" timestamp="1503020969118">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/Procedure.java" timestamp="1503040282398">
         <mark key="'" line="112" column="0" />
         <mark key="[" line="119" column="41" />
         <mark key="]" line="119" column="50" />
         <mark key="." line="119" column="50" />
         <mark key="^" line="119" column="50" />
-      </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/Resources.java" timestamp="1503036736136">
-        <mark key="[" line="15" column="8" />
-        <mark key="]" line="15" column="8" />
-        <mark key="." line="15" column="8" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/resources/UnifiedProceduresResourceTest.java" timestamp="1502878042513">
         <mark key="'" line="82" column="62" />
@@ -612,20 +546,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="98" column="39" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/modules/features/errors/build.gradle" timestamp="1503027507095">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/features/routing/RoutingFeature.java" timestamp="1502955027948">
         <mark key="'" line="2" column="50" />
         <mark key="[" line="2" column="43" />
         <mark key="]" line="2" column="43" />
         <mark key="." line="2" column="43" />
         <mark key="^" line="2" column="50" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1503026816795">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/templates/cde.tmpl" timestamp="1499830001834">
         <mark key="'" line="24" column="22" />
@@ -701,11 +627,6 @@
         <mark key="^" line="12" column="8" />
         <mark key="." line="12" column="8" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/modules/features/guice-feature/src/main/java/com/thoughtworks/cnup/features/guice/GuiceFeature.java" timestamp="1503027082258">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" timestamp="1502260540534">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="1" column="9" />
@@ -718,11 +639,6 @@
         <mark key="]" line="43" column="46" />
         <mark key="." line="43" column="46" />
         <mark key="^" line="43" column="46" />
-      </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/jersey/Api.java" timestamp="1503036724778">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/resources/UnifiedProcedureResourceTest.java" timestamp="1502878033502">
         <mark key="'" line="209" column="0" />
@@ -853,8 +769,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>k</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QUxURVIgVEFCTEUgUFJPVklERVJTIEFERCBDT0xVTU4gQ09OU1VNRVIgVkFSQ0hBUigyNTUpIE5PVCBOVUwK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -869,7 +785,7 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>L;</text>
       </register>
       <register name="/" type="4">
         <text>Api</text>
@@ -878,34 +794,34 @@
         <text encoding="base64">ICAgICAgICA8bWFwcGVyIHJlc291cmNlPSJteWJhdGlzL21hcHBlcnMvT3duZXJzLnhtbCIvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDx1cGRhdGUgaWQ9InJlcG9ydFJ1blJlc3VsdCI+CiAgICAgICAgVVBEQVRFIFJVTlMgU0VUIHN0ZG91dCA9ICN7c3Rkb3V0fSwgc3RkZXJyID0gI3tzdGRlcnJ9LCBleGl0X2NvZGUgPSAje2V4aXRDb2RlfSwgc3RhdHVzPSJGSU5JU0hFRCIgV0hFUkUgaWQgPSAje2lkfQogICAgPC91cGRhdGU+Cg==</text>
+        <text encoding="base64">QUxURVIgVEFCTEUgUFJPVklERVJTIEFERCBDT0xVTU4gQ09OU1VNRVIgVkFSQ0hBUigyNTUpIE5PVCBOVUwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxzZWxlY3QgaWQ9ImNvdW50IiByZXN1bHRUeXBlPSJqYXZhLmxhbmcuTG9uZyI+CiAgICAgICAgc2VsZWN0IGNvdW50KDEpIGZyb20gcnVucyB3aGVyZSBhcHBfbmFtZSA9ICN7YXBwTmFtZX0KICAgIDwvc2VsZWN0PgoK</text>
+        <text encoding="base64">ICBQUk9DRURVUkVfSU5TVEFOQ0VfSUQgVkFSQ0hBUigyNTUpIE5PVCBOVUxMICBSRUZFUkVOQ0VTIFBST0NFRFVSRV9JTlNUQU5DRVMoSUQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxzZWxlY3QgaWQ9ImZpbmQiIHJlc3VsdE1hcD0icmVjb3Jkcy5ydW4iPgogICAgICAgIFNFTEVDVAogICAgICAgIDxpbmNsdWRlIHJlZmlkPSJjb2x1bW5zLnJ1biIvPgogICAgICAgIEZST00gUlVOUyBSCiAgICAgICAgV0hFUkUgUi5hcHBfbmFtZSA9ICN7aW5mby5hcHBOYW1lfQogICAgICAgIDxpbmNsdWRlIHJlZmlkPSJwYWdlX2ZpbHRlciI+PC9pbmNsdWRlPgogICAgPC9zZWxlY3Q+Cg==</text>
+        <text encoding="base64">ICBGSU5JU0hFRF9BVCBEQVRFVElNRSwK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIDxzcWwgaWQ9InBhZ2VfZmlsdGVyIj4KICAgICAgICA8aWYgdGVzdD0iaW5mby5zdGFydCAhPSBudWxsIGFuZCBpbmZvLmxpbWl0ICE9IG51bGwiPgogICAgICAgICAgICBMSU1JVCAje2luZm8uc3RhcnR9LCAje2luZm8ubGltaXR9CiAgICAgICAgPC9pZj4KICAgIDwvc3FsPg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBDUkVBVEVEX0FUICBEQVRFVElNRSBOT1QgTlVMTCBERUZBVUxUIE5PVygpLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gZmlsZSBhbGxvY2F0aW9uIHRhYmxlCg==</text>
+        <text encoding="base64">ICBTVEFUVVMgVkFSQ0hBUig2NCkgTk9UIE5VTEwsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBQQVlMT0FEIFRFWFQsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBUWVBFIFZBUkNIQVIoMjU1KSBOT1QgTlVMTCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtYXBwZXIuCg==</text>
+        <text encoding="base64">ICAgIDx1cGRhdGUgaWQ9InJlcG9ydFJ1blJlc3VsdCI+CiAgICAgICAgVVBEQVRFIFJVTlMgU0VUIHN0ZG91dCA9ICN7c3Rkb3V0fSwgc3RkZXJyID0gI3tzdGRlcnJ9LCBleGl0X2NvZGUgPSAje2V4aXRDb2RlfSwgc3RhdHVzPSJGSU5JU0hFRCIgV0hFUkUgaWQgPSAje2lkfQogICAgPC91cGRhdGU+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInBhcmFtZXRlcnMgPSAiICsgcGFyYW1ldGVycyk7Cg==</text>
+        <text encoding="base64">ICAgIDxzZWxlY3QgaWQ9ImNvdW50IiByZXN1bHRUeXBlPSJqYXZhLmxhbmcuTG9uZyI+CiAgICAgICAgc2VsZWN0IGNvdW50KDEpIGZyb20gcnVucyB3aGVyZSBhcHBfbmFtZSA9ICN7YXBwTmFtZX0KICAgIDwvc2VsZWN0PgoK</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
