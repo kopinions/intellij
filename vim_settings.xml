@@ -10,9 +10,6 @@
         <mark key="." line="9" column="0" />
       </file>
       <file name="/workspace/clients/harvestfund/jiashi_p2p_file_server/modules/core/src/main/java/com/thoughtworks/fms/core/FileMetadata.java" timestamp="1503388441723" />
-      <file name="/a.dummy" timestamp="1503385470595">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/core/Error.java" timestamp="1502166441184">
         <mark key="[" line="14" column="16" />
         <mark key="]" line="14" column="16" />
@@ -122,11 +119,7 @@
         <mark key="^" line="7" column="7" />
         <mark key="." line="7" column="7" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/modules/atp/src/main/java/com/thoughtworks/cnup/atp/resources/FilesResource.java" timestamp="1503392463971">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/modules/atp/src/main/java/com/thoughtworks/cnup/atp/resources/FilesResource.java" timestamp="1503392463971" />
       <file name="/workspace/solutions/cnup/stacks/launcher/modules/atp/src/main/java/com/thoughtworks/cnup/atp/records/Filee.java" timestamp="1503037234338">
         <mark key="[" line="14" column="15" />
         <mark key="]" line="14" column="17" />
@@ -193,9 +186,6 @@
         <mark key="]" line="4" column="60" />
         <mark key="^" line="4" column="60" />
         <mark key="." line="4" column="60" />
-      </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/FileTestSuite.java" timestamp="1503019174761">
-        <mark key="[" line="1" column="0" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/modules/routing/src/main/java/com/thoughtworks/cnup/features/routing/RoutingFeature.java" timestamp="1502962596588">
         <mark key="[" line="19" column="0" />
@@ -267,6 +257,7 @@
         <mark key="^" line="7" column="29" />
       </file>
       <file name="/workspace/clients/harvestfund/jiashi_p2p_file_server/modules/core-mybatis/src/main/java/com/thoughtworks/fms/core/mybatis/records/FileTransfer.java" timestamp="1503383559964" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/provider/resources/DeploymentsResourceTest.java" timestamp="1503395836816" />
       <file name="/workspace/solutions/cnup/stacks/launcher/modules/routing/src/main/java/com/thoughtworks/cnup/features/routing/ConfigurationInjectionResolver.java" timestamp="1502957717030">
         <mark key="[" line="29" column="40" />
         <mark key="]" line="29" column="73" />
@@ -296,9 +287,6 @@
         <mark key="]" line="15" column="10" />
         <mark key="^" line="15" column="10" />
         <mark key="." line="15" column="10" />
-      </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/modules/atptck/src/main/java/com/thoughtworks/cnup/atp/CoreTck.java" timestamp="1502940576354">
-        <mark key="[" line="0" column="7" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/features/error/ErrorsMapper.java" timestamp="1502964404613">
         <mark key="[" line="18" column="0" />
@@ -368,14 +356,16 @@
         <mark key="]" line="306" column="9" />
         <mark key="." line="297" column="99" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503382464806">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/modules/features/auth/src/main/java/com/thoughtworks/cnup/features/auth/AuthenticationFilter.java" timestamp="1503369592820">
         <mark key="[" line="29" column="66" />
         <mark key="]" line="29" column="79" />
         <mark key="^" line="29" column="79" />
         <mark key="." line="29" column="79" />
+      </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/service/validator/MarathonProviderValidator.java" timestamp="1503395867930">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/modules/features/auth/src/main/java/com/thoughtworks/cnup/features/auth/Authenticator.java" timestamp="1503370268008">
         <mark key="[" line="4" column="0" />
@@ -556,7 +546,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgiOm1vZHVsZXM6ZmVhdHVyZXM6YXV0aCIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcm92aWRlcnMuYWRkKG5ldyBOb3RFbXB0eVZhbGlkYXRvcigibmFtZSIpKTsKICAgICAgICBwcm92aWRlcnMuYWRkKG5ldyBOb3RFbXB0eVZhbGlkYXRvcigidHlwZSIpKTsKICAgICAgICBwcm92aWRlcnMuYWRkKG5ldyBOb3RFbXB0eVZhbGlkYXRvcigiY29uZmlnIikpOwogICAgICAgIHByb3ZpZGVycy5zdHJlYW0oKS5tYXAocCAtPiBwLnZhbGlkYXRlKGluZm8uZ2V0KCkpKS4K</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -571,43 +561,43 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text>errors</text>
+        <text>type</text>
       </register>
       <register name="/" type="4">
         <text>authen</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgiOm1vZHVsZXM6ZmVhdHVyZXM6ZXJyb3JzIikK</text>
+        <text encoding="base64">ICAgICAgICBwcm92aWRlcnMuYWRkKG5ldyBOb3RFbXB0eVZhbGlkYXRvcigidHlwZSIpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgiOm1vZHVsZXM6ZmVhdHVyZXM6YXV0aCIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcm92aWRlcnMuYWRkKG5ldyBOb3RFbXB0eVZhbGlkYXRvcigibmFtZSIpKTsKICAgICAgICBwcm92aWRlcnMuYWRkKG5ldyBOb3RFbXB0eVZhbGlkYXRvcigidHlwZSIpKTsKICAgICAgICBwcm92aWRlcnMuYWRkKG5ldyBOb3RFbXB0eVZhbGlkYXRvcigiY29uZmlnIikpOwogICAgICAgIHByb3ZpZGVycy5zdHJlYW0oKS5tYXAocCAtPiBwLnZhbGlkYXRlKGluZm8uZ2V0KCkpKS4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQEF1dGggT3duZXIgb3duZXIsCg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgiOm1vZHVsZXM6ZmVhdHVyZXM6YXV0aCIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQEF1dGggT3duZXIgb3duZXIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGFyZ2V0IGluc3RhbmNlb2YgRmlsZWUpIHsKICAgICAgICAgICAgcmV0dXJuIFVSSS5jcmVhdGUoIi9maWxlcy8iICsgKChGaWxlZSkgdGFyZ2V0KS5nZXRJZCgpKTsKICAgICAgICB9Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAodGFyZ2V0IGluc3RhbmNlb2YgRmlsZWUpIHsKICAgICAgICAgICAgcmV0dXJuIFVSSS5jcmVhdGUoIi9maWxlcy8iICsgKChGaWxlZSkgdGFyZ2V0KS5nZXRJZCgpKTsKICAgICAgICB9Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBieXRlW10gYnVmZmVyID0gbmV3IGJ5dGVbMTAyNF07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBieXRlW10gYnVmZmVyID0gbmV3IGJ5dGVbMTAyNF07Cg==</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
