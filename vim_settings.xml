@@ -9,7 +9,16 @@
         <mark key="^" line="21" column="4" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/controller/src/main/java/com/thoughtworks/controller/service/DefaultAuthorizationService.java" timestamp="1503559730193">
+        <mark key="[" line="88" column="69" />
+        <mark key="]" line="88" column="89" />
+        <mark key="." line="88" column="89" />
+        <mark key="^" line="88" column="89" />
+      </file>
       <file name="/workspace/clients/harvestfund/jiashi_p2p_file_server/modules/core/src/main/java/com/thoughtworks/fms/core/FileMetadata.java" timestamp="1503388441723" />
+      <file name="/a.dummy" timestamp="1503385470595">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/core/Error.java" timestamp="1502166441184">
         <mark key="[" line="14" column="16" />
         <mark key="]" line="14" column="16" />
@@ -70,6 +79,7 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="/ApplicationRepositoryTest.java" timestamp="1503560061646" />
       <file name="/workspace/solutions/cnup/stacks/launcher/modules/features/auth/src/main/java/com/thoughtworks/cnup/features/auth/Credentials.java" timestamp="1503370304973">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="6" />
@@ -87,6 +97,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/controller/src/main/java/com/thoughtworks/controller/records/ApplicationRepository.java" timestamp="1503560843872" />
       <file name="/workspace/solutions/cnup/stacks/launcher/modules/features/auth/src/main/java/com/thoughtworks/cnup/features/auth/AuthFilter.java" timestamp="1503369257050">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -105,9 +116,6 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Records.xml" timestamp="1503389262010">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/modules/atp/src/main/java/com/thoughtworks/cnup/atp/Resources.java" timestamp="1503036584469">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -118,11 +126,6 @@
         <mark key="]" line="7" column="7" />
         <mark key="^" line="7" column="7" />
         <mark key="." line="7" column="7" />
-      </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/modules/atp/src/main/java/com/thoughtworks/cnup/atp/resources/FilesResource.java" timestamp="1503539786510">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/modules/atp/src/main/java/com/thoughtworks/cnup/atp/records/Filee.java" timestamp="1503037234338">
         <mark key="[" line="14" column="15" />
@@ -192,6 +195,9 @@
         <mark key="^" line="4" column="60" />
         <mark key="." line="4" column="60" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/FileTestSuite.java" timestamp="1503019174761">
+        <mark key="[" line="1" column="0" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/modules/routing/src/main/java/com/thoughtworks/cnup/features/routing/RoutingFeature.java" timestamp="1502962596588">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="20" column="38" />
@@ -208,9 +214,6 @@
         <mark key="[" line="0" column="17" />
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="17" />
-      </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/provider/support/ApiSupport.java" timestamp="1503386086868">
-        <mark key="'" line="34" column="13" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/modules/atp/src/test/java/com/thoughtworks/cnup/atp/support/FilesResourceTest.java" timestamp="1502877910305">
         <mark key="[" line="0" column="34" />
@@ -250,6 +253,16 @@
         <mark key="^" line="7" column="50" />
         <mark key="." line="7" column="50" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/controller/src/main/resources/db/migration/V23__add_auto_increment_key_for_application.sql" timestamp="1503561175915">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="0" column="61" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="/workspace/solutions/cnup/stacks/controller/src/main/resources/db/migration/V18__add_certs_for_domain.sql" timestamp="1503561141067">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="49" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/modules/atptck/src/main/java/com/thoughtworks/cnup/atp/ResourceTck.java" timestamp="1502940447863">
         <mark key="[" line="2" column="7" />
         <mark key="]" line="2" column="28" />
@@ -283,11 +296,24 @@
         <mark key="^" line="29" column="73" />
         <mark key="." line="29" column="73" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/controller/src/test/java/com/thoughtworks/controller/resources/BuildsResourceTest.java" timestamp="1503559592364">
+        <mark key="[" line="71" column="27" />
+        <mark key="]" line="71" column="30" />
+        <mark key="." line="71" column="30" />
+        <mark key="^" line="71" column="30" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/Routes.java" timestamp="1503390592564">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
         <mark key="^" line="22" column="7" />
+      </file>
+      <file name="/workspace/solutions/cnup/stacks/controller/src/test/resources/log4j.properties" timestamp="1503560697561">
+        <mark key="'" line="6" column="54" />
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+        <mark key="^" line="0" column="21" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/Route.java" timestamp="1502963873975">
         <mark key="[" line="19" column="32" />
@@ -307,12 +333,22 @@
         <mark key="^" line="15" column="10" />
         <mark key="." line="15" column="10" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/controller/src/main/java/com/thoughtworks/controller/records/RouteRecord.java" timestamp="1503560540669" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/modules/atptck/src/main/java/com/thoughtworks/cnup/atp/CoreTck.java" timestamp="1502940576354">
+        <mark key="[" line="0" column="7" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/features/error/ErrorsMapper.java" timestamp="1502964404613">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V39__add_files.sql" timestamp="1503392343113">
+      <file name="/workspace/solutions/cnup/stacks/controller/src/main/java/com/thoughtworks/controller/resources/BuildsResource.java" timestamp="1503559635886">
+        <mark key="[" line="34" column="56" />
+        <mark key="]" line="34" column="61" />
+        <mark key="^" line="34" column="61" />
+        <mark key="." line="34" column="61" />
+      </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V39__add_files.sql" timestamp="1503561273911">
         <mark key="[" line="5" column="36" />
         <mark key="]" line="5" column="36" />
         <mark key="." line="5" column="36" />
@@ -323,10 +359,18 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/modules/atp/src/main/java/com/thoughtworks/cnup/atp/records/Booklet.java" timestamp="1503389364181">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="/workspace/solutions/cnup/stacks/controller/src/main/java/com/thoughtworks/controller/resources/BuildResource.java" timestamp="1503559683158">
+        <mark key="[" line="61" column="58" />
+        <mark key="]" line="61" column="71" />
+        <mark key="." line="61" column="71" />
+        <mark key="^" line="61" column="71" />
+      </file>
+      <file name="/workspace/solutions/cnup/stacks/controller/src/main/resources/mybatis/mappers/ApplicationMapper.xml" timestamp="1503560797819">
+        <mark key="'" line="102" column="0" />
+        <mark key="[" line="265" column="46" />
+        <mark key="]" line="265" column="46" />
+        <mark key="." line="265" column="46" />
+        <mark key="^" line="265" column="46" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V37__create_operations_table_for_procedure_instance.sql" timestamp="1502090906177">
         <mark key="[" line="7" column="22" />
@@ -371,10 +415,8 @@
         <mark key="." line="26" column="0" />
       </file>
       <file name="/workspace/clients/harvestfund/jiashi_p2p_file_server/modules/core/src/main/java/com/thoughtworks/fms/api/resources/FilesResource.java" timestamp="1503388586677" />
-      <file name="/workspace/clients/harvestfund/jiashi_p2p_file_server/modules/core-mybatis/src/test/java/com/thoughtworks/fms/api/FilesResourceTest.java" timestamp="1503385412550">
-        <mark key="[" line="297" column="0" />
-        <mark key="]" line="306" column="9" />
-        <mark key="." line="297" column="99" />
+      <file name="/Dummy.txt" timestamp="1503559659810">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/modules/features/auth/src/main/java/com/thoughtworks/cnup/features/auth/AuthenticationFilter.java" timestamp="1503369592820">
         <mark key="[" line="29" column="66" />
@@ -397,6 +439,12 @@
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
+      </file>
+      <file name="/workspace/solutions/cnup/stacks/controller/src/test/java/com/thoughtworks/controller/records/ApplicationRepositoryTest.java" timestamp="1503561025910">
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="139" column="0" />
+        <mark key="^" line="139" column="32" />
+        <mark key="." line="139" column="0" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/atp/Modules.java" timestamp="1502869014551">
         <mark key="[" line="11" column="0" />
@@ -429,6 +477,7 @@
         <mark key="." line="22" column="36" />
         <mark key="^" line="22" column="36" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/biz.paluch.logging/logstash-gelf/1.11.1/99f9b6f5701861fa36b68cd687e289776fb79cd7/logstash-gelf-1.11.1-sources.jar!/biz/paluch/logging/gelf/log4j/GelfLayout.java" timestamp="1503560626332" />
       <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/service/RemoteUserServiceTest.java" timestamp="1503372355802">
         <mark key="[" line="35" column="13" />
         <mark key="]" line="35" column="13" />
@@ -440,13 +489,18 @@
         <mark key="^" line="12" column="8" />
         <mark key="." line="12" column="8" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/controller/src/main/resources/db/migration/V1__create_tables.sql" timestamp="1503560326079">
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/config.xml" timestamp="1503041213907">
         <mark key="[" line="43" column="42" />
         <mark key="]" line="43" column="46" />
         <mark key="." line="43" column="46" />
         <mark key="^" line="43" column="46" />
       </file>
-      <file name="/fragment.java" timestamp="1503450941539">
+      <file name="/fragment.java" timestamp="1503559659812">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
@@ -454,11 +508,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="26" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/Modules.java" />
-      <jump line="16" column="22" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/features/error/ErrorFeature.java" />
-      <jump line="19" column="7" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/core/Error.java" />
-      <jump line="154" column="8" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/Modules.java" />
-      <jump line="13" column="3" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/core/Errors.java" />
       <jump line="66" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/core/Errors.java" />
       <jump line="18" column="38" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/Modules.java" />
       <jump line="130" column="11" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/resources/ProceduresResourceTest.java" />
@@ -554,6 +603,11 @@
       <jump line="0" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Records.xml" />
       <jump line="215" column="20" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Columns.xml" />
       <jump line="34" column="13" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/provider/support/ApiSupport.java" />
+      <jump line="261" column="28" filename="/workspace/solutions/cnup/stacks/controller/src/main/resources/mybatis/mappers/ApplicationMapper.xml" />
+      <jump line="267" column="24" filename="/workspace/solutions/cnup/stacks/controller/src/main/resources/mybatis/mappers/ApplicationMapper.xml" />
+      <jump line="101" column="14" filename="/workspace/solutions/cnup/stacks/controller/src/main/resources/mybatis/mappers/ApplicationMapper.xml" />
+      <jump line="102" column="0" filename="/workspace/solutions/cnup/stacks/controller/src/main/resources/mybatis/mappers/ApplicationMapper.xml" />
+      <jump line="6" column="54" filename="/workspace/solutions/cnup/stacks/controller/src/test/resources/log4j.properties" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -561,8 +615,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>ERROR</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -577,43 +631,43 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text>ERROR</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>authen</text>
+        <text>appRelate</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;multipart/form-data&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">QUxURVIgVEFCTEUgRE9NQUlOUyBhZGQgQ09MVU1OIENSVCBWQVJDSEFSKDQwOTYpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBDb25zdW1lcyhNZWRpYVR5cGUuTVVMVElQQVJUX0ZPUk1fREFUQSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcm92aWRlcnMuYWRkKG5ldyBOb3RFbXB0eVZhbGlkYXRvcigibmFtZSIpKTsKICAgICAgICBwcm92aWRlcnMuYWRkKG5ldyBOb3RFbXB0eVZhbGlkYXRvcigidHlwZSIpKTsKICAgICAgICBwcm92aWRlcnMuYWRkKG5ldyBOb3RFbXB0eVZhbGlkYXRvcigiY29uZmlnIikpOwogICAgICAgIHByb3ZpZGVycy5zdHJlYW0oKS5tYXAocCAtPiBwLnZhbGlkYXRlKGluZm8uZ2V0KCkpKS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgiOm1vZHVsZXM6ZmVhdHVyZXM6YXV0aCIpCg==</text>
+        <text encoding="base64">QUxURVIgVEFCTEUgRE9NQUlOUyBhZGQgQ09MVU1OIENSVCBWQVJDSEFSKDQwOTYpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQEF1dGggT3duZXIgb3duZXIsCg==</text>
+        <text encoding="base64">QUxURVIgVEFCTEUgb3JnYW5pemF0aW9ucyBBREQgUFJJTUFSWSBLRVkgKG5hbWUpOwoKQUxURVIgVEFCTEUgb3JnX21lbWJlcnMgQUREIEZPUkVJR04gS0VZIChvcmdfbmFtZSkgUkVGRVJFTkNFUyBvcmdhbml6YXRpb25zKG5hbWUpOwoKQUxURVIgVEFCTEUgb3JnX21lbWJlcnMgQUREIEZPUkVJR04gS0VZICh1c2VyX2lkKSBSRUZFUkVOQ0VTIFVTRVJTKGlkKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGkgPT0gNykK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aW5jbHVkZSByZWZpZD0iYXBwUmVsYXRlZFRhYmxlcyIvPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGFyZ2V0IGluc3RhbmNlb2YgRmlsZWUpIHsKICAgICAgICAgICAgcmV0dXJuIFVSSS5jcmVhdGUoIi9maWxlcy8iICsgKChGaWxlZSkgdGFyZ2V0KS5nZXRJZCgpKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBVc2VyIG90aGVyID0gdXNlcnMuY3JlYXRlKFRlc3RIZWxwZXIudXNlcigibm9ybWFsdXNlckB0dy5jb20iKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBDb25zdW1lcyhNZWRpYVR5cGUuTVVMVElQQVJUX0ZPUk1fREFUQSkK</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
@@ -623,9 +677,9 @@
       </register>
     </registers>
     <search>
-      <last-search>authen</last-search>
+      <last-search>appRelate</last-search>
       <last-offset />
-      <last-pattern>authen</last-pattern>
+      <last-pattern>appRelate</last-pattern>
       <last-replace>PROVIDERS</last-replace>
       <last-substitute>P</last-substitute>
       <last-dir>1</last-dir>
@@ -633,7 +687,6 @@
     </search>
     <history>
       <history-search>
-        <entry>PERMAN</entry>
         <entry>provider</entry>
         <entry>P</entry>
         <entry>marathon</entry>
@@ -653,6 +706,7 @@
         <entry>API</entry>
         <entry>Api</entry>
         <entry>authen</entry>
+        <entry>appRelate</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -688,6 +742,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed 6</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
