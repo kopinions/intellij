@@ -204,6 +204,11 @@
         <mark key="^" line="13" column="36" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/log4j.properties" timestamp="1503541440063">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/provider/support/ApiSupport.java" timestamp="1503386086868">
         <mark key="'" line="34" column="13" />
       </file>
@@ -213,11 +218,19 @@
         <mark key="." line="0" column="42" />
         <mark key="^" line="0" column="42" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.ws.rs/javax.ws.rs-api/2.0.1/a20db7429fd8dfff74335ec867472b71c345049b/javax.ws.rs-api-2.0.1-sources.jar!/javax/ws/rs/core/MediaType.java" timestamp="1503540657331">
+        <mark key="[" line="131" column="53" />
+        <mark key="]" line="131" column="73" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/atp/support/ApiTestRunner.java" timestamp="1502870511447">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="50" column="39" />
         <mark key="^" line="48" column="19" />
         <mark key="." line="48" column="19" />
+      </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/service/RemoteUserService.java" timestamp="1503371102108">
+        <mark key="[" line="23" column="17" />
+        <mark key="]" line="23" column="42" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/features/error/ErrorFeature.java" timestamp="1502964274263">
         <mark key="[" line="6" column="19" />
@@ -409,6 +422,7 @@
         <mark key="." line="0" column="40" />
         <mark key="^" line="0" column="40" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.media/jersey-media-multipart/2.17/988600bd824e3ef511a9cddbff01fc2dcbc15509/jersey-media-multipart-2.17-sources.jar!/org/glassfish/jersey/media/multipart/internal/FormDataParamValueFactoryProvider.java" timestamp="1503540858637" />
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Files.xml" timestamp="1503382676799">
         <mark key="[" line="22" column="32" />
         <mark key="]" line="22" column="36" />
@@ -547,8 +561,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBDb25zdW1lcyhNZWRpYVR5cGUuTVVMVElQQVJUX0ZPUk1fREFUQSkK</text>
+      <register name="&quot;" type="4">
+        <text>ERROR</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -563,13 +577,13 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text>type</text>
+        <text>ERROR</text>
       </register>
       <register name="/" type="4">
         <text>authen</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcm92aWRlcnMuYWRkKG5ldyBOb3RFbXB0eVZhbGlkYXRvcigidHlwZSIpKTsK</text>
+      <register name="0" type="4">
+        <text>&quot;multipart/form-data&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBDb25zdW1lcyhNZWRpYVR5cGUuTVVMVElQQVJUX0ZPUk1fREFUQSkK</text>
