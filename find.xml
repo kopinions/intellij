@@ -5,10 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="xml" />
     <recentFileMasks>
-      <mask>.sq</mask>
-      <mask>.s</mask>
-      <mask>.</mask>
       <mask>.x</mask>
       <mask>.xm</mask>
       <mask>.xml</mask>
@@ -22,8 +20,6 @@
       <mask>X</mask>
       <mask>XM</mask>
       <mask>XML</mask>
-      <mask>xml</mask>
-      <mask>xm</mask>
       <mask>x</mask>
       <mask>j</mask>
       <mask>ja</mask>
@@ -36,6 +32,11 @@
       <mask>*.gra</mask>
       <mask>*.grad</mask>
       <mask>*.gradle</mask>
+      <mask>sql</mask>
+      <mask>sq</mask>
+      <mask>s</mask>
+      <mask>xm</mask>
+      <mask>xml</mask>
     </recentFileMasks>
   </component>
 </application>
