@@ -220,6 +220,11 @@
         <mark key="^" line="12" column="4" />
         <mark key="." line="12" column="13" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/neuron/build.gradle" timestamp="1504063616324">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/Modules.java" timestamp="1503381487645">
         <mark key="'" line="88" column="0" />
         <mark key="[" line="124" column="63" />
@@ -329,6 +334,7 @@
         <mark key="^" line="83" column="42" />
         <mark key="." line="86" column="0" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Iterator.java" timestamp="1504064289176" />
       <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/atp/support/ApiTestRunner.java" timestamp="1502870511447">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="50" column="39" />
@@ -407,6 +413,11 @@
         <mark key="]" line="0" column="28" />
         <mark key="^" line="10" column="17" />
         <mark key="." line="10" column="17" />
+      </file>
+      <file name="/workspace/solutions/cnup/stacks/neuron/settings.gradle" timestamp="1504063856426">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/workspace/solutions/cnup/cde-stacks/up-jersey-mysql/build/build.sh" timestamp="1501663713073">
         <mark key="'" line="71" column="9" />
@@ -901,7 +912,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYWdlLnN0cmVhbSgpLmZvckVhY2goYSAtPiAoKEFwcGxpY2F0aW9uUmVjb3JkKSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -925,34 +936,34 @@
         <text encoding="base64">ICAgICAgICAgICAgYXBwLmFkZEVudihuZXcgSGFzaE1hcDxTdHJpbmcsIE9iamVjdD4oKSB7ewogICAgICAgICAgICAgICAgcHV0KCJ0ZXN0IiwgIm5ld3Rlc3QiKTsKICAgICAgICAgICAgfX0pOwogICAgICAgICAgICBhcHAuYWRkRW52KG5ldyBIYXNoTWFwPFN0cmluZywgT2JqZWN0PigpIHt7CiAgICAgICAgICAgICAgICBwdXQoInRlc3QyIiwgIm5ld3Rlc3QiKTsKICAgICAgICAgICAgfX0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYWdlLnN0cmVhbSgpLmZvckVhY2goYSAtPiAoKEFwcGxpY2F0aW9uUmVjb3JkKSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">LyoKICogVGhpcyBzZXR0aW5ncyBmaWxlIHdhcyBnZW5lcmF0ZWQgYnkgdGhlIEdyYWRsZSAnaW5pdCcgdGFzay4KICoKICogVGhlIHNldHRpbmdzIGZpbGUgaXMgdXNlZCB0byBzcGVjaWZ5IHdoaWNoIHByb2plY3RzIHRvIGluY2x1ZGUgaW4geW91ciBidWlsZC4KICogSW4gYSBzaW5nbGUgcHJvamVjdCBidWlsZCB0aGlzIGZpbGUgY2FuIGJlIGVtcHR5IG9yIGV2ZW4gcmVtb3ZlZC4KICoKICogRGV0YWlsZWQgaW5mb3JtYXRpb24gYWJvdXQgY29uZmlndXJpbmcgYSBtdWx0aS1wcm9qZWN0IGJ1aWxkIGluIEdyYWRsZSBjYW4gYmUgZm91bmQKICogaW4gdGhlIHVzZXIgZ3VpZGUgYXQgaHR0cHM6Ly9kb2NzLmdyYWRsZS5vcmcvNC4xL3VzZXJndWlkZS9tdWx0aV9wcm9qZWN0X2J1aWxkcy5odG1sCiAqLwoKLyoKLy8gVG8gZGVjbGFyZSBwcm9qZWN0cyBhcyBwYXJ0IG9mIGEgbXVsdGktcHJvamVjdCBidWlsZCB1c2UgdGhlICdpbmNsdWRlJyBtZXRob2QKaW5jbHVkZSAnc2hhcmVkJwppbmNsdWRlICdhcGknCmluY2x1ZGUgJ3NlcnZpY2VzOndlYnNlcnZpY2UnCiovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwLmFkZEVudihuZXcgSGFzaE1hcDxTdHJpbmcsIE9iamVjdD4oKSB7ewogICAgICAgICAgICAgICAgcHV0KCJ0ZXN0IiwgIm5ld3Rlc3QiKTsKICAgICAgICAgICAgfX0pOwogICAgICAgICAgICBhcHAuYWRkRW52KG5ldyBIYXNoTWFwPFN0cmluZywgT2JqZWN0PigpIHt7CiAgICAgICAgICAgICAgICBwdXQoInRlc3QyIiwgIm5ld3Rlc3QiKTsKICAgICAgICAgICAgfX0pOwo=</text>
+        <text encoding="base64">LyoKICogVGhpcyBidWlsZCBmaWxlIHdhcyBnZW5lcmF0ZWQgYnkgdGhlIEdyYWRsZSAnaW5pdCcgdGFzay4KICoKICogVGhpcyBnZW5lcmF0ZWQgZmlsZSBjb250YWlucyBhIGNvbW1lbnRlZC1vdXQgc2FtcGxlIEphdmEgcHJvamVjdCB0byBnZXQgeW91IHN0YXJ0ZWQuCiAqIEZvciBtb3JlIGRldGFpbHMgdGFrZSBhIGxvb2sgYXQgdGhlIEphdmEgUXVpY2tzdGFydCBjaGFwdGVyIGluIHRoZSBHcmFkbGUKICogdXNlciBndWlkZSBhdmFpbGFibGUgYXQgaHR0cHM6Ly9kb2NzLmdyYWRsZS5vcmcvNC4xL3VzZXJndWlkZS90dXRvcmlhbF9qYXZhX3Byb2plY3RzLmh0bWwKICovCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIuY29uZmlndXJlKCk7Cg==</text>
+        <text encoding="base64">Ly8gQXBwbHkgdGhlIGphdmEgcGx1Z2luIHRvIGFkZCBzdXBwb3J0IGZvciBKYXZhCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gSW4gdGhpcyBzZWN0aW9uIHlvdSBkZWNsYXJlIHdoZXJlIHRvIGZpbmQgdGhlIGRlcGVuZGVuY2llcyBvZiB5b3VyIHByb2plY3QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIGFjY2VwdChPYmplY3Qgbykgewo=</text>
+        <text encoding="base64">ICAgIC8vIFVzZSAnamNlbnRlcicgZm9yIHJlc29sdmluZyB5b3VyIGRlcGVuZGVuY2llcy4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgYXBwbGljYXRpb25zIEFERCBJTkRFWCAobmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgIC8vIFlvdSBjYW4gZGVjbGFyZSBhbnkgTWF2ZW4vSXZ5L2ZpbGUgcmVwb3NpdG9yeSBoZXJlLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFVzZSAnamNlbnRlcicgZm9yIHJlc29sdmluZyB5b3VyIGRlcGVuZGVuY2llcy4KICAgIC8vIFlvdSBjYW4gZGVjbGFyZSBhbnkgTWF2ZW4vSXZ5L2ZpbGUgcmVwb3NpdG9yeSBoZXJlLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0b2tlbiA9IHVzZXJzLmF1dGgob3RoZXIpOwo=</text>
+        <text encoding="base64">ICAgIC8vICd0ZXN0LnVzZVRlc3RORygpJyB0byB5b3VyIGJ1aWxkIHNjcmlwdC4K</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
