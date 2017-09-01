@@ -46,7 +46,7 @@
         <mark key="." line="10" column="9" />
         <mark key="^" line="10" column="9" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/core/Paginated.java" timestamp="1504164182748">
+      <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/core/Paginated.java" timestamp="1504250672964">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="^" line="5" column="21" />
@@ -210,11 +210,11 @@
         <mark key="^" line="16" column="10" />
         <mark key="." line="16" column="12" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/core/Pulses.java" timestamp="1504237589365">
-        <mark key="[" line="6" column="46" />
-        <mark key="]" line="6" column="58" />
-        <mark key="." line="6" column="58" />
-        <mark key="^" line="6" column="58" />
+      <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/core/Pulses.java" timestamp="1504249533259">
+        <mark key="[" line="6" column="41" />
+        <mark key="]" line="6" column="40" />
+        <mark key="." line="6" column="40" />
+        <mark key="^" line="6" column="40" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/modules/atptck/build.gradle" timestamp="1503286459263">
         <mark key="[" line="21" column="0" />
@@ -426,11 +426,6 @@
         <mark key="^" line="12" column="28" />
         <mark key="." line="12" column="28" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/records/Pulses.java" timestamp="1504237626081">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/core/Identifiable.java" timestamp="1504162942524">
         <mark key="[" line="2" column="31" />
         <mark key="]" line="3" column="15" />
@@ -485,7 +480,12 @@
         <mark key="^" line="23" column="52" />
         <mark key="." line="23" column="52" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/records/CursorRecord.java" timestamp="1504248756972" />
+      <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/records/CursorRecord.java" timestamp="1504250498256">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="50" column="48" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/modules/features/auth/src/main/java/com/thoughtworks/cnup/features/auth/AuthenticationFilter.java" timestamp="1503369592820">
         <mark key="[" line="29" column="66" />
         <mark key="]" line="29" column="79" />
@@ -677,8 +677,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>git rev-parse --short HEAD</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxNYXA8U3RyaW5nLCBPYmplY3Q+PiBpdGVtczsK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -693,43 +693,45 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text>iwffset</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>xml</text>
       </register>
-      <register name="0" type="4">
-        <text>git rev-parse --short HEAD</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGFnaW5hdGVkID0gcHVsc2VzRmFjdG9yeS5mcm9tKGNvbmZpZykuc2Vuc2UoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXRlbXMgPSBwdWxzZXNGYWN0b3J5LmZyb20oY29uZmlnKS5zZW5zZShwYWdlLCBwZXJQYWdlLCBvZmZzZXQpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxNYXA8U3RyaW5nLCBPYmplY3Q+PiBpdGVtczsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImhhc05leHQiKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGN1cnNvci5oYXNOZXh0KCksIGlzKHRydWUpKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IHB1bHNlID0gaGFzTmV4dCA/IGl0ZW1zLmdldChvZmZzZXQrKykgOiBudWxsOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChwYWdlID09IDEpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gSW50U3RyZWFtLnJhbmdlKDAsIDEwKS5tYXBUb09iaih2YWx1ZSAtPiAkKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJCgibmV4dCIsICIiKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICQoImxhc3QiLCAiaHR0cDovL2xvY2FsaG9zdDo4MDg4L2V2ZW50cz9wYWdlPTImcGVyLXBhZ2U9MTAiKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICQoInByZXYiLCAiaHR0cDovL2xvY2FsaG9zdDo4MDg4L2V2ZW50cz9wYWdlPTEmcGVyLXBhZ2U9MTAiKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICQoImNvdW50IiwgIjExIiksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKCJzZWxmIiwgImh0dHA6Ly9sb2NhbGhvc3Q6ODA4OC9ldmVudHM/cGFnZT0yJnBlci1wYWdlPTEwIiksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKCJpdGVtcyIsIGFzTGlzdCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKCJpZCIsIFN0cmluZy52YWx1ZU9mKHZhbHVlICsgMSkpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICQoInR5cGUiLCAiQnVpbGRDcmVhdGVkRXZlbnQiKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKCJjb250ZW50IiwgJCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICQoImNyZWF0ZWRBdCIsIDE1MDE2NDQzODAwMDBMKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKSkuY29sbGVjdCh0b0xpc3QoKSk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ZWxzZSBpZiAoY29uZmlnLmdldCgiZW5kcG9pbnQiKS5lcXVhbHMoImh0dHA6Ly9sb2NhbGhvc3Q6ODA4OC9ldmVudHM/cGFnZT0xJnBlci1wYWdlPTEwIikpIHsKCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
+      </register>
+      <register name="4" type="4">
+        <text>asList(
+                                                    $(&quot;type&quot;, &quot;BuildCreatedEvent&quot;)
+                                            )</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gSW50U3RyZWFtLnJhbmdlKChwYWdlIC0gMSkgKiAxMCwgKHBhZ2UgLSAxKSAqIHBlclBhZ2UgKyAxMCkubWFwVG9PYmoodmFsdWUgLT4gJCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICQoIm5leHQiLCAiIiksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKCJsYXN0IiwgImh0dHA6Ly9sb2NhbGhvc3Q6ODA4OC9ldmVudHM/cGFnZT0yJnBlci1wYWdlPTEwIiksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKCJwcmV2IiwgImh0dHA6Ly9sb2NhbGhvc3Q6ODA4OC9ldmVudHM/cGFnZT0xJnBlci1wYWdlPTEwIiksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKCJjb3VudCIsICIxMSIpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJCgic2VsZiIsICJodHRwOi8vbG9jYWxob3N0OjgwODgvZXZlbnRzP3BhZ2U9MiZwZXItcGFnZT0xMCIpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJCgiaXRlbXMiLCBhc0xpc3QoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICQoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJCgiaWQiLCBTdHJpbmcudmFsdWVPZih2YWx1ZSkpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICQoInR5cGUiLCAiQnVpbGRDcmVhdGVkRXZlbnQiKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKCJjb250ZW50IiwgJCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICQoImNyZWF0ZWRBdCIsIDE1MDE2NDQzODAwMDBMKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKSkuY29sbGVjdCh0b0xpc3QoKSk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gYXNMaXN0KCk7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
