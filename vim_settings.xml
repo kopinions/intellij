@@ -127,6 +127,12 @@
         <mark key="." line="969" column="20" />
         <mark key="^" line="969" column="37" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/records/PulseRecord.java" timestamp="1504503039341">
+        <mark key="[" line="15" column="27" />
+        <mark key="]" line="15" column="38" />
+        <mark key="^" line="15" column="38" />
+        <mark key="." line="15" column="38" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/records/CursorsRecord.java" timestamp="1504236083318">
         <mark key="[" line="21" column="25" />
         <mark key="]" line="21" column="71" />
@@ -362,6 +368,12 @@
         <mark key="]" line="184" column="0" />
         <mark key="." line="184" column="0" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/records/PulseRecordTest.java" timestamp="1504503616384">
+        <mark key="[" line="32" column="73" />
+        <mark key="]" line="33" column="7" />
+        <mark key="." line="33" column="7" />
+        <mark key="^" line="33" column="7" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V39__add_files.sql" timestamp="1503561273911">
         <mark key="[" line="5" column="36" />
         <mark key="]" line="5" column="36" />
@@ -492,7 +504,7 @@
         <mark key="." line="22" column="60" />
         <mark key="^" line="22" column="60" />
       </file>
-      <file name="/fragment.java" timestamp="1504493702729">
+      <file name="/fragment.java" timestamp="1504503077006">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
@@ -809,11 +821,11 @@
         <mark key="." line="18" column="25" />
         <mark key="^" line="18" column="25" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/records/PulsesTest.java" timestamp="1504497858670">
-        <mark key="[" line="50" column="53" />
-        <mark key="]" line="50" column="52" />
-        <mark key="^" line="50" column="52" />
-        <mark key="." line="50" column="52" />
+      <file name="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/records/PulsesTest.java" timestamp="1504503130700">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="47" column="28" />
+        <mark key="^" line="41" column="41" />
+        <mark key="." line="41" column="41" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/settings.gradle" timestamp="1503286228192">
         <mark key="[" line="7" column="26" />
@@ -1148,8 +1160,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>long</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1170,37 +1182,37 @@
         <text>CURSOR</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8YmluZCB2YWx1ZT0iKHBhZ2UtMSkgKiBwZXJQYWdlIiBuYW1lPSJzdGFydCI+PC9iaW5kPgo=</text>
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IGV2ZW50ID0gJCgKICAgICAgICAgICAgICAgICQoImlkIiwgU3RyaW5nLnZhbHVlT2YoMSkpLAogICAgICAgICAgICAgICAgJCgidHlwZSIsICJCdWlsZENyZWF0ZWRFdmVudCIpLAogICAgICAgICAgICAgICAgJCgiY29udGVudCIsICQoCiAgICAgICAgICAgICAgICAgICAgICAgICQoImNyZWF0ZWRBdCIsIDE1MDE2NDQzODAwMDBMKQogICAgICAgICAgICAgICAgKSkKICAgICAgICApOwogICAgICAgIHB1bHNlcy5jcmVhdGUoZXZlbnQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGlmIHRlc3Q9Im1hdGNoZXIuY29udGFpbnNLZXkoJ19pZCcpIGFuZCBtYXRjaGVyLl9pZCAhPSBudWxsIj4KICAgICAgICAgICAgICAgIFBVTFNFUy4gPSAje21hdGNoZXIuX2lkfQogICAgICAgICAgICA8L2lmPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGlmIHRlc3Q9Im1hdGNoZXIuY29udGFpbnNLZXkoJ2lkJykgYW5kIG1hdGNoZXIuaWQgIT0gbnVsbCI+CiAgICAgICAgICAgICAgICBQVUxTRVMuSUQgPSAje21hdGNoZXIuaWR9CiAgICAgICAgICAgIDwvaWY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGlmIHRlc3Q9Im1hdGNoZXIuY29udGFpbnNLZXkoJ19pZCcpIGFuZCBtYXRjaGVyLl9pZCAhPSBudWxsIj4KICAgICAgICAgICAgICAgIFBVTFNFUy5fSUQgPSAje21hdGNoZXIuX2lkfQogICAgICAgICAgICA8L2lmPgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS50aG91Z2h0d29ya3MuY251cC5uZXVyb24uY29yZS5DdXJzb3I7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGlmIHRlc3Q9Im1hdGNoZXIuY29udGFpbnNLZXkoJ19pZCcpIGFuZCBtYXRjaGVyLl9pZCAhPSBudWxsIj4KICAgICAgICAgICAgICAgIFBVTFNFUy4gPSAje21hdGNoZXIuX2lkfQogICAgICAgICAgICA8L2lmPgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGlmIHRlc3Q9Im1hdGNoZXIuY29udGFpbnNLZXkoJ2lkJykgYW5kIG1hdGNoZXIuaWQgIT0gbnVsbCI+CiAgICAgICAgICAgICAgICBQVUxTRVMuSUQgPSAje21hdGNoZXIuaWR9CiAgICAgICAgICAgIDwvaWY+Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGludCBjb3VudEFsbE9mKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGlmIHRlc3Q9Im1hdGNoZXIuY29udGFpbnNLZXkoJ19pZCcpIGFuZCBtYXRjaGVyLl9pZCAhPSBudWxsIj4KICAgICAgICAgICAgICAgIFBVTFNFUy5fSUQgPSAje21hdGNoZXIuX2lkfQogICAgICAgICAgICA8L2lmPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBGUk9NIERFUExPWU1FTlRTIEQK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS50aG91Z2h0d29ya3MuY251cC5uZXVyb24uY29yZS5DdXJzb3I7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTRUxFQ1QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBXSEVSRSBkZWxldGVkX2F0IElTIE5VTEwgQU5EIEQuVFlQRSA9ICN7cXVlcnkudHlwZX07Cg==</text>
+        <text encoding="base64">ICAgIGludCBjb3VudEFsbE9mKCk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
