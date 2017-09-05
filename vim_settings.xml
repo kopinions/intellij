@@ -86,11 +86,11 @@
         <mark key="." line="6" column="67" />
         <mark key="^" line="6" column="67" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/fixtures/EventsFixtures.java" timestamp="1504597181595">
-        <mark key="[" line="30" column="55" />
-        <mark key="]" line="30" column="55" />
-        <mark key="." line="30" column="55" />
-        <mark key="^" line="30" column="55" />
+      <file name="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/fixtures/EventsFixtures.java" timestamp="1504598343485">
+        <mark key="[" line="29" column="55" />
+        <mark key="]" line="29" column="55" />
+        <mark key="." line="29" column="55" />
+        <mark key="^" line="29" column="55" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/features/error/ConflictExceptionMapper.java" timestamp="1502159852767">
         <mark key="[" line="10" column="0" />
@@ -223,6 +223,12 @@
         <mark key="^" line="12" column="4" />
         <mark key="." line="12" column="13" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/neuron/build.gradle" timestamp="1504598425431">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="74" />
+        <mark key="." line="51" column="0" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/main/resources/db/migration/V4__add_results_table.sql" timestamp="1504514954467">
         <mark key="[" line="5" column="17" />
         <mark key="]" line="5" column="16" />
@@ -289,6 +295,11 @@
         <mark key="]" line="5" column="6" />
         <mark key="^" line="5" column="6" />
         <mark key="." line="5" column="6" />
+      </file>
+      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/build.gradle" timestamp="1504598406192">
+        <mark key="'" line="82" column="27" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="74" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/controller/src/main/java/com/thoughtworks/controller/records/BuildRecord.java" timestamp="1503565031646">
         <mark key="[" line="22" column="21" />
@@ -376,12 +387,12 @@
         <mark key="^" line="0" column="61" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/support/InjectableRunner.java" timestamp="1504596512567">
-        <mark key="'" line="70" column="0" />
-        <mark key="[" line="77" column="83" />
-        <mark key="]" line="77" column="83" />
-        <mark key="." line="77" column="83" />
-        <mark key="^" line="77" column="83" />
+      <file name="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/support/InjectableRunner.java" timestamp="1504598488059">
+        <mark key="'" line="71" column="0" />
+        <mark key="[" line="81" column="42" />
+        <mark key="]" line="164" column="21" />
+        <mark key="." line="164" column="21" />
+        <mark key="^" line="164" column="21" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/modules/atptck/src/main/java/com/thoughtworks/cnup/atp/ResourceTck.java" timestamp="1502940447863">
         <mark key="[" line="2" column="7" />
@@ -588,11 +599,11 @@
         <mark key="." line="5" column="17" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstance.java" timestamp="1504593460610" />
-      <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/records/Sensory.java" timestamp="1504597272026">
-        <mark key="[" line="43" column="74" />
-        <mark key="]" line="44" column="30" />
-        <mark key="." line="44" column="30" />
-        <mark key="^" line="44" column="30" />
+      <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/records/Sensory.java" timestamp="1504598287795">
+        <mark key="[" line="51" column="62" />
+        <mark key="]" line="51" column="62" />
+        <mark key="." line="51" column="62" />
+        <mark key="^" line="41" column="61" />
       </file>
       <file name="/Dummy.txt" timestamp="1504592327059">
         <mark key="[" line="0" column="0" />
@@ -682,7 +693,7 @@
         <mark key="." line="9" column="10" />
         <mark key="^" line="9" column="10" />
       </file>
-      <file name="/fragment.java" timestamp="1504595404032">
+      <file name="/fragment.java" timestamp="1504598337208">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
@@ -690,12 +701,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="13" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/provider/support/ApiSupport.java" />
-      <jump line="261" column="28" filename="/workspace/solutions/cnup/stacks/controller/src/main/resources/mybatis/mappers/ApplicationMapper.xml" />
-      <jump line="267" column="24" filename="/workspace/solutions/cnup/stacks/controller/src/main/resources/mybatis/mappers/ApplicationMapper.xml" />
-      <jump line="101" column="14" filename="/workspace/solutions/cnup/stacks/controller/src/main/resources/mybatis/mappers/ApplicationMapper.xml" />
-      <jump line="102" column="0" filename="/workspace/solutions/cnup/stacks/controller/src/main/resources/mybatis/mappers/ApplicationMapper.xml" />
-      <jump line="6" column="54" filename="/workspace/solutions/cnup/stacks/controller/src/test/resources/log4j.properties" />
       <jump line="148" column="8" filename="/workspace/solutions/cnup/stacks/controller/src/main/java/com/thoughtworks/controller/resources/ApplicationResource.java" />
       <jump line="60" column="36" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/common/PaginatedList.java" />
       <jump line="44" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/common/PaginatedList.java" />
@@ -790,6 +795,12 @@
       <jump line="74" column="0" filename="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/support/InjectableRunner.java" />
       <jump line="84" column="35" filename="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/support/InjectableRunner.java" />
       <jump line="92" column="0" filename="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/support/InjectableRunner.java" />
+      <jump line="0" column="0" filename="/workspace/solutions/cnup/stacks/neuron/build.gradle" />
+      <jump line="0" column="0" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/build.gradle" />
+      <jump line="135" column="0" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/build.gradle" />
+      <jump line="60" column="4" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/build.gradle" />
+      <jump line="81" column="58" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/build.gradle" />
+      <jump line="82" column="27" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -798,7 +809,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Object</text>
+        <text>JacksonFeature</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -813,40 +824,40 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text>Object</text>
+        <text>JacksonFeature</text>
       </register>
       <register name="/" type="4">
-        <text>-</text>
+        <text>jackson</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAocGFnZSwgcGVyUGFnZSkgLT4gSW50U3RyZWFtLnJhbmdlKChwYWdlIC0gMSkgKiAxMCwgKHBhZ2UgLSAxKSAqIHBlclBhZ2UgKyAxMCkubWFwVG9PYmoodmFsdWUgLT4gJCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICQoIm5leHQiLCAiIiksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKCJsYXN0IiwgImh0dHA6Ly9sb2NhbGhvc3Q6ODA4OC9ldmVudHM/cGFnZT0yJnBlci1wYWdlPTEwIiksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKCJwcmV2IiwgImh0dHA6Ly9sb2NhbGhvc3Q6ODA4OC9ldmVudHM/cGFnZT0xJnBlci1wYWdlPTEwIiksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKCJjb3VudCIsICIxMSIpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJCgic2VsZiIsICJodHRwOi8vbG9jYWxob3N0OjgwODgvZXZlbnRzP3BhZ2U9MiZwZXItcGFnZT0xMCIpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJCgiaXRlbXMiLCBhc0xpc3QoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICQoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJCgiaWQiLCBTdHJpbmcudmFsdWVPZih2YWx1ZSkpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICQoInR5cGUiLCAiQnVpbGRDcmVhdGVkRXZlbnQiKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKCJjb250ZW50IiwgJCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICQoImNyZWF0ZWRBdCIsIDE1MDE2NDQzODAwMDBMKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICkpCg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgIm9yZy5nbGFzc2Zpc2guamVyc2V5Lm1lZGlhOmplcnNleS1tZWRpYS1qc29uLWphY2tzb246JGplcnNleSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy50b3RhbCA9IGNvdW50Owo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kZXIuYmluZChTZW5zb3J5LmNsYXNzKS50byhjb20udGhvdWdodHdvcmtzLmNudXAubmV1cm9uLnJlY29yZHMuU2Vuc29yeS5jbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGNvdW50ID0gSW50ZWdlci52YWx1ZU9mKFN0cmluZy52YWx1ZU9mKG1hcC5nZXQoImNvdW50IikpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGFzTGlzdCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRvdGFsOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiaW5kZXIuYmluZChTZW5zb3J5LmNsYXNzKS50byhjb20udGhvdWdodHdvcmtzLmNudXAubmV1cm9uLnJlY29yZHMuU2Vuc29yeS5jbGFzcyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3R1YlNlcnZlciBzdHViU2VydmVyID0gc2VydmVyUHJvdmlkZXIuZ2V0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -859,9 +870,9 @@
       </register>
     </registers>
     <search>
-      <last-search>-</last-search>
+      <last-search>jackson</last-search>
       <last-offset />
-      <last-pattern>-</last-pattern>
+      <last-pattern>jackson</last-pattern>
       <last-replace />
       <last-substitute>-</last-substitute>
       <last-dir>1</last-dir>
@@ -869,7 +880,6 @@
     </search>
     <history>
       <history-search>
-        <entry>db</entry>
         <entry>procedure</entry>
         <entry>unified_procedure</entry>
         <entry>id=&quot;procedure</entry>
@@ -889,6 +899,7 @@
         <entry>PULSES</entry>
         <entry>PULSE</entry>
         <entry>-</entry>
+        <entry>jackson</entry>
       </history-search>
       <history-cmd>
         <entry>%s/build-wrapper/build-wrapper-up/gcy</entry>
