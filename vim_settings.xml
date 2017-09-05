@@ -30,7 +30,6 @@
       <file name="/a.dummy" timestamp="1504599739813">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/resources/ProceduresResourceTest.java" timestamp="1504593517616" />
       <file name="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/records/fixtures/SinglePageEvents.java" timestamp="1504073532289">
         <mark key="[" line="0" column="37" />
         <mark key="]" line="0" column="35" />
@@ -157,11 +156,6 @@
         <mark key="." line="31" column="70" />
         <mark key="^" line="31" column="70" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/jersey/CORSResponseFilter.java" timestamp="1504518488654">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/main/resources/db/migration/V3__add_pulses_table.sql" timestamp="1504496511017">
         <mark key="[" line="6" column="24" />
         <mark key="]" line="6" column="33" />
@@ -198,6 +192,7 @@
         <mark key="^" line="14" column="17" />
         <mark key="." line="14" column="17" />
       </file>
+      <file name="/Records.xml" timestamp="1504603308515" />
       <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/atp/support/AtpRunner.java" timestamp="1502877542779">
         <mark key="[" line="127" column="5" />
         <mark key="]" line="128" column="3" />
@@ -252,6 +247,7 @@
         <mark key="." line="5" column="72" />
         <mark key="^" line="5" column="72" />
       </file>
+      <file name="/Pulse.java" timestamp="1504602830467" />
       <file name="/workspace/solutions/cnup/stacks/neuron/src/main/resources/mybatis/mappers/Results.xml" timestamp="1504577101431">
         <mark key="'" line="55" column="30" />
         <mark key="[" line="46" column="12" />
@@ -295,11 +291,7 @@
         <mark key="^" line="5" column="6" />
         <mark key="." line="5" column="6" />
       </file>
-      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/build.gradle" timestamp="1504598406192">
-        <mark key="'" line="82" column="27" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="74" />
-      </file>
+      <file name="/PulseRecord.java" timestamp="1504603418827" />
       <file name="/workspace/solutions/cnup/stacks/controller/src/main/java/com/thoughtworks/controller/records/BuildRecord.java" timestamp="1503565031646">
         <mark key="[" line="22" column="21" />
         <mark key="]" line="22" column="26" />
@@ -312,7 +304,6 @@
         <mark key="." line="11" column="8" />
         <mark key="^" line="11" column="7" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/core/ProcedureInstance.java" timestamp="1504593686781" />
       <file name="/workspace/solutions/cnup/stacks/launcher/modules/features/auth/src/main/java/com/thoughtworks/cnup/features/auth/AuthResolver.java" timestamp="1503288792977">
         <mark key="[" line="2" column="26" />
         <mark key="]" line="4" column="60" />
@@ -343,7 +334,6 @@
         <mark key="." line="0" column="42" />
         <mark key="^" line="0" column="42" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/resources/ProceduresResource.java" timestamp="1504593436330" />
       <file name="/workspace/solutions/cnup/stacks/neuron/src/main/resources/db/migration/V1__add_cursor_table.sql" timestamp="1504258525164">
         <mark key="[" line="3" column="37" />
         <mark key="]" line="3" column="37" />
@@ -399,6 +389,7 @@
         <mark key="." line="2" column="28" />
         <mark key="^" line="2" column="28" />
       </file>
+      <file name="/Results.xml" timestamp="1504603256503" />
       <file name="/workspace/solutions/cnup/stacks/launcher/modules/atp/src/main/java/com/thoughtworks/cnup/atp/records/Route.java" timestamp="1502957917773">
         <mark key="[" line="8" column="26" />
         <mark key="]" line="8" column="26" />
@@ -423,11 +414,7 @@
         <mark key="." line="18" column="25" />
         <mark key="^" line="18" column="25" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/records/PulsesTest.java" timestamp="1504583144730">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
+      <file name="/Columns.xml" timestamp="1504603261533" />
       <file name="/workspace/solutions/cnup/stacks/launcher/settings.gradle" timestamp="1503286228192">
         <mark key="[" line="7" column="26" />
         <mark key="]" line="7" column="29" />
@@ -440,16 +427,18 @@
         <mark key="." line="5" column="6" />
         <mark key="^" line="5" column="6" />
       </file>
+      <file name="/Pulses.java" timestamp="1504603128370" />
+      <file name="/config.xml" timestamp="1504603266843" />
       <file name="/workspace/solutions/cnup/stacks/launcher/modules/routing/src/main/java/com/thoughtworks/cnup/features/routing/ConfigurationInjectionResolver.java" timestamp="1502957717030">
         <mark key="[" line="29" column="40" />
         <mark key="]" line="29" column="73" />
         <mark key="^" line="29" column="73" />
         <mark key="." line="29" column="73" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/records/SensoryFactoryTest.java" timestamp="1504591662678">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="24" column="10" />
-        <mark key="." line="30" column="51" />
+      <file name="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/records/SensoryFactoryTest.java" timestamp="1504603577316">
+        <mark key="[" line="39" column="19" />
+        <mark key="]" line="39" column="19" />
+        <mark key="." line="39" column="19" />
         <mark key="^" line="35" column="3" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/Routes.java" timestamp="1503390592564">
@@ -475,11 +464,6 @@
         <mark key="]" line="15" column="10" />
         <mark key="^" line="15" column="10" />
         <mark key="." line="15" column="10" />
-      </file>
-      <file name="/workspace/solutions/p2p/midas/modules/implementation-core/src/main/java/com/thoughtworks/midas/core/mybatis/records/AccountRecord.java" timestamp="1504491529102">
-        <mark key="[" line="184" column="0" />
-        <mark key="]" line="184" column="0" />
-        <mark key="." line="184" column="0" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/main/resources/db/migration/V2__add_perpage_for_cursor.sql" timestamp="1504247283977">
         <mark key="[" line="0" column="0" />
@@ -523,7 +507,6 @@
         <mark key="^" line="3" column="4" />
         <mark key="." line="3" column="4" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/resources/UnifiedProcedureResource.java" timestamp="1504593638043" />
       <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/mappers/Results.java" timestamp="1504512232605">
         <mark key="[" line="6" column="60" />
         <mark key="]" line="6" column="58" />
@@ -591,13 +574,15 @@
         <mark key="^" line="23" column="52" />
         <mark key="." line="23" column="52" />
       </file>
+      <file name="/Generic.java" timestamp="1504603171707" />
+      <file name="/SensoryFactoryTest.java" timestamp="1504603558525" />
       <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/core/Fixed.java" timestamp="1504256586892">
         <mark key="[" line="5" column="18" />
         <mark key="]" line="5" column="17" />
         <mark key="^" line="5" column="17" />
         <mark key="." line="5" column="17" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstance.java" timestamp="1504593460610" />
+      <file name="/Pulses.xml" timestamp="1504603200577" />
       <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/records/Sensory.java" timestamp="1504602165614">
         <mark key="[" line="48" column="69" />
         <mark key="]" line="49" column="11" />
@@ -626,11 +611,6 @@
         <mark key="^" line="4" column="6" />
         <mark key="." line="4" column="6" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/Modules.java" timestamp="1504596936346">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/atp/Modules.java" timestamp="1502869014551">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -649,8 +629,6 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runner/RunWith.java" timestamp="1504582876449" />
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/resources/ProvidersResource.java" timestamp="1504593160392" />
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/features/routing/error/ConflictExceptionMapper.java" timestamp="1502159814820">
         <mark key="[" line="0" column="42" />
         <mark key="]" line="0" column="40" />
@@ -663,6 +641,7 @@
         <mark key="." line="22" column="36" />
         <mark key="^" line="22" column="36" />
       </file>
+      <file name="/PulseRecordTest.java" timestamp="1504603499425" />
       <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/records/Processors.java" timestamp="1504491019740">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="21" column="8" />
@@ -674,11 +653,6 @@
         <mark key="]" line="12" column="8" />
         <mark key="^" line="12" column="8" />
         <mark key="." line="12" column="8" />
-      </file>
-      <file name="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/fixtures/SinglePageEvents.java" timestamp="1504591960727">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/config.xml" timestamp="1503041213907">
         <mark key="[" line="43" column="42" />
@@ -807,8 +781,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>endpoint</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -823,7 +797,7 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>endpoint</text>
       </register>
       <register name="/" type="4">
         <text>jackson</text>
