@@ -228,11 +228,12 @@
         <mark key="^" line="12" column="4" />
         <mark key="." line="12" column="13" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/neuron/build.gradle" timestamp="1504666558416">
+      <file name="/workspace/solutions/cnup/stacks/neuron/build.gradle" timestamp="1504667523648">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+        <mark key="[" line="21" column="43" />
+        <mark key="]" line="21" column="44" />
+        <mark key="." line="21" column="44" />
+        <mark key="^" line="21" column="88" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/main/resources/mybatis/mappers/Pulses.xml" timestamp="1504661980339">
         <mark key="[" line="62" column="28" />
@@ -471,10 +472,11 @@
         <mark key="^" line="29" column="73" />
         <mark key="." line="29" column="73" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/neuron/gradle/gradle.properties" timestamp="1504666602241">
+      <file name="/workspace/solutions/cnup/stacks/neuron/gradle/gradle.properties" timestamp="1504667699966">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="4" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/records/SensoryFactoryTest.java" timestamp="1504661214274">
         <mark key="[" line="39" column="19" />
@@ -847,7 +849,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3lzdGVtUHJvcC5zb25hci5ob3N0LnVybD1odHRwOi8vbG9jYWxob3N0OjkwMDAK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -862,7 +864,7 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text>PULSES</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>jackson</text>
@@ -871,16 +873,16 @@
         <text encoding="base64">ICAgICAgICA8d2hlcmU+CiAgICAgICAgICAgIDxpZiB0ZXN0PSJtYXRjaGVyLmNvbnRhaW5zS2V5KCdfaWQnKSBhbmQgbWF0Y2hlci5faWQgIT0gbnVsbCI+CiAgICAgICAgICAgICAgICBDVVJTT1JTLl9JRCA9ICN7bWF0Y2hlci5faWR9CiAgICAgICAgICAgIDwvaWY+CiAgICAgICAgICAgIDxpZiB0ZXN0PSJtYXRjaGVyLmNvbnRhaW5zS2V5KCdpZCcpIGFuZCBtYXRjaGVyLmlkICE9IG51bGwiPgogICAgICAgICAgICAgICAgQ1VSU09SUy5JRCA9ICN7bWF0Y2hlci5pZH0KICAgICAgICAgICAgPC9pZj4KICAgICAgICA8L3doZXJlPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3lzdGVtUHJvcC5zb25hci5ob3N0LnVybD1odHRwOi8vbG9jYWxob3N0OjkwMDAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3lzdGVtUHJvcC5zb25hci5ob3N0LnVybD0naHR0cDovL2xvY2FsaG9zdDo5MDAwJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3lzdGVtUHJvcC5zb25hci5ob3N0LnVybD0naHR0cDovL2xvY2FsaG9zdDo5MDAwJwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -889,16 +891,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGlmIHRlc3Q9Im1hdGNoZXIuY29udGFpbnNLZXkoJ19pZCcpIGFuZCBtYXRjaGVyLl9pZCAhPSBudWxsIj4KICAgICAgICAgICAgICAgIENVUlNPUlMuX0lEID0gI3ttYXRjaGVyLl9pZH0KICAgICAgICAgICAgPC9pZj4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGlmIHRlc3Q9Im1hdGNoZXIuY29udGFpbnNLZXkoJ19pZCcpIGFuZCBtYXRjaGVyLl9pZCAhPSBudWxsIj4KICAgICAgICAgICAgICAgIENVUlNPUlMuX0lEID0gI3ttYXRjaGVyLl9pZH0KICAgICAgICAgICAgPC9pZj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8d2hlcmU+CiAgICAgICAgICAgIDxpZiB0ZXN0PSJtYXRjaGVyLmNvbnRhaW5zS2V5KCdzdGF0dXMnKSBhbmQgbWF0Y2hlci5zdGF0dXMgIT0gbnVsbCI+CiAgICAgICAgICAgICAgICBDVVJTT1JTLlNUQVRVUyA9ICN7bWF0Y2hlci5zdGF0dXN9CiAgICAgICAgICAgIDwvaWY+CiAgICAgICAgPC93aGVyZT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGlmIHRlc3Q9Im1hdGNoZXIuY29udGFpbnNLZXkoJ19pZCcpIGFuZCBtYXRjaGVyLl9pZCAhPSBudWxsIj4KICAgICAgICAgICAgICAgIENVUlNPUlMuX0lEID0gI3ttYXRjaGVyLl9pZH0KICAgICAgICAgICAgPC9pZj4K</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>

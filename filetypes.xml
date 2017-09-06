@@ -4,6 +4,7 @@
       <mapping pattern="logstash" type="Bash" />
       <mapping pattern="build" type="Bash" />
       <mapping pattern="jruby" type="Bash" />
+      <mapping pattern=".sonar_lock" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
