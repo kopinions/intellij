@@ -180,13 +180,6 @@
         <mark key="." line="9" column="28" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Records.xml" timestamp="1504689505951" />
-      <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/records/PulseRecord.java" timestamp="1504661623889">
-        <mark key="'" line="72" column="20" />
-        <mark key="[" line="20" column="26" />
-        <mark key="]" line="21" column="29" />
-        <mark key="^" line="21" column="29" />
-        <mark key="." line="21" column="29" />
-      </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/main/resources/mybatis/Records.xml" timestamp="1504661630029">
         <mark key="[" line="17" column="50" />
         <mark key="]" line="17" column="59" />
@@ -230,12 +223,11 @@
         <mark key="^" line="12" column="4" />
         <mark key="." line="12" column="13" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/neuron/build.gradle" timestamp="1504751482447">
+      <file name="/workspace/solutions/cnup/stacks/neuron/build.gradle" timestamp="1504752483586">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="23" column="64" />
-        <mark key="]" line="23" column="64" />
-        <mark key="." line="23" column="64" />
-        <mark key="^" line="25" column="75" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/main/resources/mybatis/mappers/Pulses.xml" timestamp="1504661980339">
         <mark key="[" line="62" column="28" />
@@ -660,13 +652,6 @@
         <mark key="^" line="29" column="79" />
         <mark key="." line="29" column="79" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/records/CursorRecordTest.java" timestamp="1504603804204">
-        <mark key="'" line="34" column="3" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="25" column="10" />
-        <mark key="." line="25" column="10" />
-        <mark key="^" line="25" column="10" />
-      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/modules/features/auth/src/main/java/com/thoughtworks/cnup/features/auth/Authenticator.java" timestamp="1503370268008">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="6" />
@@ -854,8 +839,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGlkICJvcmcuc29uYXJxdWJlIiB2ZXJzaW9uICIyLjUiCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -879,34 +864,34 @@
         <text encoding="base64">ICAgICAgICBwcm9wZXJ0eSAic29uYXIucHJvamVjdEtleSIsIGVudmlyb25tZW50LmdldE9yRGVmYXVsdCgiQVBQX05BTUUiLCAidGVzdF9taXNzaW5nX2FwcG5hbWUiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnRsbihlbnZpcm9ubWVudCkK</text>
+        <text encoding="base64">ICAgIGlkICJvcmcuc29uYXJxdWJlIiB2ZXJzaW9uICIyLjUiCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CnNvbmFycXViZSB7CiAgICBwcm9wZXJ0aWVzIHsKICAgICAgICBwcm9wZXJ0eSAic29uYXIucHJvamVjdE5hbWUiLCBlbnZpcm9ubWVudC5nZXRPckRlZmF1bHQoIkFQUF9OQU1FIiwgIm1pc3NpbmdfYXBwbmFtZSIpCiAgICAgICAgcHJvcGVydHkgInNvbmFyLnByb2plY3RLZXkiLCBlbnZpcm9ubWVudC5nZXRPckRlZmF1bHQoIkNOVVBfQVBQX05BTUUiLCAidGVzdF9taXNzaW5nX2FwcG5hbWUiKSArICJfa2V5IgogICAgICAgIHByb3BlcnR5ICJzb25hci5wcm9qZWN0RGVzY3JpcHRpb24iLCBlbnZpcm9ubWVudC5nZXRPckRlZmF1bHQoIkNOVVBfQVBQX05BTUUiLCAibWlzc2luZyBhcHAgZGVzYyIpICsgIl9kZXNjIgogICAgfQp9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c29uYXJxdWJlIHsKICAgIHByb3BlcnRpZXMgewogICAgICAgIHByb3BlcnR5ICJzb25hci5qdW5pdC5yZXBvcnRzUGF0aCIsCiAgICB9Cn0K</text>
+        <text encoding="base64">cHJpbnRsbihlbnZpcm9ubWVudCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">c3lzdGVtUHJvcC5zb25hci5ob3N0LnVybD1odHRwOi8vbG9jYWxob3N0OjkwMDAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">c29uYXJxdWJlIHsKICAgIHByb3BlcnRpZXMgewogICAgICAgIHByb3BlcnR5ICJzb25hci5qdW5pdC5yZXBvcnRzUGF0aCIsCiAgICB9Cn0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">YAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">c3lzdGVtUHJvcC5zb25hci5ob3N0LnVybD0naHR0cDovL2xvY2FsaG9zdDo5MDAwJwo=</text>
+        <text encoding="base64">c3lzdGVtUHJvcC5zb25hci5ob3N0LnVybD1odHRwOi8vbG9jYWxob3N0OjkwMDAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3lzdGVtUHJvcC5zb25hci5ob3N0LnVybD0naHR0cDovL2xvY2FsaG9zdDo5MDAwJwo=</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
