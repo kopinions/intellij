@@ -125,6 +125,7 @@
         <mark key="." line="5" column="0" />
       </file>
       <file name="/SensoryTest.java" timestamp="1504604301526" />
+      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/builder/helpers/run-build/run-build.go" timestamp="1504748154520" />
       <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/mappers/Cursor.java" timestamp="1504078075241">
         <mark key="[" line="4" column="23" />
         <mark key="]" line="7" column="45" />
@@ -179,13 +180,6 @@
         <mark key="." line="9" column="28" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Records.xml" timestamp="1504689505951" />
-      <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/records/PulseRecord.java" timestamp="1504661623889">
-        <mark key="'" line="72" column="20" />
-        <mark key="[" line="20" column="26" />
-        <mark key="]" line="21" column="29" />
-        <mark key="^" line="21" column="29" />
-        <mark key="." line="21" column="29" />
-      </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/main/resources/mybatis/Records.xml" timestamp="1504661630029">
         <mark key="[" line="17" column="50" />
         <mark key="]" line="17" column="59" />
@@ -229,11 +223,12 @@
         <mark key="^" line="12" column="4" />
         <mark key="." line="12" column="13" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/neuron/build.gradle" timestamp="1504690775972">
+      <file name="/workspace/solutions/cnup/stacks/neuron/build.gradle" timestamp="1504748191960">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+        <mark key="[" line="23" column="18" />
+        <mark key="]" line="23" column="34" />
+        <mark key="." line="23" column="34" />
+        <mark key="^" line="23" column="34" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/main/resources/mybatis/mappers/Pulses.xml" timestamp="1504661980339">
         <mark key="[" line="62" column="28" />
@@ -642,6 +637,7 @@
       <file name="/Pulses.xml" timestamp="1504603200577" />
       <file name="/InjectableRunner.java" timestamp="1504604332345" />
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstance.java" timestamp="1504689425329" />
+      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/builder/rootfs/home/git/builder" timestamp="1504748136594" />
       <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/records/Sensory.java" timestamp="1504602165614">
         <mark key="[" line="48" column="69" />
         <mark key="]" line="49" column="11" />
@@ -656,13 +652,6 @@
         <mark key="]" line="29" column="79" />
         <mark key="^" line="29" column="79" />
         <mark key="." line="29" column="79" />
-      </file>
-      <file name="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/records/CursorRecordTest.java" timestamp="1504603804204">
-        <mark key="'" line="34" column="3" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="25" column="10" />
-        <mark key="." line="25" column="10" />
-        <mark key="^" line="25" column="10" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/modules/features/auth/src/main/java/com/thoughtworks/cnup/features/auth/Authenticator.java" timestamp="1503370268008">
         <mark key="[" line="4" column="0" />
@@ -851,8 +840,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YAo=</text>
+      <register name="&quot;" type="4">
+        <text>sonar.junit.</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -867,7 +856,7 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>sonar.junit.</text>
       </register>
       <register name="/" type="4">
         <text>jackson</text>
@@ -876,22 +865,22 @@
         <text encoding="base64">ICAgICAgICA8d2hlcmU+CiAgICAgICAgICAgIDxpZiB0ZXN0PSJtYXRjaGVyLmNvbnRhaW5zS2V5KCdfaWQnKSBhbmQgbWF0Y2hlci5faWQgIT0gbnVsbCI+CiAgICAgICAgICAgICAgICBDVVJTT1JTLl9JRCA9ICN7bWF0Y2hlci5faWR9CiAgICAgICAgICAgIDwvaWY+CiAgICAgICAgICAgIDxpZiB0ZXN0PSJtYXRjaGVyLmNvbnRhaW5zS2V5KCdpZCcpIGFuZCBtYXRjaGVyLmlkICE9IG51bGwiPgogICAgICAgICAgICAgICAgQ1VSU09SUy5JRCA9ICN7bWF0Y2hlci5pZH0KICAgICAgICAgICAgPC9pZj4KICAgICAgICA8L3doZXJlPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YAo=</text>
+        <text encoding="base64">c29uYXJxdWJlIHsKICAgIHByb3BlcnRpZXMgewogICAgICAgIHByb3BlcnR5ICJzb25hci5qdW5pdC5yZXBvcnRzUGF0aCIsCiAgICB9Cn0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3lzdGVtUHJvcC5zb25hci5ob3N0LnVybD1odHRwOi8vbG9jYWxob3N0OjkwMDAK</text>
+        <text encoding="base64">YAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3lzdGVtUHJvcC5zb25hci5ob3N0LnVybD1odHRwOi8vbG9jYWxob3N0OjkwMDAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c3lzdGVtUHJvcC5zb25hci5ob3N0LnVybD0naHR0cDovL2xvY2FsaG9zdDo5MDAwJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3lzdGVtUHJvcC5zb25hci5ob3N0LnVybD0naHR0cDovL2xvY2FsaG9zdDo5MDAwJwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -900,16 +889,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGlmIHRlc3Q9Im1hdGNoZXIuY29udGFpbnNLZXkoJ19pZCcpIGFuZCBtYXRjaGVyLl9pZCAhPSBudWxsIj4KICAgICAgICAgICAgICAgIENVUlNPUlMuX0lEID0gI3ttYXRjaGVyLl9pZH0KICAgICAgICAgICAgPC9pZj4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -963,8 +952,8 @@
         <entry encoding="base64">JzwsJz5zL1BVTFNFL1JFU1VMVC9nYw==</entry>
         <entry>ew</entry>
         <entry encoding="base64">JzwsJz5zLy0vL2dj</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
