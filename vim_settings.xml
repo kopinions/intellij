@@ -61,6 +61,11 @@
         <mark key="." line="10" column="9" />
         <mark key="^" line="10" column="9" />
       </file>
+      <file name="/workspace/solutions/p2p/ums/modules/core-tck/src/main/java/com/thoughtworks/ums/support/TransactionManager.java" timestamp="1504851445328">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/modules/atp/src/test/java/com/thoughtworks/cnup/atp/CoreTck.java" timestamp="1502939876136">
         <mark key="[" line="3" column="31" />
         <mark key="]" line="4" column="0" />
@@ -286,7 +291,13 @@
         <mark key="." line="73" column="0" />
         <mark key="^" line="57" column="19" />
       </file>
-      <file name="/workspace/solutions/p2p/midas/modules/api-tck/src/main/java/com/thoughtworks/midas/support/ConcurrentSupport.java" timestamp="1504850980489" />
+      <file name="/workspace/solutions/p2p/midas/modules/api-tck/src/main/java/com/thoughtworks/midas/support/ConcurrentSupport.java" timestamp="1504851052401" />
+      <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/support/util/Util.java" timestamp="1504852770039">
+        <mark key="[" line="40" column="31" />
+        <mark key="]" line="40" column="31" />
+        <mark key="." line="40" column="31" />
+        <mark key="^" line="40" column="31" />
+      </file>
       <file name="/Pulse.java" timestamp="1504602830467" />
       <file name="/workspace/solutions/cnup/stacks/neuron/src/main/resources/mybatis/mappers/Results.xml" timestamp="1504775338984">
         <mark key="'" line="55" column="30" />
@@ -431,11 +442,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/records/CursorsTest.java" timestamp="1504778949399">
-        <mark key="[" line="52" column="38" />
-        <mark key="]" line="52" column="45" />
-        <mark key="." line="52" column="45" />
-        <mark key="^" line="52" column="45" />
+      <file name="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/records/CursorsTest.java" timestamp="1504853178540">
+        <mark key="[" line="22" column="46" />
+        <mark key="]" line="22" column="46" />
+        <mark key="." line="22" column="46" />
+        <mark key="^" line="22" column="46" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/jobs/SendNotificationJob.java" timestamp="1504764165605">
         <mark key="[" line="11" column="13" />
@@ -457,6 +468,10 @@
         <mark key="." line="8" column="26" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/ProcedureInstances.xml" timestamp="1504777924416" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.quartz-scheduler/quartz/2.3.0/5f4aa836b09f44d586550fa7a7629273c16c0f17/quartz-2.3.0-sources.jar!/org/quartz/simpl/SimpleJobFactory.java" timestamp="1504770781416">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="43" column="3" />
+      </file>
       <file name="/PulsesTest.java" timestamp="1504603594437" />
       <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/core/Cursor.java" timestamp="1504494717604">
         <mark key="[" line="2" column="27" />
@@ -523,6 +538,10 @@
         <mark key="^" line="22" column="7" />
       </file>
       <file name="/SensoryFactory.java" timestamp="1504603822509" />
+      <file name="/workspace/solutions/p2p/ums/modules/notification-sync-scheduler/build.gradle" timestamp="1504763933470">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="21" column="43" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/Route.java" timestamp="1502963873975">
         <mark key="[" line="19" column="32" />
         <mark key="]" line="19" column="34" />
@@ -564,6 +583,12 @@
         <mark key="." line="93" column="74" />
         <mark key="^" line="93" column="74" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/support/mybatis/DefaultTransactionManager.java" timestamp="1504853079709">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="30" column="42" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V39__add_files.sql" timestamp="1503561273911">
         <mark key="[" line="5" column="36" />
         <mark key="]" line="5" column="36" />
@@ -599,7 +624,19 @@
         <mark key="^" line="6" column="58" />
         <mark key="." line="6" column="58" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/jobs/TransactionManager.java" timestamp="1504851688204">
+        <mark key="'" line="7" column="27" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/MainServer.java" timestamp="1504772928106" />
+      <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/support/mybatis/TransactionManager.java" timestamp="1504853036484">
+        <mark key="[" line="7" column="8" />
+        <mark key="]" line="7" column="8" />
+        <mark key="." line="7" column="8" />
+        <mark key="^" line="7" column="8" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/support/Bind.java" timestamp="1504590581522">
         <mark key="[" line="8" column="8" />
         <mark key="]" line="8" column="24" />
@@ -636,6 +673,10 @@
         <mark key="^" line="18" column="42" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="/workspace/solutions/p2p/midas/modules/implementation-core/src/test/java/com/thoughtworks/midas/core/mybatis/ConcurrentDatabaseTestRunner.java" timestamp="1504852987965">
+        <mark key="[" line="167" column="0" />
+        <mark key="]" line="177" column="24" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/FileTckSuite.java" timestamp="1503019562513">
         <mark key="[" line="7" column="38" />
         <mark key="]" line="7" column="37" />
@@ -670,11 +711,10 @@
       </file>
       <file name="/Generic.java" timestamp="1504603171707" />
       <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/records/CursorRecord.java" timestamp="1504850357122" />
-      <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/jobs/ControllerFetcher.java" timestamp="1504850684369">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="35" column="35" />
-        <mark key="." line="36" column="0" />
+      <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/jobs/ControllerFetcher.java" timestamp="1504852906044">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="/SensoryFactoryTest.java" timestamp="1504688445133" />
       <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/core/Fixed.java" timestamp="1504256586892">
@@ -712,12 +752,12 @@
         <mark key="^" line="29" column="79" />
         <mark key="." line="29" column="79" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/records/CursorRecordTest.java" timestamp="1504603804204">
-        <mark key="'" line="34" column="3" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="25" column="10" />
-        <mark key="." line="25" column="10" />
-        <mark key="^" line="25" column="10" />
+      <file name="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/records/CursorRecordTest.java" timestamp="1504853270670">
+        <mark key="'" line="71" column="0" />
+        <mark key="[" line="27" column="4" />
+        <mark key="]" line="27" column="11" />
+        <mark key="." line="27" column="11" />
+        <mark key="^" line="27" column="11" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/modules/features/auth/src/main/java/com/thoughtworks/cnup/features/auth/Authenticator.java" timestamp="1503370268008">
         <mark key="[" line="4" column="0" />
@@ -726,11 +766,11 @@
         <mark key="." line="4" column="6" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/core/Pulse.java" timestamp="1504778106004" />
-      <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/Modules.java" timestamp="1504849498176">
-        <mark key="[" line="24" column="105" />
-        <mark key="]" line="24" column="105" />
-        <mark key="." line="24" column="105" />
-        <mark key="^" line="24" column="105" />
+      <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/Modules.java" timestamp="1504853311932">
+        <mark key="[" line="30" column="49" />
+        <mark key="]" line="30" column="73" />
+        <mark key="." line="30" column="73" />
+        <mark key="^" line="30" column="73" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/atp/Modules.java" timestamp="1502869014551">
         <mark key="[" line="11" column="0" />
@@ -794,7 +834,7 @@
         <mark key="." line="9" column="10" />
         <mark key="^" line="9" column="10" />
       </file>
-      <file name="/fragment.java" timestamp="1504850506194">
+      <file name="/fragment.java" timestamp="1504852938856">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
@@ -802,8 +842,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="/workspace/solutions/cnup/stacks/controller/src/main/resources/log4j.properties" />
-      <jump line="69" column="8" filename="/workspace/solutions/cnup/stacks/controller/src/test/java/com/thoughtworks/controller/resources/BuildsResourceTest.java" />
       <jump line="32" column="0" filename="/workspace/solutions/cnup/stacks/controller/src/test/java/com/thoughtworks/controller/resources/BuildsResourceTest.java" />
       <jump line="210" column="0" filename="/workspace/solutions/cnup/stacks/controller/src/test/java/com/thoughtworks/controller/resources/BuildsResourceTest.java" />
       <jump line="281" column="8" filename="/workspace/solutions/cnup/stacks/controller/src/main/resources/mybatis/mappers/ApplicationMapper.xml" />
@@ -902,6 +940,8 @@
       <jump line="36" column="4" filename="/workspace/solutions/cnup/stacks/neuron/build.gradle" />
       <jump line="37" column="0" filename="/workspace/solutions/cnup/stacks/neuron/src/main/resources/mybatis/V5__change_implicit_json_field_to_explicit_json.sql" />
       <jump line="26" column="0" filename="/workspace/solutions/cnup/stacks/neuron/src/main/resources/mybatis/V5__change_implicit_json_field_to_explicit_json.sql" />
+      <jump line="5" column="27" filename="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/jobs/TransactionManager.java" />
+      <jump line="71" column="0" filename="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/records/CursorRecordTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -909,8 +949,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihuZXh0KTsK</text>
+      <register name="&quot;" type="4">
+        <text>Pulses</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -925,43 +965,43 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>Pulses</text>
       </register>
       <register name="/" type="4">
         <text>DATA</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgUFVMU0VTCiAgQUREIERBVEFfVE1QIEpTT04gTk9UIE5VTEw7CgpVUERBVEUgUFVMU0VTClNFVCBEQVRBX1RNUCA9IERBVEE7CgpBTFRFUiBUQUJMRSBQVUxTRVMKICBEUk9QIENPTFVNTiBEQVRBOwoKQUxURVIgVEFCTEUgUFVMU0VTCiAgQ0hBTkdFIERBVEFfVE1QIERBVEEgSlNPTiBOT1QgTlVMTDsK</text>
+        <text encoding="base64">ICAgICAgICBiaW5kZXIuYmluZChjb20udGhvdWdodHdvcmtzLmNudXAubmV1cm9uLmNvcmUuUHVsc2VzLmNsYXNzKS50byhQdWxzZXMuY2xhc3MpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihuZXh0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3VsdDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSAoKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoIiIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBQcmVjb25kaXRpb25zLmNoZWNrQXJndW1lbnQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gbmV4dCA9IGMubmV4dCgpOwogICAgICAgICAgICAgICAgcHVsc2VzLmNyZWF0ZShuZXh0KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBQYWdlYWJsZTxDdXJzb3I8TWFwPFN0cmluZywgT2JqZWN0Pj4+IGN1cnNvciA9IChQYWdlYWJsZTxDdXJzb3I8TWFwPFN0cmluZywgT2JqZWN0Pj4+KSBtYXBQYWdlYWJsZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBDT05GSUcgICAgIEpTT04gICBOT1QgTlVMTCwK</text>
+        <text encoding="base64">ICAgICAgICBwYWdlLmZvckVhY2goYyAtPiB7CiAgICAgICAgICAgIHdoaWxlIChjLmhhc05leHQoKSkgewogICAgICAgICAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiBuZXh0ID0gYy5uZXh0KCk7CiAgICAgICAgICAgICAgICBwdWxzZXMuY3JlYXRlKG5leHQpOwogICAgICAgICAgICB9CiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBBREQgQ09ORklHX1RNUCBKU09OIE5PVCBOVUxMOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
