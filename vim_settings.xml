@@ -142,13 +142,6 @@
         <mark key="." line="9" column="28" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Records.xml" timestamp="1504689505951" />
-      <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/records/PulseRecord.java" timestamp="1505099002227">
-        <mark key="'" line="76" column="20" />
-        <mark key="[" line="39" column="5" />
-        <mark key="]" line="37" column="28" />
-        <mark key="^" line="37" column="28" />
-        <mark key="." line="37" column="28" />
-      </file>
       <file name="/Records.xml" timestamp="1504775539000" />
       <file name="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/records/PageableTest.java" timestamp="1504869567371">
         <mark key="'" line="20" column="15" />
@@ -180,13 +173,6 @@
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
         <mark key="^" line="57" column="19" />
-      </file>
-      <file name="/workspace/solutions/cnup/stacks/neuron/src/main/resources/mybatis/mappers/Results.xml" timestamp="1504775338984">
-        <mark key="'" line="55" column="30" />
-        <mark key="[" line="63" column="16" />
-        <mark key="]" line="64" column="31" />
-        <mark key="." line="64" column="31" />
-        <mark key="^" line="64" column="31" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/controller/src/test/java/com/thoughtworks/controller/records/BuildEventTest.java" timestamp="1505187107837">
         <mark key="[" line="59" column="41" />
@@ -249,6 +235,7 @@
         <mark key="." line="28" column="40" />
         <mark key="^" line="28" column="40" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/controller/src/main/resources/db/migration/V3__create_events_table.sql" timestamp="1505188552554" />
       <file name="/workspace/solutions/cnup/stacks/neuron/src/main/resources/db/migration/V1__add_cursor_table.sql" timestamp="1504842798323">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -503,13 +490,6 @@
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
-      </file>
-      <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/records/Pageable.java" timestamp="1504869344575">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-        <mark key="^" line="53" column="39" />
       </file>
       <file name="/Bind.java" timestamp="1504603711150" />
       <file name="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/support/FakeSensoryFactory.java" timestamp="1504869169545">
@@ -857,25 +837,11 @@
       </file>
       <file name="/InjectableRunner.java" timestamp="1504604332345" />
       <file name="/workspace/golang/src/github.com/sjkyspa/stacks/builder/rootfs/home/git/builder" timestamp="1504748136594" />
-      <file name="/workspace/solutions/cnup/stacks/neuron/src/main/resources/mybatis/V5__change_implicit_json_field_to_explicit_json.sql" timestamp="1504843403446">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="37" column="37" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="26" column="50" />
-      </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/Main.java" timestamp="1505184093057">
         <mark key="'" line="79" column="4" />
         <mark key="[" line="39" column="60" />
         <mark key="]" line="39" column="60" />
         <mark key="." line="39" column="60" />
-      </file>
-      <file name="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/records/CursorRecordTest.java" timestamp="1504868804815">
-        <mark key="'" line="71" column="0" />
-        <mark key="[" line="100" column="36" />
-        <mark key="]" line="100" column="46" />
-        <mark key="." line="100" column="46" />
-        <mark key="^" line="100" column="46" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/modules/features/auth/src/main/java/com/thoughtworks/cnup/features/auth/Authenticator.java" timestamp="1503370268008">
         <mark key="[" line="4" column="0" />
