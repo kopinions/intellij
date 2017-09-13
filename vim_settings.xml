@@ -519,6 +519,13 @@
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" timestamp="1505291122608">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/templates/controller.tmpl" timestamp="1505295522908">
+        <mark key="'" line="104" column="37" />
+        <mark key="[" line="155" column="21" />
+        <mark key="]" line="155" column="31" />
+        <mark key="." line="155" column="31" />
+        <mark key="^" line="155" column="31" />
+      </file>
       <file name="/fragment.java" timestamp="1505272414387">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
@@ -968,7 +975,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="47" filename="/workspace/solutions/cnup/stacks/launcher/build.gradle" />
       <jump line="134" column="0" filename="/workspace/solutions/cnup/stacks/launcher/build.gradle" />
       <jump line="39" column="12" filename="/workspace/solutions/cnup/stacks/neuron/src/test/java/support/InjectableRunner.java" />
       <jump line="88" column="43" filename="/workspace/solutions/cnup/stacks/launcher/build.gradle" />
@@ -1068,6 +1074,7 @@
       <jump line="40" column="44" filename="/workspace/solutions/cnup/stacks/controller/src/test/java/com/thoughtworks/controller/records/RemoteUnifiedProceduresTest.java" />
       <jump line="0" column="0" filename="/workspace/solutions/cnup/stacks/controller/build.gradle" />
       <jump line="0" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
+      <jump line="104" column="37" filename="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/templates/controller.tmpl" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1190,8 +1197,8 @@
         <entry>&quot;w</entry>
         <entry>wq</entry>
         <entry>qw</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
