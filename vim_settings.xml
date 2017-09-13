@@ -270,12 +270,12 @@
         <mark key="." line="28" column="40" />
         <mark key="^" line="28" column="40" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/controller/src/test/java/com/thoughtworks/controller/records/RemoteUnifiedProceduresTest.java" timestamp="1505272828001">
-        <mark key="'" line="40" column="44" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="38" column="7" />
+      <file name="/workspace/solutions/cnup/stacks/controller/src/test/java/com/thoughtworks/controller/records/RemoteUnifiedProceduresTest.java" timestamp="1505284321092">
+        <mark key="'" line="39" column="44" />
+        <mark key="[" line="36" column="19" />
+        <mark key="]" line="36" column="24" />
+        <mark key="." line="36" column="24" />
+        <mark key="^" line="36" column="24" />
       </file>
       <file name="/Conductor.java" timestamp="1505208582549" />
       <file name="/workspace/solutions/cnup/stacks/controller/src/main/resources/db/migration/V3__create_events_table.sql" timestamp="1505196719788" />
@@ -1133,8 +1133,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>mock</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1152,7 +1152,7 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text>mock1</text>
+        <text>mock</text>
       </register>
       <register name="/" type="4">
         <text>event</text>
