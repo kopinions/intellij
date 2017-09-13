@@ -469,19 +469,19 @@
         <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="21" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/controller/src/main/java/com/thoughtworks/controller/records/ApplicationRecord.java" timestamp="1505204273585">
+      <file name="/workspace/solutions/cnup/stacks/controller/src/main/java/com/thoughtworks/controller/records/ApplicationRecord.java" timestamp="1505285096317">
         <mark key="'" line="343" column="54" />
-        <mark key="[" line="35" column="29" />
-        <mark key="]" line="36" column="39" />
-        <mark key="^" line="36" column="39" />
-        <mark key="." line="36" column="39" />
+        <mark key="[" line="405" column="0" />
+        <mark key="]" line="405" column="0" />
+        <mark key="." line="405" column="0" />
+        <mark key="^" line="401" column="15" />
       </file>
       <file name="/Generic.java" timestamp="1504603171707" />
-      <file name="/workspace/solutions/cnup/stacks/controller/src/main/java/com/thoughtworks/controller/util/DefaultRestClient.java" timestamp="1505271686643">
-        <mark key="[" line="14" column="11" />
-        <mark key="]" line="14" column="18" />
-        <mark key="." line="14" column="18" />
-        <mark key="^" line="14" column="18" />
+      <file name="/workspace/solutions/cnup/stacks/controller/src/main/java/com/thoughtworks/controller/util/DefaultRestClient.java" timestamp="1505284570544">
+        <mark key="[" line="17" column="84" />
+        <mark key="]" line="17" column="83" />
+        <mark key="." line="17" column="83" />
+        <mark key="^" line="17" column="83" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/jobs/ControllerFetcher.java" timestamp="1504856405284">
         <mark key="'" line="43" column="8" />
@@ -805,11 +805,11 @@
         <mark key="[" line="38" column="0" />
         <mark key="]" line="43" column="3" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/controller/src/test/java/com/thoughtworks/controller/resources/ApplicationsResourceTest.java" timestamp="1505205376167">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-        <mark key="^" line="84" column="46" />
+      <file name="/workspace/solutions/cnup/stacks/controller/src/test/java/com/thoughtworks/controller/resources/ApplicationsResourceTest.java" timestamp="1505285159266">
+        <mark key="[" line="219" column="69" />
+        <mark key="]" line="219" column="95" />
+        <mark key="." line="219" column="95" />
+        <mark key="^" line="219" column="95" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/mappers/Providers.java" timestamp="1502178867809">
         <mark key="[" line="18" column="11" />
@@ -1133,8 +1133,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>mock</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1152,43 +1152,43 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text>mock</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>event</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kZXIuYmluZChuZXcgVHlwZUxpdGVyYWw8TWFwPFN0cmluZywgU3RyaW5nPj4oKXt9KS5hbm5vdGF0ZWRXaXRoKE5hbWVzLm5hbWVkKCJjb250cm9sbGVyIikpLnRvSW5zdGFuY2UoY29udHJvbGxlckNvbmZpZyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wdXQoInJlbCIsICJ1bmlmaWVkX3Byb2VjZXNzIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIHByaXZhdGUgUmVzcG9uc2UgZ2V0UmVzcG9uc2UoaW50IHZhbHVlKSB7CiAgICAgICAgUmVzcG9uc2UgbW9jazEgPSBNb2NraXRvLm1vY2soUmVzcG9uc2UuY2xhc3MpOwogICAgICAgIHdoZW4obW9jazEuZ2V0U3RhdHVzKCkpLnRoZW5SZXR1cm4odmFsdWUpOwogICAgICAgIHdoZW4obW9jazEucmVhZEVudGl0eShNYXAuY2xhc3MpKS50aGVuUmV0dXJuKG5ldyBIYXNoTWFwPD4oKSk7CiAgICAgICAgcmV0dXJuIG1vY2sxOwogICAgfQp9</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbGlua3M7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG92ZXJyaWRlKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZXcgTW9kdWxlcyhnZXRlbnYoKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICkud2l0aCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb3ZlcnJpZGUoY29uZmlndXJlKCkpLndpdGgoZm9ydGVzdCgpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBTdHJpbmc+IGxhdW5jaGVyID0gY29uZk1hcChlbnZzLmdldCgiTEFVTkNIRVIiKSk7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">LAogICAgICAgICAgICAgICAgbmV3IEhhc2hNYXA8U3RyaW5nLCBPYmplY3Q+KCkge3sKICAgICAgICAgICAgICAgICAgICBwdXQoInJlbCIsICJzdGFjayIpOwogICAgICAgICAgICAgICAgICAgIHB1dCgidXJpIiwgcm91dGVzLnN0YWNrKGdldFN0YWNrKCkpKTsKICAgICAgICAgICAgICAgIH19</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbGlua3MgOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc3RhY2sgPT0gbnVsbCkgewogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
