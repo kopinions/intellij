@@ -855,11 +855,11 @@
         <mark key="^" line="34" column="61" />
         <mark key="." line="34" column="61" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/controller/src/main/java/com/thoughtworks/controller/resources/ApplicationsResource.java" timestamp="1505357650448">
-        <mark key="[" line="49" column="43" />
-        <mark key="]" line="49" column="58" />
-        <mark key="." line="49" column="58" />
-        <mark key="^" line="49" column="58" />
+      <file name="/workspace/solutions/cnup/stacks/controller/src/main/java/com/thoughtworks/controller/resources/ApplicationsResource.java" timestamp="1505358374794">
+        <mark key="[" line="58" column="53" />
+        <mark key="]" line="58" column="79" />
+        <mark key="^" line="58" column="79" />
+        <mark key="." line="58" column="79" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/controller/src/main/java/com/thoughtworks/controller/resources/BuildResource.java" timestamp="1503559683158">
         <mark key="[" line="61" column="58" />
@@ -1126,8 +1126,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>stack not find</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1145,13 +1145,13 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text>uri</text>
+        <text>stack not find</text>
       </register>
       <register name="/" type="4">
         <text>event</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8d2hlcmU+CiAgICAgICAgICAgIDxpZiB0ZXN0PSJmaWx0ZXIuY29udGFpbnNLZXkoJ25hbWUnKSI+CiAgICAgICAgICAgICAgPGJpbmQgbmFtZT0idXBzbmFtZSIgdmFsdWU9ImZpbHRlci5uYW1lLmdldCgwKSIvPgogICAgICAgICAgICAgIFVQUy5OQU1FID0gI3t1cHNuYW1lfQogICAgICAgICAgICA8L2lmPgogICAgICAgIDwvd2hlcmU+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgSW52YWxpZFBhcmFtZXRlckV4Y2VwdGlvbigic3RhY2sgbm90IGZpbmQiKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1163,25 +1163,27 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVVJJIGZvcm1hbGl6ZShTdHJpbmcgdXJpKSB7CiAgICAgICAgcmV0dXJuIFVSSS5jcmVhdGUodXJpKS5pc0Fic29sdXRlKCkgPwogICAgICAgICAgICAgICAgICAgIFVSSS5jcmVhdGUodXJpKSA6CiAgICAgICAgICAgICAgICAgICAgVXJpQnVpbGRlci5mcm9tVXJpKGVudHJ5cG9pbnQpLnBhdGgodXJpKS5idWlsZCgpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzcG9uc2UuY3JlYXRlZChyb3V0ZXMuYXBwbGljYXRpb24oYXBwKSkuYnVpbGQoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENsaWVudEJ1aWxkZXIubmV3Q2xpZW50KCkudGFyZ2V0KGJ1aWxkKS5yZXF1ZXN0KCkuaGVhZGVyKCIiKQo=</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBBcHBsaWNhdGlvbiBhcHAgPSBhcHBsaWNhdGlvblJlcG9zaXRvcnkuY3JlYXRlKAogICAgICAgICAgICAgICAgaW5mbywKICAgICAgICAgICAgICAgIGxvZ2luVXNlciwKICAgICAgICAgICAgICAgIHN0YWNrT3B0aW9uYWwuZ2V0KCkKICAgICAgICApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVXJpQnVpbGRlci5mcm9tVXJpKGVudHJ5cG9pbnQpLnBhdGgodXJpKS5idWlsZCgpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBVUkkgYnVpbGQgPSBVcmlCdWlsZGVyLmZyb21VcmkoZW50cnlwb2ludCkucGF0aCh1cmkpLmJ1aWxkKCk7Cg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="7" type="4">
+        <text>else {
+            throw new InvalidParameterException(&quot;stack not find&quot;);
+        }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENsaWVudEJ1aWxkZXIubmV3Q2xpZW50KCkudGFyZ2V0KHVyaSkucmVxdWVzdCgpLmhlYWRlcigiQXV0aG9yaXphdGlvbiIsIHRva2VuKS5oZWFkZXJzKGhlYWRlcnMpLnBvc3QoRW50aXR5Lmpzb24oYm9keSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIXN0YWNrT3B0aW9uYWwuaXNQcmVzZW50KCkpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVVJJIGJ1aWxkID0gVXJpQnVpbGRlci5mcm9tVXJpKGVudHJ5cG9pbnQpLnBhdGgodXJpKS5idWlsZCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
@@ -1237,12 +1239,12 @@
         <entry encoding="base64">JzwsJz5zL0RBVEEvTUVTU0FHRS9nYw==</entry>
         <entry>:reg</entry>
         <entry>reg</entry>
-        <entry>&quot;w</entry>
         <entry>wq</entry>
         <entry>qw</entry>
         <entry>W</entry>
         <entry>Lw</entry>
         <entry>w</entry>
+        <entry>&quot;w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
