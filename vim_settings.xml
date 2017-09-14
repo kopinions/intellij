@@ -539,8 +539,8 @@
         <mark key="." line="0" column="40" />
         <mark key="^" line="0" column="40" />
       </file>
-      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/build/resources/test/ups/jersey-mysql.ftl" timestamp="1505354869284">
-        <mark key="'" line="0" column="0" />
+      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/build/resources/test/ups/jersey-mysql.ftl" timestamp="1505373384214">
+        <mark key="'" line="208" column="10" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" timestamp="1505291122608">
         <mark key="'" line="0" column="0" />
@@ -1033,7 +1033,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="7" filename="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/records/CursorRecord.java" />
       <jump line="16" column="16" filename="/workspace/solutions/cnup/stacks/neuron/src/main/resources/mybatis/mappers/Pulses.xml" />
       <jump line="22" column="21" filename="/workspace/solutions/cnup/stacks/neuron/src/main/resources/mybatis/Columns.xml" />
       <jump line="16" column="33" filename="/workspace/solutions/cnup/stacks/neuron/src/main/resources/mybatis/Records.xml" />
@@ -1133,6 +1132,7 @@
       <jump line="363" column="32" filename="/workspace/golang/src/github.com/sjkyspa/stacks/.env/cdectl.json" />
       <jump line="429" column="15" filename="/workspace/golang/src/github.com/sjkyspa/stacks/.env/cdectl.json" />
       <jump line="450" column="20" filename="/workspace/golang/src/github.com/sjkyspa/stacks/.env/cdectl.json" />
+      <jump line="208" column="10" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/build/resources/test/ups/jersey-mysql.ftl" />
     </jumps>
     <registers>
       <register name="a" type="4">
