@@ -148,6 +148,9 @@
         <mark key="." line="0" column="41" />
         <mark key="^" line="0" column="40" />
       </file>
+      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/conf/cdectl.json" timestamp="1505370280704">
+        <mark key="'" line="365" column="20" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/records/PulseRecord.java" timestamp="1505208665782">
         <mark key="'" line="76" column="20" />
         <mark key="[" line="39" column="5" />
@@ -182,6 +185,10 @@
       </file>
       <file name="/workspace/solutions/cnup/stacks/controller/src/test/java/com/thoughtworks/controller/records/BuildRecordTest.java" timestamp="1505199260314">
         <mark key="'" line="51" column="53" />
+      </file>
+      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/templates/launcher.tmpl" timestamp="1505370248413">
+        <mark key="[" line="152" column="36" />
+        <mark key="]" line="152" column="138" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/main/resources/mybatis/mappers/Cursors.xml" timestamp="1504841642974">
         <mark key="[" line="73" column="0" />
@@ -486,7 +493,7 @@
         <mark key="^" line="27" column="75" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505357641419">
+      <file name="/Dummy.txt" timestamp="1505370203763">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/modules/features/auth/src/main/java/com/thoughtworks/cnup/features/auth/AuthenticationFilter.java" timestamp="1503369592820">
@@ -538,12 +545,12 @@
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" timestamp="1505291122608">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/templates/controller.tmpl" timestamp="1505295522908">
+      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/templates/controller.tmpl" timestamp="1505370265574">
         <mark key="'" line="104" column="37" />
-        <mark key="[" line="157" column="21" />
-        <mark key="]" line="157" column="31" />
-        <mark key="." line="157" column="31" />
-        <mark key="^" line="157" column="31" />
+        <mark key="[" line="157" column="101" />
+        <mark key="]" line="157" column="108" />
+        <mark key="." line="157" column="108" />
+        <mark key="^" line="157" column="108" />
       </file>
       <file name="/fragment.java" timestamp="1505272414387">
         <mark key="[" line="0" column="0" />
@@ -736,6 +743,13 @@
         <mark key="]" line="58" column="4" />
         <mark key="." line="31" column="12" />
         <mark key="^" line="29" column="17" />
+      </file>
+      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/.env/cdectl.json" timestamp="1505370430053">
+        <mark key="'" line="450" column="20" />
+        <mark key="[" line="507" column="32" />
+        <mark key="]" line="507" column="41" />
+        <mark key="." line="507" column="41" />
+        <mark key="^" line="507" column="41" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/controller/src/main/java/com/thoughtworks/controller/util/RestClient.java" timestamp="1505271533303">
         <mark key="[" line="9" column="4" />
@@ -1019,16 +1033,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="43" filename="/workspace/solutions/cnup/stacks/launcher/build.gradle" />
-      <jump line="39" column="3" filename="/workspace/solutions/cnup/stacks/neuron/build.gradle" />
-      <jump line="47" column="0" filename="/workspace/solutions/cnup/stacks/launcher/build.gradle" />
-      <jump line="77" column="0" filename="/workspace/solutions/cnup/stacks/launcher/build.gradle" />
-      <jump line="64" column="18" filename="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/support/util/Json.java" />
-      <jump line="6" column="8" filename="/workspace/solutions/cnup/stacks/neuron/src/main/resources/mybatis/mappers/Cursors.xml" />
-      <jump line="2" column="20" filename="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/core/Interface.java" />
-      <jump line="58" column="44" filename="/workspace/solutions/cnup/stacks/neuron/src/test/java/support/InjectableRunner.java" />
-      <jump line="16" column="59" filename="/workspace/solutions/cnup/stacks/neuron/src/main/resources/mybatis/mappers/Cursors.xml" />
-      <jump line="56" column="99" filename="/workspace/solutions/cnup/stacks/neuron/src/test/java/support/InjectableRunner.java" />
       <jump line="54" column="7" filename="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/records/CursorRecord.java" />
       <jump line="16" column="16" filename="/workspace/solutions/cnup/stacks/neuron/src/main/resources/mybatis/mappers/Pulses.xml" />
       <jump line="22" column="21" filename="/workspace/solutions/cnup/stacks/neuron/src/main/resources/mybatis/Columns.xml" />
@@ -1119,6 +1123,16 @@
       <jump line="104" column="37" filename="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/templates/controller.tmpl" />
       <jump line="0" column="0" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/build/resources/test/ups/jersey-mysql.ftl" />
       <jump line="1" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql-redis.ftl" />
+      <jump line="23" column="21" filename="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/conf/cdectl.json" />
+      <jump line="1014" column="0" filename="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/conf/cdectl.json" />
+      <jump line="285" column="15" filename="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/conf/cdectl.json" />
+      <jump line="365" column="20" filename="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/conf/cdectl.json" />
+      <jump line="14" column="8" filename="/workspace/golang/src/github.com/sjkyspa/stacks/.env/cdectl.json" />
+      <jump line="355" column="26" filename="/workspace/golang/src/github.com/sjkyspa/stacks/.env/cdectl.json" />
+      <jump line="359" column="32" filename="/workspace/golang/src/github.com/sjkyspa/stacks/.env/cdectl.json" />
+      <jump line="363" column="32" filename="/workspace/golang/src/github.com/sjkyspa/stacks/.env/cdectl.json" />
+      <jump line="429" column="15" filename="/workspace/golang/src/github.com/sjkyspa/stacks/.env/cdectl.json" />
+      <jump line="450" column="20" filename="/workspace/golang/src/github.com/sjkyspa/stacks/.env/cdectl.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1127,7 +1141,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>launcher</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1145,13 +1159,13 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>launcher</text>
       </register>
       <register name="/" type="4">
-        <text>event</text>
+        <text>launcher</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgSW52YWxpZFBhcmFtZXRlckV4Y2VwdGlvbigic3RhY2sgbm90IGZpbmQiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgImZvciI6ICJidWlsZGVyIiwKICAgICAgICAgICAgICAgICAgImF0dHJpYnV0ZXMiOiBbCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgIm5hbWUiOiAidXNlcm5hbWUiLAogICAgICAgICAgICAgICAgICAgICAgInZhbHVlIjogImJ1aWxkZXJAYWRtaW4uY29tIgogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgIm5hbWUiOiAicGFzc3dvcmQiLAogICAgICAgICAgICAgICAgICAgICAgInZhbHVlIjogImJ1aWxkZXIiCiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAibmFtZSI6ICJyb2xlIiwKICAgICAgICAgICAgICAgICAgICAgICJ2YWx1ZSI6ICJTRVJWRVIiCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICAgICB9LAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1193,9 +1207,9 @@
       </register>
     </registers>
     <search>
-      <last-search>event</last-search>
+      <last-search>launcher</last-search>
       <last-offset />
-      <last-pattern>event</last-pattern>
+      <last-pattern>launcher</last-pattern>
       <last-replace>MESSAGE</last-replace>
       <last-substitute>DATA</last-substitute>
       <last-dir>1</last-dir>
@@ -1203,9 +1217,6 @@
     </search>
     <history>
       <history-search>
-        <entry>API</entry>
-        <entry>Api</entry>
-        <entry>authen</entry>
         <entry>appRelate</entry>
         <entry>createBuild</entry>
         <entry>build</entry>
@@ -1223,6 +1234,9 @@
         <entry>DATA</entry>
         <entry>events</entry>
         <entry>event</entry>
+        <entry>controller</entry>
+        <entry>launchewr</entry>
+        <entry>launcher</entry>
       </history-search>
       <history-cmd>
         <entry>'w</entry>

@@ -5,13 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tmpl" />
     <recentFileMasks>
-      <mask>*xml</mask>
-      <mask>D</mask>
-      <mask>Doc</mask>
-      <mask>Docker</mask>
-      <mask>Dockerfi</mask>
-      <mask>Dockerfile</mask>
       <mask>X</mask>
       <mask>XM</mask>
       <mask>XML</mask>
@@ -36,6 +31,12 @@
       <mask>*.</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
+      <mask>tm</mask>
+      <mask>tmp</mask>
+      <mask>tmpl</mask>
+      <mask>*。tmpl</mask>
+      <mask>*tmpl</mask>
+      <mask>*.tmpl</mask>
     </recentFileMasks>
   </component>
 </application>
