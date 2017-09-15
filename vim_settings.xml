@@ -37,11 +37,10 @@
       <file name="/a.dummy" timestamp="1505375759299">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildCreatedConductor.java" timestamp="1505439140010">
-        <mark key="[" line="38" column="19" />
-        <mark key="]" line="39" column="24" />
-        <mark key="." line="39" column="24" />
-        <mark key="^" line="39" column="24" />
+      <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildCreatedConductor.java" timestamp="1505440295421">
+        <mark key="[" line="42" column="9" />
+        <mark key="]" line="42" column="8" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/records/fixtures/SinglePageEvents.java" timestamp="1504073532289">
         <mark key="[" line="0" column="37" />
@@ -50,9 +49,6 @@
         <mark key="^" line="0" column="35" />
       </file>
       <file name="/IEventHandler.java" timestamp="1504775571957" />
-      <file name="/workspace/solutions/cnup/stacks/controller/src/main/resources/mybatis/mappers/StackMapper.xml" timestamp="1505205111861">
-        <mark key="'" line="43" column="38" />
-      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/wrappers/build/rootfs/run" timestamp="1505379089519">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
@@ -86,13 +82,6 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
         <mark key="^" line="10" column="3" />
-      </file>
-      <file name="/workspace/solutions/cnup/stacks/controller/src/main/resources/mybatis/mappers/Columns.xml" timestamp="1505205241811">
-        <mark key="'" line="124" column="0" />
-        <mark key="[" line="25" column="54" />
-        <mark key="]" line="25" column="54" />
-        <mark key="." line="25" column="54" />
-        <mark key="^" line="25" column="54" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/mappers/Cursors.java" timestamp="1504511622726">
         <mark key="[" line="6" column="61" />
@@ -173,16 +162,6 @@
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Records.xml" timestamp="1504689505951" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.core/jersey-client/2.17/d38d6aecc3376db837243a2f9bd14cf5448d801d/jersey-client-2.17-sources.jar!/org/glassfish/jersey/client/JerseyInvocation.java" timestamp="1505211474967" />
-      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/conf/cdectl.json" timestamp="1505370280704">
-        <mark key="'" line="365" column="20" />
-      </file>
-      <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/records/PulseRecord.java" timestamp="1505208665782">
-        <mark key="'" line="76" column="20" />
-        <mark key="[" line="39" column="5" />
-        <mark key="]" line="37" column="28" />
-        <mark key="^" line="37" column="28" />
-        <mark key="." line="37" column="28" />
-      </file>
       <file name="/Records.xml" timestamp="1504775539000" />
       <file name="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/records/PageableTest.java" timestamp="1504869567371">
         <mark key="'" line="20" column="15" />
@@ -197,6 +176,11 @@
         <mark key="^" line="62" column="30" />
         <mark key="." line="62" column="30" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/build.gradle" timestamp="1505441029309">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="21" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/main/resources/db/migration/V4__add_results_table.sql" timestamp="1504840964181">
         <mark key="[" line="5" column="13" />
         <mark key="]" line="5" column="16" />
@@ -210,21 +194,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/controller/src/test/java/com/thoughtworks/controller/records/BuildRecordTest.java" timestamp="1505199260314">
-        <mark key="'" line="51" column="53" />
-      </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/main/resources/mybatis/mappers/Cursors.xml" timestamp="1504841642974">
         <mark key="[" line="73" column="0" />
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
         <mark key="^" line="57" column="19" />
-      </file>
-      <file name="/workspace/solutions/cnup/stacks/neuron/src/main/resources/mybatis/mappers/Results.xml" timestamp="1504775338984">
-        <mark key="'" line="55" column="30" />
-        <mark key="[" line="63" column="16" />
-        <mark key="]" line="64" column="31" />
-        <mark key="." line="64" column="31" />
-        <mark key="^" line="64" column="31" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/controller/src/test/java/com/thoughtworks/controller/records/BuildEventTest.java" timestamp="1505187107837">
         <mark key="[" line="21" column="41" />
@@ -295,13 +269,6 @@
         <mark key="." line="64" column="39" />
         <mark key="^" line="64" column="39" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/controller/src/test/java/com/thoughtworks/controller/records/RemoteUnifiedProceduresTest.java" timestamp="1505356121274">
-        <mark key="'" line="40" column="44" />
-        <mark key="[" line="36" column="19" />
-        <mark key="]" line="36" column="24" />
-        <mark key="." line="36" column="24" />
-        <mark key="^" line="36" column="24" />
-      </file>
       <file name="/Conductor.java" timestamp="1505208582549" />
       <file name="/workspace/solutions/cnup/stacks/controller/src/main/resources/db/migration/V3__create_events_table.sql" timestamp="1505196719788" />
       <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/atp/support/ApiTestRunner.java" timestamp="1502870511447">
@@ -330,12 +297,12 @@
         <mark key="^" line="7" column="50" />
         <mark key="." line="7" column="50" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/support/InjectableRunner.java" timestamp="1505202825761">
-        <mark key="'" line="73" column="0" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="69" column="29" />
-        <mark key="." line="199" column="43" />
-        <mark key="^" line="199" column="43" />
+      <file name="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/support/InjectableRunner.java" timestamp="1505441532145">
+        <mark key="'" line="78" column="0" />
+        <mark key="[" line="109" column="47" />
+        <mark key="]" line="110" column="23" />
+        <mark key="^" line="110" column="23" />
+        <mark key="." line="110" column="25" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/controller/src/test/java/com/thoughtworks/controller/support/TestHelper.java" timestamp="1505200655257">
         <mark key="[" line="48" column="60" />
@@ -463,13 +430,6 @@
         <mark key="^" line="8" column="24" />
         <mark key="." line="8" column="24" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/controller/src/main/resources/mybatis/mappers/Records.xml" timestamp="1505205277125">
-        <mark key="'" line="84" column="43" />
-        <mark key="[" line="11" column="105" />
-        <mark key="]" line="11" column="11" />
-        <mark key="." line="11" column="11" />
-        <mark key="^" line="11" column="11" />
-      </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/records/BuildCreatedConductor.java" timestamp="1504663622304">
         <mark key="[" line="6" column="53" />
         <mark key="]" line="7" column="7" />
@@ -495,13 +455,6 @@
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="21" />
-      </file>
-      <file name="/workspace/solutions/cnup/stacks/controller/src/main/java/com/thoughtworks/controller/records/ApplicationRecord.java" timestamp="1505288755495">
-        <mark key="'" line="344" column="54" />
-        <mark key="[" line="380" column="82" />
-        <mark key="]" line="380" column="99" />
-        <mark key="." line="380" column="99" />
-        <mark key="^" line="380" column="99" />
       </file>
       <file name="/Generic.java" timestamp="1504603171707" />
       <file name="/workspace/solutions/cnup/stacks/controller/src/main/java/com/thoughtworks/controller/util/DefaultRestClient.java" timestamp="1505356674258">
@@ -579,9 +532,6 @@
         <mark key="." line="0" column="40" />
         <mark key="^" line="0" column="40" />
       </file>
-      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/build/resources/test/ups/jersey-mysql.ftl" timestamp="1505373384214">
-        <mark key="'" line="208" column="10" />
-      </file>
       <file name="/PulseRecordTest.java" timestamp="1505208244379" />
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" timestamp="1505380405529">
         <mark key="'" line="0" column="0" />
@@ -593,18 +543,11 @@
         <mark key="." line="157" column="108" />
         <mark key="^" line="157" column="108" />
       </file>
-      <file name="/fragment.java" timestamp="1505375043374">
+      <file name="/fragment.java" timestamp="1505440909950">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
-      </file>
-      <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/records/Pageable.java" timestamp="1504869344575">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-        <mark key="^" line="53" column="39" />
       </file>
       <file name="/Bind.java" timestamp="1504603711150" />
       <file name="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/support/FakeSensoryFactory.java" timestamp="1504869169545">
@@ -632,13 +575,6 @@
         <mark key="." line="8" column="37" />
         <mark key="^" line="8" column="37" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/resources/ups/jersey-mysql-redis.ftl" timestamp="1505355046431">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="215" column="13" />
-        <mark key="]" line="215" column="17" />
-        <mark key="^" line="215" column="17" />
-        <mark key="." line="215" column="17" />
-      </file>
       <file name="/Sensory.java" timestamp="1504604443692" />
       <file name="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/fixtures/LauncherStub.java" timestamp="1505185369374">
         <mark key="[" line="28" column="43" />
@@ -656,9 +592,9 @@
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" timestamp="1505384228703" />
       <file name="/Stub.java" timestamp="1504604091656" />
       <file name="/FakeSensoryFactory.java" timestamp="1505208108877" />
-      <file name="/workspace/solutions/cnup/stacks/controller/src/test/java/com/thoughtworks/controller/support/InjectBasedRunner.java" timestamp="1505290217060">
-        <mark key="[" line="76" column="47" />
-        <mark key="]" line="76" column="47" />
+      <file name="/workspace/solutions/cnup/stacks/controller/src/test/java/com/thoughtworks/controller/support/InjectBasedRunner.java" timestamp="1505440938387">
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="136" column="5" />
         <mark key="^" line="76" column="46" />
         <mark key="." line="76" column="47" />
       </file>
@@ -727,9 +663,6 @@
         <mark key="^" line="7" column="7" />
         <mark key="." line="7" column="7" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/controller/src/main/resources/mybatis/mappers/EventMapper.xml" timestamp="1505198888065">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/modules/atp/src/main/java/com/thoughtworks/cnup/atp/records/Filee.java" timestamp="1503037234338">
         <mark key="[" line="14" column="15" />
         <mark key="]" line="14" column="17" />
@@ -773,11 +706,11 @@
         <mark key="^" line="12" column="4" />
         <mark key="." line="12" column="13" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/neuron/build.gradle" timestamp="1504773879870">
-        <mark key="[" line="16" column="46" />
-        <mark key="]" line="16" column="59" />
-        <mark key="^" line="16" column="59" />
-        <mark key="." line="16" column="59" />
+      <file name="/workspace/solutions/cnup/stacks/neuron/build.gradle" timestamp="1505441439641">
+        <mark key="[" line="61" column="39" />
+        <mark key="]" line="61" column="42" />
+        <mark key="^" line="61" column="42" />
+        <mark key="." line="61" column="42" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/modules/features/auth/src/main/java/com/thoughtworks/cnup/features/auth/Auth.java" timestamp="1503288893656">
         <mark key="[" line="2" column="0" />
@@ -800,18 +733,16 @@
         <mark key="^" line="29" column="17" />
       </file>
       <file name="/Pulse.java" timestamp="1505208304975" />
-      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/.env/cdectl.json" timestamp="1505370430053">
-        <mark key="'" line="450" column="20" />
-        <mark key="[" line="507" column="32" />
-        <mark key="]" line="507" column="41" />
-        <mark key="." line="507" column="41" />
-        <mark key="^" line="507" column="41" />
-      </file>
       <file name="/workspace/solutions/cnup/stacks/controller/src/main/java/com/thoughtworks/controller/util/RestClient.java" timestamp="1505271533303">
         <mark key="[" line="9" column="4" />
         <mark key="]" line="9" column="11" />
         <mark key="." line="9" column="11" />
         <mark key="^" line="9" column="11" />
+      </file>
+      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/build.gradle" timestamp="1504773823947">
+        <mark key="'" line="82" column="27" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="78" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/support/Stub.java" timestamp="1504595438658">
         <mark key="[" line="11" column="8" />
@@ -892,6 +823,12 @@
         <mark key="." line="8" column="0" />
       </file>
       <file name="/CursorRecord.java" timestamp="1505207530316" />
+      <file name="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildCreatedConductorTest.java" timestamp="1505440877122">
+        <mark key="[" line="43" column="53" />
+        <mark key="]" line="43" column="55" />
+        <mark key="^" line="43" column="55" />
+        <mark key="." line="43" column="55" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/settings.gradle" timestamp="1503286228192">
         <mark key="[" line="7" column="26" />
         <mark key="]" line="7" column="29" />
@@ -910,9 +847,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="4" />
-      </file>
-      <file name="/workspace/solutions/cnup/stacks/controller/src/test/java/com/thoughtworks/controller/resources/BuildsResourceTest.java" timestamp="1505199267427">
-        <mark key="'" line="46" column="23" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/records/SensoryFactoryTest.java" timestamp="1504774593200">
         <mark key="[" line="21" column="36" />
@@ -955,13 +889,6 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
         <mark key="^" line="35" column="14" />
-      </file>
-      <file name="/workspace/solutions/cnup/stacks/controller/src/main/resources/mybatis/mappers/ApplicationMapper.xml" timestamp="1505205106006">
-        <mark key="'" line="116" column="30" />
-        <mark key="[" line="40" column="10" />
-        <mark key="]" line="40" column="25" />
-        <mark key="." line="40" column="25" />
-        <mark key="^" line="40" column="25" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/core/Identifiable.java" timestamp="1505201478902">
         <mark key="[" line="5" column="4" />
@@ -1034,25 +961,11 @@
       <file name="/InjectableRunner.java" timestamp="1504604332345" />
       <file name="/workspace/solutions/p2p/midas/modules/implementation-db/src/main/resources/mybatis/mappers/Records.xml" timestamp="1505198148705" />
       <file name="/workspace/golang/src/github.com/sjkyspa/stacks/builder/rootfs/home/git/builder" timestamp="1504748136594" />
-      <file name="/workspace/solutions/cnup/stacks/neuron/src/main/resources/mybatis/V5__change_implicit_json_field_to_explicit_json.sql" timestamp="1504843403446">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="37" column="37" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="26" column="50" />
-      </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/Main.java" timestamp="1505184093057">
         <mark key="'" line="79" column="4" />
         <mark key="[" line="39" column="60" />
         <mark key="]" line="39" column="60" />
         <mark key="." line="39" column="60" />
-      </file>
-      <file name="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/records/CursorRecordTest.java" timestamp="1504868804815">
-        <mark key="'" line="71" column="0" />
-        <mark key="[" line="100" column="36" />
-        <mark key="]" line="100" column="46" />
-        <mark key="." line="100" column="46" />
-        <mark key="^" line="100" column="46" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/modules/features/auth/src/main/java/com/thoughtworks/cnup/features/auth/Authenticator.java" timestamp="1503370268008">
         <mark key="[" line="4" column="0" />
@@ -1111,9 +1024,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="21" filename="/workspace/solutions/cnup/stacks/neuron/src/main/resources/mybatis/Columns.xml" />
-      <jump line="16" column="33" filename="/workspace/solutions/cnup/stacks/neuron/src/main/resources/mybatis/Records.xml" />
-      <jump line="0" column="0" filename="/workspace/solutions/cnup/stacks/neuron/src/main/resources/mybatis/Records.xml" />
       <jump line="22" column="0" filename="/workspace/solutions/cnup/stacks/neuron/src/main/resources/mybatis/Records.xml" />
       <jump line="0" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/DeploymentMapper.xml" />
       <jump line="22" column="19" filename="/workspace/solutions/cnup/stacks/neuron/src/main/resources/mybatis/mappers/Pulses.xml" />
@@ -1211,6 +1121,9 @@
       <jump line="450" column="20" filename="/workspace/golang/src/github.com/sjkyspa/stacks/.env/cdectl.json" />
       <jump line="208" column="10" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/build/resources/test/ups/jersey-mysql.ftl" />
       <jump line="0" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/resources/UnifiedProcedureResourceTest.java" />
+      <jump line="0" column="0" filename="/workspace/solutions/cnup/stacks/launcher/build.gradle" />
+      <jump line="108" column="0" filename="/workspace/solutions/cnup/stacks/launcher/build.gradle" />
+      <jump line="31" column="0" filename="/workspace/solutions/cnup/stacks/launcher/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1219,7 +1132,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>restClient</text>
+        <text>)</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1237,43 +1150,43 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text>restClient</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>launcher</text>
+        <text>mockito</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBSZXNwb25zZSBidWlsZCA9IGNsaWVudHMuY3JlYXRlKGNvbnRyb2xsZXIpLmdldChsaW5rKGRhdGEsICJidWlsZCIpLCBuZXcgTXVsdGl2YWx1ZWRIYXNoTWFwPD4oKSk7Cg==</text>
+        <text encoding="base64">ICAgIG1vY2tpdG8gPSAnMS45LjUnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBSZXNwb25zZSBhcHAgPSBjbGllbnRzLmNyZWF0ZShjb250cm9sbGVyKS5nZXQobGluayhkYXRhLCAiYXBwIiksIG5ldyBNdWx0aXZhbHVlZEhhc2hNYXA8PigpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb3ZlcnJpZGUoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb3ZlcnJpZGUoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZXcgTW9kdWxlcyhlbnZzKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICkud2l0aChmb3J0ZXN0KCkpCiAgICAgICAgICAgICAgICAgICAgICAgICkud2l0aChjb2xsZWN0KQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHV0KCJwcm92aWRlciIsICQoIm5hbWUiLCAiZGlzcG9zYWJsZXMiKSk7CiAgICAgICAgICAgIHB1dCgicHJvY2VkdXJlIiwgJCgKICAgICAgICAgICAgICAgICAgICAkKCJydW50aW1lIiwgbmV3IEhhc2hNYXA8PigpKSwKICAgICAgICAgICAgICAgICAgICAkKCJhcHAiLCBuZXcgSGFzaE1hcDw+KCkpKSk7CiAgICAgICAgICAgIHB1dCgib3duZXIiLCAkKCJpZCIsICJrZXRzdSIpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9mKGtsYXNzLmdldERlY2xhcmVkRmllbGRzKCkpCiAgICAgICAgICAgICAgICAgICAgICAgIC5maWx0ZXIoZiAtPiBmLmlzQW5ub3RhdGlvblByZXNlbnQoTW9jay5jbGFzcykgJiYgIWYuaXNBbm5vdGF0aW9uUHJlc2VudChOYW1lZC5jbGFzcykpCiAgICAgICAgICAgICAgICAgICAgICAgIC5mb3JFYWNoKGZpZWxkIC0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIENsYXNzIHR5cGUgPSBmaWVsZC5nZXRUeXBlKCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBPYmplY3QgbW9jayA9IG1vY2sodHlwZSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBiaW5kKHR5cGUpLnRvSW5zdGFuY2UobW9jayk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBhcHAucmVhZEVudGl0eSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnRzLmNyZWF0ZShjb250cm9sbGVyKS5nZXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICBSZXNwb25zZSBhcHAgPSBjbGllbnRzLmNyZWF0ZShjb250cm9sbGVyKS5nZXQobGluayhkYXRhLCAiYXBwIiksIG5ldyBNdWx0aXZhbHVlZEhhc2hNYXA8PigpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHV0KCJwcm92aWRlciIsICQoIm5hbWUiLCAiZGlzcG9zYWJsZXMiKSk7CiAgICAgICAgICAgIHB1dCgicHJvY2VkdXJlIiwgJCgKICAgICAgICAgICAgICAgICAgICAkKCJydW50aW1lIiwgbmV3IEhhc2hNYXA8PigpKSwKICAgICAgICAgICAgICAgICAgICAkKCJhcHAiLCBuZXcgSGFzaE1hcDw+KCkpKSk7CiAgICAgICAgICAgIHB1dCgib3duZXIiLCAkKCJpZCIsICJrZXRzdSIpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnRzLmNyZWF0ZShjb250cm9sbGVyKS5nZXQoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzcG9uc2UuY3JlYXRlZChyb3V0ZXMuYXBwbGljYXRpb24oYXBwKSkuYnVpbGQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBBcHBsaWNhdGlvbiBhcHAgPSBhcHBsaWNhdGlvblJlcG9zaXRvcnkuY3JlYXRlKAogICAgICAgICAgICAgICAgaW5mbywKICAgICAgICAgICAgICAgIGxvZ2luVXNlciwKICAgICAgICAgICAgICAgIHN0YWNrT3B0aW9uYWwuZ2V0KCkKICAgICAgICApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
@@ -1283,9 +1196,9 @@
       </register>
     </registers>
     <search>
-      <last-search>launcher</last-search>
+      <last-search>mockito</last-search>
       <last-offset />
-      <last-pattern>launcher</last-pattern>
+      <last-pattern>mockito</last-pattern>
       <last-replace>MESSAGE</last-replace>
       <last-substitute>DATA</last-substitute>
       <last-dir>1</last-dir>
@@ -1293,7 +1206,6 @@
     </search>
     <history>
       <history-search>
-        <entry>appRelate</entry>
         <entry>createBuild</entry>
         <entry>build</entry>
         <entry>guice</entry>
@@ -1313,6 +1225,7 @@
         <entry>controller</entry>
         <entry>launchewr</entry>
         <entry>launcher</entry>
+        <entry>mockito</entry>
       </history-search>
       <history-cmd>
         <entry>'w</entry>
