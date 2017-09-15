@@ -5,8 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>X</mask>
       <mask>XM</mask>
       <mask>XML</mask>
       <mask>x</mask>
@@ -14,7 +14,6 @@
       <mask>ja</mask>
       <mask>java</mask>
       <mask>.java</mask>
-      <mask>*.java</mask>
       <mask>*.g</mask>
       <mask>*.gr</mask>
       <mask>*.gra</mask>
@@ -26,8 +25,6 @@
       <mask>xm</mask>
       <mask>xml</mask>
       <mask>.</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
       <mask>tm</mask>
@@ -36,6 +33,10 @@
       <mask>*。tmpl</mask>
       <mask>*tmpl</mask>
       <mask>*.tmpl</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
