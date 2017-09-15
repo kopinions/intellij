@@ -36,12 +36,12 @@
       <file name="/a.dummy" timestamp="1505375759299">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildCreatedConductor.java" timestamp="1505467423572">
+      <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildCreatedConductor.java" timestamp="1505468269317">
         <mark key="'" line="89" column="0" />
-        <mark key="[" line="91" column="32" />
-        <mark key="]" line="95" column="38" />
-        <mark key="." line="95" column="38" />
-        <mark key="^" line="95" column="38" />
+        <mark key="[" line="93" column="29" />
+        <mark key="]" line="93" column="45" />
+        <mark key="." line="93" column="45" />
+        <mark key="^" line="93" column="45" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/records/fixtures/SinglePageEvents.java" timestamp="1504073532289">
         <mark key="[" line="0" column="37" />
@@ -263,9 +263,11 @@
         <mark key="." line="32" column="42" />
         <mark key="^" line="32" column="42" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/controller/src/test/java/com/thoughtworks/controller/records/RemoteUnifiedProceduresTest.java" timestamp="1505443447409">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="51" column="4" />
+      <file name="/workspace/solutions/cnup/stacks/neuron/src/test/resources/fixtures/application.hbs" timestamp="1505468958487">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="7" column="19" />
+        <mark key="^" line="7" column="19" />
+        <mark key="." line="7" column="19" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/atp/support/ApiTestRunner.java" timestamp="1502870511447">
         <mark key="[" line="41" column="0" />
@@ -785,12 +787,11 @@
         <mark key="." line="18" column="25" />
         <mark key="^" line="18" column="25" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildCreatedConductorTest.java" timestamp="1505466143777">
-        <mark key="'" line="69" column="0" />
-        <mark key="[" line="278" column="43" />
-        <mark key="]" line="326" column="0" />
-        <mark key="^" line="326" column="0" />
-        <mark key="." line="326" column="0" />
+      <file name="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildCreatedConductorTest.java" timestamp="1505469202057">
+        <mark key="[" line="62" column="49" />
+        <mark key="]" line="63" column="18" />
+        <mark key="." line="63" column="18" />
+        <mark key="^" line="63" column="18" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/settings.gradle" timestamp="1503286228192">
         <mark key="[" line="7" column="26" />
@@ -936,6 +937,11 @@
         <mark key="^" line="9" column="8" />
         <mark key="." line="9" column="8" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/neuron/src/test/resources/fixtures/build.json" timestamp="1505469226456">
+        <mark key="]" line="0" column="398" />
+        <mark key="^" line="0" column="398" />
+        <mark key="." line="0" column="398" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Files.xml" timestamp="1504087488680">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="43" />
@@ -974,8 +980,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="0" filename="/workspace/solutions/cnup/stacks/neuron/src/main/resources/mybatis/V5__change_implicit_json_field_to_explicit_json.sql" />
-      <jump line="5" column="27" filename="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/jobs/TransactionManager.java" />
       <jump line="71" column="0" filename="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/records/CursorRecordTest.java" />
       <jump line="40" column="27" filename="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/jobs/ControllerFetcher.java" />
       <jump line="38" column="8" filename="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/jobs/ControllerFetcher.java" />
@@ -1057,7 +1061,6 @@
       <jump line="79" column="17" filename="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildCreatedConductorTest.java" />
       <jump line="285" column="90" filename="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildCreatedConductorTest.java" />
       <jump line="115" column="0" filename="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildCreatedConductorTest.java" />
-      <jump line="71" column="0" filename="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildCreatedConductorTest.java" />
       <jump line="62" column="93" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/resources/UnifiedProcedureResource.java" />
       <jump line="280" column="0" filename="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildCreatedConductorTest.java" />
       <jump line="69" column="0" filename="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildCreatedConductorTest.java" />
@@ -1074,6 +1077,9 @@
       <jump line="18" column="41" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Providers.xml" />
       <jump line="50" column="42" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Providers.xml" />
       <jump line="51" column="30" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Providers.xml" />
+      <jump line="71" column="59" filename="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildCreatedConductorTest.java" />
+      <jump line="98" column="0" filename="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildCreatedConductorTest.java" />
+      <jump line="102" column="11" filename="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildCreatedConductorTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1082,7 +1088,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Object</text>
+        <text>&quot;test&quot;, &quot;&quot;</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1100,43 +1106,43 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text>Object</text>
+        <text>&quot;test&quot;, &quot;&quot;</text>
       </register>
       <register name="/" type="4">
         <text>match</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJCgiYXBwIiwgJCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxNYXA8U3RyaW5nLCBPYmplY3Q+PiB2b2x1bWVzID0gKExpc3Q8TWFwPFN0cmluZywgT2JqZWN0Pj4pIHByb2NlZHVyZS5nZXQoImFwcCIpOwogICAgICAgICAgICBpZiAodm9sdW1lcy5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBNYXAgdmFsdWUgPSBidWlsZC5yZWFkRW50aXR5KE1hcC5jbGFzcyk7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICBSZXNwb25zZSBidWlsZFJlc3BvbnNlID0gcmVzcG9uc2UoMjAwLCAkKCJ0ZXN0IiwgIiIpLCBuZXcgTXVsdGl2YWx1ZWRIYXNoTWFwPD4oKSk7CiAgICAgICAgUmVzcG9uc2UgYXBwUmVzcG9uc2UgPSByZXNwb25zZSgyMDAsIGZpeHR1cmVzLmZyb20oImFwcGxpY2F0aW9uIiwgJCgKICAgICAgICAgICAgICAgICQoImlkIiwgImFwcGlkIiksCiAgICAgICAgICAgICAgICAkKCJuYW1lIiwgInRlc3QiKSwKICAgICAgICAgICAgICAgICQoInVuaWZpZWRfcHJvY2VkdXJlX2lkIiwgInZhbGlkX3VuaWZpZWRfcHJvY2VkdXJlX2lkIikKICAgICAgICApKSwgbmV3IE11bHRpdmFsdWVkSGFzaE1hcDw+KCkpOwogICAgICAgIFJlc3BvbnNlIHVuaWZpZWRQcm9jZWR1cmVSZXNwb25zZSA9IHJlc3BvbnNlKDIwMCwgZml4dHVyZXMuZnJvbSgicHJvY2VkdXJlIiwgJCgiaWQiLCAidmFsaWRfdW5pZmllZF9wcm9jZWR1cmVfaWQiKSksIG5ldyBNdWx0aXZhbHVlZEhhc2hNYXA8PigpKTsKCiAgICAgICAgUmVzcG9uc2UgcG9zdFByb2NlZHVyZUluc3RhbmNlUmVzcG9uc2UgPSByZXNwb25zZSgyMDEsIG5ldyBIYXNoTWFwPD4oKSwgbmV3IE11bHRpdmFsdWVkSGFzaE1hcDxTdHJpbmcsIE9iamVjdD4oKSB7ewogICAgICAgICAgICBwdXRTaW5nbGUoIkxvY2F0aW9uIiwgIi9wcm9jZWR1cmVzLzEiKTsKICAgICAgICB9fSk7CgogICAgICAgIHdoZW4oY29udHJvbGxlci5nZXQoZXEoIi9hcHBzL2tldHN1L2J1aWxkcy8xIiksIGFueSgpKSkudGhlblJldHVybihidWlsZFJlc3BvbnNlKTsKICAgICAgICB3aGVuKGNvbnRyb2xsZXIuZ2V0KGVxKCIvYXBwcy9rZXRzdSIpLCBhbnkoKSkpLnRoZW5SZXR1cm4oYXBwUmVzcG9uc2UpOwoKICAgICAgICB3aGVuKGxhdW5jaGVyLmdldChlcSgiL3Vwcy92YWxpZF91bmlmaWVkX3Byb2NlZHVyZV9pZCIpLCBhbnkoKSkpLnRoZW5SZXR1cm4odW5pZmllZFByb2NlZHVyZVJlc3BvbnNlKTsKICAgICAgICBkb1JldHVybihwb3N0UHJvY2VkdXJlSW5zdGFuY2VSZXNwb25zZSkud2hlbihsYXVuY2hlcikucG9zdChlcSgiL3Vwcy92YWxpZF91bmlmaWVkX3Byb2NlZHVyZV9pZC9wcm9jZWR1cmVzL2J1aWxkL2luc3RhbmNlcyIpLCBhcmdUaGF0KGFyZ3VtZW50IC0+IHsKICAgICAgICAgICAgaWYgKCFhcmd1bWVudC5jb250YWluc0tleSgicHJvdmlkZXIiKSB8fCAhYXJndW1lbnQuY29udGFpbnNLZXkoIm93bmVyIikgfHwgIWFyZ3VtZW50LmNvbnRhaW5zS2V5KCJwcm9jZWR1cmUiKSkgewogICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICB9CiAgICAgICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gcHJvdmlkZXIgPSAoTWFwPFN0cmluZywgT2JqZWN0PikgYXJndW1lbnQuZ2V0KCJwcm92aWRlciIpOwogICAgICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IG93bmVyID0gKE1hcDxTdHJpbmcsIE9iamVjdD4pIGFyZ3VtZW50LmdldCgib3duZXIiKTsKICAgICAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiBwcm9jZWR1cmUgPSAoTWFwPFN0cmluZywgT2JqZWN0PikgYXJndW1lbnQuZ2V0KCJwcm9jZWR1cmUiKTsKICAgICAgICAgICAgaWYgKCFwcm92aWRlci5jb250YWluc0tleSgiaWQiKSB8fCAhb3duZXIuY29udGFpbnNLZXkoImlkIikpIHsKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgaWYgKCFwcm9jZWR1cmUuY29udGFpbnNLZXkoImFwcCIpIHx8ICFwcm9jZWR1cmUuY29udGFpbnNLZXkoInJ1bnRpbWUiKSkgewogICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICB9CgogICAgICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IGFwcCA9IChNYXA8U3RyaW5nLCBPYmplY3Q+KSBwcm9jZWR1cmUuZ2V0KCJhcHAiKTsKICAgICAgICAgICAgaWYgKCFhcHAuY29udGFpbnNLZXkoInZvbHVtZXMiKSkgewogICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICB9CiAgICAgICAgICAgIExpc3Q8TWFwPFN0cmluZywgT2JqZWN0Pj4gdm9sdW1lcyA9IChMaXN0PE1hcDxTdHJpbmcsIE9iamVjdD4+KSBwcm9jZWR1cmUuZ2V0KCJhcHAiKTsKICAgICAgICAgICAgaWYgKHZvbHVtZXMuaXNFbXB0eSgpKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gc291cmNlID0gdm9sdW1lcy5nZXQoMCk7CiAgICAgICAgICAgIHJldHVybiBzb3VyY2UuY29udGFpbnNLZXkoInt7c291cmNlfX0iKTsKCiAgICAgICAgfSksIGFueSgpKTsKCiAgICAgICAgUHVsc2UuQ29uZHVjdG9yIGNvbmR1Y3RvciA9IGNvbmR1Y3RvcnMuc3RyZWFtKCkuZmlsdGVyKGMgLT4gYyBpbnN0YW5jZW9mIEJ1aWxkQ3JlYXRlZENvbmR1Y3RvcikuZmluZEZpcnN0KCkuZ2V0KCk7CgogICAgICAgIFB1bHNlIHB1bHNlID0gcHVsc2VzLmNyZWF0ZSgkKAogICAgICAgICAgICAgICAgJCgiaWQiLCBTdHJpbmcudmFsdWVPZigxKSksCiAgICAgICAgICAgICAgICAkKCJ0eXBlIiwgIkJ1aWxkQ3JlYXRlZEV2ZW50IiksCiAgICAgICAgICAgICAgICAkKCJjb250ZW50IiwgJCgKICAgICAgICAgICAgICAgICAgICAgICAgJCgiY3JlYXRlZEF0IiwgMTUwMTY0NDM4MDAwMEwpLAogICAgICAgICAgICAgICAgICAgICAgICAkKCJsaW5rcyIsIGFzTGlzdCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJCgicmVsIiwgImFwcCIpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJCgidXJpIiwgIi9hcHBzL2tldHN1IikKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICQoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKCJyZWwiLCAiYnVpbGQiKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICQoInVyaSIsICIvYXBwcy9rZXRzdS9idWlsZHMvMSIpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgICAgICAgICApKQogICAgICAgICAgICAgICAgKSkKICAgICAgICApKTsKCiAgICAgICAgYXNzZXJ0VGhhdChjb25kdWN0b3IubWF0Y2hlZChwdWxzZSksIGlzKHRydWUpKTsKICAgICAgICBwdWxzZS5jb25kdWN0aW5nKGNvbmR1Y3Rvcik7CgogICAgICAgIExpc3Q8UHVsc2VSZWNvcmQuUmVzdWx0PiByZXN1bHRzID0gdGhpcy5yZXN1bHRzLnJhbmdlT2YoJCgpLCAxLCAxMCk7CiAgICAgICAgYXNzZXJ0VGhhdChyZXN1bHRzLnNpemUoKSwgaXMoMSkpOwogICAgICAgIGFzc2VydFRoYXQocmVzdWx0cy5nZXQoMCkubWVzc2FnZSgpLmNvbnRhaW5zS2V5KCJwcm9jZWR1cmUiKSwgaXModHJ1ZSkpOw==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8Uz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgc291cmNlLmdldCgiIikgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0VGhhdCwgaXMoKSk7IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FsbEJhY2suc3VjY2VzcygkKAogICAgICAgICAgICAgICAgICAgICJwcm9jZWR1cmUiLCBwcm9jZWR1cmVDcmVhdGVkUmVzcG9uc2UuZ2V0TG9jYXRpb24oKQogICAgICAgICAgICApKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBSZXNwb25zZSB1bmlmaWVkUHJvY2VkdXJlUmVzcG9uc2UgPSByZXNwb25zZSgyMDAsIGZpeHR1cmVzLmZyb20oIm91dG9mYm94IiwgJCgiaWQiLCAib3V0b2Zib3giKSksIG5ldyBNdWx0aXZhbHVlZEhhc2hNYXA8PigpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFhcHAuY29udGFpbnNLZXkoInZvbHVtZXMiKSkgewogICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICB9Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlcnJvci5wdXQoImRldGFpbCIsIGRldGFpbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0VGhhLCBpcygpKTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlcnJvci5wdXQoInRpdGxlIiwgdGl0bGUpOwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">fQogICAgICAgICAgICAgICAg</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlcnJvci5wdXQoImNvZGUiLCBjb2RlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGFyZ3VtZW50LmNvbnRhaW5zS2V5KCJwcm92aWRlciIpKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsgCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVycm9yLnB1dCgic3RhdHVzIiwgc3RhdHVzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmFsc2UK</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
@@ -1194,9 +1200,9 @@
         <entry>wq</entry>
         <entry>W</entry>
         <entry>Lw</entry>
-        <entry>&quot;w</entry>
         <entry>ew</entry>
         <entry>qw</entry>
+        <entry>&quot;w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
