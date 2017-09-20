@@ -197,12 +197,12 @@
         <mark key="^" line="5" column="6" />
         <mark key="." line="5" column="6" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/controller/build.gradle" timestamp="1505290382100">
+      <file name="/workspace/solutions/cnup/stacks/controller/build.gradle" timestamp="1505878845634">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="110" column="1" />
-        <mark key="]" line="113" column="41" />
-        <mark key="^" line="113" column="41" />
-        <mark key="." line="113" column="41" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="^" line="112" column="41" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/modules/routing/src/main/java/com/thoughtworks/cnup/features/routing/LocaleProvider.java" timestamp="1502955770091">
         <mark key="[" line="26" column="33" />
@@ -851,6 +851,12 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="45" column="85" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/controller/src/main/resources/log4j.properties" timestamp="1505878958210">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+        <mark key="^" line="0" column="21" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/controller/src/main/resources/db/migration/V23__should_save_the_build_source.sql" timestamp="1503565888137">
         <mark key="[" line="0" column="17" />
         <mark key="]" line="0" column="21" />
@@ -906,10 +912,11 @@
         <mark key="^" line="5" column="17" />
         <mark key="." line="5" column="17" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/controller/src/main/java/com/thoughtworks/controller/records/RemoteProviders.java" timestamp="1505877717576">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="105" />
-        <mark key="." line="48" column="0" />
+      <file name="/workspace/solutions/cnup/stacks/controller/src/main/java/com/thoughtworks/controller/records/RemoteProviders.java" timestamp="1505879396564">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="165" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="37" column="128" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/records/Sensory.java" timestamp="1504866874734">
         <mark key="[" line="28" column="0" />
@@ -934,6 +941,9 @@
         <mark key="]" line="5" column="13" />
         <mark key="^" line="5" column="13" />
         <mark key="." line="5" column="13" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1505878559742">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/modules/features/auth/src/main/java/com/thoughtworks/cnup/features/auth/AuthenticationFilter.java" timestamp="1503369592820">
         <mark key="[" line="29" column="66" />
@@ -1051,7 +1061,7 @@
         <mark key="^" line="5" column="28" />
         <mark key="." line="5" column="28" />
       </file>
-      <file name="/fragment.java" timestamp="1505722010783">
+      <file name="/fragment.java" timestamp="1505878570645">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
@@ -1167,7 +1177,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJFcnJvcjp7fSB3aGlsZSBnZXQgcmVtb3RlIHByb3ZpZGVyIGJ5OiB7fSIsIHJlc3BvbnNlLmdldFN0YXR1cygpLCBpZGVudGlmaWFibGUuaWQoKS50b0FTQ0lJU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1185,43 +1195,43 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ERROR</text>
       </register>
       <register name="/" type="4">
         <text>app</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJFcnJvcjp7fSB3aGlsZSBnZXQgcmVtb3RlIHByb3ZpZGVyIGJ5OiB7fSIsIGlkZW50aWZpYWJsZS5pZCgpLnRvQVNDSUlTdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJFcnJvcjp7fSB7fSB3aGlsZSBnZXQgcmVtb3RlIHByb3ZpZGVyIGJ5OiB7fSIsIHJlc3BvbnNlLmdldFN0YXR1cygpLCByZXNwb25zZS5yZWFkRW50aXR5KFN0cmluZy5jbGFzcyksIGlkZW50aWZpYWJsZS5pZCgpLnRvQVNDSUlTdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJFcnJvcjp7fSB3aGlsZSBnZXQgcmVtb3RlIHByb3ZpZGVyIGJ5OiB7fSIsIHJlc3BvbnNlLmdldFN0YXR1cygpLCBpZGVudGlmaWFibGUuaWQoKS50b0FTQ0lJU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoIlN1Y2NlZWQgdG8gZ2V0IHByb3ZpZGVyOiB7fSIsIG1hcCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJFcnJvcjp7fSB3aGlsZSBnZXQgcmVtb3RlIHByb3ZpZGVyIGJ5OiB7fSIsIGlkZW50aWZpYWJsZS5pZCgpLnRvQVNDSUlTdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJFcnJvcjolZCB3aGlsZSBnZXQgcmVtb3RlIHByb3ZpZGVyIGJ5OiAlcyIsIGlkZW50aWZpYWJsZS5pZCgpLnRvQVNDSUlTdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy5tb2NrLXNlcnZlcjptb2Nrc2VydmVyLW5ldHR5OjMuMTAuNCcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy5tb2NrLXNlcnZlcjptb2Nrc2VydmVyLW5ldHR5OjMuMTAuNCcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYXNMaXN0KCBsaW5rKCJyb3V0ZXMiLCByb3V0ZXMuYXBwUm91dGVzKHRoaXMpKSwKICAgICAgICAgICAgICAgIGxpbmsoImJ1aWxkcyIsIHJvdXRlcy5hcHBCdWlsZHModGhpcykpLAogICAgICAgICAgICAgICAgbGluaygicmVsZWFzZXMiLCByb3V0ZXMuYXBwUmVsZWFzZXModGhpcykpLAogICAgICAgICAgICAgICAgc3RhY2sgPT0gbnVsbCA/IGxpbmsoInVuaWZpZWRfcHJvY2VkdXJlIiwgcm91dGVzLnVuaWZpZWRQcm9jZWR1cmUodW5pZmllZFByb2NlZHVyZUlkKSkgOiBsaW5rKCJzdGFjayIsIHJvdXRlcy5zdGFjayhnZXRTdGFjaygpKSksCiAgICAgICAgICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgImJpei5wYWx1Y2gubG9nZ2luZzpsb2dzdGFzaC1nZWxmOjEuMTEuMSIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpbmsoInNlbGYiLCByb3V0ZXMuYXBwbGljYXRpb24odGhpcykpLAo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoIlN1Y2NlZWQgdG8gZ2V0IHByb3ZpZGVyOiB7fSIsIG1hcCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb3ZpZGVyID09bnVsbD9saW5rKCJwcm92aWRlciIsIHByb3ZpZGVyLnVyaSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJFcnJvcjolZCB3aGlsZSBnZXQgcmVtb3RlIHByb3ZpZGVyIGJ5OiAlcyIsIGlkZW50aWZpYWJsZS5pZCgpLnRvQVNDSUlTdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YWNrID09IG51bGwgPyBsaW5rKCJ1bmlmaWVkX3Byb2NlZHVyZSIsIHJvdXRlcy51bmlmaWVkUHJvY2VkdXJlKHVuaWZpZWRQcm9jZWR1cmVJZCkpIDogbGluaygic3RhY2siLCByb3V0ZXMuc3RhY2soZ2V0U3RhY2soKSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
