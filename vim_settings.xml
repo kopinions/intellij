@@ -571,6 +571,7 @@
         <mark key="." line="128" column="43" />
         <mark key="^" line="128" column="43" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/Makefile" timestamp="1505889583079" />
       <file name="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/records/CursorsTest.java" timestamp="1504853178540">
         <mark key="[" line="22" column="46" />
         <mark key="]" line="22" column="46" />
@@ -1019,12 +1020,12 @@
         <mark key="." line="0" column="40" />
         <mark key="^" line="0" column="40" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/neuron/Makefile" timestamp="1505888307737">
+      <file name="/workspace/solutions/cnup/stacks/neuron/Makefile" timestamp="1505889629356">
         <mark key="'" line="49" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="58" />
-        <mark key="." line="18" column="42" />
-        <mark key="^" line="18" column="42" />
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="20" column="4" />
+        <mark key="." line="20" column="4" />
+        <mark key="^" line="9" column="10" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Files.xml" timestamp="1504087488680">
         <mark key="[" line="5" column="0" />
@@ -1201,8 +1202,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CUBlY2hvIC1lICdcMDMzWzA7MzJtJyAiUHVzaCBuZXVyb24gY29tcGxldGUiICdcMDMzWzBtJwo=</text>
+      <register name="&quot;" type="4">
+        <text>@</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1220,7 +1221,7 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text>controller</text>
+        <text>@</text>
       </register>
       <register name="/" type="4">
         <text>controller</text>
