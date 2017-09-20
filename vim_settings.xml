@@ -173,6 +173,7 @@
         <mark key="." line="9" column="44" />
         <mark key="^" line="9" column="44" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/neuron/startup.sh" timestamp="1505886579940" />
       <file name="/workspace/solutions/cnup/stacks/launcher/modules/guice-feature/build.gradle" timestamp="1502940485598">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="20" />
@@ -197,10 +198,10 @@
         <mark key="^" line="5" column="6" />
         <mark key="." line="5" column="6" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/controller/build.gradle" timestamp="1505878845634">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
+      <file name="/workspace/solutions/cnup/stacks/controller/build.gradle" timestamp="1505886475713">
+        <mark key="'" line="96" column="26" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="49" />
         <mark key="^" line="112" column="41" />
         <mark key="." line="80" column="0" />
       </file>
@@ -326,12 +327,17 @@
         <mark key="^" line="12" column="4" />
         <mark key="." line="12" column="13" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/neuron/build.gradle" timestamp="1505458853966">
-        <mark key="'" line="65" column="56" />
-        <mark key="[" line="19" column="18" />
-        <mark key="]" line="19" column="22" />
-        <mark key="." line="19" column="22" />
-        <mark key="^" line="19" column="22" />
+      <file name="/workspace/solutions/cnup/stacks/neuron/build.gradle" timestamp="1505886504614">
+        <mark key="'" line="20" column="44" />
+        <mark key="[" line="20" column="41" />
+        <mark key="]" line="20" column="44" />
+        <mark key="." line="20" column="44" />
+        <mark key="^" line="20" column="44" />
+      </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/build.gradle" timestamp="1505886433252">
+        <mark key="'" line="117" column="0" />
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="135" column="0" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/main/resources/db/migration/V4__add_results_table.sql" timestamp="1504840964181">
         <mark key="[" line="5" column="13" />
@@ -398,6 +404,12 @@
         <mark key="[" line="98" column="0" />
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
+      </file>
+      <file name="/workspace/solutions/cnup/stacks/neuron/Dockerfile" timestamp="1505886593451">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="14" />
+        <mark key="." line="6" column="14" />
+        <mark key="^" line="6" column="14" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/modules/features/routing/src/main/java/com/thoughtworks/cnup/features/routing/RoutingInjectionResolver.java" timestamp="1503024339378">
         <mark key="[" line="36" column="49" />
@@ -502,6 +514,7 @@
         <mark key="^" line="7" column="19" />
         <mark key="." line="7" column="19" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/neuron/wrapper.sh" timestamp="1505886278547" />
       <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/atp/support/ApiTestRunner.java" timestamp="1502870511447">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="50" column="39" />
@@ -1006,6 +1019,12 @@
         <mark key="." line="0" column="40" />
         <mark key="^" line="0" column="40" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/neuron/Makefile" timestamp="1505886655194">
+        <mark key="[" line="15" column="33" />
+        <mark key="]" line="15" column="38" />
+        <mark key="." line="15" column="38" />
+        <mark key="^" line="15" column="38" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Files.xml" timestamp="1504087488680">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="43" />
@@ -1074,14 +1093,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="363" column="32" filename="/workspace/golang/src/github.com/sjkyspa/stacks/.env/cdectl.json" />
-      <jump line="429" column="15" filename="/workspace/golang/src/github.com/sjkyspa/stacks/.env/cdectl.json" />
-      <jump line="450" column="20" filename="/workspace/golang/src/github.com/sjkyspa/stacks/.env/cdectl.json" />
-      <jump line="208" column="10" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/build/resources/test/ups/jersey-mysql.ftl" />
-      <jump line="0" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/resources/UnifiedProcedureResourceTest.java" />
-      <jump line="0" column="0" filename="/workspace/solutions/cnup/stacks/launcher/build.gradle" />
-      <jump line="108" column="0" filename="/workspace/solutions/cnup/stacks/launcher/build.gradle" />
-      <jump line="31" column="0" filename="/workspace/solutions/cnup/stacks/launcher/build.gradle" />
       <jump line="52" column="0" filename="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildCreatedConductorTest.java" />
       <jump line="46" column="64" filename="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildCreatedConductorTest.java" />
       <jump line="23" column="18" filename="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildCreatedConductorTest.java" />
@@ -1174,6 +1185,14 @@
       <jump line="394" column="32" filename="/workspace/solutions/cnup/stacks/controller/src/main/java/com/thoughtworks/controller/records/ApplicationRecord.java" />
       <jump line="391" column="8" filename="/workspace/solutions/cnup/stacks/controller/src/main/java/com/thoughtworks/controller/records/ApplicationRecord.java" />
       <jump line="96" column="8" filename="/workspace/solutions/cnup/stacks/controller/src/main/java/com/thoughtworks/controller/Modules.java" />
+      <jump line="19" column="22" filename="/workspace/solutions/cnup/stacks/neuron/build.gradle" />
+      <jump line="117" column="0" filename="/workspace/solutions/cnup/stacks/launcher/build.gradle" />
+      <jump line="80" column="0" filename="/workspace/solutions/cnup/stacks/controller/build.gradle" />
+      <jump line="107" column="35" filename="/workspace/solutions/cnup/stacks/controller/build.gradle" />
+      <jump line="30" column="4" filename="/workspace/solutions/cnup/stacks/controller/build.gradle" />
+      <jump line="96" column="26" filename="/workspace/solutions/cnup/stacks/controller/build.gradle" />
+      <jump line="70" column="0" filename="/workspace/solutions/cnup/stacks/neuron/build.gradle" />
+      <jump line="20" column="44" filename="/workspace/solutions/cnup/stacks/neuron/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1181,8 +1200,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvL0luc3RhbGwgdGhlIEpVTCBCcmlkZ2UKICAgICAgICBTTEY0SkJyaWRnZUhhbmRsZXIucmVtb3ZlSGFuZGxlcnNGb3JSb290TG9nZ2VyKCk7CiAgICAgICAgU0xGNEpCcmlkZ2VIYW5kbGVyLmluc3RhbGwoKTsKCi8vT2J0YWluIGFuIGluc3RhbmNlIG9mIExvZ2dlckNvbnRleHQKICAgICAgICBMb2dnZXJDb250ZXh0IGNvbnRleHQgPSAoTG9nZ2VyQ29udGV4dCkgTG9nZ2VyRmFjdG9yeS5nZXRJTG9nZ2VyRmFjdG9yeSgpOwoKLy9DcmVhdGUgYSBuZXcgRmlsZUFwcGVuZGVyCiAgICAgICAgRmlsZUFwcGVuZGVyPElMb2dnaW5nRXZlbnQ+IGZpbGUgPSBuZXcgRmlsZUFwcGVuZGVyPElMb2dnaW5nRXZlbnQ+KCk7CiAgICAgICAgZmlsZS5zZXROYW1lKCJGaWxlTG9nZ2VyIik7CiAgICAgICAgZmlsZS5zZXRGaWxlKCJlcnJvci5sb2ciKTsKICAgICAgICBmaWxlLnNldENvbnRleHQoY29udGV4dCk7CiAgICAgICAgZmlsZS5zZXRBcHBlbmQodHJ1ZSk7CgovL0ZpbHRlciBvdXQgYW55dGhpbmcgPCBXQVJOCiAgICAgICAgVGhyZXNob2xkRmlsdGVyIHdhcm5pbmdGaWx0ZXIgPSBuZXcgVGhyZXNob2xkRmlsdGVyKCk7CiAgICAgICAgd2FybmluZ0ZpbHRlci5zZXRMZXZlbCgiV0FSTiIpOwogICAgICAgIHdhcm5pbmdGaWx0ZXIuc2V0Q29udGV4dChjb250ZXh0KTsKICAgICAgICB3YXJuaW5nRmlsdGVyLnN0YXJ0KCk7CiAgICAgICAgZmlsZS5hZGRGaWx0ZXIod2FybmluZ0ZpbHRlcik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>wrapper</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1200,43 +1219,43 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text>ERROR</text>
+        <text>wrapper</text>
       </register>
       <register name="/" type="4">
-        <text>app</text>
+        <text>main</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJFcnJvcjp7fSB7fSB3aGlsZSBnZXQgcmVtb3RlIHByb3ZpZGVyIGJ5OiB7fSIsIHJlc3BvbnNlLmdldFN0YXR1cygpLCByZXNwb25zZS5yZWFkRW50aXR5KFN0cmluZy5jbGFzcyksIGlkZW50aWZpYWJsZS5pZCgpLnRvQVNDSUlTdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgIG1haW49J2NvbS50aG91Z2h0d29ya3MuY29udHJvbGxlci5NYWluU2VydmVyJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL0luc3RhbGwgdGhlIEpVTCBCcmlkZ2UKICAgICAgICBTTEY0SkJyaWRnZUhhbmRsZXIucmVtb3ZlSGFuZGxlcnNGb3JSb290TG9nZ2VyKCk7CiAgICAgICAgU0xGNEpCcmlkZ2VIYW5kbGVyLmluc3RhbGwoKTsKCi8vT2J0YWluIGFuIGluc3RhbmNlIG9mIExvZ2dlckNvbnRleHQKICAgICAgICBMb2dnZXJDb250ZXh0IGNvbnRleHQgPSAoTG9nZ2VyQ29udGV4dCkgTG9nZ2VyRmFjdG9yeS5nZXRJTG9nZ2VyRmFjdG9yeSgpOwoKLy9DcmVhdGUgYSBuZXcgRmlsZUFwcGVuZGVyCiAgICAgICAgRmlsZUFwcGVuZGVyPElMb2dnaW5nRXZlbnQ+IGZpbGUgPSBuZXcgRmlsZUFwcGVuZGVyPElMb2dnaW5nRXZlbnQ+KCk7CiAgICAgICAgZmlsZS5zZXROYW1lKCJGaWxlTG9nZ2VyIik7CiAgICAgICAgZmlsZS5zZXRGaWxlKCJlcnJvci5sb2ciKTsKICAgICAgICBmaWxlLnNldENvbnRleHQoY29udGV4dCk7CiAgICAgICAgZmlsZS5zZXRBcHBlbmQodHJ1ZSk7CgovL0ZpbHRlciBvdXQgYW55dGhpbmcgPCBXQVJOCiAgICAgICAgVGhyZXNob2xkRmlsdGVyIHdhcm5pbmdGaWx0ZXIgPSBuZXcgVGhyZXNob2xkRmlsdGVyKCk7CiAgICAgICAgd2FybmluZ0ZpbHRlci5zZXRMZXZlbCgiV0FSTiIpOwogICAgICAgIHdhcm5pbmdGaWx0ZXIuc2V0Q29udGV4dChjb250ZXh0KTsKICAgICAgICB3YXJuaW5nRmlsdGVyLnN0YXJ0KCk7CiAgICAgICAgZmlsZS5hZGRGaWx0ZXIod2FybmluZ0ZpbHRlcik7Cg==</text>
+        <text encoding="base64">ICAgIG1haW4gPSAnJwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJFcnJvcjp7fSB3aGlsZSBnZXQgcmVtb3RlIHByb3ZpZGVyIGJ5OiB7fSIsIHJlc3BvbnNlLmdldFN0YXR1cygpLCBpZGVudGlmaWFibGUuaWQoKS50b0FTQ0lJU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvL0luc3RhbGwgdGhlIEpVTCBCcmlkZ2UKICAgICAgICBTTEY0SkJyaWRnZUhhbmRsZXIucmVtb3ZlSGFuZGxlcnNGb3JSb290TG9nZ2VyKCk7CiAgICAgICAgU0xGNEpCcmlkZ2VIYW5kbGVyLmluc3RhbGwoKTsKCi8vT2J0YWluIGFuIGluc3RhbmNlIG9mIExvZ2dlckNvbnRleHQKICAgICAgICBMb2dnZXJDb250ZXh0IGNvbnRleHQgPSAoTG9nZ2VyQ29udGV4dCkgTG9nZ2VyRmFjdG9yeS5nZXRJTG9nZ2VyRmFjdG9yeSgpOwoKLy9DcmVhdGUgYSBuZXcgRmlsZUFwcGVuZGVyCiAgICAgICAgRmlsZUFwcGVuZGVyPElMb2dnaW5nRXZlbnQ+IGZpbGUgPSBuZXcgRmlsZUFwcGVuZGVyPElMb2dnaW5nRXZlbnQ+KCk7CiAgICAgICAgZmlsZS5zZXROYW1lKCJGaWxlTG9nZ2VyIik7CiAgICAgICAgZmlsZS5zZXRGaWxlKCJlcnJvci5sb2ciKTsKICAgICAgICBmaWxlLnNldENvbnRleHQoY29udGV4dCk7CiAgICAgICAgZmlsZS5zZXRBcHBlbmQodHJ1ZSk7CgovL0ZpbHRlciBvdXQgYW55dGhpbmcgPCBXQVJOCiAgICAgICAgVGhyZXNob2xkRmlsdGVyIHdhcm5pbmdGaWx0ZXIgPSBuZXcgVGhyZXNob2xkRmlsdGVyKCk7CiAgICAgICAgd2FybmluZ0ZpbHRlci5zZXRMZXZlbCgiV0FSTiIpOwogICAgICAgIHdhcm5pbmdGaWx0ZXIuc2V0Q29udGV4dChjb250ZXh0KTsKICAgICAgICB3YXJuaW5nRmlsdGVyLnN0YXJ0KCk7CiAgICAgICAgZmlsZS5hZGRGaWx0ZXIod2FybmluZ0ZpbHRlcik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJFcnJvcjp7fSB3aGlsZSBnZXQgcmVtb3RlIHByb3ZpZGVyIGJ5OiB7fSIsIGlkZW50aWZpYWJsZS5pZCgpLnRvQVNDSUlTdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJFcnJvcjp7fSB3aGlsZSBnZXQgcmVtb3RlIHByb3ZpZGVyIGJ5OiB7fSIsIHJlc3BvbnNlLmdldFN0YXR1cygpLCBpZGVudGlmaWFibGUuaWQoKS50b0FTQ0lJU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy5tb2NrLXNlcnZlcjptb2Nrc2VydmVyLW5ldHR5OjMuMTAuNCcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJFcnJvcjp7fSB3aGlsZSBnZXQgcmVtb3RlIHByb3ZpZGVyIGJ5OiB7fSIsIGlkZW50aWZpYWJsZS5pZCgpLnRvQVNDSUlTdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy5tb2NrLXNlcnZlcjptb2Nrc2VydmVyLW5ldHR5OjMuMTAuNCcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgImJpei5wYWx1Y2gubG9nZ2luZzpsb2dzdGFzaC1nZWxmOjEuMTEuMSIK</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy5tb2NrLXNlcnZlcjptb2Nrc2VydmVyLW5ldHR5OjMuMTAuNCcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgImJpei5wYWx1Y2gubG9nZ2luZzpsb2dzdGFzaC1nZWxmOjEuMTEuMSIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoIlN1Y2NlZWQgdG8gZ2V0IHByb3ZpZGVyOiB7fSIsIG1hcCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJFcnJvcjolZCB3aGlsZSBnZXQgcmVtb3RlIHByb3ZpZGVyIGJ5OiAlcyIsIGlkZW50aWZpYWJsZS5pZCgpLnRvQVNDSUlTdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoIlN1Y2NlZWQgdG8gZ2V0IHByb3ZpZGVyOiB7fSIsIG1hcCk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
@@ -1246,9 +1265,9 @@
       </register>
     </registers>
     <search>
-      <last-search>app</last-search>
+      <last-search>main</last-search>
       <last-offset />
-      <last-pattern>app</last-pattern>
+      <last-pattern>main</last-pattern>
       <last-replace>\r@</last-replace>
       <last-substitute>@</last-substitute>
       <last-dir>1</last-dir>
@@ -1256,7 +1275,6 @@
     </search>
     <history>
       <history-search>
-        <entry>-</entry>
         <entry>jackson</entry>
         <entry>PULSES</entry>
         <entry>DATA</entry>
@@ -1276,6 +1294,7 @@
         <entry>save</entry>
         <entry>provider</entry>
         <entry>app</entry>
+        <entry>main</entry>
       </history-search>
       <history-cmd>
         <entry>:reg</entry>
