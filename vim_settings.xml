@@ -33,7 +33,7 @@
         <mark key="^" line="21" column="42" />
         <mark key="." line="21" column="44" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildCreatedConductor.java" timestamp="1505985560960">
+      <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildCreatedConductor.java" timestamp="1505987897903">
         <mark key="'" line="131" column="0" />
         <mark key="[" line="135" column="30" />
         <mark key="]" line="135" column="53" />
@@ -565,6 +565,9 @@
         <mark key="." line="0" column="40" />
         <mark key="^" line="0" column="40" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProvidersTest.java" timestamp="1505988690079">
+        <mark key="'" line="275" column="47" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/support/util/UtilTest.java" timestamp="1505977963178">
         <mark key="[" line="18" column="85" />
         <mark key="]" line="19" column="8" />
@@ -578,7 +581,7 @@
         <mark key="." line="157" column="108" />
         <mark key="^" line="157" column="108" />
       </file>
-      <file name="/fragment.java" timestamp="1505977745638">
+      <file name="/fragment.java" timestamp="1505987966642">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
@@ -626,7 +629,7 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="37" column="14" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" timestamp="1505987333107">
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" timestamp="1505987942422">
         <mark key="'" line="188" column="30" />
         <mark key="[" line="49" column="39" />
         <mark key="]" line="50" column="3" />
@@ -1129,7 +1132,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="0" filename="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildCreatedConductorTest.java" />
       <jump line="62" column="93" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/resources/UnifiedProcedureResource.java" />
       <jump line="280" column="0" filename="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildCreatedConductorTest.java" />
       <jump line="69" column="0" filename="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildCreatedConductorTest.java" />
@@ -1229,6 +1231,7 @@
       <jump line="44" column="84" filename="/workspace/solutions/cnup/stacks/controller/src/main/resources/mybatis/mappers/ApplicationMapper.xml" />
       <jump line="304" column="0" filename="/workspace/solutions/cnup/stacks/controller/src/main/resources/mybatis/mappers/ApplicationMapper.xml" />
       <jump line="187" column="30" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
+      <jump line="275" column="47" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProvidersTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
