@@ -146,11 +146,11 @@
         <mark key="^" line="51" column="90" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/neuron/src/main/resources/log4j.properties" timestamp="1504856620188">
+      <file name="/workspace/solutions/cnup/stacks/neuron/src/main/resources/log4j.properties" timestamp="1505980044698">
         <mark key="[" line="0" column="17" />
-        <mark key="]" line="0" column="20" />
-        <mark key="^" line="0" column="20" />
-        <mark key="." line="0" column="20" />
+        <mark key="]" line="0" column="21" />
+        <mark key="^" line="0" column="21" />
+        <mark key="." line="0" column="21" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/features/error/ConflictExceptionMapper.java" timestamp="1502159852767">
         <mark key="[" line="10" column="0" />
@@ -334,12 +334,12 @@
         <mark key="^" line="12" column="4" />
         <mark key="." line="12" column="13" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/neuron/build.gradle" timestamp="1505886504614">
+      <file name="/workspace/solutions/cnup/stacks/neuron/build.gradle" timestamp="1505979848237">
         <mark key="'" line="20" column="44" />
-        <mark key="[" line="20" column="41" />
-        <mark key="]" line="20" column="44" />
-        <mark key="." line="20" column="44" />
-        <mark key="^" line="20" column="44" />
+        <mark key="[" line="43" column="12" />
+        <mark key="]" line="43" column="12" />
+        <mark key="." line="43" column="12" />
+        <mark key="^" line="43" column="12" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/main/resources/db/migration/V4__add_results_table.sql" timestamp="1504840964181">
         <mark key="[" line="5" column="13" />
@@ -752,10 +752,10 @@
         <mark key="^" line="5" column="36" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/support/util/DefaultRestClient.java" timestamp="1505978047248">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="38" column="15" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="41" column="15" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/controller/src/main/java/com/thoughtworks/controller/resources/ApplicationsResource.java" timestamp="1505724152471">
         <mark key="[" line="67" column="108" />
@@ -975,7 +975,7 @@
         <mark key="^" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505975408258">
+      <file name="/Dummy.txt" timestamp="1505979190006">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/Main.java" timestamp="1505977715001">
@@ -1241,8 +1241,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBMT0dHRVIgPSBMb2dnZXIuZ2V0TG9nZ2VyKExvZ2dpbmdGaWx0ZXIuY2xhc3MuZ2V0TmFtZSgpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>INFO</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1260,7 +1260,7 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text>xxx</text>
+        <text>INFO</text>
       </register>
       <register name="/" type="4">
         <text>controller</text>
