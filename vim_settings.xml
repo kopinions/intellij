@@ -93,6 +93,9 @@
         <mark key="." line="28" column="56" />
         <mark key="^" line="28" column="56" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Providers.xml" timestamp="1508223255197">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/modules/atp/src/test/java/com/thoughtworks/cnup/atp/CoreTck.java" timestamp="1502939876136">
         <mark key="[" line="3" column="31" />
         <mark key="]" line="4" column="0" />
@@ -105,9 +108,12 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="37" column="14" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" timestamp="1508208235862">
-        <mark key="'" line="187" column="30" />
-        <mark key="[" line="49" column="39" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" timestamp="1508223247626">
+        <mark key="'" line="149" column="55" />
+        <mark key="[" line="159" column="0" />
+        <mark key="]" line="159" column="0" />
+        <mark key="." line="159" column="0" />
+        <mark key="^" line="158" column="134" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/controller/src/test/java/com/thoughtworks/controller/support/InjectBasedRunner.java" timestamp="1505440938387">
         <mark key="[" line="114" column="0" />
@@ -348,8 +354,11 @@
         <mark key="." line="5" column="16" />
         <mark key="^" line="5" column="16" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/Modules.java" timestamp="1508212356369">
-        <mark key="[" line="188" column="0" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/Modules.java" timestamp="1508223237068">
+        <mark key="[" line="190" column="0" />
+        <mark key="]" line="190" column="0" />
+        <mark key="^" line="192" column="18" />
+        <mark key="." line="190" column="0" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/modules/features/auth/src/main/java/com/thoughtworks/cnup/features/auth/Auth.java" timestamp="1503288893656">
         <mark key="[" line="2" column="0" />
@@ -1121,9 +1130,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="0" filename="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildCreatedConductorTest.java" />
-      <jump line="51" column="12" filename="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildCreatedConductor.java" />
-      <jump line="75" column="38" filename="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildCreatedConductor.java" />
       <jump line="76" column="13" filename="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildCreatedConductor.java" />
       <jump line="85" column="49" filename="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildCreatedConductor.java" />
       <jump line="86" column="36" filename="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildCreatedConductor.java" />
@@ -1221,6 +1227,9 @@
       <jump line="275" column="47" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProvidersTest.java" />
       <jump line="123" column="4" filename="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildCreatedConductor.java" />
       <jump line="90" column="0" filename="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/support/util/Util.java" />
+      <jump line="143" column="25" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
+      <jump line="149" column="55" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
+      <jump line="0" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Providers.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1229,7 +1238,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5nbGFzc2Zpc2guamVyc2V5LmZpbHRlci5Mb2dnaW5nRmlsdGVyOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyB0b2RvOiBubyB1c2VybmFtZSBhbmQgcGFzc3dvcmQgaXMgc3BlY2lmaWVkCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1247,43 +1256,43 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>owner</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuZGVidWcoImNvbmR1Y3RvciBzdWNjZXNzIHRvIGZpbmQgYXBwIGJ1aWxkIHNvdXJjZS4gdXJpOiB7fSIsIHNvdXJjZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmRlYnVnKCJjcmVhdGUgbWFyYXRob24gd2l0aCBjb25maWc6IHt9IiwgY29uZmlnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5nbGFzc2Zpc2guamVyc2V5LmZpbHRlci5Mb2dnaW5nRmlsdGVyOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyB0b2RvOiBubyB1c2VybmFtZSBhbmQgcGFzc3dvcmQgaXMgc3BlY2lmaWVkCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGdldEluc3RhbmNlKFN0cmluZy52YWx1ZU9mKGNvbmZpZy5nZXQoImVuZHBvaW50IikpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBzaG91bGQgYWJsZSBjcmVhdGUgYW5kIGZpbmQgdGhlIGN1cnNvciBieSBuYW1lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmRlYnVnKCIiLCBjb25maWcpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJyZW5kZXJlZCA9ICIgKyByZW5kZXJlZCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBzaG91bGQgYWJsZSBjcmVhdGUgYW5kIGZpbmQgdGhlIGN1cnNvciBieSBuYW1lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5nbGFzc2Zpc2guamVyc2V5LmZpbHRlci5Mb2dnaW5nRmlsdGVyOwo=</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
