@@ -48,7 +48,9 @@
       <file name="/a.dummy" timestamp="1505977836002">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildCreatedConductor.java" timestamp="1508206390219" />
+      <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildCreatedConductor.java" timestamp="1508208013112">
+        <mark key="'" line="123" column="4" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/records/fixtures/SinglePageEvents.java" timestamp="1504073532289">
         <mark key="[" line="0" column="37" />
         <mark key="]" line="0" column="35" />
@@ -103,7 +105,7 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="37" column="14" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" timestamp="1505987942422">
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" timestamp="1508208235862">
         <mark key="'" line="187" column="30" />
         <mark key="[" line="49" column="39" />
       </file>
@@ -173,6 +175,12 @@
         <mark key="]" line="9" column="54" />
         <mark key="." line="9" column="44" />
         <mark key="^" line="9" column="44" />
+      </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V36__add_procedure_instance_status_and_operations.sql" timestamp="1508207916427">
+        <mark key="[" line="14" column="39" />
+        <mark key="]" line="14" column="39" />
+        <mark key="^" line="14" column="58" />
+        <mark key="." line="14" column="39" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/modules/guice-feature/build.gradle" timestamp="1502940485598">
         <mark key="[" line="7" column="0" />
@@ -736,7 +744,7 @@
         <mark key="^" line="34" column="61" />
         <mark key="." line="34" column="61" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V39__add_files.sql" timestamp="1503561273911">
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/db/migration/V39__add_files.sql" timestamp="1508207778897">
         <mark key="[" line="5" column="36" />
         <mark key="]" line="5" column="36" />
         <mark key="." line="5" column="36" />
@@ -958,7 +966,7 @@
         <mark key="^" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505979190006">
+      <file name="/Dummy.txt" timestamp="1508207899508">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/Main.java" timestamp="1505980670128">
@@ -1030,6 +1038,7 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/core/Procedure.java" timestamp="1508208294096" />
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/features/routing/error/ConflictExceptionMapper.java" timestamp="1502159814820">
         <mark key="[" line="0" column="42" />
         <mark key="]" line="0" column="40" />
@@ -1115,7 +1124,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="93" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/resources/UnifiedProcedureResource.java" />
       <jump line="280" column="0" filename="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildCreatedConductorTest.java" />
       <jump line="69" column="0" filename="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildCreatedConductorTest.java" />
       <jump line="51" column="12" filename="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildCreatedConductor.java" />
@@ -1215,6 +1223,7 @@
       <jump line="304" column="0" filename="/workspace/solutions/cnup/stacks/controller/src/main/resources/mybatis/mappers/ApplicationMapper.xml" />
       <jump line="187" column="30" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
       <jump line="275" column="47" filename="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProvidersTest.java" />
+      <jump line="123" column="4" filename="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildCreatedConductor.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1223,7 +1232,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>ERROR</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1241,10 +1250,10 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text>ERROR</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>controller</text>
+        <text>owner</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBMT0dHRVIuZGVidWcoImNvbmR1Y3RvciBzdWNjZXNzIHRvIGZpbmQgYXBwIGJ1aWxkIHNvdXJjZS4gdXJpOiB7fSIsIHNvdXJjZSk7Cg==</text>
@@ -1287,9 +1296,9 @@
       </register>
     </registers>
     <search>
-      <last-search>controller</last-search>
+      <last-search>owner</last-search>
       <last-offset />
-      <last-pattern>controller</last-pattern>
+      <last-pattern>owner</last-pattern>
       <last-replace>neuron</last-replace>
       <last-substitute>controller</last-substitute>
       <last-dir>1</last-dir>
@@ -1297,7 +1306,6 @@
     </search>
     <history>
       <history-search>
-        <entry>jackson</entry>
         <entry>PULSES</entry>
         <entry>DATA</entry>
         <entry>events</entry>
@@ -1317,6 +1325,7 @@
         <entry>app</entry>
         <entry>main</entry>
         <entry>controller</entry>
+        <entry>owner</entry>
       </history-search>
       <history-cmd>
         <entry>reg</entry>
