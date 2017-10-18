@@ -195,6 +195,9 @@
         <mark key="." line="19" column="24" />
         <mark key="^" line="19" column="24" />
       </file>
+      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/wrappers/build/rootfs/run" timestamp="1508293000691">
+        <mark key="'" line="71" column="0" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/factory/ObjectFactory.java" timestamp="1504518895916">
         <mark key="[" line="14" column="41" />
         <mark key="]" line="14" column="7" />
@@ -435,6 +438,9 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="6" column="8" />
       </file>
+      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/java/com/thoughtworks/cnup/Modules.java" timestamp="1508292373798">
+        <mark key="[" line="62" column="67" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/support/Bind.java" timestamp="1504590581522">
         <mark key="[" line="8" column="8" />
         <mark key="]" line="8" column="24" />
@@ -566,6 +572,9 @@
         <mark key="." line="0" column="40" />
         <mark key="^" line="0" column="40" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProvidersTest.java" timestamp="1505988690079">
+        <mark key="'" line="275" column="47" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/support/util/UtilTest.java" timestamp="1508210443877">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -650,6 +659,7 @@
         <mark key="^" line="51" column="90" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/synapse/rootfs/etc/consul-template/templates/haproxy.cfg.ctmpl" timestamp="1508293495528" />
       <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/mappers/Pulses.java" timestamp="1504512660500">
         <mark key="[" line="4" column="21" />
         <mark key="]" line="4" column="0" />
@@ -796,6 +806,13 @@
         <mark key="]" line="18" column="20" />
         <mark key="." line="18" column="20" />
         <mark key="^" line="18" column="20" />
+      </file>
+      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" timestamp="1508293395204">
+        <mark key="'" line="339" column="25" />
+        <mark key="[" line="337" column="47" />
+        <mark key="]" line="337" column="46" />
+        <mark key="^" line="337" column="46" />
+        <mark key="." line="337" column="46" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/test/resources/fixtures/procedure.hbs" timestamp="1505459433866">
         <mark key="[" line="378" column="13" />
@@ -1041,6 +1058,9 @@
         <mark key="^" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/Main.java" timestamp="1505980670128">
+        <mark key="'" line="59" column="52" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/test/resources/fixtures/build.hbs" timestamp="1505470254157">
         <mark key="[" line="18" column="9" />
         <mark key="]" line="18" column="14" />
@@ -1131,8 +1151,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="33" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Providers.xml" />
-      <jump line="15" column="26" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Providers.xml" />
       <jump line="18" column="41" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Providers.xml" />
       <jump line="50" column="42" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Providers.xml" />
       <jump line="51" column="30" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/Providers.xml" />
@@ -1231,6 +1249,8 @@
       <jump line="156" column="43" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstance.java" />
       <jump line="22" column="0" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstance.java" />
       <jump line="344" column="33" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
+      <jump line="339" column="25" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
+      <jump line="71" column="0" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/wrappers/build/rootfs/run" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1239,7 +1259,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>31998</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1257,44 +1277,44 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>31998</text>
       </register>
       <register name="/" type="4">
-        <text>owner</text>
+        <text>UPS</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGVudi5wdXQoIlVQU19QUk9DRURVUkVfT1BFUkFUSU9OU19VUkkiLCBTdHJpbmcuZm9ybWF0KCIvcHJvY2VkdXJlcy8lcy9vcGVyYXRpb25zIiwgcHJvY2VkdXJlLmdldElkKCkpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVudi5wdXQoIkRFQlVHIiwgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVudi5wdXQoIldSQVBQRURfQ09OVFJPTExFUl9QT1JUIiwgIjMxOTk1Iik7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJsIC1YIFBPU1QgXAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVudi5wdXQoIldSQVBQRURfQ09OVFJPTExFUl9IT1NUIiwgImNvbnRyb2xsZXIuc2VydmljZS5jb25zdWwiKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVudi5wdXQoIldSQVBQRURfQ09OVFJPTExFUl9BQ0NFU1NUT0tFTiIsICJ0b2tlbiIpOwo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVudi5wdXQoIkRFQlVHIiwgKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjdXJsIC1YIFBPU1QgXAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBidWlsZCBzdWNjZXNzICR7QlVJTERfVVJJfSAmPi9kZXYvbnVsbAo=</text>
       </register>
-      <register name="5" type="8">
+      <register name="8" type="8">
         <text>WRAPPED_
 WRAPPED_</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZCBmYWlsICR7QlVJTERfVVJJfQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVudi5wdXQoIldSQVBQRURfQ09OVFJPTExFUl9IT1NUIiwgInRva2VuIik7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0b2RvOiBubyB1c2VybmFtZSBhbmQgcGFzc3dvcmQgaXMgc3BlY2lmaWVkCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGdldEluc3RhbmNlKFN0cmluZy52YWx1ZU9mKGNvbmZpZy5nZXQoImVuZHBvaW50IikpKTsK</text>
+        <text encoding="base64">ICAgICAgICBidWlsZCBmYWlsICR7QlVJTERfVVJJfQo=</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
@@ -1304,17 +1324,16 @@ WRAPPED_</text>
       </register>
     </registers>
     <search>
-      <last-search>owner</last-search>
+      <last-search>UPS</last-search>
       <last-offset />
-      <last-pattern>owner</last-pattern>
-      <last-replace>neuron</last-replace>
-      <last-substitute>controller</last-substitute>
+      <last-pattern>UPS</last-pattern>
+      <last-replace>CNUP</last-replace>
+      <last-substitute>UPS</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>PULSES</entry>
         <entry>DATA</entry>
         <entry>events</entry>
         <entry>event</entry>
@@ -1334,13 +1353,11 @@ WRAPPED_</text>
         <entry>main</entry>
         <entry>controller</entry>
         <entry>owner</entry>
+        <entry>UPS</entry>
       </history-search>
       <history-cmd>
-        <entry>reg</entry>
-        <entry>wq</entry>
         <entry>W</entry>
         <entry>Lw</entry>
-        <entry>qw</entry>
         <entry>ew</entry>
         <entry encoding="base64">JzwsJz5AL1xuQC9nYw==</entry>
         <entry encoding="base64">JzwsJz5AL1xcbkAvZ2M=</entry>
@@ -1355,6 +1372,9 @@ WRAPPED_</text>
         <entry>w2</entry>
         <entry encoding="base64">JzwsJz5zL2NvbnRyb2xsZXIvbmV1cm9uL2dj</entry>
         <entry>&quot;w</entry>
+        <entry>qw</entry>
+        <entry encoding="base64">JzwsJz5zL1VQUy9DTlVQL2dj</entry>
+        <entry>%s/UPS/CNUP/gc</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
