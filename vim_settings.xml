@@ -40,12 +40,8 @@
         <mark key="." line="135" column="40" />
         <mark key="^" line="116" column="39" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildCreatedConductor.java" timestamp="1508316773063">
-        <mark key="'" line="145" column="4" />
-        <mark key="[" line="119" column="51" />
-        <mark key="]" line="119" column="54" />
-        <mark key="." line="119" column="54" />
-        <mark key="^" line="119" column="54" />
+      <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildCreatedConductor.java" timestamp="1508384603879">
+        <mark key="'" line="156" column="4" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/records/fixtures/SinglePageEvents.java" timestamp="1504073532289">
         <mark key="[" line="0" column="37" />
@@ -588,6 +584,9 @@
         <mark key="]" line="128" column="24" />
         <mark key="." line="128" column="24" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProvidersTest.java" timestamp="1505988690079">
+        <mark key="'" line="275" column="47" />
+      </file>
       <file name="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/templates/controller.tmpl" timestamp="1505370265574">
         <mark key="'" line="104" column="37" />
         <mark key="[" line="157" column="101" />
@@ -1071,6 +1070,9 @@
         <mark key="^" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/Main.java" timestamp="1505980670128">
+        <mark key="'" line="59" column="52" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/test/resources/fixtures/build.hbs" timestamp="1505470254157">
         <mark key="[" line="18" column="9" />
         <mark key="]" line="18" column="14" />
@@ -1269,7 +1271,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>CODEBASE_DIR</text>
+        <text encoding="base64">IGJ1aWxkUHJvY2VkdXJlQXBwU291cmNlb2x1bWUuZ2V0KCkuZ2V0KCJzb3VyY2UiKQ==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1287,43 +1289,43 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text>CODEBASE_DIR</text>
+        <text encoding="base64">IGJ1aWxkUHJvY2VkdXJlQXBwU291cmNlb2x1bWUuZ2V0KCkuZ2V0KCJzb3VyY2UiKQ==</text>
       </register>
       <register name="/" type="4">
         <text>-up</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bWtkaXIgLXAgJHtDT0RFQkFTRV9ESVJ9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc291cmNlVm9sdW1lLnB1dCgiZGVzdCIsIGJ1aWxkUHJvY2VkdXJlQXBwU291cmNlVm9sdW1lLmdldCgpLmdldCgiZGVzdCIpKTsgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Q09ERUJBU0U9Ii9jbnVwL2NvZGViYXNlLyR7Q05VUF9QUk9DRURVUkVfSUR9Igo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bWtkaXIgLXAgJHtURU1QX0RJUn0K</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PE1hcDxTdHJpbmcsIE9iamVjdD4+IHZvbHVtZXMgPSAoTGlzdDxNYXA8U3RyaW5nLCBPYmplY3Q+PikgYnVpbGRQcm9jZWR1cmVBcHAuZ2V0KCJ2b2x1bWVzIik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">VEVNUF9ESVI9Ii9jbnVwLyR7Q05VUF9QUk9DRURVUkVfSUR9Igo=</text>
+        <text encoding="base64">ICAgICAgICBMT0dHRVIuZGVidWcoImZvdW5kIGJ1aWxkIHByb2NlZHVyZSBhcHAge30iLCBidWlsZFByb2NlZHVyZUFwcCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cG9wZCA+IC9kZXYvbnVsbAo=</text>
+        <text encoding="base64">ICAgICAgICB1bmlmaWVkUHJvY2VkdXJlRGF0YQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZG9ja2VyIHJ1biAtLXJtIC0tdm9sdW1lLWRyaXZlcj1yYmQgLXYgJHtBUFBfTkFNRX1fY29kZWJhc2U6L2NvZGViYXNlIC12ICR7VEVNUF9ESVJ9Oi9jb2RlcyBhbHBpbmU6My41IHNoIC1jICdybSAtcmYgL2NvZGViYXNlLyogJiYgdGFyIC16eGYgL2NvZGVzL2NvZGViYXNlLnRhci5neiAtQyAvY29kZWJhc2UgJiYgcm0gLXJmIC9jb2Rlcy9jb2RlYmFzZS50YXIuZ3onCg==</text>
+        <text encoding="base64">Q09ERUJBU0U9Ii9jbnVwL2NvZGViYXNlLyR7Q05VUF9QUk9DRURVUkVfSUR9Igo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y3AgJHtDVVJSRU5UX0JVSUxEX0RJUn0vY29kZWJhc2UudGFyLmd6ICR7VEVNUF9ESVJ9Cg==</text>
+        <text encoding="base64">bWtkaXIgLXAgJHtURU1QX0RJUn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VEVNUF9ESVI9Ii9jbnVwLyR7Q05VUF9QUk9DRURVUkVfSUR9Igo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cG9wZCA+IC9kZXYvbnVsbAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBpbnQgcmVhZCA9IDA7Ci8vICAgICAgICAgICAgaW50IGNvdW50ID0gMDsKLy8gICAgICAgICAgICBieXRlW10gYnl0ZXMgPSBuZXcgYnl0ZVsxMDI0XTsKLy8KLy8gICAgICAgICAgICB3aGlsZSAoKHJlYWQgPSBkYXRhLnJlYWQoYnl0ZXMpKSAhPSAtMSkgewovLyAgICAgICAgICAgICAgICBjb3VudCA9IHJlYWQgKyBjb3VudDsKLy8gICAgICAgICAgICAgICAgZmlsZU91dHB1dFN0cmVhbS53cml0ZShieXRlcywgMCwgcmVhZCk7Ci8vICAgICAgICAgICAgfQovLyAgICAgICAgICAgIGZpbGVPdXRwdXRTdHJlYW0uZmx1c2goKTsKLy8gICAgICAgICAgICBmaWxlT3V0cHV0U3RyZWFtLmNsb3NlKCk7Ci8vICAgICAgICAgICAgZGF0YS5jbG9zZSgpOwo=</text>
+        <text encoding="base64">ZG9ja2VyIHJ1biAtLXJtIC0tdm9sdW1lLWRyaXZlcj1yYmQgLXYgJHtBUFBfTkFNRX1fY29kZWJhc2U6L2NvZGViYXNlIC12ICR7VEVNUF9ESVJ9Oi9jb2RlcyBhbHBpbmU6My41IHNoIC1jICdybSAtcmYgL2NvZGViYXNlLyogJiYgdGFyIC16eGYgL2NvZGVzL2NvZGViYXNlLnRhci5neiAtQyAvY29kZWJhc2UgJiYgcm0gLXJmIC9jb2Rlcy9jb2RlYmFzZS50YXIuZ3onCg==</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
