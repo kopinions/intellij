@@ -193,12 +193,11 @@
         <mark key="." line="19" column="24" />
         <mark key="^" line="19" column="24" />
       </file>
-      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/wrappers/build/rootfs/run" timestamp="1508406373501">
-        <mark key="'" line="75" column="0" />
-        <mark key="[" line="73" column="16" />
-        <mark key="]" line="73" column="16" />
-        <mark key="^" line="73" column="13" />
-        <mark key="." line="73" column="16" />
+      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/wrappers/build/rootfs/run" timestamp="1508492175824">
+        <mark key="'" line="74" column="0" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/factory/ObjectFactory.java" timestamp="1504518895916">
         <mark key="[" line="14" column="41" />
@@ -1164,8 +1163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="13" filename="/workspace/solutions/cnup/stacks/controller/src/main/resources/mybatis/mappers/Columns.xml" />
-      <jump line="48" column="38" filename="/workspace/solutions/cnup/stacks/controller/src/test/java/com/thoughtworks/controller/support/TestHelper.java" />
       <jump line="316" column="0" filename="/workspace/solutions/cnup/stacks/controller/src/main/java/com/thoughtworks/controller/records/ApplicationRecord.java" />
       <jump line="436" column="0" filename="/workspace/solutions/cnup/stacks/controller/src/main/java/com/thoughtworks/controller/records/ApplicationRecord.java" />
       <jump line="431" column="0" filename="/workspace/solutions/cnup/stacks/controller/src/main/java/com/thoughtworks/controller/records/ApplicationRecord.java" />
@@ -1264,6 +1261,8 @@
       <jump line="122" column="75" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" />
       <jump line="98" column="123" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" />
       <jump line="176" column="50" filename="/workspace/solutions/cnup/stacks/controller/src/main/resources/mybatis/mappers/ApplicationMapper.xml" />
+      <jump line="7" column="0" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/wrappers/build/rootfs/run" />
+      <jump line="74" column="0" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/wrappers/build/rootfs/run" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1272,7 +1271,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVudi5wdXQoIkNOVVBfQ09ERUJBU0VfVVJJIiwgImh0dHA6Ly9sYXVuY2hlci50emlvbi5tZS9maWxlcy81YTcxOTQxNWI0N2IxMWU3YTlmZjAyNDJhYzExMDAwMyIpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1299,34 +1298,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVzdC5pZlByZXNlbnQoZCAtPiBMT0dHRVIuZGVidWcoImdldCB0aGUgc2FtZSB2b2x1bWUge30iLCBkKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVudi5wdXQoIkNOVVBfQ09ERUJBU0VfVVJJIiwgImh0dHA6Ly9sYXVuY2hlci50emlvbi5tZS9maWxlcy81YTcxOTQxNWI0N2IxMWU3YTlmZjAyNDJhYzExMDAwMyIpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVudi5wdXQoIkNOVVBfQ09ERUJBU0VfVVJJIiwgImh0dHA6Ly9sYXVuY2hlci50emlvbi5tZS9maWxlcy81YTcxOTQxNWI0N2IxMWU3YTlmZjAyNDJhYzExMDAwMyIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVzdC5pZlByZXNlbnQoZCAtPiBMT0dHRVIuZGVidWcoImdldCB0aGUgc2FtZSB2b2x1bWUge30iLCBkKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTE9HR0VSLmRlYnVnKCJtYXBwaW5nIHRoZSB2b2x1bWUgIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVzdC5pZlByZXNlbnQoZCAtPiBMT0dHRVIuZGVidWcoImdldCB0aGUgc2FtZSB2b2x1bWUge30iLCBkKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTE9HR0VSLmRlYnVnKCJnZXQgdGhlIGFwcCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTE9HR0VSLmRlYnVnKCJtYXBwaW5nIHRoZSB2b2x1bWUgIik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTE9HRwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTE9HR0VSLmRlYnVnKCJnZXQgdGhlIGFwcCIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5oZWFkZXJzKGhlYWRlcnMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTE9HRwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5oZWFkZXJzKGhlYWRlcnMpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">cHJvY2Vzcy5nZXRWb2x1bWVzKCkuc3RyZWFtKCkKICAgICAgICAgICAgICAgICAgICAgICAgLm1hcCh2IC0+IHYuZ2V0U291cmNlKCkgKyAiOiIgKyB2LmdldFRhcmdldCgpICsgIjoiICsgdi5nZXRNb2RlKCkgKyAiOiIgKyB2LmdldFR5cGUoKSkKICAgICAgICAgICAgICAgICAgICAgICAgLmNvbGxlY3Qoam9pbmluZygiIyIpKQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
