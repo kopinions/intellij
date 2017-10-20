@@ -817,12 +817,12 @@
         <mark key="." line="18" column="20" />
         <mark key="^" line="18" column="20" />
       </file>
-      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" timestamp="1508463639096">
+      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" timestamp="1508491375741">
         <mark key="'" line="33" column="0" />
-        <mark key="[" line="322" column="42" />
-        <mark key="]" line="322" column="42" />
+        <mark key="[" line="341" column="0" />
+        <mark key="]" line="341" column="0" />
         <mark key="^" line="322" column="42" />
-        <mark key="." line="322" column="42" />
+        <mark key="." line="341" column="0" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/test/resources/fixtures/procedure.hbs" timestamp="1508398524927">
         <mark key="[" line="378" column="13" />
@@ -1271,8 +1271,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>dest</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVudi5wdXQoIkNOVVBfQ09ERUJBU0VfVVJJIiwgImh0dHA6Ly9sYXVuY2hlci50emlvbi5tZS9maWxlcy81YTcxOTQxNWI0N2IxMWU3YTlmZjAyNDJhYzExMDAwMyIpOwo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1299,34 +1299,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVzdC5pZlByZXNlbnQoZCAtPiBMT0dHRVIuZGVidWcoImdldCB0aGUgc2FtZSB2b2x1bWUge30iLCBkKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVudi5wdXQoIkNOVVBfQ09ERUJBU0VfVVJJIiwgImh0dHA6Ly9sYXVuY2hlci50emlvbi5tZS9maWxlcy81YTcxOTQxNWI0N2IxMWU3YTlmZjAyNDJhYzExMDAwMyIpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVzdC5pZlByZXNlbnQoZCAtPiBMT0dHRVIuZGVidWcoImdldCB0aGUgc2FtZSB2b2x1bWUge30iLCBkKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTE9HR0VSLmRlYnVnKCJtYXBwaW5nIHRoZSB2b2x1bWUgIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVzdC5pZlByZXNlbnQoZCAtPiBMT0dHRVIuZGVidWcoImdldCB0aGUgc2FtZSB2b2x1bWUge30iLCBkKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTE9HR0VSLmRlYnVnKCJnZXQgdGhlIGFwcCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTE9HR0VSLmRlYnVnKCJtYXBwaW5nIHRoZSB2b2x1bWUgIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTE9HRwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTE9HR0VSLmRlYnVnKCJnZXQgdGhlIGFwcCIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5oZWFkZXJzKGhlYWRlcnMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTE9HRwo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5oZWFkZXJzKGhlYWRlcnMpCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">cHJvY2Vzcy5nZXRWb2x1bWVzKCkuc3RyZWFtKCkKICAgICAgICAgICAgICAgICAgICAgICAgLm1hcCh2IC0+IHYuZ2V0U291cmNlKCkgKyAiOiIgKyB2LmdldFRhcmdldCgpICsgIjoiICsgdi5nZXRNb2RlKCkgKyAiOiIgKyB2LmdldFR5cGUoKSkKICAgICAgICAgICAgICAgICAgICAgICAgLmNvbGxlY3Qoam9pbmluZygiIyIpKQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBib29sZWFuIG1hdGNoZXMgPSAiaHR0Oi8vbGF1bmNoZXIudHppb24ubWUvZmlsZXMveHhjYXNsZmphZHNsZmpkYXNsZmRhcyIubWF0Y2hlcygiXihodHRwcz8pOi8vWy1hLXpBLVowLTkrJkAjLyU/PX5ffCE6LC47XSpbLWEtekEtWjAtOSsmQCMvJT1+X3xdIik7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG1hdGNoZXMpOwogICAgfQoK</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
