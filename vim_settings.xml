@@ -156,8 +156,8 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/wrappers/build/rootfs/run" timestamp="1508724224691">
-        <mark key="'" line="0" column="0" />
+      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/wrappers/build/rootfs/run" timestamp="1508750609578">
+        <mark key="'" line="35" column="0" />
         <mark key="[" line="70" column="21" />
         <mark key="]" line="70" column="21" />
         <mark key="." line="70" column="21" />
@@ -1065,8 +1065,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="13" filename="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/records/PulseRecord.java" />
-      <jump line="29" column="46" filename="/workspace/solutions/cnup/stacks/neuron/src/main/resources/mybatis/Records.xml" />
       <jump line="110" column="38" filename="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildCreatedConductorTest.java" />
       <jump line="259" column="16" filename="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildCreatedConductorTest.java" />
       <jump line="263" column="0" filename="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildCreatedConductorTest.java" />
@@ -1165,6 +1163,8 @@
       <jump line="357" column="100" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
       <jump line="371" column="56" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
       <jump line="373" column="16" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
+      <jump line="31" column="21" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/wrappers/build/rootfs/run" />
+      <jump line="35" column="0" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/wrappers/build/rootfs/run" />
     </jumps>
     <registers>
       <register name="a" type="4">
