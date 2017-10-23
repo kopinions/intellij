@@ -193,11 +193,12 @@
         <mark key="." line="19" column="24" />
         <mark key="^" line="19" column="24" />
       </file>
-      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/wrappers/build/rootfs/run" timestamp="1508722005641">
+      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/wrappers/build/rootfs/run" timestamp="1508724224691">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
+        <mark key="[" line="70" column="21" />
+        <mark key="]" line="70" column="21" />
+        <mark key="." line="70" column="21" />
+        <mark key="^" line="70" column="21" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/factory/ObjectFactory.java" timestamp="1504518895916">
         <mark key="[" line="14" column="41" />
@@ -529,12 +530,6 @@
         <mark key="]" line="73" column="22" />
         <mark key="^" line="73" column="22" />
         <mark key="." line="73" column="22" />
-      </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstance.java" timestamp="1508230879173">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="134" column="0" />
-        <mark key="]" line="134" column="0" />
-        <mark key="." line="134" column="0" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/records/Sensory.java" timestamp="1504866874734">
         <mark key="[" line="28" column="0" />
@@ -1169,7 +1164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="427" column="0" filename="/workspace/solutions/cnup/stacks/controller/src/main/java/com/thoughtworks/controller/records/ApplicationRecord.java" />
       <jump line="425" column="0" filename="/workspace/solutions/cnup/stacks/controller/src/main/java/com/thoughtworks/controller/records/ApplicationRecord.java" />
       <jump line="420" column="0" filename="/workspace/solutions/cnup/stacks/controller/src/main/java/com/thoughtworks/controller/records/ApplicationRecord.java" />
       <jump line="404" column="0" filename="/workspace/solutions/cnup/stacks/controller/src/main/java/com/thoughtworks/controller/records/ApplicationRecord.java" />
@@ -1267,7 +1261,8 @@
       <jump line="74" column="4" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/wrappers/build/rootfs/run" />
       <jump line="104" column="85" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" />
       <jump line="61" column="0" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/wrappers/build/rootfs/run" />
-      <jump line="7" column="0" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/wrappers/build/rootfs/run" />
+      <jump line="70" column="21" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/wrappers/build/rootfs/run" />
+      <jump line="7" column="46" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/wrappers/build/rootfs/run" />
       <jump line="0" column="0" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/wrappers/build/rootfs/run" />
     </jumps>
     <registers>
@@ -1276,8 +1271,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1295,16 +1290,16 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text>CNUP_CODEBASE_URI</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>dest</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICIke2RvY2tlcl92b2x1bWVzW0BdfSIgXAo=</text>
+      <register name="0" type="4">
+        <text>${CODEBASE_DIR}:${TARGET}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZvbD0iJHtDT0RFQkFTRV9ESVJ9OiR7VEFSR0VUfSIK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1319,19 +1314,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bWtkaXIgLXAgJHtUTVBfRElSfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bWtkaXIgLXAgJHtDT0RFQkFTRV9ESVJ9Cg==</text>
+        <text encoding="base64">bWtkaXIgLXAgJHtUTVBfRElSfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">VE1QX0RJUj0iL2NudXAvdG1wIgo=</text>
+        <text encoding="base64">bWtkaXIgLXAgJHtDT0RFQkFTRV9ESVJ9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Q09ERUJBU0VfRElSPSIvY251cC9jb2RlYmFzZS8ke0NOVVBfUFJPQ0VEVVJFX0lEfSIK</text>
+        <text encoding="base64">VE1QX0RJUj0iL2NudXAvdG1wIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Zm9yIHZvbHVtZV9vcCBpbiBgZWNobyAke1dSQVBQRURfVk9MVU1FU318c2VkICdzLzwvXG4vZyd8IGF3ayAtRidbPl0nICd7aWYgKCQxIH4gL14oaHR0cHM/KTovL1stYS16QS1aMC05KyZAIy8lPz1+X3whOiwuO10qWy1hLXpBLVowLTkrJkAjLyU9fl98XS8pIHtwcmludGYoIiVzPiVzIiwgJDEsICQyKX07fSdgOyBkbwogICAgQ05VUF9TT1VSQ0VfVVJJPSQoYXdrIC1GJ1s+XScgJ3twcmludGYoIiVzIiwgJDEpfScpCiAgICBUQVJHRVQ9JChhd2sgLUYnWz5dJyAne3ByaW50ZigiJXMiLCAkMil9JykKICAgIGN1cmwgLW8gL2NudXAvdG1wLyR7Q05VUF9QUk9DRURVUkVfSUR9LnppcCAkQ05VUF9TT1VSQ0VfVVJJCiAgICB1bnppcCAtZCAke0NPREVCQVNFX0RJUn0gL2NudXAvdG1wLyR7Q05VUF9QUk9DRURVUkVfSUR9LnppcAogICAgYWRkRG9ja2VyVm9sdW1lcyAiLXYgJHtDT0RFQkFTRV9ESVJ9OiR7VEFSR0VUfSIKZG9uZQoKZm9yIHZvbHVtZV9vcCBpbiBgZWNobyAke1dSQVBQRURfVk9MVU1FU318c2VkICdzLzwvXG4vZyd8IGF3ayAtRidbPl0nICd7aWYgKCQxICF+IC9eKGh0dHBzPyk6Ly9bLWEtekEtWjAtOSsmQCMvJT89fl98ITosLjtdKlstYS16QS1aMC05KyZAIy8lPX5ffF0vKSB7cHJpbnRmKCIgLXYgJXM6JXMiLCAkMSwgJDIpfTt9J2A7IGRvCiAgICBhZGREb2NrZXJWb2x1bWVzICIkdm9sdW1lX29wIgpkb25lCgo=</text>
+        <text encoding="base64">Q09ERUJBU0VfRElSPSIvY251cC9jb2RlYmFzZS8ke0NOVVBfUFJPQ0VEVVJFX0lEfSIK</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
