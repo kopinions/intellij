@@ -318,7 +318,12 @@
         <mark key="^" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
-      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/resources/db/migration/V49__add_name_for_procedure_instance_owner.sql" timestamp="1508811849321" />
+      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/resources/db/migration/V49__add_name_for_procedure_instance_owner.sql" timestamp="1508815993335">
+        <mark key="[" line="18" column="23" />
+        <mark key="]" line="18" column="29" />
+        <mark key="." line="18" column="29" />
+        <mark key="^" line="18" column="29" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/test/resources/fixtures/application.hbs" timestamp="1505468958487">
         <mark key="[" line="6" column="15" />
         <mark key="]" line="7" column="19" />
@@ -1375,7 +1380,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;registry.service.consul:31500/test&quot;</text>
+        <text>COLUMN</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1393,13 +1398,13 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;registry.service.consul:31500/test&quot;</text>
+        <text>COLUMN</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>String.format(&quot;registry.service.consul:31500/%s:%s&quot;, procedure.owner().name(), procedure.getId())</text>
+      <register name="0" type="2">
+        <text encoding="base64">QUxURVIgVEFCTEUgUFJPQ0VEVVJFX0lOU1RBTkNFUwogIERST1AgQ09MVU1OIE9XTkVSOwo=</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">aWQiKQogICAgICAgICAgICAgICAgKSksCiAgICAgICAgICAgICAgICAkKCJvd25lciIsICQoCiAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
