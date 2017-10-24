@@ -318,11 +318,11 @@
         <mark key="^" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
-      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/resources/db/migration/V49__add_name_for_procedure_instance_owner.sql" timestamp="1508815993335">
-        <mark key="[" line="18" column="23" />
-        <mark key="]" line="18" column="29" />
-        <mark key="." line="18" column="29" />
-        <mark key="^" line="18" column="29" />
+      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/resources/db/migration/V49__add_name_for_procedure_instance_owner.sql" timestamp="1508827244332">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="58" />
+        <mark key="." line="6" column="56" />
+        <mark key="^" line="6" column="56" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/test/resources/fixtures/application.hbs" timestamp="1505468958487">
         <mark key="[" line="6" column="15" />
@@ -1379,8 +1379,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>COLUMN</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">VVBEQVRFIE9XTkVSUyBTRVQgTkFNRT1JRCBXSEVSRSBOQU1FID0gJycgT1IgTkFNRSBJUyBOVUxMOwo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1398,13 +1398,13 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text>COLUMN</text>
+        <text>L</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgUFJPQ0VEVVJFX0lOU1RBTkNFUwogIERST1AgQ09MVU1OIE9XTkVSOwo=</text>
+        <text encoding="base64">VVBEQVRFIE9XTkVSUyBTRVQgTkFNRT1JRCBXSEVSRSBOQU1FID0gJycgT1IgTkFNRSBJUyBOVUxMOwo=</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">aWQiKQogICAgICAgICAgICAgICAgKSksCiAgICAgICAgICAgICAgICAkKCJvd25lciIsICQoCiAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
