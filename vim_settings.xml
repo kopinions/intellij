@@ -39,6 +39,13 @@
         <mark key="^" line="21" column="42" />
         <mark key="." line="21" column="44" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildResultConductorTest.java" timestamp="1508914949018">
+        <mark key="'" line="482" column="35" />
+        <mark key="[" line="215" column="0" />
+        <mark key="]" line="215" column="85" />
+        <mark key="^" line="261" column="71" />
+        <mark key="." line="215" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1505977836002">
         <mark key="[" line="0" column="0" />
       </file>
@@ -176,8 +183,8 @@
         <mark key="." line="0" column="41" />
         <mark key="^" line="0" column="40" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/records/PulseRecord.java" timestamp="1508311182596">
-        <mark key="'" line="14" column="13" />
+      <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/records/PulseRecord.java" timestamp="1508913085864">
+        <mark key="'" line="93" column="24" />
         <mark key="[" line="113" column="21" />
         <mark key="]" line="113" column="21" />
         <mark key="^" line="113" column="25" />
@@ -190,7 +197,7 @@
         <mark key="^" line="20" column="15" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/neuron/src/main/resources/mybatis/mappers/Pulses.xml" timestamp="1508312927437">
+      <file name="/workspace/solutions/cnup/stacks/neuron/src/main/resources/mybatis/mappers/Pulses.xml" timestamp="1508915750592">
         <mark key="[" line="17" column="13" />
         <mark key="]" line="17" column="18" />
         <mark key="^" line="17" column="18" />
@@ -264,12 +271,7 @@
         <mark key="^" line="5" column="6" />
         <mark key="." line="5" column="6" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/controller/src/main/java/com/thoughtworks/controller/records/BuildRecord.java" timestamp="1508490691190">
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="34" />
-        <mark key="^" line="95" column="33" />
-        <mark key="." line="110" column="0" />
-      </file>
+      <file name="/workspace/solutions/cnup/stacks/controller/src/main/java/com/thoughtworks/controller/records/BuildRecord.java" timestamp="1508915387199" />
       <file name="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/resources/UnifiedProcedureResourceTest.java" timestamp="1508812682969">
         <mark key="[" line="196" column="33" />
         <mark key="]" line="196" column="72" />
@@ -400,6 +402,7 @@
         <mark key="^" line="8" column="26" />
         <mark key="." line="8" column="26" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/controller/src/main/java/com/thoughtworks/controller/records/events/VerifyEventBase.java" timestamp="1508915587268" />
       <file name="/workspace/solutions/cnup/stacks/controller/src/main/java/com/thoughtworks/controller/util/Factory.java" timestamp="1505211106373">
         <mark key="[" line="3" column="14" />
         <mark key="]" line="3" column="15" />
@@ -424,12 +427,12 @@
         <mark key="^" line="29" column="73" />
         <mark key="." line="29" column="73" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildResultConductor.java" timestamp="1508900041977">
+      <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildResultConductor.java" timestamp="1508915721959">
         <mark key="'" line="52" column="4" />
-        <mark key="[" line="57" column="58" />
-        <mark key="]" line="57" column="58" />
-        <mark key="^" line="86" column="7" />
-        <mark key="." line="57" column="58" />
+        <mark key="[" line="104" column="62" />
+        <mark key="]" line="104" column="62" />
+        <mark key="." line="104" column="62" />
+        <mark key="^" line="103" column="46" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/UnifiedProcedures.xml" timestamp="1505355114859">
         <mark key="[" line="179" column="27" />
@@ -460,12 +463,6 @@
         <mark key="]" line="32" column="0" />
         <mark key="^" line="15" column="3" />
         <mark key="." line="32" column="0" />
-      </file>
-      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProcedureInstanceTest.java" timestamp="1508811170285">
-        <mark key="'" line="186" column="0" />
-        <mark key="[" line="85" column="36" />
-        <mark key="]" line="85" column="74" />
-        <mark key="." line="85" column="36" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/records/PulseRecordTest.java" timestamp="1508314437520">
         <mark key="'" line="116" column="55" />
@@ -1054,12 +1051,6 @@
         <mark key="." line="67" column="115" />
         <mark key="^" line="67" column="115" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/controller/src/main/java/com/thoughtworks/controller/resources/BuildResource.java" timestamp="1508399043760">
-        <mark key="[" line="61" column="58" />
-        <mark key="]" line="61" column="71" />
-        <mark key="." line="61" column="71" />
-        <mark key="^" line="61" column="71" />
-      </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/records/Pulses.java" timestamp="1508312547738">
         <mark key="[" line="20" column="33" />
         <mark key="]" line="20" column="32" />
@@ -1067,7 +1058,6 @@
         <mark key="^" line="20" column="32" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/controller/src/main/resources/mybatis/mappers/ApplicationMapper.xml" timestamp="1508490329890">
-        <mark key="'" line="176" column="50" />
         <mark key="[" line="33" column="20" />
         <mark key="]" line="33" column="21" />
         <mark key="." line="33" column="21" />
@@ -1104,10 +1094,10 @@
         <mark key="^" line="25" column="47" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/controller/src/main/java/com/thoughtworks/controller/jersey/Routes.java" timestamp="1505288736730">
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="151" column="0" />
-        <mark key="." line="151" column="0" />
-        <mark key="^" line="149" column="68" />
+        <mark key="[" line="156" column="0" />
+        <mark key="]" line="156" column="0" />
+        <mark key="." line="156" column="0" />
+        <mark key="^" line="7" column="68" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/Modules.java" timestamp="1503381524779">
         <mark key="[" line="26" column="0" />
@@ -1279,16 +1269,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="396" column="4" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
-      <jump line="26" column="22" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
-      <jump line="24" column="0" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
-      <jump line="23" column="0" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
-      <jump line="44" column="0" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
-      <jump line="33" column="0" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
-      <jump line="112" column="0" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" />
-      <jump line="115" column="0" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" />
-      <jump line="120" column="77" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" />
-      <jump line="122" column="75" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" />
       <jump line="98" column="123" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" />
       <jump line="176" column="50" filename="/workspace/solutions/cnup/stacks/controller/src/main/resources/mybatis/mappers/ApplicationMapper.xml" />
       <jump line="74" column="4" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/wrappers/build/rootfs/run" />
@@ -1379,6 +1359,16 @@
       <jump line="103" column="0" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/wrappers/build/rootfs/run" />
       <jump line="35" column="69" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/wrappers/build/rootfs/run" />
       <jump line="32" column="66" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/wrappers/build/rootfs/run" />
+      <jump line="93" column="24" filename="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/records/PulseRecord.java" />
+      <jump line="269" column="73" filename="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildResultConductorTest.java" />
+      <jump line="531" column="35" filename="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildResultConductorTest.java" />
+      <jump line="160" column="35" filename="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildResultConductorTest.java" />
+      <jump line="215" column="35" filename="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildResultConductorTest.java" />
+      <jump line="261" column="35" filename="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildResultConductorTest.java" />
+      <jump line="305" column="35" filename="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildResultConductorTest.java" />
+      <jump line="347" column="35" filename="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildResultConductorTest.java" />
+      <jump line="411" column="35" filename="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildResultConductorTest.java" />
+      <jump line="482" column="35" filename="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildResultConductorTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1387,7 +1377,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>\</text>
+        <text>body</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1405,43 +1395,43 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>body</text>
       </register>
       <register name="/" type="4">
-        <text>WRAPPED</text>
+        <text>payload</text>
       </register>
-      <register name="0" type="4">
-        <text>FAILED</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKCJwYXlsb2FkIiwgJCgicnVubmFibGUiLCAiaHViLmRlZXBpLmNuL2J1aWxkOnRhZyIpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJsIC1YIFBPU1QgXAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKCJwYXlsb2FkIiwgInN1Y2NlZWRfb3BlcmF0aW9uX3BheWxvYWQiKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKCJwYXlsb2FkIiwgInN1Y2NlZWRfb3BlcmF0aW9uX3BheWxvYWQiKQo=</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">SUYgRVhJU1RTIApJRiBFWElTVFMg</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKCJwYXlsb2FkIiwgInN1Y2Nlc3Nfb3BlcmF0aW9uX3BheWxvYWQiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKCJwYXlsb2FkIiwgInN1Y2Nlc3Nfb3BlcmF0aW9uX3BheWxvYWQiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">RFJPUCBQUk9DRURVUkUgSUYgRVhJU1RTIERFTENPTDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKCJwYXlsb2FkIiwgInN1Y2Nlc3Nfb3BlcmF0aW9uX3BheWxvYWQiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RFJPUCBQUk9DRURVUkUgSUYgRVhJU1RTIEFERENPTDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKCJwYXlsb2FkIiwgInN1Y2Nlc3Nfb3BlcmF0aW9uX3BheWxvYWQiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKCJwYXlsb2FkIiwgImZhaWxfb3BlcmF0aW9uX3BheWxvYWQiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBEUk9QIFBST0NFRFVSRSBJRiBFWElTVFMgQUREQ09MLy8KICBEUk9QIFBST0NFRFVSRSBJRiBFWElTVFMgREVMQ09MLy8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKCJwYXlsb2FkIiwgInN1Y2Nlc3Nfb3BlcmF0aW9uX3BheWxvYWQiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">RFJPUCBQUk9DRURVUkUgSUYgRVhJU1RTIERFTENPTC8vCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKCJwYXlsb2FkIiwgImZhaWxfb3BlcmF0aW9uX3BheWxvYWQiKQo=</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
@@ -1451,9 +1441,9 @@
       </register>
     </registers>
     <search>
-      <last-search>WRAPPED</last-search>
+      <last-search>payload</last-search>
       <last-offset />
-      <last-pattern>WRAPPED</last-pattern>
+      <last-pattern>payload</last-pattern>
       <last-replace>\n.</last-replace>
       <last-substitute>.</last-substitute>
       <last-dir>1</last-dir>
@@ -1461,7 +1451,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getProvider</entry>
         <entry>@</entry>
         <entry>create</entry>
         <entry>save</entry>
@@ -1481,6 +1470,7 @@
         <entry>OWNER</entry>
         <entry encoding="base64">XDxpZFw+</entry>
         <entry>WRAPPED</entry>
+        <entry>payload</entry>
       </history-search>
       <history-cmd>
         <entry>getProvider</entry>
