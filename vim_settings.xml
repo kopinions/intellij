@@ -24,9 +24,6 @@
         <mark key="^" line="261" column="71" />
         <mark key="." line="215" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1505977836002">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildCreatedConductor.java" timestamp="1508989481166">
         <mark key="'" line="145" column="4" />
         <mark key="[" line="129" column="47" />
@@ -69,6 +66,7 @@
         <mark key="." line="226" column="82" />
         <mark key="^" line="226" column="82" />
       </file>
+      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/controller/src/main/java/com/thoughtworks/controller/records/VerifyRecord.java" timestamp="1509092264901" />
       <file name="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/resources/mybatis/mappers/Records.xml" timestamp="1508809393996">
         <mark key="'" line="289" column="43" />
         <mark key="[" line="239" column="42" />
@@ -109,6 +107,7 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/controller/src/main/java/com/thoughtworks/controller/resources/VerifiesResource.java" timestamp="1509092121709" />
       <file name="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/records/PulseRecordTest.java" timestamp="1508314437520">
         <mark key="'" line="116" column="55" />
         <mark key="[" line="103" column="39" />
@@ -220,11 +219,11 @@
         <mark key="^" line="51" column="150" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/controller/build.gradle" timestamp="1509091774784">
-        <mark key="[" line="72" column="48" />
-        <mark key="]" line="73" column="52" />
-        <mark key="^" line="73" column="52" />
-        <mark key="." line="73" column="52" />
+      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/controller/build.gradle" timestamp="1509092589140">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" timestamp="1508990100798">
         <mark key="'" line="64" column="19" />
@@ -238,9 +237,6 @@
         <mark key="]" line="378" column="17" />
         <mark key="." line="378" column="17" />
         <mark key="^" line="378" column="17" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1508894895955">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/records/CursorRecordTest.java" timestamp="1505977003831">
         <mark key="'" line="26" column="28" />
@@ -312,7 +308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="0" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/wrappers/build/rootfs/run" />
       <jump line="70" column="21" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/wrappers/build/rootfs/run" />
       <jump line="7" column="46" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/wrappers/build/rootfs/run" />
       <jump line="0" column="0" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/wrappers/build/rootfs/run" />
@@ -412,6 +407,7 @@
       <jump line="351" column="76" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
       <jump line="60" column="18" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
       <jump line="64" column="19" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
+      <jump line="0" column="0" filename="/workspace/golang/src/github.com/sjkyspa/stacks/controller/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -420,7 +416,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkJcmV0dXJuIGNsaS5OZXdFeGl0RXJyb3IoZXJyLCAxKQo=</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy5tb2NrLXNlcnZlcjptb2Nrc2VydmVyLW5ldHR5OjMuMTAuNCcK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -447,28 +443,28 @@
         <text encoding="base64">CQkJCQkJcmV0dXJuIGNsaS5FeGl0KGZtdC5TcHJpbnRmKCIldiIsIGVyciksIDEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJcmV0dXJuIGNsaS5OZXdFeGl0RXJyb3IoZXJyLCAxKQo=</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy5tb2NrLXNlcnZlcjptb2Nrc2VydmVyLW5ldHR5OjMuMTAuNCcK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJRW52VmFyczoK</text>
+        <text encoding="base64">CQkJCQkJcmV0dXJuIGNsaS5OZXdFeGl0RXJyb3IoZXJyLCAxKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJTmFtZTogImFwcCwgYSIsCg==</text>
+        <text encoding="base64">CQkJCQkJRW52VmFyczoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlDb21tYW5kczogW10qY2xpLkNvbW1hbmR7CgkJCXBhcnNlci5VcHNDb21tYW5kKCksCgkJCXBhcnNlci5TdGFja3NDb21tYW5kKCksCgkJCXBhcnNlci5Qcm92aWRlcnNDb21tYW5kKCksCgkJCXBhcnNlci5BdXRoQ29tbWFuZCgpLAoJCQlwYXJzZXIuQXBwc0NvbW1hbmQoKSwKCQkJcGFyc2VyLk9yZ3NDb21tYW5kKCksCgkJCXBhcnNlci5TY2FmZm9sZENvbW1hbmRzKCksCgkJCXBhcnNlci5Eb21haW5zQ29tbWFuZHMoKSwKCQkJcGFyc2VyLlNlcnZpY2VzQ29tbWFuZCgpLAoJCQlwYXJzZXIuUm91dGVzQ29tbWFuZCgpLAoJCQlwYXJzZXIuS2V5c0NvbW1hbmRzKCksCgkJCXBhcnNlci5Qc0NvbW1hbmRzKCksCgkJCXBhcnNlci5HaXRDb21tYW5kcygpLAoJCQlwYXJzZXIuQ29uZmlnQ29tbWFuZHMoKSwKCQkJcGFyc2VyLkRldkNvbW1hbmRzKCksCgkJCXBhcnNlci5DbHVzdGVyc0NvbW1hbmRzKCksCgkJCXBhcnNlci5MYXVuY2hDb21tYW5kcygpLAoJCX0sCg==</text>
+        <text encoding="base64">CQkJCQkJTmFtZTogImFwcCwgYSIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKCJwYXlsb2FkIiwgInN1Y2NlZWRfb3BlcmF0aW9uX3BheWxvYWQiKQo=</text>
+        <text encoding="base64">CQlDb21tYW5kczogW10qY2xpLkNvbW1hbmR7CgkJCXBhcnNlci5VcHNDb21tYW5kKCksCgkJCXBhcnNlci5TdGFja3NDb21tYW5kKCksCgkJCXBhcnNlci5Qcm92aWRlcnNDb21tYW5kKCksCgkJCXBhcnNlci5BdXRoQ29tbWFuZCgpLAoJCQlwYXJzZXIuQXBwc0NvbW1hbmQoKSwKCQkJcGFyc2VyLk9yZ3NDb21tYW5kKCksCgkJCXBhcnNlci5TY2FmZm9sZENvbW1hbmRzKCksCgkJCXBhcnNlci5Eb21haW5zQ29tbWFuZHMoKSwKCQkJcGFyc2VyLlNlcnZpY2VzQ29tbWFuZCgpLAoJCQlwYXJzZXIuUm91dGVzQ29tbWFuZCgpLAoJCQlwYXJzZXIuS2V5c0NvbW1hbmRzKCksCgkJCXBhcnNlci5Qc0NvbW1hbmRzKCksCgkJCXBhcnNlci5HaXRDb21tYW5kcygpLAoJCQlwYXJzZXIuQ29uZmlnQ29tbWFuZHMoKSwKCQkJcGFyc2VyLkRldkNvbW1hbmRzKCksCgkJCXBhcnNlci5DbHVzdGVyc0NvbW1hbmRzKCksCgkJCXBhcnNlci5MYXVuY2hDb21tYW5kcygpLAoJCX0sCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKCJwYXlsb2FkIiwgInN1Y2NlZWRfb3BlcmF0aW9uX3BheWxvYWQiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKCJwYXlsb2FkIiwgInN1Y2Nlc3Nfb3BlcmF0aW9uX3BheWxvYWQiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKCJwYXlsb2FkIiwgInN1Y2NlZWRfb3BlcmF0aW9uX3BheWxvYWQiKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKCJwYXlsb2FkIiwgInN1Y2Nlc3Nfb3BlcmF0aW9uX3BheWxvYWQiKQo=</text>
