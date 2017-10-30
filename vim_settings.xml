@@ -24,6 +24,9 @@
         <mark key="^" line="261" column="71" />
         <mark key="." line="215" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1505977836002">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/jobs/conductors/BuildCreatedConductor.java" timestamp="1508989481166">
         <mark key="'" line="145" column="4" />
         <mark key="[" line="129" column="47" />
@@ -38,6 +41,7 @@
         <mark key="." line="72" column="26" />
         <mark key="^" line="72" column="21" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/ProcedureInstances.java" timestamp="1509346268504" />
       <file name="/workspace/solutions/cnup/stacks/controller/src/main/java/com/thoughtworks/controller/mappers/ApplicationMapper.java" timestamp="1505720986742">
         <mark key="'" line="13" column="4" />
         <mark key="[" line="17" column="40" />
@@ -52,6 +56,7 @@
         <mark key="^" line="38" column="45" />
         <mark key="." line="38" column="45" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" timestamp="1509346128829" />
       <file name="/workspace/solutions/cnup/stacks/controller/src/main/resources/mybatis/mappers/Columns.xml" timestamp="1505722499837">
         <mark key="'" line="17" column="13" />
         <mark key="[" line="27" column="26" />
@@ -102,11 +107,6 @@
         <mark key="." line="38" column="74" />
         <mark key="^" line="38" column="74" />
       </file>
-      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/modules/atp/src/main/java/com/thoughtworks/cnup/atp/records/Booklet.java" timestamp="1508382001542">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="/workspace/golang/src/github.com/sjkyspa/stacks/controller/src/main/java/com/thoughtworks/controller/resources/VerifiesResource.java" timestamp="1509092121709" />
       <file name="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/records/PulseRecordTest.java" timestamp="1508314437520">
         <mark key="'" line="116" column="55" />
@@ -135,11 +135,6 @@
         <mark key="^" line="113" column="25" />
         <mark key="." line="113" column="21" />
       </file>
-      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/Godeps/Godeps.json" timestamp="1508985808744">
-        <mark key="[" line="402" column="9" />
-        <mark key="]" line="402" column="14" />
-        <mark key="." line="402" column="10" />
-      </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/main/resources/mybatis/Records.xml" timestamp="1508310037725">
         <mark key="'" line="29" column="46" />
         <mark key="[" line="29" column="135" />
@@ -166,11 +161,6 @@
         <mark key="]" line="17" column="18" />
         <mark key="^" line="17" column="18" />
         <mark key="." line="17" column="18" />
-      </file>
-      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/resources/db/migration/V49_add_name_for_procedure_owner.sql" timestamp="1508809614759">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
       </file>
       <file name="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/test/java/com/thoughtworks/cnup/up/records/ProvidersTest.java" timestamp="1508811071282">
         <mark key="[" line="444" column="36" />
@@ -238,6 +228,9 @@
         <mark key="." line="378" column="17" />
         <mark key="^" line="378" column="17" />
       </file>
+      <file name="/Dummy.txt" timestamp="1509345605909">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/test/java/com/thoughtworks/cnup/neuron/records/CursorRecordTest.java" timestamp="1505977003831">
         <mark key="'" line="26" column="28" />
         <mark key="[" line="102" column="61" />
@@ -245,6 +238,7 @@
         <mark key="^" line="102" column="67" />
         <mark key="." line="102" column="67" />
       </file>
+      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/releaser/subscriber.go" timestamp="1509346452840" />
       <file name="/workspace/solutions/cnup/stacks/controller/src/test/java/com/thoughtworks/controller/records/ApplicationRepositoryTest.java" timestamp="1505720477134">
         <mark key="'" line="160" column="13" />
         <mark key="[" line="65" column="187" />
@@ -265,11 +259,6 @@
         <mark key="]" line="86" column="74" />
         <mark key="^" line="86" column="71" />
         <mark key="." line="86" column="71" />
-      </file>
-      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/core/ProcedureInstance.java" timestamp="1508316262459">
-        <mark key="[" line="128" column="24" />
-        <mark key="]" line="128" column="24" />
-        <mark key="." line="128" column="24" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/Makefile" timestamp="1505889629356">
         <mark key="'" line="49" column="0" />
@@ -299,6 +288,7 @@
         <mark key="^" line="204" column="23" />
       </file>
       <file name="/workspace/golang/src/github.com/sjkyspa/stacks/controller/src/test/java/com/thoughtworks/controller/service/ESLoggerFetcherTest.java" timestamp="1509091653275" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" timestamp="1509346118917" />
       <file name="/workspace/golang/src/github.com/sjkyspa/stacks/cdectl/templates/controller.tmpl" timestamp="1505370265574">
         <mark key="'" line="104" column="37" />
         <mark key="[" line="157" column="101" />
