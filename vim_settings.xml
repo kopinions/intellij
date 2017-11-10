@@ -3,10 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/workspace/clients/billing/src/test/java/com/accounting/billing/support/InjectBasedRunner.java" timestamp="1510315584491">
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="0" />
-        <mark key="." line="103" column="0" />
+      <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/Modules.java" timestamp="1510316585011">
+        <mark key="[" line="39" column="32" />
+        <mark key="]" line="39" column="32" />
+        <mark key="." line="39" column="32" />
+        <mark key="^" line="21" column="43" />
+      </file>
+      <file name="/workspace/clients/billing/src/test/java/com/accounting/billing/support/InjectBasedRunner.java" timestamp="1510316811453">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="/workspace/golang/src/github.com/cnupp/cnup/controller/src/main/java/com/thoughtworks/controller/core/Application.java" timestamp="1509590529265">
         <mark key="[" line="69" column="0" />
@@ -34,10 +40,21 @@
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/ProcedureInstances.xml" timestamp="1510308034212">
         <mark key="'" line="24" column="54" />
       </file>
+      <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/Resources.java" timestamp="1510316455185">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="/workspace/clients/billing/src/test/java/com/accounting/billing/resources/InjectBasedRunner.java" timestamp="1510315156339">
         <mark key="[" line="173" column="0" />
         <mark key="]" line="173" column="0" />
         <mark key="." line="173" column="0" />
+      </file>
+      <file name="/workspace/solutions/cnup/stacks/neuron/src/test/resources/fixtures/procedure.hbs" timestamp="1509608434732">
+        <mark key="[" line="378" column="13" />
+        <mark key="]" line="378" column="17" />
+        <mark key="." line="378" column="17" />
+        <mark key="^" line="378" column="17" />
       </file>
       <file name="/Dummy.txt" timestamp="1510212274938">
         <mark key="[" line="0" column="0" />
@@ -47,7 +64,13 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/provider/support/InjectBasedRunner.java" timestamp="1510315356523" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/provider/support/InjectBasedRunner.java" timestamp="1510316209475" />
+      <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/mybatis/Modules.java" timestamp="1510316784745">
+        <mark key="[" line="36" column="34" />
+        <mark key="]" line="36" column="48" />
+        <mark key="." line="36" column="48" />
+        <mark key="^" line="36" column="48" />
+      </file>
       <file name="/workspace/clients/billing/src/test/java/com/accounting/billing/resources/ApiSupport.java" timestamp="1510314997811">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -56,17 +79,16 @@
       <file name="/workspace/clients/billing/src/test/java/com/accounting/billing/resources/InvoicesResourceTest.java" timestamp="1510314789790">
         <mark key="[" line="5" column="0" />
       </file>
+      <file name="/workspace/golang/src/github.com/sjkyspa/stacks/controller/src/main/java/com/thoughtworks/controller/resources/VerifiesResource.java" timestamp="1509355075786">
+        <mark key="[" line="22" column="58" />
+        <mark key="]" line="22" column="7" />
+        <mark key="^" line="22" column="7" />
+        <mark key="." line="22" column="7" />
+      </file>
       <file name="/workspace/clients/billing/src/test/java/com/accounting/billing/resources/Mock.java" timestamp="1510315167772">
         <mark key="[" line="0" column="31" />
         <mark key="]" line="0" column="31" />
         <mark key="." line="0" column="31" />
-      </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/resources/UnifiedProceduresResource.java" timestamp="1510282189564">
-        <mark key="'" line="33" column="21" />
-        <mark key="[" line="33" column="18" />
-        <mark key="]" line="33" column="22" />
-        <mark key="^" line="32" column="40" />
-        <mark key="." line="33" column="18" />
       </file>
       <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/core/resources/InvoicesResource.java" timestamp="1510314767445">
         <mark key="[" line="0" column="31" />
@@ -74,7 +96,7 @@
         <mark key="." line="0" column="29" />
         <mark key="^" line="0" column="29" />
       </file>
-      <file name="/fragment.java" timestamp="1510315162105">
+      <file name="/fragment.java" timestamp="1510316872422">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/workspace/clients/billing/src/test/java/com/accounting/billing/support/ApiSupport.java" timestamp="1510315569143">
@@ -193,7 +215,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBlbnZzLnB1dCgiQ09OVFJPTExFUl9FTkRQT0lOVCIsICJodHRwOi8vbG9jYWxob3N0OjgwODgiKTsK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -211,54 +233,43 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text>toInstance</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>O\.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQEF1dGggT3B0aW9uYWw8VXNlcj4gY3VycmVudCwK</text>
+        <text encoding="base64">ICAgICAgICBlbnN1cmVFeGlzdHNBbmROb25FbXB0eSgiREJfUEFTU1dPUkQiLCBlbnYpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBlbnZzLnB1dCgiQ09OVFJPTExFUl9FTkRQT0lOVCIsICJodHRwOi8vbG9jYWxob3N0OjgwODgiKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>new ApiSupport.SetUp() {
-                    @Override
-                    public void before() throws IOException {
-                        public void before () throws Exception {
-
-                        }
-
-                        @Override
-                        public void after () throws Exception {
-                        }
-                    }
-                }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhdGVtZW50LmNsb3NlKCk7CiAgICAgICAgICAgIGNvbm5lY3Rpb24uY29tbWl0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbnZzLnB1dCgiQ09OU1VMX1VSSSIsICJodHRwOi8vbG9jYWxob3N0OjgwODkiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbnZzLnB1dCgiQ0RFX0RPTUFJTiIsICJkZWVwaS5jbiIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNxbFNlc3Npb24gc3FsU2Vzc2lvbiA9IHNxbFNlc3Npb25GYWN0b3J5Lm9wZW5TZXNzaW9uKCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBDb25uZWN0aW9uIGNvbm5lY3Rpb24gPSBzcWxTZXNzaW9uLmdldENvbm5lY3Rpb24oKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGphdmEuc3FsLlN0YXRlbWVudCBzdGF0ZW1lbnQgPSBjb25uZWN0aW9uLmNyZWF0ZVN0YXRlbWVudCgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gVGFrZSBjYXJlIG9mIHRoZSBvcmRlciBmb3IgZGVsZXRlIG9wZXJhdGlvbnMsIGVnLgogICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gZmllbGQgaW4gdGFibGUgQSBoYXMgcmVmZXJlbmNlIGZvciB0YWJsZSBCLCB0aGVuIEEgc2hvdWxkIGJlIGRlbGV0ZWQgZmlyc3QKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIG90aGVyd2lzZSBleGNlcHRpb24gd2lsbCBvY2N1ciBhbmQgZGF0YWJhc2Ugd2lsbCBiZSBicm9rZW4sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyByZW1lbWJlciB0byBjbGVhbiBkYXRhYmFzZSBtYW51YWxseSBiZWZvcmUgcnVubmluZyB0ZXN0cyB3aGVuIGV4Y2VwdGlvbiBoYXBwZW5zCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBzdGF0ZW1lbnQuZXhlY3V0ZVVwZGF0ZSgiREVMRVRFIEZST00gSEVBTFRIX0NIRUNLIik7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGF0ZW1lbnQuY2xvc2UoKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbm5lY3Rpb24uY29tbWl0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbnZzLnB1dCgiQ09OVFJPTExFUl9BQ0NFU1NfVE9LRU4iLCAiIik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUK</text>
+        <text encoding="base64">ICAgICAgICBwcm9wZXJ0aWVzID0gZGJQcm9wZXJ0aWVzKGVudik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgUHJvcGVydGllcyBwcm9wZXJ0aWVzOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQEluamVjdAogICAgICAgICAgICAgICAgICAgICAgICBwcml2YXRlIFNxbFNlc3Npb25GYWN0b3J5IHNxbFNlc3Npb25GYWN0b3J5OwogICAgICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oIkNhbiBub3QgdXNlIHRoZSBjb250cm9sbGVyIGVuZHBvaW50IHRoYXQgbm90IGFic29sdXRlIik7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
