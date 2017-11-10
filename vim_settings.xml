@@ -3,16 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/Modules.java" timestamp="1510316585011">
-        <mark key="[" line="39" column="32" />
-        <mark key="]" line="39" column="32" />
-        <mark key="." line="39" column="32" />
-        <mark key="^" line="21" column="43" />
+      <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/Modules.java" timestamp="1510318103371">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="45" column="49" />
+        <mark key="." line="36" column="76" />
+        <mark key="^" line="36" column="76" />
       </file>
-      <file name="/workspace/clients/billing/src/test/java/com/accounting/billing/support/InjectBasedRunner.java" timestamp="1510316811453">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="/workspace/clients/billing/src/test/java/com/accounting/billing/support/InjectBasedRunner.java" timestamp="1510317324422">
+        <mark key="'" line="29" column="40" />
+        <mark key="[" line="29" column="32" />
+        <mark key="]" line="29" column="40" />
+        <mark key="." line="29" column="40" />
+        <mark key="^" line="29" column="40" />
       </file>
       <file name="/workspace/golang/src/github.com/cnupp/cnup/controller/src/main/java/com/thoughtworks/controller/core/Application.java" timestamp="1509590529265">
         <mark key="[" line="69" column="0" />
@@ -24,22 +26,27 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1505977836002">
+      <file name="/a.dummy" timestamp="1510317691208">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/build.gradle" timestamp="1510314980453">
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="111" column="111" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/build.gradle" timestamp="1510318587761">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="47" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/provider/support/DatabaseTestRunner.java" timestamp="1510315688009" />
-      <file name="/workspace/clients/billing/build.gradle" timestamp="1510314989316">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="/workspace/clients/billing/build.gradle" timestamp="1510318596522">
+        <mark key="[" line="56" column="43" />
+        <mark key="]" line="57" column="3" />
+        <mark key="." line="57" column="3" />
+        <mark key="^" line="57" column="3" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/ProcedureInstances.xml" timestamp="1510308034212">
-        <mark key="'" line="24" column="54" />
+      <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/util/Helpers.java" timestamp="1510317478984">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="18" column="4" />
+        <mark key="^" line="18" column="4" />
+        <mark key="." line="18" column="4" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/common/Util.java" timestamp="1510317471870" />
       <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/Resources.java" timestamp="1510316455185">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -65,19 +72,29 @@
         <mark key="." line="51" column="0" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/test/java/com/thoughtworks/cnup/provider/support/InjectBasedRunner.java" timestamp="1510316209475" />
-      <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/mybatis/Modules.java" timestamp="1510316784745">
-        <mark key="[" line="36" column="34" />
-        <mark key="]" line="36" column="48" />
-        <mark key="." line="36" column="48" />
-        <mark key="^" line="36" column="48" />
+      <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/mybatis/Modules.java" timestamp="1510317629983">
+        <mark key="'" line="41" column="41" />
+        <mark key="[" line="44" column="48" />
+        <mark key="]" line="44" column="48" />
+        <mark key="." line="44" column="48" />
+        <mark key="^" line="42" column="40" />
       </file>
       <file name="/workspace/clients/billing/src/test/java/com/accounting/billing/resources/ApiSupport.java" timestamp="1510314997811">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/workspace/clients/billing/src/test/java/com/accounting/billing/resources/InvoicesResourceTest.java" timestamp="1510314789790">
-        <mark key="[" line="5" column="0" />
+      <file name="/workspace/clients/billing/src/main/resources/mybatis/config.xml" timestamp="1510318294014">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="19" column="55" />
+      </file>
+      <file name="/workspace/clients/billing/src/test/java/com/accounting/billing/resources/InvoicesResourceTest.java" timestamp="1510317517061">
+        <mark key="[" line="17" column="71" />
+        <mark key="]" line="18" column="55" />
+        <mark key="^" line="18" column="55" />
+        <mark key="." line="18" column="55" />
       </file>
       <file name="/workspace/golang/src/github.com/sjkyspa/stacks/controller/src/main/java/com/thoughtworks/controller/resources/VerifiesResource.java" timestamp="1509355075786">
         <mark key="[" line="22" column="58" />
@@ -90,27 +107,37 @@
         <mark key="]" line="0" column="31" />
         <mark key="." line="0" column="31" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/resources/UnifiedProceduresResource.java" timestamp="1510282189564">
+        <mark key="'" line="33" column="21" />
+        <mark key="[" line="33" column="18" />
+        <mark key="]" line="33" column="22" />
+        <mark key="^" line="32" column="40" />
+        <mark key="." line="33" column="18" />
+      </file>
       <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/core/resources/InvoicesResource.java" timestamp="1510314767445">
         <mark key="[" line="0" column="31" />
         <mark key="]" line="0" column="29" />
         <mark key="." line="0" column="29" />
         <mark key="^" line="0" column="29" />
       </file>
-      <file name="/fragment.java" timestamp="1510316872422">
+      <file name="/workspace/clients/billing/src/test/java/com/accounting/billing/support/TestRunner.java" timestamp="1510318666182">
+        <mark key="[" line="43" column="33" />
+        <mark key="]" line="43" column="38" />
+        <mark key="^" line="43" column="38" />
+        <mark key="." line="43" column="38" />
+      </file>
+      <file name="/fragment.java" timestamp="1510317184051">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/workspace/clients/billing/src/test/java/com/accounting/billing/support/ApiSupport.java" timestamp="1510315569143">
-        <mark key="[" line="230" column="21" />
-        <mark key="]" line="230" column="37" />
-        <mark key="." line="230" column="37" />
-        <mark key="^" line="230" column="37" />
+      <file name="/workspace/clients/billing/src/test/java/com/accounting/billing/support/ApiSupport.java" timestamp="1510317247673">
+        <mark key="'" line="207" column="0" />
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="0" />
+        <mark key="." line="136" column="0" />
+        <mark key="^" line="135" column="14" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="138" column="38" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
-      <jump line="157" column="58" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
-      <jump line="189" column="13" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
-      <jump line="193" column="60" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
       <jump line="1" column="11" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
       <jump line="318" column="0" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
       <jump line="386" column="64" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
@@ -207,6 +234,10 @@
       <jump line="60" column="22" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/ProcedureInstances.xml" />
       <jump line="158" column="30" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/ProcedureInstances.xml" />
       <jump line="24" column="54" filename="/workspace/solutions/cnup/stacks/launcher/src/main/resources/mybatis/mappers/ProcedureInstances.xml" />
+      <jump line="47" column="0" filename="/workspace/clients/billing/src/test/java/com/accounting/billing/support/ApiSupport.java" />
+      <jump line="208" column="0" filename="/workspace/clients/billing/src/test/java/com/accounting/billing/support/ApiSupport.java" />
+      <jump line="29" column="40" filename="/workspace/clients/billing/src/test/java/com/accounting/billing/support/InjectBasedRunner.java" />
+      <jump line="42" column="41" filename="/workspace/clients/billing/src/main/java/com/accounting/billing/mybatis/Modules.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -214,8 +245,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlbnZzLnB1dCgiQ09OVFJPTExFUl9FTkRQT0lOVCIsICJodHRwOi8vbG9jYWxob3N0OjgwODgiKTsK</text>
+      <register name="&quot;" type="4">
+        <text>datastore</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -226,6 +257,9 @@
       <register name="d" type="4">
         <text encoding="base64">dG9NYXAoUGFpcjo6Z2V0S2V5LCBQYWlyOjpnZXRWYWx1ZSwgKGwsIHIpIC0+IFN0cmVhbS5jb25jYXQobC5zdHJlYW0oKSwgci5zdHJlYW0oKSkuY29sbGVjdCh0b0xpc3QoKSkp</text>
       </register>
+      <register name="f" type="4">
+        <text>f,dt)</text>
+      </register>
       <register name="i" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1hbmFnZXIuY29tbWl0KCQkIC0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IG5leHQgPSBjLm5leHQoKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwdWxzZXMuY3JlYXRlKG5leHQpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gbnVsbDs=</text>
       </register>
@@ -233,43 +267,48 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>datastore</text>
       </register>
       <register name="/" type="4">
-        <text>O\.</text>
+        <text>env</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlbnN1cmVFeGlzdHNBbmROb25FbXB0eSgiREJfUEFTU1dPUkQiLCBlbnYpOwo=</text>
+        <text encoding="base64">ICAgIHJ1bnRpbWUgJ215c3FsOm15c3FsLWNvbm5lY3Rvci1qYXZhOjUuMS4zNCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbnZzLnB1dCgiQ09OVFJPTExFUl9FTkRQT0lOVCIsICJodHRwOi8vbG9jYWxob3N0OjgwODgiKTsK</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggIm9yZy5mbHl3YXlkYjpmbHl3YXktZ3JhZGxlLXBsdWdpbjo0LjAiCg==</text>
       </register>
       <register name="q" type="4">
-        <text />
+        <keys>
+          <key char="65535" code="27" mods="0" />
+        </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlbnZzLnB1dCgiQ09OU1VMX1VSSSIsICJodHRwOi8vbG9jYWxob3N0OjgwODkiKTsK</text>
+        <text encoding="base64">ICAgIDx0eXBlSGFuZGxlcnM+CiAgICAgICAgPHBhY2thZ2UgbmFtZT0iY29tLnRob3VnaHR3b3Jrcy5jbnVwLnVwLm1hcHBlcnMuaGFuZGxlcnMiLz4KICAgIDwvdHlwZUhhbmRsZXJzPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbnZzLnB1dCgiQ0RFX0RPTUFJTiIsICJkZWVwaS5jbiIpOwo=</text>
+        <text encoding="base64">ICAgIDxvYmplY3RGYWN0b3J5IHR5cGU9ImNvbS50aG91Z2h0d29ya3MuY251cC5wcm92aWRlci5mYWN0b3J5Lk9iamVjdEZhY3RvcnkiLz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbnZzLnB1dCgiQ09OVFJPTExFUl9BQ0NFU1NfVE9LRU4iLCAiIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8bWFwcGVyIHJlc291cmNlPSJteWJhdGlzL21hcHBlcnMvQ29sdW1ucy54bWwiLz4KICAgICAgICA8bWFwcGVyIHJlc291cmNlPSJteWJhdGlzL21hcHBlcnMvUmVjb3Jkcy54bWwiLz4KICAgICAgICA8bWFwcGVyIHJlc291cmNlPSJteWJhdGlzL21hcHBlcnMvRGVwbG95bWVudE1hcHBlci54bWwiLz4KICAgICAgICA8bWFwcGVyIHJlc291cmNlPSJteWJhdGlzL21hcHBlcnMvUnVuTWFwcGVyLnhtbCIvPgogICAgICAgIDxtYXBwZXIgcmVzb3VyY2U9Im15YmF0aXMvbWFwcGVycy9DbHVzdGVyTWFwcGVyLnhtbCIvPgogICAgICAgIDxtYXBwZXIgcmVzb3VyY2U9Im15YmF0aXMvbWFwcGVycy9VbmlmaWVkUHJvY2VkdXJlcy54bWwiLz4KICAgICAgICA8bWFwcGVyIHJlc291cmNlPSJteWJhdGlzL21hcHBlcnMvUHJvY2VkdXJlSW5zdGFuY2VzLnhtbCIvPgogICAgICAgIDxtYXBwZXIgcmVzb3VyY2U9Im15YmF0aXMvbWFwcGVycy9Qcm92aWRlcnMueG1sIi8+CiAgICAgICAgPG1hcHBlciByZXNvdXJjZT0ibXliYXRpcy9tYXBwZXJzL093bmVycy54bWwiLz4KICAgICAgICA8bWFwcGVyIHJlc291cmNlPSJteWJhdGlzL21hcHBlcnMvRmlsZXMueG1sIi8+CiAgICAgICAgPG1hcHBlciByZXNvdXJjZT0ibXliYXRpcy9tYXBwZXJzL1BhcnRpZXMueG1sIi8+CiAgICAgICAgPG1hcHBlciByZXNvdXJjZT0ibXliYXRpcy9tYXBwZXJzL0V2ZW50cy54bWwiLz4K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9wZXJ0aWVzID0gZGJQcm9wZXJ0aWVzKGVudik7Cg==</text>
+      <register name="6" type="8">
+        <text>get
+get
+get
+get</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgUHJvcGVydGllcyBwcm9wZXJ0aWVzOwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">U3RyaW5nIGRhdGFiYXNlID0g</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">U3RyaW5nIHBhc3N3b3JkID0g</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oIkNhbiBub3QgdXNlIHRoZSBjb250cm9sbGVyIGVuZHBvaW50IHRoYXQgbm90IGFic29sdXRlIik7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">U3RyaW5nIHVzZXJuYW1lID0g</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
@@ -279,18 +318,16 @@
       </register>
     </registers>
     <search>
-      <last-search>O\.</last-search>
+      <last-search>env</last-search>
       <last-offset />
-      <last-pattern>O\.</last-pattern>
-      <last-replace>\n.</last-replace>
-      <last-substitute>.</last-substitute>
+      <last-pattern>env</last-pattern>
+      <last-replace>get</last-replace>
+      <last-substitute>getOrDefault</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>main</entry>
-        <entry>UPS</entry>
         <entry>build-</entry>
         <entry>-up</entry>
         <entry>app</entry>
@@ -309,10 +346,10 @@
         <entry>name&quot;: &quot;controller</entry>
         <entry>O.</entry>
         <entry>O\.</entry>
+        <entry>getOrDefault</entry>
+        <entry>env</entry>
       </history-search>
       <history-cmd>
-        <entry>getProvider</entry>
-        <entry encoding="base64">JzwsJz5zL0AvJEAvZ2M=</entry>
         <entry encoding="base64">JzwsJz5zL0AvXG5AL2dj</entry>
         <entry encoding="base64">JzwsJz5zL0AvXFxuQC9nYw==</entry>
         <entry encoding="base64">JzwsJz5zL0AvXHJAL2dj</entry>
@@ -330,6 +367,8 @@
         <entry>g/S/statement/gc</entry>
         <entry>g</entry>
         <entry>set incsearch</entry>
+        <entry>%s/getOrDefault/get/gc</entry>
+        <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
