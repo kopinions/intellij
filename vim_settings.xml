@@ -35,12 +35,14 @@
       <file name="/workspace/golang/src/github.com/sjkyspa/stacks/.env/cdectl.json" timestamp="1509354276059">
         <mark key="'" line="578" column="26" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/resources/UnifiedProceduresResource.java" timestamp="1510215716153">
-        <mark key="[" line="31" column="48" />
-        <mark key="]" line="32" column="40" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/resources/UnifiedProceduresResource.java" timestamp="1510282189564">
+        <mark key="'" line="33" column="21" />
+        <mark key="[" line="33" column="18" />
+        <mark key="]" line="33" column="22" />
         <mark key="^" line="32" column="40" />
-        <mark key="." line="32" column="40" />
+        <mark key="." line="33" column="18" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/provider/jersey/Api.java" timestamp="1510282226478" />
       <file name="/workspace/solutions/cnup/stacks/neuron/src/test/resources/fixtures/procedure.hbs" timestamp="1509608434732">
         <mark key="[" line="378" column="13" />
         <mark key="]" line="378" column="17" />
@@ -52,7 +54,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/wrappers/build/rootfs/run" />
       <jump line="289" column="58" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
       <jump line="38" column="12" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
       <jump line="14" column="37" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/resources/providers/marathon/procedure.hbs" />
@@ -152,6 +153,7 @@
       <jump line="0" column="0" filename="/workspace/golang/src/github.com/sjkyspa/stacks/controller/build.gradle" />
       <jump line="554" column="37" filename="/workspace/golang/src/github.com/sjkyspa/stacks/.env/cdectl.json" />
       <jump line="578" column="26" filename="/workspace/golang/src/github.com/sjkyspa/stacks/.env/cdectl.json" />
+      <jump line="33" column="21" filename="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/resources/UnifiedProceduresResource.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -159,8 +161,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpPTA7IGk8MTA7IGkrKykKICAgICAgICB7CgogICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>Option</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -178,13 +180,13 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text>NewExitError</text>
+        <text encoding="base64">PD4=</text>
       </register>
       <register name="/" type="4">
         <text>name&quot;: &quot;controller</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJcmV0dXJuIGNsaS5FeGl0KGZtdC5TcHJpbnRmKCIldiIsIGVyciksIDEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQEF1dGggT3B0aW9uYWw8VXNlcj4gY3VycmVudCwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBmb3IgKGludCBpPTA7IGk8MTA7IGkrKykKICAgICAgICB7CgogICAgICAgIH0K</text>
