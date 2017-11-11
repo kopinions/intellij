@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/Modules.java" timestamp="1510374427801">
-        <mark key="[" line="41" column="1" />
-        <mark key="]" line="45" column="49" />
-        <mark key="." line="36" column="76" />
-        <mark key="^" line="36" column="76" />
+      <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/Modules.java" timestamp="1510375609631">
+        <mark key="[" line="35" column="69" />
+        <mark key="]" line="35" column="33" />
+        <mark key="." line="35" column="33" />
+        <mark key="^" line="35" column="33" />
       </file>
       <file name="/workspace/clients/billing/src/test/java/com/accounting/billing/support/InjectBasedRunner.java" timestamp="1510317324422">
         <mark key="'" line="29" column="40" />
@@ -32,6 +32,12 @@
       <file name="/workspace/solutions/cnup/stacks/launcher/build.gradle" timestamp="1510318587761">
         <mark key="[" line="100" column="0" />
         <mark key="]" line="100" column="47" />
+      </file>
+      <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/resources/InvoicesResource.java" timestamp="1510376014752">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="/workspace/clients/billing/build.gradle" timestamp="1510318596522">
         <mark key="[" line="56" column="43" />
@@ -243,8 +249,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>datastore</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -274,7 +280,7 @@
         <text encoding="base64">ICAgIHJ1bnRpbWUgJ215c3FsOm15c3FsLWNvbm5lY3Rvci1qYXZhOjUuMS4zNCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggIm9yZy5mbHl3YXlkYjpmbHl3YXktZ3JhZGxlLXBsdWdpbjo0LjAiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -282,31 +288,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggIm9yZy5mbHl3YXlkYjpmbHl3YXktZ3JhZGxlLXBsdWdpbjo0LjAiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDx0eXBlSGFuZGxlcnM+CiAgICAgICAgPHBhY2thZ2UgbmFtZT0iY29tLnRob3VnaHR3b3Jrcy5jbnVwLnVwLm1hcHBlcnMuaGFuZGxlcnMiLz4KICAgIDwvdHlwZUhhbmRsZXJzPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxvYmplY3RGYWN0b3J5IHR5cGU9ImNvbS50aG91Z2h0d29ya3MuY251cC5wcm92aWRlci5mYWN0b3J5Lk9iamVjdEZhY3RvcnkiLz4K</text>
+        <text encoding="base64">ICAgIDx0eXBlSGFuZGxlcnM+CiAgICAgICAgPHBhY2thZ2UgbmFtZT0iY29tLnRob3VnaHR3b3Jrcy5jbnVwLnVwLm1hcHBlcnMuaGFuZGxlcnMiLz4KICAgIDwvdHlwZUhhbmRsZXJzPgo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIDxvYmplY3RGYWN0b3J5IHR5cGU9ImNvbS50aG91Z2h0d29ya3MuY251cC5wcm92aWRlci5mYWN0b3J5Lk9iamVjdEZhY3RvcnkiLz4K</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICA8bWFwcGVyIHJlc291cmNlPSJteWJhdGlzL21hcHBlcnMvQ29sdW1ucy54bWwiLz4KICAgICAgICA8bWFwcGVyIHJlc291cmNlPSJteWJhdGlzL21hcHBlcnMvUmVjb3Jkcy54bWwiLz4KICAgICAgICA8bWFwcGVyIHJlc291cmNlPSJteWJhdGlzL21hcHBlcnMvRGVwbG95bWVudE1hcHBlci54bWwiLz4KICAgICAgICA8bWFwcGVyIHJlc291cmNlPSJteWJhdGlzL21hcHBlcnMvUnVuTWFwcGVyLnhtbCIvPgogICAgICAgIDxtYXBwZXIgcmVzb3VyY2U9Im15YmF0aXMvbWFwcGVycy9DbHVzdGVyTWFwcGVyLnhtbCIvPgogICAgICAgIDxtYXBwZXIgcmVzb3VyY2U9Im15YmF0aXMvbWFwcGVycy9VbmlmaWVkUHJvY2VkdXJlcy54bWwiLz4KICAgICAgICA8bWFwcGVyIHJlc291cmNlPSJteWJhdGlzL21hcHBlcnMvUHJvY2VkdXJlSW5zdGFuY2VzLnhtbCIvPgogICAgICAgIDxtYXBwZXIgcmVzb3VyY2U9Im15YmF0aXMvbWFwcGVycy9Qcm92aWRlcnMueG1sIi8+CiAgICAgICAgPG1hcHBlciByZXNvdXJjZT0ibXliYXRpcy9tYXBwZXJzL093bmVycy54bWwiLz4KICAgICAgICA8bWFwcGVyIHJlc291cmNlPSJteWJhdGlzL21hcHBlcnMvRmlsZXMueG1sIi8+CiAgICAgICAgPG1hcHBlciByZXNvdXJjZT0ibXliYXRpcy9tYXBwZXJzL1BhcnRpZXMueG1sIi8+CiAgICAgICAgPG1hcHBlciByZXNvdXJjZT0ibXliYXRpcy9tYXBwZXJzL0V2ZW50cy54bWwiLz4K</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text>get
 get
 get
 get</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">U3RyaW5nIGRhdGFiYXNlID0g</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">U3RyaW5nIHBhc3N3b3JkID0g</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">U3RyaW5nIHVzZXJuYW1lID0g</text>
+        <text encoding="base64">U3RyaW5nIHBhc3N3b3JkID0g</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
