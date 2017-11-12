@@ -28,11 +28,11 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="24" />
       </file>
-      <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/resources/InvoicesResource.java" timestamp="1510467365472">
-        <mark key="[" line="13" column="46" />
-        <mark key="]" line="13" column="56" />
-        <mark key="^" line="13" column="56" />
-        <mark key="." line="13" column="56" />
+      <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/resources/InvoicesResource.java" timestamp="1510468111307">
+        <mark key="[" line="25" column="36" />
+        <mark key="]" line="25" column="36" />
+        <mark key="." line="25" column="36" />
+        <mark key="^" line="25" column="47" />
       </file>
       <file name="/workspace/clients/billing/build.gradle" timestamp="1510459251711">
         <mark key="'" line="31" column="4" />
@@ -53,6 +53,12 @@
         <mark key="]" line="10" column="49" />
         <mark key="." line="10" column="49" />
         <mark key="^" line="10" column="49" />
+      </file>
+      <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/validation/Validators.java" timestamp="1510467949977">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="5" column="7" />
+        <mark key="^" line="5" column="7" />
+        <mark key="." line="5" column="7" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/test/resources/fixtures/procedure.hbs" timestamp="1509608434732">
         <mark key="[" line="378" column="13" />
@@ -121,7 +127,7 @@
         <mark key="^" line="39" column="38" />
         <mark key="." line="39" column="38" />
       </file>
-      <file name="/fragment.java" timestamp="1510467369992">
+      <file name="/fragment.java" timestamp="1510468039312">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/workspace/clients/billing/src/test/java/com/accounting/billing/support/ApiSupport.java" timestamp="1510317247673">
@@ -240,8 +246,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEpzb24uZnJvbUpzb24ocmVuZGVyZWQpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>00</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -262,7 +268,7 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text>yamlFactory</text>
+        <text>00</text>
       </register>
       <register name="/" type="4">
         <text>env</text>
@@ -271,7 +277,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgPFQ+IFQgZnJvbUpzb24oQmxvYiBibG9iLCBUeXBlUmVmZXJlbmNlPFQ+IHR5cGUpIHsKICAgICAgICB0cnkgewogICAgICAgICAgICByZXR1cm4gbWFwcGVyLnJlYWRWYWx1ZShibG9iLmdldEJpbmFyeVN0cmVhbSgpLCB0eXBlKTsKICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiB8IFNRTEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKGUpOwogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEpzb24uZnJvbUpzb24ocmVuZGVyZWQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -279,29 +285,29 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFwcGVyLnJlYWRWYWx1ZShwYXJzZXIsICkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzcG9uc2UuY3JlYXRlZChVUkkuY3JlYXRlKCIiKSkuYnVpbGQoKTsK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjbGFzcyBFcnJvcnMgewogICAgICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEpzb24uZnJvbUpzb24ocmVuZGVyZWQpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbWFwcGVyLnJlYWRWYWx1ZShwYXJzZXIsICkK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgWUFNTE1hcHBlciB5YW1sTWFwcGVyID0gbmV3IFlBTUxNYXBwZXIoKTsKICAgICAgICAgICAgeWFtbE1hcHBlci4K</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text>);
         } catch (IOException e) {</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGphY2tzb25fam9kYSA9ICcyLjQuMCcK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggIm9yZy5mbHl3YXlkYjpmbHl3YXktZ3JhZGxlLXBsdWdpbjo0LjAiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
