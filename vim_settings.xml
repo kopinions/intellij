@@ -16,22 +16,17 @@
         <mark key="." line="29" column="40" />
         <mark key="^" line="29" column="40" />
       </file>
-      <file name="/workspace/golang/src/github.com/cnupp/cnup/controller/src/main/java/com/thoughtworks/controller/core/Application.java" timestamp="1509590529265">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
-      </file>
-      <file name="/workspace/golang/src/github.com/cnupp/cnup/controller/src/main/java/com/thoughtworks/controller/resources/ReleaseResource.java" timestamp="1509960907031">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-      </file>
+      <file name="/workspace/clients/billing/conrib/billing.yaml" timestamp="1510458788450" />
       <file name="/a.dummy" timestamp="1510317691208">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/workspace/solutions/cnup/stacks/launcher/build.gradle" timestamp="1510318587761">
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="47" />
+      <file name="/workspace/solutions/cnup/stacks/launcher/build.gradle" timestamp="1510459051780">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="80" />
+      </file>
+      <file name="/workspace/solutions/cnup/stacks/neuron/build.gradle" timestamp="1510458670383">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="24" />
       </file>
       <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/resources/InvoicesResource.java" timestamp="1510376014752">
         <mark key="[" line="13" column="0" />
@@ -39,11 +34,12 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/workspace/clients/billing/build.gradle" timestamp="1510318596522">
-        <mark key="[" line="56" column="43" />
-        <mark key="]" line="57" column="3" />
-        <mark key="." line="57" column="3" />
-        <mark key="^" line="57" column="3" />
+      <file name="/workspace/clients/billing/build.gradle" timestamp="1510459251711">
+        <mark key="'" line="31" column="4" />
+        <mark key="[" line="66" column="50" />
+        <mark key="]" line="66" column="50" />
+        <mark key="^" line="66" column="86" />
+        <mark key="." line="66" column="50" />
       </file>
       <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/util/Helpers.java" timestamp="1510317478984">
         <mark key="[" line="2" column="22" />
@@ -51,16 +47,12 @@
         <mark key="^" line="18" column="4" />
         <mark key="." line="18" column="4" />
       </file>
+      <file name="/workspace/clients/billing/src/test/resources/fixtures/debit_invoice.yml" timestamp="1510458810733" />
       <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/Resources.java" timestamp="1510374402225">
         <mark key="[" line="10" column="40" />
         <mark key="]" line="10" column="49" />
         <mark key="." line="10" column="49" />
         <mark key="^" line="10" column="49" />
-      </file>
-      <file name="/workspace/clients/billing/src/test/java/com/accounting/billing/resources/InjectBasedRunner.java" timestamp="1510315156339">
-        <mark key="[" line="173" column="0" />
-        <mark key="]" line="173" column="0" />
-        <mark key="." line="173" column="0" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/neuron/src/test/resources/fixtures/procedure.hbs" timestamp="1509608434732">
         <mark key="[" line="378" column="13" />
@@ -68,13 +60,8 @@
         <mark key="." line="378" column="17" />
         <mark key="^" line="378" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510374211977">
+      <file name="/Dummy.txt" timestamp="1510458982594">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/workspace/clients/billing/src/test/java/com/accounting/billing/resources/ApiTestRunner.java" timestamp="1510315093663">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
       </file>
       <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/mybatis/Modules.java" timestamp="1510317629983">
         <mark key="'" line="41" column="41" />
@@ -83,10 +70,11 @@
         <mark key="." line="44" column="48" />
         <mark key="^" line="42" column="40" />
       </file>
-      <file name="/workspace/clients/billing/src/test/java/com/accounting/billing/resources/ApiSupport.java" timestamp="1510314997811">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="/workspace/clients/billing/src/test/java/com/accounting/billing/support/Fixtures.java" timestamp="1510459207889">
+        <mark key="[" line="32" column="14" />
+        <mark key="]" line="34" column="32" />
+        <mark key="." line="34" column="32" />
+        <mark key="^" line="34" column="32" />
       </file>
       <file name="/workspace/clients/billing/src/main/resources/mybatis/config.xml" timestamp="1510318294014">
         <mark key="[" line="11" column="0" />
@@ -94,23 +82,19 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="19" column="55" />
       </file>
-      <file name="/workspace/clients/billing/src/test/java/com/accounting/billing/resources/InvoicesResourceTest.java" timestamp="1510458538183">
-        <mark key="'" line="20" column="3" />
-        <mark key="[" line="22" column="16" />
-        <mark key="]" line="22" column="50" />
-        <mark key="^" line="22" column="50" />
-        <mark key="." line="22" column="50" />
+      <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/util/Json.java" timestamp="1510459194772" />
+      <file name="/workspace/clients/billing/src/test/java/com/accounting/billing/resources/InvoicesResourceTest.java" timestamp="1510458901747">
+        <mark key="'" line="27" column="3" />
+        <mark key="[" line="31" column="50" />
+        <mark key="]" line="31" column="52" />
+        <mark key="^" line="31" column="52" />
+        <mark key="." line="31" column="52" />
       </file>
       <file name="/workspace/golang/src/github.com/sjkyspa/stacks/controller/src/main/java/com/thoughtworks/controller/resources/VerifiesResource.java" timestamp="1509355075786">
         <mark key="[" line="22" column="58" />
         <mark key="]" line="22" column="7" />
         <mark key="^" line="22" column="7" />
         <mark key="." line="22" column="7" />
-      </file>
-      <file name="/workspace/clients/billing/src/test/java/com/accounting/billing/resources/Mock.java" timestamp="1510315167772">
-        <mark key="[" line="0" column="31" />
-        <mark key="]" line="0" column="31" />
-        <mark key="." line="0" column="31" />
       </file>
       <file name="/workspace/solutions/cnup/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/resources/UnifiedProceduresResource.java" timestamp="1510282189564">
         <mark key="'" line="33" column="21" />
@@ -131,7 +115,7 @@
         <mark key="^" line="39" column="38" />
         <mark key="." line="39" column="38" />
       </file>
-      <file name="/fragment.java" timestamp="1510374211990">
+      <file name="/fragment.java" timestamp="1510458702694">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/workspace/clients/billing/src/test/java/com/accounting/billing/support/ApiSupport.java" timestamp="1510317247673">
@@ -143,8 +127,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="318" column="0" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
-      <jump line="386" column="64" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
       <jump line="389" column="20" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
       <jump line="392" column="20" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
       <jump line="397" column="59" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
@@ -243,6 +225,8 @@
       <jump line="29" column="40" filename="/workspace/clients/billing/src/test/java/com/accounting/billing/support/InjectBasedRunner.java" />
       <jump line="42" column="41" filename="/workspace/clients/billing/src/main/java/com/accounting/billing/mybatis/Modules.java" />
       <jump line="20" column="3" filename="/workspace/clients/billing/src/test/java/com/accounting/billing/resources/InvoicesResourceTest.java" />
+      <jump line="65" column="0" filename="/workspace/clients/billing/build.gradle" />
+      <jump line="31" column="4" filename="/workspace/clients/billing/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -251,7 +235,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>should_able_to_create_invoice</text>
+        <text>l</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -272,16 +256,17 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text>should_able_to_create_invoice</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>env</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBzaG91bGRfYWJsZV90b19jcmVhdGVfaW52b2ljZSgpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIFJlc3BvbnNlIGNyZWF0ZWRJbnZvaWNlID0gcG9zdCgiL2ludm9pY2VzIiwgJCgidGVzdCIsICJ0ZXN0IikpOwogICAgICAgIGFzc2VydFRoYXQoY3JlYXRlZEludm9pY2UuZ2V0U3RhdHVzKCksIGlzKDIwMSkpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIHRlc3RDb21waWxlICJjb20uZ2l0aHViLmprbmFjazpoYW5kbGViYXJzOiRoYW5kbGViYXJzIgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>);
+        } catch (IOException e) {</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -289,31 +274,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggIm9yZy5mbHl3YXlkYjpmbHl3YXktZ3JhZGxlLXBsdWdpbjo0LjAiCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGphY2tzb25fam9kYSA9ICcyLjQuMCcK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDx0eXBlSGFuZGxlcnM+CiAgICAgICAgPHBhY2thZ2UgbmFtZT0iY29tLnRob3VnaHR3b3Jrcy5jbnVwLnVwLm1hcHBlcnMuaGFuZGxlcnMiLz4KICAgIDwvdHlwZUhhbmRsZXJzPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxvYmplY3RGYWN0b3J5IHR5cGU9ImNvbS50aG91Z2h0d29ya3MuY251cC5wcm92aWRlci5mYWN0b3J5Lk9iamVjdEZhY3RvcnkiLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8bWFwcGVyIHJlc291cmNlPSJteWJhdGlzL21hcHBlcnMvQ29sdW1ucy54bWwiLz4KICAgICAgICA8bWFwcGVyIHJlc291cmNlPSJteWJhdGlzL21hcHBlcnMvUmVjb3Jkcy54bWwiLz4KICAgICAgICA8bWFwcGVyIHJlc291cmNlPSJteWJhdGlzL21hcHBlcnMvRGVwbG95bWVudE1hcHBlci54bWwiLz4KICAgICAgICA8bWFwcGVyIHJlc291cmNlPSJteWJhdGlzL21hcHBlcnMvUnVuTWFwcGVyLnhtbCIvPgogICAgICAgIDxtYXBwZXIgcmVzb3VyY2U9Im15YmF0aXMvbWFwcGVycy9DbHVzdGVyTWFwcGVyLnhtbCIvPgogICAgICAgIDxtYXBwZXIgcmVzb3VyY2U9Im15YmF0aXMvbWFwcGVycy9VbmlmaWVkUHJvY2VkdXJlcy54bWwiLz4KICAgICAgICA8bWFwcGVyIHJlc291cmNlPSJteWJhdGlzL21hcHBlcnMvUHJvY2VkdXJlSW5zdGFuY2VzLnhtbCIvPgogICAgICAgIDxtYXBwZXIgcmVzb3VyY2U9Im15YmF0aXMvbWFwcGVycy9Qcm92aWRlcnMueG1sIi8+CiAgICAgICAgPG1hcHBlciByZXNvdXJjZT0ibXliYXRpcy9tYXBwZXJzL093bmVycy54bWwiLz4KICAgICAgICA8bWFwcGVyIHJlc291cmNlPSJteWJhdGlzL21hcHBlcnMvRmlsZXMueG1sIi8+CiAgICAgICAgPG1hcHBlciByZXNvdXJjZT0ibXliYXRpcy9tYXBwZXJzL1BhcnRpZXMueG1sIi8+CiAgICAgICAgPG1hcHBlciByZXNvdXJjZT0ibXliYXRpcy9tYXBwZXJzL0V2ZW50cy54bWwiLz4K</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggIm9yZy5mbHl3YXlkYjpmbHl3YXktZ3JhZGxlLXBsdWdpbjo0LjAiCg==</text>
       </register>
-      <register name="7" type="8">
-        <text>get
-get
-get
-get</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">U3RyaW5nIGRhdGFiYXNlID0g</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIDx0eXBlSGFuZGxlcnM+CiAgICAgICAgPHBhY2thZ2UgbmFtZT0iY29tLnRob3VnaHR3b3Jrcy5jbnVwLnVwLm1hcHBlcnMuaGFuZGxlcnMiLz4KICAgIDwvdHlwZUhhbmRsZXJzPgo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">U3RyaW5nIHBhc3N3b3JkID0g</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIDxvYmplY3RGYWN0b3J5IHR5cGU9ImNvbS50aG91Z2h0d29ya3MuY251cC5wcm92aWRlci5mYWN0b3J5Lk9iamVjdEZhY3RvcnkiLz4K</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
