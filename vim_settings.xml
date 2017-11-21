@@ -59,11 +59,11 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.2.6.RELEASE/spring-core-4.2.6.RELEASE.jar!/org/springframework/core/Constants.class" timestamp="1511233763275" />
       <file name="/workspace/personal/codes/spring-boot-mybatis-rw/spring-boot-mybatis-rw/spring-boot-mybatis-rw-starter/src/main/java/org/spring/boot/mybatis/rw/starter/datasource/DataSourceProxy.java" timestamp="1511236233654" />
-      <file name="/workspace/clients/billing/src/main/resources/mybatis/config.xml" timestamp="1511237881738">
-        <mark key="[" line="12" column="70" />
-        <mark key="]" line="12" column="84" />
-        <mark key="^" line="12" column="84" />
-        <mark key="." line="12" column="84" />
+      <file name="/workspace/clients/billing/src/main/resources/mybatis/config.xml" timestamp="1511240067209">
+        <mark key="[" line="18" column="25" />
+        <mark key="]" line="18" column="24" />
+        <mark key="^" line="18" column="24" />
+        <mark key="." line="18" column="24" />
       </file>
       <file name="/workspace/golang/src/github.com/sjkyspa/stacks/controller/src/main/java/com/thoughtworks/controller/resources/VerifiesResource.java" timestamp="1509355075786">
         <mark key="[" line="22" column="58" />
@@ -90,7 +90,7 @@
         <mark key="." line="0" column="29" />
         <mark key="^" line="0" column="29" />
       </file>
-      <file name="/workspace/personal/codes/spring-boot-mybatis-rw/spring-boot-mybatis-rw/spring-boot-mybatis-rw-starter/src/main/java/org/spring/boot/mybatis/rw/starter/datasource/AbstractRWDataSourceRout.java" timestamp="1511235452439" />
+      <file name="/workspace/personal/codes/spring-boot-mybatis-rw/spring-boot-mybatis-rw/spring-boot-mybatis-rw-starter/src/main/java/org/spring/boot/mybatis/rw/starter/datasource/AbstractRWDataSourceRout.java" timestamp="1511239944006" />
       <file name="/workspace/clients/billing/settings.gradle" timestamp="1511232057506">
         <mark key="[" line="12" column="27" />
         <mark key="]" line="12" column="27" />
@@ -103,15 +103,15 @@
         <mark key="^" line="7" column="19" />
         <mark key="." line="7" column="19" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mybatis/mybatis/3.4.4/652e324406c304df9e75ea1ac460d0abb791795f/mybatis-3.4.4-sources.jar!/org/apache/ibatis/session/defaults/DefaultSqlSessionFactory.java" timestamp="1511237749227" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mybatis/mybatis/3.4.4/652e324406c304df9e75ea1ac460d0abb791795f/mybatis-3.4.4-sources.jar!/org/apache/ibatis/session/defaults/DefaultSqlSessionFactory.java" timestamp="1511239400488" />
       <file name="/workspace/clients/billing/src/main/resources/db/migration/V1__create_invoice.sql" timestamp="1510568226496">
         <mark key="[" line="1" column="28" />
         <mark key="]" line="1" column="28" />
         <mark key="." line="1" column="28" />
         <mark key="^" line="1" column="28" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mybatis/mybatis/3.4.4/652e324406c304df9e75ea1ac460d0abb791795f/mybatis-3.4.4-sources.jar!/org/apache/ibatis/session/SqlSessionFactoryBuilder.java" timestamp="1511229268409" />
-      <file name="/workspace/personal/codes/spring-boot-mybatis-rw/spring-boot-mybatis-rw/spring-boot-mybatis-rw-starter/src/main/java/org/spring/boot/mybatis/rw/starter/MybatisAutoConfiguration.java" timestamp="1511237815328" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mybatis/mybatis/3.4.4/652e324406c304df9e75ea1ac460d0abb791795f/mybatis-3.4.4-sources.jar!/org/apache/ibatis/session/SqlSessionFactoryBuilder.java" timestamp="1511239019043" />
+      <file name="/workspace/personal/codes/spring-boot-mybatis-rw/spring-boot-mybatis-rw/spring-boot-mybatis-rw-starter/src/main/java/org/spring/boot/mybatis/rw/starter/MybatisAutoConfiguration.java" timestamp="1511238824178" />
       <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/Modules.java" timestamp="1510570213956">
         <mark key="[" line="50" column="93" />
         <mark key="]" line="50" column="91" />
@@ -131,7 +131,7 @@
         <mark key="^" line="0" column="21" />
       </file>
       <file name="/workspace/personal/codes/spring-boot-mybatis-rw/spring-boot-mybatis-rw/spring-boot-mybatis-rw-starter/src/main/java/org/spring/boot/mybatis/rw/starter/pulgin/RWPlugin.java" timestamp="1511237525223" />
-      <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/mybatis/Models.java" timestamp="1511237600798" />
+      <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/mybatis/Models.java" timestamp="1511238948304" />
       <file name="/workspace/clients/billing/modules/features/sharding/src/main/java/com/accounting/billing/features/sharding/core/Context.java" timestamp="1511236075047">
         <mark key="'" line="24" column="22" />
         <mark key="[" line="24" column="11" />
@@ -139,6 +139,7 @@
         <mark key="." line="24" column="16" />
         <mark key="^" line="24" column="16" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.1/mybatis-3.4.1.jar!/org/apache/ibatis/mapping/Environment.class" timestamp="1511239180424" />
       <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/mybatis/mappers/Invoices.java" timestamp="1510568560655">
         <mark key="[" line="15" column="39" />
         <mark key="]" line="16" column="3" />
@@ -153,6 +154,7 @@
         <mark key="^" line="6" column="11" />
       </file>
       <file name="/workspace/personal/codes/spring-boot-mybatis-rw/spring-boot-mybatis-rw/spring-boot-mybatis-rw-starter/src/main/java/org/spring/boot/mybatis/rw/starter/datasource/DataSourceRout.java" timestamp="1511231286310" />
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.3.0/mybatis-spring-1.3.0.jar!/org/mybatis/spring/SqlSessionFactoryBean.class" timestamp="1511240105799" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mybatis/mybatis-guice/3.7/ab92c5fa77327214216695065036a0f3c8792bde/mybatis-guice-3.7-sources.jar!/org/mybatis/guice/session/SqlSessionManagerProvider.java" timestamp="1511229376653" />
       <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.1/mybatis-3.4.1.jar!/org/apache/ibatis/executor/statement/RoutingStatementHandler.class" timestamp="1511236453897" />
       <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/validation/Validators.java" timestamp="1510484834467">
@@ -331,8 +333,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>development</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -353,13 +355,13 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text>Steing</text>
+        <text>development</text>
       </register>
       <register name="/" type="4">
         <text>env</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG15YmF0aXMgPSAnMy40LjQnCg==</text>
+        <text encoding="base64">ICAgICAgICA8ZW52aXJvbm1lbnQgaWQ9ImRldmVsb3BtZW50Ij4KICAgICAgICAgICAgPHRyYW5zYWN0aW9uTWFuYWdlciB0eXBlPSJKREJDIj4KICAgICAgICAgICAgICAgIDxwcm9wZXJ0eSBuYW1lPSJjbG9zZUNvbm5lY3Rpb24iIHZhbHVlPSJmYWxzZSIvPgogICAgICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9ImF1dG9Db21taXQiIHZhbHVlPSJmYWxzZSIvPgogICAgICAgICAgICA8L3RyYW5zYWN0aW9uTWFuYWdlcj4KICAgICAgICAgICAgPGRhdGFTb3VyY2UgdHlwZT0iUE9PTEVEIj4KICAgICAgICAgICAgICAgIDxwcm9wZXJ0eSBuYW1lPSJkcml2ZXIiIHZhbHVlPSJjb20ubXlzcWwuamRiYy5Ecml2ZXIiLz4KICAgICAgICAgICAgICAgIDxwcm9wZXJ0eSBuYW1lPSJ1cmwiIHZhbHVlPSIke2RiLnVybH0iLz4KICAgICAgICAgICAgICAgIDxwcm9wZXJ0eSBuYW1lPSJkcml2ZXIuZW5jb2RpbmciIHZhbHVlPSJVVEY4Ii8+CiAgICAgICAgICAgICAgICA8cHJvcGVydHkgbmFtZT0icG9vbFBpbmdRdWVyeSIgdmFsdWU9InNlbGVjdCAxIi8+CiAgICAgICAgICAgICAgICA8cHJvcGVydHkgbmFtZT0icG9vbFBpbmdFbmFibGVkIiB2YWx1ZT0idHJ1ZSIvPgogICAgICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9InBvb2xQaW5nQ29ubmVjdGlvbnNOb3RVc2VkRm9yIiB2YWx1ZT0iMzYwMDAwMCIvPgogICAgICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9InBvb2xNYXhpbXVtQWN0aXZlQ29ubmVjdGlvbnMiIHZhbHVlPSI1MCIgLz4KICAgICAgICAgICAgICAgIDxwcm9wZXJ0eSBuYW1lPSJwb29sTWF4aW11bUlkbGVDb25uZWN0aW9ucyIgdmFsdWU9IjUwIiAvPgogICAgICAgICAgICA8L2RhdGFTb3VyY2U+CiAgICAgICAgPC9lbnZpcm9ubWVudD4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
