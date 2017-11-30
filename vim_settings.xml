@@ -10,7 +10,6 @@
         <mark key="." line="29" column="40" />
         <mark key="^" line="29" column="40" />
       </file>
-      <file name="/workspace/personal/codes/rs-api/jaxrs-api/src/main/java/javax/ws/rs/core/Configurable.java" timestamp="1511432017252" />
       <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/resources/InvoicesResource.java" timestamp="1511431708045">
         <mark key="[" line="36" column="20" />
         <mark key="]" line="36" column="26" />
@@ -67,14 +66,12 @@
         <mark key="." line="18" column="36" />
         <mark key="^" line="18" column="36" />
       </file>
-      <file name="/workspace/personal/codes/rs-api/jaxrs-api/src/main/java/javax/ws/rs/core/Cookie.java" timestamp="1511431986545" />
       <file name="/workspace/clients/billing/modules/features/guice/src/main/java/com/thoughtworks/cnup/features/guice/GuiceFeature.java" timestamp="1510469466886">
         <mark key="[" line="0" column="23" />
         <mark key="]" line="0" column="38" />
         <mark key="." line="0" column="38" />
         <mark key="^" line="0" column="38" />
       </file>
-      <file name="/workspace/personal/codes/rs-api/jaxrs-api/src/main/java/javax/ws/rs/core/StreamingOutput.java" timestamp="1511432064424" />
       <file name="/workspace/clients/billing/modules/features/sharding/src/main/java/com/accounting/billing/features/sharding/support/Factory.java" timestamp="1511249472513">
         <mark key="[" line="2" column="24" />
         <mark key="]" line="2" column="25" />
@@ -119,7 +116,6 @@
         <mark key="^" line="5" column="17" />
         <mark key="." line="11" column="16" />
       </file>
-      <file name="/workspace/personal/codes/rs-api/jaxrs-api/src/main/java/javax/ws/rs/sse/FactoryFinder.java" timestamp="1511432088276" />
       <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/core/resources/InvoicesResource.java" timestamp="1510314767445">
         <mark key="[" line="0" column="31" />
         <mark key="]" line="0" column="29" />
@@ -138,7 +134,6 @@
         <mark key="^" line="7" column="19" />
         <mark key="." line="7" column="19" />
       </file>
-      <file name="/workspace/personal/codes/rs-api/jaxrs-api/src/main/java/javax/ws/rs/core/FeatureContext.java" timestamp="1511431998704" />
       <file name="/workspace/clients/billing/src/main/resources/db/migration/V1__create_invoice.sql" timestamp="1510568226496">
         <mark key="[" line="1" column="28" />
         <mark key="]" line="1" column="28" />
@@ -149,7 +144,6 @@
         <mark key="[" line="48" column="0" />
         <mark key="]" line="49" column="34" />
       </file>
-      <file name="/workspace/personal/codes/spring-boot-mybatis-rw/spring-boot-mybatis-rw/spring-boot-mybatis-rw-starter/src/main/java/org/spring/boot/mybatis/rw/starter/MybatisAutoConfiguration.java" timestamp="1511431607367" />
       <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/Modules.java" timestamp="1511241894535">
         <mark key="[" line="38" column="35" />
         <mark key="]" line="38" column="39" />
@@ -206,6 +200,11 @@
         <mark key="^" line="2" column="41" />
         <mark key="." line="2" column="41" />
       </file>
+      <file name="/workspace/solutions/cnup/stacks/neuron/src/main/java/com/thoughtworks/cnup/neuron/records/Sensory.java" timestamp="1512013327477">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+      </file>
       <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/validation/Validators.java" timestamp="1510484834467">
         <mark key="[" line="5" column="74" />
         <mark key="]" line="5" column="81" />
@@ -218,7 +217,12 @@
         <mark key="." line="378" column="17" />
         <mark key="^" line="378" column="17" />
       </file>
-      <file name="/workspace/personal/codes/rs-api/jaxrs-api/src/main/java/javax/ws/rs/core/Application.java" timestamp="1511431918568" />
+      <file name="/workspace/solutions/cnup/ketsu/new-ketsu/src/main/java/com/thoughtworks/ketsu/web/CapabilityApi.java" timestamp="1512012915363">
+        <mark key="[" line="21" column="123" />
+        <mark key="]" line="21" column="7" />
+        <mark key="^" line="21" column="7" />
+        <mark key="." line="21" column="7" />
+      </file>
       <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/mybatis/Modules.java" timestamp="1510317629983">
         <mark key="'" line="41" column="41" />
         <mark key="[" line="44" column="48" />
@@ -400,7 +404,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFyc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -421,7 +425,7 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text>environment</text>
+        <text encoding="base64">VVJJLmNyZWF0ZShcImFhYT1iYmImY2NjPWRkZFwiKQ==</text>
       </register>
       <register name="/" type="4">
         <text>env</text>
@@ -430,7 +434,7 @@
         <text encoding="base64">ICAgICAgWE1MQ29uZmlnQnVpbGRlciBwYXJzZXIgPSBuZXcgWE1MQ29uZmlnQnVpbGRlcihyZWFkZXIsIGVudmlyb25tZW50LCBwcm9wZXJ0aWVzKTsKICAgICAgcmV0dXJuIGJ1aWxkKHBhcnNlci5wYXJzZSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFyc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -438,28 +442,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGJ1aWxkKHBhcnNlci5wYXJzZSgpKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBVUkkgYnVpbGQgPSBVcmlCdWlsZGVyLmZyb21VcmkoImFhYT1iYmImY2NjPWRkZCIpLmJ1aWxkKCk7CiAgICAgICAgVVJMRW5jb2Rlci5lbmNvZGUoKQogICAgfQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBVcmlJbmZvCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBVUkxCdWlsZGVyLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBVcmlJbmZvCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFVSTAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIDxUPiBEYXRhU291cmNlIHJvdXRlKERlc3RpbmF0aW9uPFQ+IGRlc3RpbmF0aW9uKSB7CiAgICAgICAgVCBhZGRyZXNzID0gZGVzdGluYXRpb24uYWRkcmVzcygpOwogICAgICAgIHJldHVybiBudWxsOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBidWlsZC5nZXQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIERhdGFTb3VyY2Ugcm91dGUoRGVzdGluYXRpb248U3RyaW5nPiBkZXN0aW5hdGlvbikgewogICAgICAgIHJldHVybiBudWxsOwogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFyc2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN1cGVyLmluaXRpYWxWYWx1ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGJ1aWxkKHBhcnNlci5wYXJzZSgpKTsK</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
