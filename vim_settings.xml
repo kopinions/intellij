@@ -129,10 +129,11 @@
         <mark key="^" line="21" column="7" />
         <mark key="." line="21" column="7" />
       </file>
-      <file name="/workspace/personal/kata/word-wrap/java/src/main/java/com/morpheus/kata/wrap/WordWrapper.java" timestamp="1513063866929">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="/workspace/personal/kata/word-wrap/java/src/main/java/com/morpheus/kata/wrap/WordWrapper.java" timestamp="1513072568172">
+        <mark key="[" line="14" column="41" />
+        <mark key="]" line="14" column="43" />
+        <mark key="." line="14" column="43" />
+        <mark key="^" line="14" column="43" />
       </file>
       <file name="/workspace/clients/billing/src/main/resources/mybatis/mappers/Columns.xml" timestamp="1510573959167">
         <mark key="[" line="8" column="0" />
@@ -169,11 +170,11 @@
         <mark key="^" line="22" column="7" />
         <mark key="." line="22" column="7" />
       </file>
-      <file name="/workspace/personal/kata/word-wrap/java/src/test/java/com/morpheus/kata/wrap/WordWrapperTest.java" timestamp="1513067414318">
-        <mark key="[" line="22" column="6" />
-        <mark key="]" line="23" column="7" />
-        <mark key="^" line="23" column="7" />
-        <mark key="." line="23" column="7" />
+      <file name="/workspace/personal/kata/word-wrap/java/src/test/java/com/morpheus/kata/wrap/WordWrapperTest.java" timestamp="1513073138698">
+        <mark key="[" line="78" column="11" />
+        <mark key="]" line="78" column="12" />
+        <mark key="." line="78" column="12" />
+        <mark key="^" line="77" column="37" />
       </file>
       <file name="/workspace/clients/billing/src/test/java/com/accounting/billing/records/InvoicesTest.java" timestamp="1510573943157">
         <mark key="[" line="16" column="0" />
@@ -352,8 +353,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -374,16 +375,16 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>env</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBzaG91bGRfYWJsZV9ub3Rfd3JhcF93aGVuX25vdF9lbm91Z2hfY2hhcigpIHsKICAgICAgICBTdHJpbmcgd3JhcHBlZCA9IG5ldyBXb3JkV3JhcHBlcigxMCkud3JhcCgiYWJjZCIpOwogICAgICAgIGFzc2VydFRoYXQod3JhcHBlZCwgaXMoImFiY2QiKSk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB3cmFwXzNfdGltZXNfZm9yX3dvcmRfZXhjZWVkXzNfdGltZXMoKSB7CiAgICAgICAgYXNzZXJ0VGhhdCh3cmFwKCJ3b3JkIHdvcmQgd29yZCIsIDYpLCBpcygid29yZFxud29yZFxud29yZCIpKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIC8vIGZpcnN0IHRlc3QgYWx3YXlzIGJlIHt9IC0+IG5pbAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -391,28 +392,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHdyYXAoIndyYXAgaGVyZSIsIDYpLCBpcygid3JhcFxuaGVyZSIpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAid29yZFxuIHdvcmQiOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uc3VuLm9yZy5hcGFjaGUueGVyY2VzLmludGVybmFsLnV0aWwuUHJvcGVydHlTdGF0ZS5pczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAid29yZFxud29yZCI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBJZ25vcmUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHdyYXAoImxvbmd3b3JkIiwgNCksIGlzKCJsb25nXG53b3JkIikpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIFRoZSBwcm9kdWN0aW9uIGNvZGUgdXNlcyB0aGUgU0xGNEogbG9nZ2luZyBBUEkgYXQgY29tcGlsZSB0aW1lCg==</text>
+        <text encoding="base64">ICAgIEBJZ25vcmUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vICd0ZXN0LnVzZVRlc3RORygpJyB0byB5b3VyIGJ1aWxkIHNjcmlwdC4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIHRlc3RDb21waWxlIGRlcGVuZGVuY3kgdG8gdGVzdENvbXBpbGUgJ29yZy50ZXN0bmc6dGVzdG5nOjYuOC4xJyBhbmQgYWRkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
@@ -471,8 +472,8 @@
         <entry>g</entry>
         <entry>set incsearch</entry>
         <entry>%s/getOrDefault/get/gc</entry>
-        <entry>qw</entry>
         <entry>we</entry>
+        <entry>qw</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
