@@ -188,11 +188,11 @@
         <mark key="^" line="21" column="7" />
         <mark key="." line="21" column="7" />
       </file>
-      <file name="/workspace/personal/kata/word-wrap/java/src/main/java/com/morpheus/kata/wrap/WordWrapper.java" timestamp="1513049890068">
-        <mark key="[" line="5" column="34" />
-        <mark key="]" line="6" column="17" />
-        <mark key="." line="6" column="17" />
-        <mark key="^" line="6" column="17" />
+      <file name="/workspace/personal/kata/word-wrap/java/src/main/java/com/morpheus/kata/wrap/WordWrapper.java" timestamp="1513051202663">
+        <mark key="[" line="12" column="14" />
+        <mark key="]" line="16" column="25" />
+        <mark key="." line="16" column="25" />
+        <mark key="^" line="16" column="25" />
       </file>
       <file name="/workspace/clients/billing/src/main/resources/mybatis/mappers/Columns.xml" timestamp="1510573959167">
         <mark key="[" line="8" column="0" />
@@ -206,11 +206,11 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="33" column="18" />
       </file>
-      <file name="/workspace/personal/kata/word-wrap/java/src/test/java/com/morpheus/kata/wrap/WordWrapperTest.java" timestamp="1513049850760">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="38" />
-        <mark key="^" line="7" column="38" />
-        <mark key="." line="7" column="38" />
+      <file name="/workspace/personal/kata/word-wrap/java/src/test/java/com/morpheus/kata/wrap/WordWrapperTest.java" timestamp="1513051186084">
+        <mark key="[" line="29" column="35" />
+        <mark key="]" line="29" column="36" />
+        <mark key="^" line="29" column="36" />
+        <mark key="." line="29" column="36" />
       </file>
       <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/records/Record.java" timestamp="1510555142028">
         <mark key="[" line="9" column="34" />
@@ -354,7 +354,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>string</text>
+        <text>0</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -375,16 +375,16 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>env</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20ubW9ycGhldXMua2F0YS53cmFwOwo=</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBzaG91bGRfYWJsZV9ub3Rfd3JhcF93aGVuX25vdF9lbm91Z2hfY2hhcigpIHsKICAgICAgICBTdHJpbmcgd3JhcHBlZCA9IG5ldyBXb3JkV3JhcHBlcigxMCkud3JhcCgiYWJjZCIpOwogICAgICAgIGFzc2VydFRoYXQod3JhcHBlZCwgaXMoImFiY2QiKSk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIiI7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -392,28 +392,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIFRoZSBwcm9kdWN0aW9uIGNvZGUgdXNlcyB0aGUgU0xGNEogbG9nZ2luZyBBUEkgYXQgY29tcGlsZSB0aW1lCg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uc3VuLm9yZy5hcGFjaGUueGVyY2VzLmludGVybmFsLnV0aWwuUHJvcGVydHlTdGF0ZS5pczsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vICd0ZXN0LnVzZVRlc3RORygpJyB0byB5b3VyIGJ1aWxkIHNjcmlwdC4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIHRlc3RDb21waWxlIGRlcGVuZGVuY3kgdG8gdGVzdENvbXBpbGUgJ29yZy50ZXN0bmc6dGVzdG5nOjYuOC4xJyBhbmQgYWRkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIFRlc3RORyBpcyBhbHNvIHN1cHBvcnRlZCBieSB0aGUgR3JhZGxlIFRlc3QgdGFzay4gSnVzdCBjaGFuZ2UgdGhlCg==</text>
+        <text encoding="base64">ICAgIC8vIFRoZSBwcm9kdWN0aW9uIGNvZGUgdXNlcyB0aGUgU0xGNEogbG9nZ2luZyBBUEkgYXQgY29tcGlsZSB0aW1lCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIERlY2xhcmUgdGhlIGRlcGVuZGVuY3kgZm9yIHlvdXIgZmF2b3VyaXRlIHRlc3QgZnJhbWV3b3JrIHlvdSB3YW50IHRvIHVzZSBpbiB5b3VyIHRlc3RzLgo=</text>
+        <text encoding="base64">ICAgIC8vICd0ZXN0LnVzZVRlc3RORygpJyB0byB5b3VyIGJ1aWxkIHNjcmlwdC4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gSW4gdGhpcyBzZWN0aW9uIHlvdSBkZWNsYXJlIHRoZSBkZXBlbmRlbmNpZXMgZm9yIHlvdXIgcHJvZHVjdGlvbiBhbmQgdGVzdCBjb2RlCg==</text>
+        <text encoding="base64">ICAgIC8vIHRlc3RDb21waWxlIGRlcGVuZGVuY3kgdG8gdGVzdENvbXBpbGUgJ29yZy50ZXN0bmc6dGVzdG5nOjYuOC4xJyBhbmQgYWRkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIFlvdSBjYW4gZGVjbGFyZSBhbnkgTWF2ZW4vSXZ5L2ZpbGUgcmVwb3NpdG9yeSBoZXJlLgo=</text>
+        <text encoding="base64">ICAgIC8vIFRlc3RORyBpcyBhbHNvIHN1cHBvcnRlZCBieSB0aGUgR3JhZGxlIFRlc3QgdGFzay4gSnVzdCBjaGFuZ2UgdGhlCg==</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
@@ -472,8 +472,8 @@
         <entry>g</entry>
         <entry>set incsearch</entry>
         <entry>%s/getOrDefault/get/gc</entry>
-        <entry>we</entry>
         <entry>qw</entry>
+        <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
