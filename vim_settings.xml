@@ -3,16 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/workspace/personal/codes/rs-api/jaxrs-api/src/main/java/javax/ws/rs/NameBinding.java" timestamp="1512436630730" />
-      <file name="/workspace/personal/codes/rs-api/jaxrs-api/src/main/java/javax/ws/rs/core/Configurable.java" timestamp="1512381279237" />
-      <file name="/workspace/personal/codes/rs-api/jaxrs-api/src/main/java/javax/ws/rs/ApplicationPath.java" timestamp="1512382016182" />
       <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/resources/InvoicesResource.java" timestamp="1511431708045">
         <mark key="[" line="36" column="20" />
         <mark key="]" line="36" column="26" />
         <mark key="." line="36" column="26" />
         <mark key="^" line="36" column="26" />
       </file>
-      <file name="/workspace/personal/codes/rs-api/jaxrs-api/src/test/java/javax/ws/rs/core/CookieTest.java" timestamp="1512380809086" />
+      <file name="/workspace/personal/kata/word-wrap/java/src/test/java/com/morpheus/kata/wrap/WrapTest.java" timestamp="1513049796133">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="0" column="31" />
+        <mark key="^" line="7" column="7" />
+        <mark key="." line="7" column="7" />
+      </file>
       <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/util/Helpers.java" timestamp="1510317478984">
         <mark key="[" line="2" column="22" />
         <mark key="]" line="18" column="4" />
@@ -37,6 +39,12 @@
         <mark key="." line="11" column="65" />
         <mark key="^" line="11" column="65" />
       </file>
+      <file name="/workspace/personal/kata/word-wrap/java/src/test/java/com/morpheus/kata/wrap/WordWrapTest.java" timestamp="1513049805446">
+        <mark key="[" line="4" column="21" />
+        <mark key="]" line="4" column="20" />
+        <mark key="^" line="4" column="20" />
+        <mark key="." line="4" column="20" />
+      </file>
       <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/mybatis/mappers/InvoicesMapper.java" timestamp="1510556363340">
         <mark key="[" line="11" column="117" />
         <mark key="]" line="11" column="120" />
@@ -49,7 +57,6 @@
         <mark key="." line="18" column="36" />
         <mark key="^" line="18" column="36" />
       </file>
-      <file name="/workspace/personal/codes/rs-api/jaxrs-api/src/main/java/javax/ws/rs/core/SecurityContext.java" timestamp="1512381400101" />
       <file name="/workspace/clients/billing/modules/features/guice/src/main/java/com/thoughtworks/cnup/features/guice/GuiceFeature.java" timestamp="1510469466886">
         <mark key="[" line="0" column="23" />
         <mark key="]" line="0" column="38" />
@@ -67,6 +74,11 @@
         <mark key="]" line="17" column="31" />
         <mark key="^" line="17" column="31" />
         <mark key="." line="17" column="31" />
+      </file>
+      <file name="/workspace/personal/kata/word-wrap/java/src/main/java/WordWrapper.java" timestamp="1513049783583">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/workspace/golang/src/github.com/sjkyspa/stacks/controller/src/main/java/com/thoughtworks/controller/resources/VerifiesResource.java" timestamp="1509355075786">
         <mark key="[" line="22" column="58" />
@@ -110,7 +122,6 @@
         <mark key="." line="1" column="28" />
         <mark key="^" line="1" column="28" />
       </file>
-      <file name="/workspace/personal/codes/rs-api/jaxrs-api/src/main/java/javax/ws/rs/ConstrainedTo.java" timestamp="1512382327394" />
       <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/Modules.java" timestamp="1511241894535">
         <mark key="[" line="38" column="35" />
         <mark key="]" line="38" column="39" />
@@ -123,7 +134,6 @@
         <mark key="^" line="9" column="36" />
         <mark key="." line="9" column="18" />
       </file>
-      <file name="/workspace/personal/codes/jersey/core-server/src/main/java/org/glassfish/jersey/server/spi/ContainerLifecycleListener.java" timestamp="1512382299943" />
       <file name="/workspace/clients/billing/src/test/resources/log4j.properties" timestamp="1510574533250">
         <mark key="[" line="0" column="17" />
         <mark key="]" line="0" column="21" />
@@ -142,7 +152,6 @@
         <mark key="^" line="16" column="3" />
         <mark key="." line="16" column="3" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.core/jersey-server/2.17/38d718833c4978ed5ffd86ed323dc95e0c4a26cd/jersey-server-2.17-sources.jar!/org/glassfish/jersey/server/internal/inject/ParamConverterFactory.java" timestamp="1512014401366" />
       <file name="/workspace/clients/billing/modules/features/routing/src/main/java/com/accounting/billing/features/routing/Routes.java" timestamp="1510485524889">
         <mark key="[" line="6" column="8" />
         <mark key="]" line="6" column="11" />
@@ -173,14 +182,17 @@
         <mark key="." line="378" column="17" />
         <mark key="^" line="378" column="17" />
       </file>
-      <file name="/workspace/personal/codes/rs-api/jaxrs-api/src/main/java/javax/ws/rs/core/Request.java" timestamp="1512381339976" />
-      <file name="/workspace/personal/codes/rs-api/jaxrs-api/src/main/java/javax/ws/rs/core/Application.java" timestamp="1512381304530" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.ws.rs/javax.ws.rs-api/2.0.1/a20db7429fd8dfff74335ec867472b71c345049b/javax.ws.rs-api-2.0.1-sources.jar!/javax/ws/rs/client/ClientBuilder.java" timestamp="1512435770723" />
       <file name="/workspace/solutions/cnup/ketsu/new-ketsu/src/main/java/com/thoughtworks/ketsu/web/CapabilityApi.java" timestamp="1512012915363">
         <mark key="[" line="21" column="123" />
         <mark key="]" line="21" column="7" />
         <mark key="^" line="21" column="7" />
         <mark key="." line="21" column="7" />
+      </file>
+      <file name="/workspace/personal/kata/word-wrap/java/src/main/java/com/morpheus/kata/wrap/WordWrapper.java" timestamp="1513049890068">
+        <mark key="[" line="5" column="34" />
+        <mark key="]" line="6" column="17" />
+        <mark key="." line="6" column="17" />
+        <mark key="^" line="6" column="17" />
       </file>
       <file name="/workspace/clients/billing/src/main/resources/mybatis/mappers/Columns.xml" timestamp="1510573959167">
         <mark key="[" line="8" column="0" />
@@ -194,16 +206,18 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="33" column="18" />
       </file>
-      <file name="/workspace/clients/harvestfund/jiashi_p2p_file_server/modules/core-mybatis/src/main/java/com/thoughtworks/fms/core/mybatis/filter/FileStreamFilter.java" timestamp="1512436368896" />
-      <file name="/workspace/personal/codes/rs-api/jaxrs-api/src/main/java/javax/ws/rs/core/Configuration.java" timestamp="1512381286581" />
+      <file name="/workspace/personal/kata/word-wrap/java/src/test/java/com/morpheus/kata/wrap/WordWrapperTest.java" timestamp="1513049850760">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="38" />
+        <mark key="^" line="7" column="38" />
+        <mark key="." line="7" column="38" />
+      </file>
       <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/records/Record.java" timestamp="1510555142028">
         <mark key="[" line="9" column="34" />
         <mark key="]" line="9" column="46" />
         <mark key="^" line="9" column="46" />
         <mark key="." line="9" column="46" />
       </file>
-      <file name="/workspace/personal/codes/rs-api/jaxrs-api/src/main/java/javax/ws/rs/ext/RuntimeDelegate.java" timestamp="1512434727605" />
-      <file name="/workspace/personal/codes/rs-api/jaxrs-api/src/main/java/javax/ws/rs/core/EntityTag.java" timestamp="1512381415350" />
       <file name="/workspace/clients/billing/modules/features/sharding/src/main/java/com/accounting/billing/features/sharding/core/RoutingImpl.java" timestamp="1511236001799">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -221,6 +235,14 @@
         <mark key="]" line="9" column="3" />
         <mark key="." line="9" column="3" />
         <mark key="^" line="9" column="3" />
+      </file>
+      <file name="/fragment.java" timestamp="1513049758172">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/workspace/personal/kata/word-wrap/java/build.gradle" timestamp="1513049664230">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -331,8 +353,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBDbGllbnQgY2xpZW50ID0gQ2xpZW50QnVpbGRlci5uZXdDbGllbnQoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>string</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -353,16 +375,16 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text>query</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
         <text>env</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocXVlcnkpOwo=</text>
+        <text encoding="base64">cGFja2FnZSBjb20ubW9ycGhldXMua2F0YS53cmFwOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBDbGllbnQgY2xpZW50ID0gQ2xpZW50QnVpbGRlci5uZXdDbGllbnQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -370,28 +392,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRoZSBwcm9kdWN0aW9uIGNvZGUgdXNlcyB0aGUgU0xGNEogbG9nZ2luZyBBUEkgYXQgY29tcGlsZSB0aW1lCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBVUkkgdXJpID0gVVJJLmNyZWF0ZSgiYWFhPWJiYiZjY2M9ZGRkIik7CiAgICAgICAgU3RyaW5nIHF1ZXJ5ID0gdXJpLmdldFF1ZXJ5KCk7CiAgICAgICAgU3RyaW5nIHJhd1F1ZXJ5ID0gdXJpLmdldFJhd1F1ZXJ5KCk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHVyaSk7CiAgICAgICAgU2treXN0ZW0ub3V0LnByaW50bG4ocXVlcnkpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihyYXdRdWVyeSk7CiAgICAgICAgUVVlcnlQYXJhCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIC8vICd0ZXN0LnVzZVRlc3RORygpJyB0byB5b3VyIGJ1aWxkIHNjcmlwdC4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBVUkkgdXJpID0gVVJJLmNyZWF0ZSgiYWFhPWJiYiZjY2M9ZGRkIik7CiAgICAgICAgU3RyaW5nIHF1ZXJ5ID0gdXJpLmdldFF1ZXJ5KCk7CiAgICAgICAgU3RyaW5nIHJhd1F1ZXJ5ID0gdXJpLmdldFJhd1F1ZXJ5KCk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHVyaSk7CiAgICAgICAgU2treXN0ZW0ub3V0LnByaW50bG4ocXVlcnkpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihyYXdRdWVyeSk7CiAgICAgICAgUVVlcnlQYXJhCiAgICB9Cn0K</text>
+        <text encoding="base64">ICAgIC8vIHRlc3RDb21waWxlIGRlcGVuZGVuY3kgdG8gdGVzdENvbXBpbGUgJ29yZy50ZXN0bmc6dGVzdG5nOjYuOC4xJyBhbmQgYWRkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBVUkxFbmNvZGVyLmVuY29kZSgpCg==</text>
+        <text encoding="base64">ICAgIC8vIFRlc3RORyBpcyBhbHNvIHN1cHBvcnRlZCBieSB0aGUgR3JhZGxlIFRlc3QgdGFzay4gSnVzdCBjaGFuZ2UgdGhlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIERlY2xhcmUgdGhlIGRlcGVuZGVuY3kgZm9yIHlvdXIgZmF2b3VyaXRlIHRlc3QgZnJhbWV3b3JrIHlvdSB3YW50IHRvIHVzZSBpbiB5b3VyIHRlc3RzLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBVUkkgYnVpbGQgPSBVcmlCdWlsZGVyLmZyb21VcmkoImFhYT1iYmImY2NjPWRkZCIpLmJ1aWxkKCk7CiAgICAgICAgVVJMRW5jb2Rlci5lbmNvZGUoKQogICAgfQo=</text>
+        <text encoding="base64">Ly8gSW4gdGhpcyBzZWN0aW9uIHlvdSBkZWNsYXJlIHRoZSBkZXBlbmRlbmNpZXMgZm9yIHlvdXIgcHJvZHVjdGlvbiBhbmQgdGVzdCBjb2RlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBVcmlJbmZvCg==</text>
+        <text encoding="base64">ICAgIC8vIFlvdSBjYW4gZGVjbGFyZSBhbnkgTWF2ZW4vSXZ5L2ZpbGUgcmVwb3NpdG9yeSBoZXJlLgo=</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
