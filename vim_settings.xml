@@ -20,7 +20,7 @@
         <mark key="^" line="7" column="7" />
         <mark key="." line="7" column="7" />
       </file>
-      <file name="/workspace/clients/soda/riihi/records/src/main/java/com/sodacar/riihi/records/InvoiceRepository.java" timestamp="1513581010929">
+      <file name="/workspace/clients/soda/riihi/records/src/main/java/com/sodacar/riihi/records/InvoiceRepository.java" timestamp="1513645175424">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="^" line="13" column="11" />
@@ -88,13 +88,6 @@
         <mark key="^" line="7" column="9" />
         <mark key="." line="7" column="9" />
       </file>
-      <file name="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/Columns.xml" timestamp="1513586924295">
-        <mark key="'" line="341" column="45" />
-        <mark key="[" line="239" column="8" />
-        <mark key="]" line="239" column="9" />
-        <mark key="." line="239" column="9" />
-        <mark key="^" line="239" column="9" />
-      </file>
       <file name="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/junit/DatabaseTestRunner.java" timestamp="1513603267634">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -112,10 +105,12 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/records/InvoiceTest.java" timestamp="1513611496649">
-        <mark key="[" line="43" column="71" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/records/InvoiceTest.java" timestamp="1513646123718">
+        <mark key="'" line="22" column="36" />
+        <mark key="[" line="64" column="40" />
+        <mark key="]" line="64" column="38" />
+        <mark key="." line="64" column="38" />
+        <mark key="^" line="64" column="38" />
       </file>
       <file name="/workspace/clients/billing/src/main/resources/mybatis/config.xml" timestamp="1511241913880">
         <mark key="[" line="17" column="27" />
@@ -382,8 +377,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="166" column="97" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
-      <jump line="171" column="59" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
       <jump line="172" column="65" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
       <jump line="173" column="35" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
       <jump line="174" column="127" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
@@ -482,6 +475,8 @@
       <jump line="33" column="20" filename="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/records/InvoiceConcurrentTest.java" />
       <jump line="21" column="0" filename="/workspace/clients/soda/riihi/records/src/main/java/com/sodacar/riihi/records/InvoiceRecord.java" />
       <jump line="55" column="30" filename="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/records/InvoiceConcurrentTest.java" />
+      <jump line="6" column="12" filename="/workspace/clients/soda/riihi/core/src/main/java/com/sodacar/riihi/core/InvoiceRepository.java" />
+      <jump line="21" column="36" filename="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/records/InvoiceTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -490,7 +485,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>should_able_to_create_invoice</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -511,47 +506,47 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>should_able_to_create_invoice</text>
       </register>
       <register name="/" type="4">
         <text>invoice</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyZWFtPFN0cmluZz4gYWN0dWFsKExpc3Q8T3B0aW9uYWw8SW52b2ljZT4+IGludm9pY2VzQ3JlYXRlZCwgU3RyaW5nIHByZWZpeCkgewogICAgICAgIHJldHVybiBpbnZvaWNlc0NyZWF0ZWQuc3RyZWFtKCkubWFwKEludm9pY2U6OmlkKS5maWx0ZXIocCAtPiBwLnN0YXJ0c1dpdGgocHJlZml4KSk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBzaG91bGRfYWJsZV90b19jcmVhdGVfaW52b2ljZSgpIHsKICAgICAgICBJbnZvaWNlIGludm9pY2UgPSBpbnZvaWNlcy5jcmVhdGUoCiAgICAgICAgICAgICAgICAkKAogICAgICAgICAgICAgICAgICAgICAgICAkKCJtc3AiLCAiQzJHIiksCiAgICAgICAgICAgICAgICAgICAgICAgICQoInR5cGUiLCAiREVCSVQiKSwKICAgICAgICAgICAgICAgICAgICAgICAgJCgicGF5bWVudF9vcHRpb25zIiwgJCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKCJ0aHJvdWdoIiwgIldFQ0hBVCIpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICQoImZyb20iLCAiUEVSU09OQUwiKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKCJpbiIsICJGQjAwIikKICAgICAgICAgICAgICAgICAgICAgICAgKSksCiAgICAgICAgICAgICAgICAgICAgICAgICQoImdyb3NzIiwgJCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKCJhbW91bnQiLCAxMDApLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICQoImN1cnJlbmN5IiwgIkNOWSIpCiAgICAgICAgICAgICAgICAgICAgICAgICkpLAogICAgICAgICAgICAgICAgICAgICAgICAkKCJ2YXQiLCAkKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICQoImFtb3VudCIsIDEuNyksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJCgiY3VycmVuY3kiLCAiQ05ZIikKICAgICAgICAgICAgICAgICAgICAgICAgKSkKICAgICAgICAgICAgICAgICkKICAgICAgICApOwoKICAgICAgICBhc3NlcnRUaGF0KGludm9pY2UsIG5vdE51bGxWYWx1ZSgpKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGFjdHVhbChpbnZvaWNlc0NyZWF0ZWQsICJHRCIpLmFsbE1hdGNoKGEgLT4gZXhwZWN0ZWQoIkdEIiwgMjUpIC5jb250YWlucyhhKSksIGlzKHRydWUpKTsKICAgICAgICBhc3NlcnRUaGF0KGFjdHVhbChpbnZvaWNlc0NyZWF0ZWQsICJTQyIpLmFsbE1hdGNoKGEgLT4gZXhwZWN0ZWQoIlNDIiwgMjUpIC5jb250YWlucyhhKSksIGlzKHRydWUpKTsKICAgICAgICBhc3NlcnRUaGF0KGFjdHVhbChpbnZvaWNlc0NyZWF0ZWQsICJTRCIpLmFsbE1hdGNoKGEgLT4gZXhwZWN0ZWQoIlNEIiwgMjUpIC5jb250YWlucyhhKSksIGlzKHRydWUpKTsK</text>
+        <text encoding="base64">ICAgICAgICBJbnZvaWNlIGludm9pY2UgPSBpbnZvaWNlcy5jcmVhdGUoCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="8">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGFjdHVhbChpbnZvaWNlc0NyZWF0ZWQsICJHRCIpLmFsbE1hdGNoKGEgLT4gZXhwZWN0ZWQoIkdEIiwgMjUpIC5jb250YWlucyhhKSksIGlzKHRydWUpKTsKICAgICAgICBhc3NlcnRUaGF0KGFjdHVhbChpbnZvaWNlc0NyZWF0ZWQsICJTQyIpLmFsbE1hdGNoKGEgLT4gZXhwZWN0ZWQoIlNDIiwgMjUpIC5jb250YWlucyhhKSksIGlzKHRydWUpKTsKICAgICAgICBhc3NlcnRUaGF0KGFjdHVhbChpbnZvaWNlc0NyZWF0ZWQsICJTRCIpLmFsbE1hdGNoKGEgLT4gZXhwZWN0ZWQoIlNEIiwgMjUpIC5jb250YWlucyhhKSksIGlzKHRydWUpKTsK</text>
+      </register>
+      <register name="3" type="8">
         <text>25
 25
 25</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgU3RyZWFtPFN0cmluZz4gYWN0dWFsKExpc3Q8T3B0aW9uYWw8SW52b2ljZT4+IGludm9pY2VzQ3JlYXRlZCwgU3RyaW5nIHByZWZpeCkgewogICAgICAgIHJldHVybiBpbnZvaWNlc0NyZWF0ZWQuc3RyZWFtKCkubWFwKEludm9pY2U6OmlkKS5maWx0ZXIocCAtPiBwLnN0YXJ0c1dpdGgocHJlZml4KSk7CiAgICB9Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE9wdGlvbmFsLm9mKGUpOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE9wdGlvbmFsLmVtcHR5KCk7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKG50aCA+IDYwICYmIG50aCA8PSA4MCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKG50aCApCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IHRhcmdldCA9IG5ldyBIYXNoTWFwPD4oKTsKICAgICAgICBhc0xpc3QodmFsdWUpLmZvckVhY2godGFyZ2V0OjpwdXRBbGwpOwogICAgICAgIHJldHVybiB0YXJnZXQ7Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IHRhcmdldCA9IG5ldyBIYXNoTWFwPD4oKTsKICAgICAgICB0YXJnZXQucHV0KGtleSwgdmFsdWUpOwogICAgICAgIHJldHVybiB0YXJnZXQ7</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
