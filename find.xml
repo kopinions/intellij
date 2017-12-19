@@ -3,13 +3,10 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>.java</mask>
-      <mask>xm</mask>
       <mask>xml</mask>
       <mask>.</mask>
-      <mask>*.xm</mask>
-      <mask>*.xml</mask>
       <mask>tm</mask>
       <mask>tmp</mask>
       <mask>tmpl</mask>
@@ -28,12 +25,16 @@
       <mask>*.sql</mask>
       <mask>*.sq</mask>
       <mask>*.s</mask>
-      <mask>*.</mask>
-      <mask>*.g</mask>
-      <mask>*.gr</mask>
-      <mask>*.gra</mask>
-      <mask>*.grad</mask>
       <mask>*.gradle</mask>
+      <mask>*.gradl</mask>
+      <mask>*.grad</mask>
+      <mask>*.gra</mask>
+      <mask>*.gr</mask>
+      <mask>*.g</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
