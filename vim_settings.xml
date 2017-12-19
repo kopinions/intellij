@@ -24,11 +24,11 @@
         <mark key="^" line="25" column="60" />
         <mark key="." line="25" column="60" />
       </file>
-      <file name="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/records/InvoiceRepositoryTest.java" timestamp="1513666938661">
-        <mark key="[" line="39" column="24" />
-        <mark key="]" line="39" column="31" />
-        <mark key="^" line="39" column="31" />
-        <mark key="." line="39" column="31" />
+      <file name="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/records/InvoiceRepositoryTest.java" timestamp="1513670212134">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="54" column="7" />
       </file>
       <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/util/Helpers.java" timestamp="1510317478984">
         <mark key="[" line="2" column="22" />
@@ -185,11 +185,12 @@
         <mark key="." line="378" column="17" />
         <mark key="^" line="378" column="17" />
       </file>
-      <file name="/workspace/clients/soda/riihi/core/src/main/java/com/sodacar/riihi/core/InvoiceRepository.java" timestamp="1513666981021">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="12" column="8" />
-        <mark key="." line="16" column="0" />
+      <file name="/workspace/clients/soda/riihi/core/src/main/java/com/sodacar/riihi/core/InvoiceRepository.java" timestamp="1513671138551">
+        <mark key="'" line="90" column="12" />
+        <mark key="[" line="125" column="20" />
+        <mark key="]" line="125" column="27" />
+        <mark key="." line="125" column="27" />
+        <mark key="^" line="125" column="27" />
       </file>
       <file name="/workspace/solutions/cnup/ketsu/new-ketsu/src/main/java/com/thoughtworks/ketsu/web/CapabilityApi.java" timestamp="1512012915363">
         <mark key="[" line="21" column="123" />
@@ -216,6 +217,13 @@
         <mark key="]" line="9" column="46" />
         <mark key="^" line="9" column="46" />
         <mark key="." line="9" column="46" />
+      </file>
+      <file name="/workspace/clients/soda/riihi/migration/src/main/resources/migration/mysql/MySQL-13__reinit_invoices.sql" timestamp="1513649754851">
+        <mark key="'" line="8" column="46" />
+        <mark key="[" line="33" column="16" />
+        <mark key="]" line="33" column="19" />
+        <mark key="." line="33" column="19" />
+        <mark key="^" line="33" column="19" />
       </file>
       <file name="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/InvoiceMapper.xml" timestamp="1513656395403">
         <mark key="[" line="142" column="146" />
@@ -360,7 +368,7 @@
         <mark key="^" line="54" column="32" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513664406700">
+      <file name="/Dummy.txt" timestamp="1513670060350">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/records/InvoiceTransactionTest.java" timestamp="1513653261389">
@@ -418,7 +426,7 @@
         <mark key="." line="9" column="3" />
         <mark key="^" line="9" column="3" />
       </file>
-      <file name="/fragment.java" timestamp="1513666491651">
+      <file name="/fragment.java" timestamp="1513670060352">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/workspace/personal/kata/word-wrap/java/build.gradle" timestamp="1513049664230">
@@ -428,8 +436,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="293" column="82" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
-      <jump line="310" column="64" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
       <jump line="312" column="52" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
       <jump line="313" column="20" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
       <jump line="328" column="56" filename="/workspace/golang/src/github.com/sjkyspa/stacks/launcher/src/main/java/com/thoughtworks/cnup/up/records/MarathonProvider.java" />
@@ -528,6 +534,8 @@
       <jump line="253" column="10" filename="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/Columns.xml" />
       <jump line="255" column="20" filename="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/Columns.xml" />
       <jump line="20" column="8" filename="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/junit/DatabaseCleaner.java" />
+      <jump line="25" column="41" filename="/workspace/clients/soda/riihi/core/src/main/java/com/sodacar/riihi/core/InvoiceRepository.java" />
+      <jump line="90" column="12" filename="/workspace/clients/soda/riihi/core/src/main/java/com/sodacar/riihi/core/InvoiceRepository.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -535,8 +543,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>paymentType</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -557,16 +565,16 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>paymentType</text>
       </register>
       <register name="/" type="4">
-        <text>T\.</text>
+        <text>ItemBuilder</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEludm9pY2UgY3JlYXRlKE1hcDxTdHJpbmcsIE9iamVjdD4gcmVxdWVzdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJ1aWxkLnB1dCgicGF5bWVudF90eXBlIiwgcGF5bWVudFR5cGUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMucGF5bWVudFR5cGUgPSB0eXBlOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5wYXltZW50S2V5ID0ga2V5Owo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -574,25 +582,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEludm9pY2UgY3JlYXRlKE1hcDxTdHJpbmcsIE9iamVjdD4gcmVxdWVzdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSnNvbkNvbnRleHQganNvbiA9IGpzb24oaW52b2ljZXNfcmVzcG9uc2UpOwogICAgICAgICAgICBhc3NlcnRUaGF0KGpzb24ucGF0aCgidG90YWxfY291bnQiKSwgaXMoMSkpOwogICAgICAgICAgICBhc3NlcnRUaGF0KGpzb24ucGF0aCgidG90YWxfcGFnZSIpLCBpcygxKSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zb2RhY2FyLnJpaWhpLnV0aWwuZXhjZWwuVmlvbGF0aW9uRXhjZWxNYXBwZXI7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">QElnbm9yZQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlcG9ydHMuaHRtbC5kZXN0aW5hdGlvbiA9IGZpbGUoIiRyZXBvcnRzLmh0bWwuZGVzdGluYXRpb24vdW5pdCIpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwdWJsaWMgSXRlbUJ1aWxkZXIgaXRlbV8oQ29uc3VtZXI8SXRlbUJ1aWxkZXI+IGJ1aWxkZXIpIHsKICAgICAgICAgICAgICAgICAgICAgICAgSXRlbUJ1aWxkZXIgaXRlbUJ1aWxkZXIgPSBuZXcgSXRlbUJ1aWxkZXIoKTsKICAgICAgICAgICAgICAgICAgICAgICAgYnVpbGRlci5hY2NlcHQoaXRlbUJ1aWxkZXIpOwogICAgICAgICAgICAgICAgICAgICAgICBpdGVtQnVpbGRlci5idWlsZCgpOwogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gaXRlbUJ1aWxkZXI7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgUmVzcG9uc2UgaW52b2ljZXNfcmVzcG9uc2VfMiA9IGFwaS50YXJnZXQoIi9pbnZvaWNlcyIpCiAgICAgICAgICAgICAgICAgICAgLnF1ZXJ5UGFyYW0oInBhZ2UiLCAxKQogICAgICAgICAgICAgICAgICAgIC5xdWVyeVBhcmFtKCJwYWdlLWxpbWl0IiwgNSkKICAgICAgICAgICAgICAgICAgICAucXVlcnlQYXJhbSgic3RhdHVzIiwgIkRFTklFRCIpCiAgICAgICAgICAgICAgICAgICAgLnJlcXVlc3QoKQogICAgICAgICAgICAgICAgICAgIC5oZWFkZXIoIkF1dGhvcml6YXRpb24iLCAiQmVhcmVyICIgKyBTY2VuYXJpby5BQ0NFU1NfVE9LRU4pCiAgICAgICAgICAgICAgICAgICAgLmdldCgpOwoKICAgICAgICAgICAgYXNzZXJ0VGhhdChpbnZvaWNlc19yZXNwb25zZV8yLmdldFN0YXR1cygpLCBpcygyMDApKTsKICAgICAgICAgICAgSnNvbkNvbnRleHQganNvbl8yID0ganNvbihpbnZvaWNlc19yZXNwb25zZV8yKTsKICAgICAgICAgICAgYXNzZXJ0VGhhdChqc29uXzIucGF0aCgidG90YWxfY291bnQiKSwgaXMoMSkpOwogICAgICAgICAgICBhc3NlcnRUaGF0KGpzb25fMi5wYXRoKCJ0b3RhbF9wYWdlIiksIGlzKDEpKTsKICAgICAgICAgICAgaW52b2ljZXNfcmVzcG9uc2VfMi5jbG9zZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -605,9 +613,9 @@
       </register>
     </registers>
     <search>
-      <last-search>T\.</last-search>
+      <last-search>ItemBuilder</last-search>
       <last-offset />
-      <last-pattern>T\.</last-pattern>
+      <last-pattern>ItemBuilder</last-pattern>
       <last-replace>get</last-replace>
       <last-substitute>getOrDefault</last-substitute>
       <last-dir>1</last-dir>
@@ -615,7 +623,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dest</entry>
         <entry>procedure.</entry>
         <entry>procedure</entry>
         <entry>owners</entry>
@@ -635,6 +642,7 @@
         <entry>transaction</entry>
         <entry>T.</entry>
         <entry>T\.</entry>
+        <entry>ItemBuilder</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0AvXG5AL2dj</entry>
