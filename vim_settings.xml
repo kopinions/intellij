@@ -85,12 +85,6 @@
         <mark key="." line="18" column="59" />
         <mark key="^" line="18" column="59" />
       </file>
-      <file name="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/junit/TestData.java" timestamp="1513751411091">
-        <mark key="'" line="61" column="8" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
       <file name="/workspace/clients/soda/riihi/records/src/main/java/com/sodacar/riihi/records/Routing.java" timestamp="1513772878184">
         <mark key="[" line="53" column="50" />
         <mark key="]" line="53" column="56" />
@@ -476,11 +470,12 @@
         <mark key="." line="193" column="97" />
         <mark key="^" line="193" column="97" />
       </file>
-      <file name="/workspace/clients/soda/riihi/records/src/main/java/com/sodacar/riihi/records/InvoiceRecord.java" timestamp="1513773013031">
+      <file name="/workspace/clients/soda/riihi/records/src/main/java/com/sodacar/riihi/records/InvoiceRecord.java" timestamp="1513781800046">
         <mark key="'" line="55" column="0" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="46" />
-        <mark key="." line="93" column="0" />
+        <mark key="[" line="101" column="87" />
+        <mark key="]" line="101" column="115" />
+        <mark key="." line="101" column="115" />
+        <mark key="^" line="101" column="115" />
       </file>
       <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/records/Record.java" timestamp="1510555142028">
         <mark key="[" line="9" column="34" />
@@ -546,12 +541,6 @@
       </file>
       <file name="/fragment.java" timestamp="1513772156960">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/records/InvoiceRepositoryConcurrentTest.java" timestamp="1513750867232">
-        <mark key="'" line="65" column="0" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
       </file>
       <file name="/workspace/personal/kata/word-wrap/java/build.gradle" timestamp="1513049664230">
         <mark key="[" line="8" column="0" />
@@ -667,8 +656,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">aWYgaW52b2ljZSB1bnBhaWQgcmV2ZXJzZSBjdXJyZW50IGludm9pY2Ug</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -689,13 +678,13 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text>payment</text>
+        <text encoding="base64">aWYgaW52b2ljZSB1bnBhaWQgcmV2ZXJzZSBjdXJyZW50IGludm9pY2Ug</text>
       </register>
       <register name="/" type="4">
         <text>invoice</text>
       </register>
-      <register name="0" type="4">
-        <text>reverse</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAvLyB0b2RvOiBpZiBpbnZvaWNlIHVucGFpZCByZXZlcnNlIGN1cnJlbnQgaW52b2ljZSAK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
