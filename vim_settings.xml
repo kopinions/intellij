@@ -109,13 +109,6 @@
         <mark key="." line="11" column="120" />
         <mark key="^" line="11" column="120" />
       </file>
-      <file name="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/records/InvoiceRecordTest.java" timestamp="1513781036573">
-        <mark key="'" line="57" column="7" />
-        <mark key="[" line="135" column="42" />
-        <mark key="]" line="135" column="63" />
-        <mark key="." line="135" column="63" />
-        <mark key="^" line="135" column="63" />
-      </file>
       <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/Resources.java" timestamp="1510555281041">
         <mark key="[" line="17" column="39" />
         <mark key="]" line="18" column="36" />
@@ -123,9 +116,9 @@
         <mark key="^" line="18" column="36" />
       </file>
       <file name="/workspace/clients/soda/riihi/core/src/main/java/com/sodacar/riihi/core/Invoice.java" timestamp="1513769285301">
-        <mark key="[" line="40" column="4" />
-        <mark key="]" line="40" column="4" />
-        <mark key="." line="40" column="4" />
+        <mark key="[" line="38" column="4" />
+        <mark key="]" line="38" column="4" />
+        <mark key="." line="38" column="4" />
         <mark key="^" line="22" column="46" />
       </file>
       <file name="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/Columns.xml" timestamp="1513771208459">
@@ -190,11 +183,10 @@
         <mark key="." line="52" column="0" />
         <mark key="^" line="51" column="19" />
       </file>
-      <file name="/workspace/clients/soda/riihi/records/src/main/java/com/sodacar/riihi/util/MapUtil.java" timestamp="1513647253591">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="37" column="14" />
+      <file name="/workspace/clients/soda/riihi/records/src/main/java/com/sodacar/riihi/util/MapUtil.java" timestamp="1513817865656">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="/workspace/clients/billing/src/main/resources/mybatis/config.xml" timestamp="1511241913880">
         <mark key="[" line="17" column="27" />
@@ -378,12 +370,6 @@
         <mark key="." line="38" column="54" />
         <mark key="^" line="38" column="54" />
       </file>
-      <file name="/workspace/clients/soda/riihi/api/src/main/java/com/sodacar/riihi/api/InvoiceResource.java" timestamp="1513780123681">
-        <mark key="[" line="34" column="31" />
-        <mark key="]" line="34" column="39" />
-        <mark key="." line="34" column="39" />
-        <mark key="^" line="34" column="39" />
-      </file>
       <file name="/workspace/clients/soda/riihi/scaffold/src/main/java/com/sodacar/riihi/api/modules/ViolationExcelMapper.java" timestamp="1513666525223">
         <mark key="[" line="2" column="33" />
       </file>
@@ -472,10 +458,6 @@
       </file>
       <file name="/workspace/clients/soda/riihi/records/src/main/java/com/sodacar/riihi/records/InvoiceRecord.java" timestamp="1513783388459">
         <mark key="'" line="55" column="0" />
-        <mark key="[" line="101" column="116" />
-        <mark key="]" line="102" column="78" />
-        <mark key="^" line="102" column="78" />
-        <mark key="." line="102" column="78" />
       </file>
       <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/records/Record.java" timestamp="1510555142028">
         <mark key="[" line="9" column="34" />
@@ -657,7 +639,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0b2RvOiBpZiBpbnZvaWNlIHBhaWQsIGNyZWF0ZSBjcmVkaXQgaW52b2ljZSB3aXRoIHJlcXVlc3QgYW1vdW50IHNhbWUgYW1vdW50IGFuZCByZWYgdG8gdGhlIGRlYml0IGludm9pY2UK</text>
+        <text encoding="base64">ICAgICAgICAoKSAtPiBfCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -687,7 +669,7 @@
         <text encoding="base64">ICAgICAgICAvLyB0b2RvOiBpZiBpbnZvaWNlIHBhaWQsIGNyZWF0ZSBjcmVkaXQgaW52b2ljZSB3aXRoIHJlcXVlc3QgYW1vdW50IHNhbWUgYW1vdW50IGFuZCByZWYgdG8gdGhlIGRlYml0IGludm9pY2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0b2RvOiBpZiBpbnZvaWNlIHBhaWQsIGNyZWF0ZSBjcmVkaXQgaW52b2ljZSB3aXRoIHJlcXVlc3QgYW1vdW50IHNhbWUgYW1vdW50IGFuZCByZWYgdG8gdGhlIGRlYml0IGludm9pY2UK</text>
+        <text encoding="base64">ICAgICAgICAoKSAtPiBfCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -698,28 +680,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXZlcnNlLnB1dCgidG90YWwiLCBDTlkoMTAwKSk7CiAgICAgICAgcmV2ZXJzZS5wdXQoImNoYW5uZWwiLCAiV0VDSEFUIik7CiAgICAgICAgcmV2ZXJzZS5wdXQoImZlZSIsIENOWSgxKSk7CiAgICAgICAgcmV2ZXJzZS5wdXQoInJlZiIsICIxMjE3NzUyNTAxMjAxNDA3MDMzMjMzMzY4MDE4Iik7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgTGlzdDxPYmplY3Q+IF8oT2JqZWN0Li4uIHZhbHVlKSB7CiAgICAgICAgcmV0dXJuIGFzTGlzdCh2YWx1ZSk7CiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvLyB0b2RvOiBpZiBpbnZvaWNlIHBhaWQsIGNyZWF0ZSBjcmVkaXQgaW52b2ljZSB3aXRoIHJlcXVlc3QgYW1vdW50IHNhbWUgYW1vdW50IGFuZCByZWYgdG8gdGhlIGRlYml0IGludm9pY2UK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXZlcnNlLnB1dCgidG90YWwiLCBDTlkoMTAwKSk7CiAgICAgICAgcmV2ZXJzZS5wdXQoImNoYW5uZWwiLCAiV0VDSEFUIik7CiAgICAgICAgcmV2ZXJzZS5wdXQoImZlZSIsIENOWSgxKSk7CiAgICAgICAgcmV2ZXJzZS5wdXQoInJlZiIsICIxMjE3NzUyNTAxMjAxNDA3MDMzMjMzMzY4MDE4Iik7Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="8">
+      <register name="8" type="8">
         <text>payment.
 payment.
 payment.
 payment.</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBJbnZvaWNlIGludm9pY2UgPSBpbnZvaWNlcy5jcmVhdGUoCiAgICAgICAgICAgICAgICBkZWJpdCgiQzJHIikKICAgICAgICAgICAgICAgICAgICAgICAgLm9wdGlvbnMobyAtPiBvLnRocm91Z2goIldFQ0hBVCIpLmZyb20oIlBFUlNPTkFMIikuaW4oIkZCMDAiKSkKICAgICAgICAgICAgICAgICAgICAgICAgLnRyYW5zYWN0aW9ucygKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0cmFuc2FjdGlvbihpdGVtcygKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGl0ZW0oaSAtPiBpLmdyb3NzKG9mQ05ZKDEwMCkpLnRheChDTjE3MDApLnBheW1lbnQoIkRFQklUIiwgIlJFTlRBTCIpLm9jY3VyZWQoIkJFSUpJTkciLCBub3coKSkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKSkKICAgICAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgICAgICAgICAuY2F1c2UocmVudGFsKQogICAgICAgICk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBJbnZvaWNlIGludm9pY2UgPSBpbnZvaWNlcy5jcmVhdGUoCiAgICAgICAgICAgICAgICBkZWJpdCgiQzJHIikKICAgICAgICAgICAgICAgICAgICAgICAgLm9wdGlvbnMobyAtPiBvLnRocm91Z2goIldFQ0hBVCIpLmZyb20oIlBFUlNPTkFMIikuaW4oIkZCMDAiKSkKICAgICAgICAgICAgICAgICAgICAgICAgLnRyYW5zYWN0aW9ucygKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0cmFuc2FjdGlvbihpdGVtcygKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGl0ZW0oaSAtPiBpLmdyb3NzKG9mQ05ZKDEwMCkpLnRheChDTjE3MDApLnBheW1lbnQoIkRFQklUIiwgIlJFTlRBTCIpLm9jY3VyZWQoIkJFSUpJTkciLCBub3coKSkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKSkKICAgICAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgICAgICAgICAuY2F1c2UocmVudGFsKQogICAgICAgICk7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAoKFBheW1lbnRSZWNvcmQpIHV1aWQpLmludm9pY2UgPSB0aGlzOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnBheW1lbnQuaW52b2ljZSA9IAo=</text>
+        <text encoding="base64">ICAgICAgICBJbnZvaWNlIGludm9pY2UgPSBpbnZvaWNlcy5jcmVhdGUoCiAgICAgICAgICAgICAgICBkZWJpdCgiQzJHIikKICAgICAgICAgICAgICAgICAgICAgICAgLm9wdGlvbnMobyAtPiBvLnRocm91Z2goIldFQ0hBVCIpLmZyb20oIlBFUlNPTkFMIikuaW4oIkZCMDAiKSkKICAgICAgICAgICAgICAgICAgICAgICAgLnRyYW5zYWN0aW9ucygKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0cmFuc2FjdGlvbihpdGVtcygKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGl0ZW0oaSAtPiBpLmdyb3NzKG9mQ05ZKDEwMCkpLnRheChDTjE3MDApLnBheW1lbnQoIkRFQklUIiwgIlJFTlRBTCIpLm9jY3VyZWQoIkJFSUpJTkciLCBub3coKSkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKSkKICAgICAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgICAgICAgICAuY2F1c2UocmVudGFsKQogICAgICAgICk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
