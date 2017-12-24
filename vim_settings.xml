@@ -18,6 +18,13 @@
         <mark key="^" line="7" column="7" />
         <mark key="." line="7" column="7" />
       </file>
+      <file name="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/records/InvoiceRepositoryTest.java" timestamp="1513834425018">
+        <mark key="'" line="205" column="62" />
+        <mark key="[" line="205" column="62" />
+        <mark key="]" line="205" column="60" />
+        <mark key="^" line="205" column="60" />
+        <mark key="." line="205" column="60" />
+      </file>
       <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/util/Helpers.java" timestamp="1510317478984">
         <mark key="[" line="2" column="22" />
         <mark key="]" line="18" column="4" />
@@ -66,11 +73,32 @@
         <mark key="." line="11" column="65" />
         <mark key="^" line="11" column="65" />
       </file>
+      <file name="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/records/PaymentRequestRepositoryTest.java" timestamp="1513834311934">
+        <mark key="'" line="33" column="44" />
+        <mark key="[" line="49" column="98" />
+        <mark key="]" line="49" column="98" />
+        <mark key="." line="49" column="98" />
+        <mark key="^" line="64" column="7" />
+      </file>
+      <file name="/workspace/clients/soda/riihi/scaffold/src/main/java/com/sodacar/riihi/api/modules/DomainModule.java" timestamp="1513763832816">
+        <mark key="'" line="37" column="13" />
+        <mark key="[" line="98" column="81" />
+        <mark key="]" line="98" column="81" />
+        <mark key="." line="98" column="81" />
+        <mark key="^" line="98" column="43" />
+      </file>
       <file name="/workspace/clients/billing/modules/features/guice/src/main/java/com/thoughtworks/cnup/features/guice/GuiceFeature.java" timestamp="1510469466886">
         <mark key="[" line="0" column="23" />
         <mark key="]" line="0" column="38" />
         <mark key="." line="0" column="38" />
         <mark key="^" line="0" column="38" />
+      </file>
+      <file name="/workspace/clients/soda/riihi/records/src/main/java/com/sodacar/riihi/records/UserRecord.java" timestamp="1513924170929">
+        <mark key="'" line="198" column="0" />
+        <mark key="[" line="200" column="64" />
+        <mark key="]" line="200" column="64" />
+        <mark key="^" line="200" column="62" />
+        <mark key="." line="200" column="64" />
       </file>
       <file name="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/account/RequestsTest.java" timestamp="1513926518589">
         <mark key="[" line="29" column="15" />
@@ -297,6 +325,13 @@
         <mark key="." line="69" column="0" />
         <mark key="^" line="70" column="26" />
       </file>
+      <file name="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/records/InvoiceRepositoryConcurrentTest.java" timestamp="1513834094231">
+        <mark key="'" line="69" column="22" />
+        <mark key="[" line="77" column="118" />
+        <mark key="]" line="77" column="122" />
+        <mark key="." line="77" column="122" />
+        <mark key="^" line="77" column="122" />
+      </file>
       <file name="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/RentalsRecords.xml" timestamp="1514039888502" />
       <file name="/workspace/clients/soda/riihi/migration/src/main/resources/migration/mysql/MySQL-15__create_payments.sql" timestamp="1513917199191">
         <mark key="[" line="4" column="0" />
@@ -388,6 +423,13 @@
       <file name="/workspace/clients/soda/riihi/core/src/main/java/com/sodacar/riihi/core/Tax.java" timestamp="1513735515487">
         <mark key="[" line="2" column="22" />
       </file>
+      <file name="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/junit/DatabaseTestRunner.java" timestamp="1513755354865">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="53" column="16" />
+        <mark key="." line="51" column="32" />
+        <mark key="^" line="52" column="29" />
+      </file>
       <file name="/workspace/clients/soda/riihi/migration/src/main/resources/migration/mysql/MySQL-14__create_payments.sql" timestamp="1513768882396">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="10" column="25" />
@@ -409,6 +451,13 @@
         <mark key="]" line="5" column="52" />
         <mark key="^" line="5" column="52" />
         <mark key="." line="5" column="52" />
+      </file>
+      <file name="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/records/AccountRecordTest.java" timestamp="1514129885754">
+        <mark key="'" line="207" column="0" />
+        <mark key="[" line="55" column="25" />
+        <mark key="]" line="55" column="14" />
+        <mark key="^" line="55" column="14" />
+        <mark key="." line="55" column="14" />
       </file>
       <file name="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/junit/ApiTestRunner.java" timestamp="1513755359651">
         <mark key="[" line="54" column="0" />
@@ -637,7 +686,7 @@
         <mark key="." line="9" column="3" />
         <mark key="^" line="9" column="3" />
       </file>
-      <file name="/fragment.java" timestamp="1514128688820">
+      <file name="/fragment.java" timestamp="1514129751643">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/workspace/personal/kata/word-wrap/java/build.gradle" timestamp="1513049664230">
@@ -647,7 +696,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="387" column="21" filename="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/Columns.xml" />
       <jump line="246" column="0" filename="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/Columns.xml" />
       <jump line="50" column="43" filename="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/InvoicesRecords.xml" />
       <jump line="408" column="52" filename="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/Columns.xml" />
@@ -747,6 +795,7 @@
       <jump line="77" column="0" filename="/workspace/clients/soda/riihi/records/src/main/java/com/sodacar/riihi/records/AccountRecord.java" />
       <jump line="148" column="12" filename="/workspace/clients/soda/riihi/records/src/main/java/com/sodacar/riihi/records/InvoiceRecord.java" />
       <jump line="108" column="0" filename="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/records/AccountRecordTest.java" />
+      <jump line="202" column="0" filename="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/records/AccountRecordTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -755,7 +804,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>DEPOSIT</text>
+        <text>void</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -776,7 +825,7 @@
         <text>jjjj</text>
       </register>
       <register name="-" type="4">
-        <text>DEPOSIT</text>
+        <text>void</text>
       </register>
       <register name="/" type="4">
         <text>lock</text>
@@ -785,7 +834,7 @@
         <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHJlZnJlc2hlZEFjY291bnQuaGlzdG9yaWVzKCkuZ2V0KDIpLnR5cGUoKSwgaXMoVU5GUk9aRU4pKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHJlZnJlc2hlZEFjY291bnQuaGlzdG9yaWVzKCkuZ2V0KDEpLnR5cGUoKSwgaXMoRlJPWkVOKSk7CiAgICAgICAgYXNzZXJ0VGhhdChyZWZyZXNoZWRBY2NvdW50Lmhpc3RvcmllcygpLmdldCgyKS50eXBlKCksIGlzKFVORlJPWkVOKSk7CiAgICAgICAgYXNzZXJ0VGhhdChyZWZyZXNoZWRBY2NvdW50Lmhpc3RvcmllcygpLmdldCgzKS50eXBlKCksIGlzKFdJVEhEUkFXKSk7Vgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgY2xhc3MgUHJpbmNpcGFsIHsKICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -793,28 +842,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHJlZnJlc2hlZEFjY291bnQuaGlzdG9yaWVzKCkuZ2V0KDEpLnR5cGUoKSwgaXMoRlJPWkVOKSk7CiAgICAgICAgYXNzZXJ0VGhhdChyZWZyZXNoZWRBY2NvdW50Lmhpc3RvcmllcygpLmdldCgyKS50eXBlKCksIGlzKFVORlJPWkVOKSk7CiAgICAgICAgYXNzZXJ0VGhhdChyZWZyZXNoZWRBY2NvdW50Lmhpc3RvcmllcygpLmdldCgzKS50eXBlKCksIGlzKFdJVEhEUkFXKSk7Vgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHVzZXJzLnV1aWQodXNlci51dWlkKCkpLmdldCgpLmFjY291bnQoU0VDVVJJVFkpLmdldCgpLmZyb3plbigpLCBpcyhvZkNOWSgwKSkpOwogICAgICAgIGFzc2VydFRoYXQodXNlcnMudXVpZCh1c2VyLnV1aWQoKSkuZ2V0KCkuYWNjb3VudChTRUNVUklUWSkuZ2V0KCkuYmFsYW5jZSgpLCBpcyhvZkNOWSgwKSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhLmRlcG9zaXQoIldFQ0hBVCIsIDEwMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHVzZXJzLnV1aWQodXNlci51dWlkKCkpLmdldCgpLmFjY291bnQoU0VDVVJJVFkpLmdldCgpLmZyb3plbigpLCBpcyhvZkNOWSgwKSkpOwogICAgICAgIGFzc2VydFRoYXQodXNlcnMudXVpZCh1c2VyLnV1aWQoKSkuZ2V0KCkuYWNjb3VudChTRUNVUklUWSkuZ2V0KCkuYmFsYW5jZSgpLCBpcyhvZkNOWSgwKSkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgTWFwPFN0cmluZywgT2JqZWN0PiB3aXRoZHJhdyhTdHJpbmcgY2hhbm5lbCwgZG91YmxlIGFtb3VudCkgewogICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gdyA9IG5ldyBIYXNoTWFwPD4oKTsKICAgICAgICB3LnB1dCgiYW1vdW50IiwgQ05ZKGFtb3VudCkpOwogICAgICAgIHcucHV0KCJjaGFubmVsIiwgY2hhbm5lbCk7CiAgICAgICAgdy5wdXQoInR5cGUiLCAiV0lUSERSQVciKTsKICAgICAgICByZXR1cm4gdzsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBhLmRlcG9zaXQoIldFQ0hBVCIsIDEwMCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgTWFwPFN0cmluZywgT2JqZWN0PiB3aXRoZHJhdyhTdHJpbmcgY2hhbm5lbCwgZG91YmxlIGFtb3VudCkgewogICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gdyA9IG5ldyBIYXNoTWFwPD4oKTsKICAgICAgICB3LnB1dCgiYW1vdW50IiwgQ05ZKGFtb3VudCkpOwogICAgICAgIHcucHV0KCJjaGFubmVsIiwgY2hhbm5lbCk7CiAgICAgICAgdy5wdXQoInR5cGUiLCAiV0lUSERSQVciKTsKICAgICAgICByZXR1cm4gdzsKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBJRihSRU5UQUxfSUQgSVMgTk9UIE5VTEwsICdSRU5UQUwnLCAnUkVRVUVTVCcpIEFTIElDX1RZUEUsCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gOwo=</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
