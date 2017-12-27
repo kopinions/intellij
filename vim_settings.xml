@@ -156,10 +156,12 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/records/FapiaoRequestRepositoryTest.java" timestamp="1514369921522">
+      <file name="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/records/FapiaoRequestRepositoryTest.java" timestamp="1514379683655">
         <mark key="'" line="9" column="34" />
-        <mark key="." line="9" column="34" />
-        <mark key="^" line="9" column="34" />
+        <mark key="[" line="102" column="42" />
+        <mark key="]" line="102" column="42" />
+        <mark key="." line="102" column="42" />
+        <mark key="^" line="102" column="42" />
       </file>
       <file name="/workspace/clients/billing/src/main/resources/mybatis/config.xml" timestamp="1511241913880">
         <mark key="[" line="17" column="27" />
@@ -951,7 +953,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>taxable</text>
+        <text>Moneys.ofCNY(100)</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -6986,13 +6988,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>taxable</text>
+        <text>Moneys.ofCNY(100)</text>
       </register>
       <register name="/" type="4">
         <text>PAYER</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kZXIuYmluZChUZXN0RGF0YS5jbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGpzb24ucGF0aCgiZ3Jvc3MiKSwgaXMoTW9uZXlzLm9mQ05ZKDEwMCkpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgTWFwPFN0cmluZywgT2JqZWN0PiBmYXBpYW9SZXF1ZXN0KCkgewogICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gcmVxdWVzdCA9IG5ldyBIYXNoTWFwPD4oKTsKCiAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiByZWNpcGllbnQgPSBuZXcgSGFzaE1hcDw+KCk7CiAgICAgICAgcmVjaXBpZW50LnB1dCgibmFtZSIsICJ3dXVsaSIpOwogICAgICAgIHJlY2lwaWVudC5wdXQoIm1vYmlsZSIsICIxODY4ODg4ODg4OCIpOwoKICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IGFkZHJlc3MgPSBuZXcgSGFzaE1hcDw+KCk7CiAgICAgICAgYWRkcmVzcy5wdXQoIm5hbWUiLCAiQkVKIik7CiAgICAgICAgYWRkcmVzcy5wdXQoInBvc3Rjb2RlIiwgIjEwMDAwMCIpOwoKICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IHNoaXBtZW50ID0gbmV3IEhhc2hNYXA8PigpOwogICAgICAgIHNoaXBtZW50LnB1dCgicmVjaXBpZW50IiwgcmVjaXBpZW50KTsKICAgICAgICBzaGlwbWVudC5wdXQoImFkZHJlc3MiLCBhZGRyZXNzKTsKCiAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiBhY2NvdW50ID0gbmV3IEhhc2hNYXA8PigpOwogICAgICAgIGFjY291bnQucHV0KCJpc3N1ZWQiLCAiQ01CIik7CiAgICAgICAgYWNjb3VudC5wdXQoIm5vIiwgIjExMTExMTExMTExMTExMTEiKTsKCiAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiBwYXllciA9IG5ldyBIYXNoTWFwPD4oKTsKICAgICAgICBwYXllci5wdXQoImFjY291bnQiLCBhY2NvdW50KTsKICAgICAgICBwYXllci5wdXQoIm5hbWUiLCAicGF5ZXIiKTsKICAgICAgICBwYXllci5wdXQoImFkZHJlc3MiLCAiQkVKIik7CiAgICAgICAgcGF5ZXIucHV0KCJtb2JpbGUiLCAiMTg2ODg4ODg4ODgiKTsKICAgICAgICBwYXllci5wdXQoInRpbiIsICIxMTExMTExMTExMTExMTExMTEiKTsKCiAgICAgICAgcmVxdWVzdC5wdXQoInNoaXBtZW50Iiwgc2hpcG1lbnQpOwogICAgICAgIHJlcXVlc3QucHV0KCJwYXllciIsIHBheWVyKTsKCiAgICAgICAgcmV0dXJuIHJlcXVlc3Q7CgogICAgfQo=</text>
