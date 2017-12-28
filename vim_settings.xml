@@ -344,12 +344,12 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="33" column="18" />
       </file>
-      <file name="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/junit/Scenario.java" timestamp="1514352542312">
+      <file name="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/junit/Scenario.java" timestamp="1514449324886">
         <mark key="'" line="133" column="16" />
-        <mark key="[" line="160" column="40" />
-        <mark key="]" line="160" column="43" />
-        <mark key="." line="160" column="43" />
-        <mark key="^" line="160" column="43" />
+        <mark key="[" line="183" column="32" />
+        <mark key="]" line="183" column="42" />
+        <mark key="." line="183" column="42" />
+        <mark key="^" line="183" column="42" />
       </file>
       <file name="/workspace/clients/soda/riihi/api/src/main/java/com/sodacar/riihi/api/FapiaoRequestResource.java" timestamp="1514354399613">
         <mark key="[" line="19" column="41" />
@@ -662,7 +662,7 @@
         <mark key="." line="45" column="91" />
         <mark key="^" line="42" column="25" />
       </file>
-      <file name="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/UsersRecords.xml" timestamp="1514448078933">
+      <file name="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/UsersRecords.xml" timestamp="1514449218345">
         <mark key="'" line="61" column="0" />
         <mark key="[" line="53" column="123" />
         <mark key="]" line="53" column="123" />
@@ -806,7 +806,7 @@
         <mark key="^" line="8" column="3" />
         <mark key="." line="8" column="3" />
       </file>
-      <file name="/workspace/clients/soda/riihi/records/src/main/java/com/sodacar/riihi/records/RentalRecord.java" timestamp="1514448551089">
+      <file name="/workspace/clients/soda/riihi/records/src/main/java/com/sodacar/riihi/records/RentalRecord.java" timestamp="1514449188825">
         <mark key="[" line="634" column="104" />
         <mark key="]" line="634" column="104" />
         <mark key="." line="634" column="104" />
@@ -959,8 +959,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBpLnBvc3QoIi9mYXBpYW8tcmVxdWVzdHMiLCBkYXRhLmZhcGlhb0FwcGxpY2F0aW9uKGFzTGlzdChpbnZvaWNlKSkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>APPROVED</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -6995,13 +6995,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>APPROVED</text>
       </register>
       <register name="/" type="4">
         <text>I_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBpLnBvc3QoIi9mYXBpYW8tcmVxdWVzdHMiLCBkYXRhLmZhcGlhb0FwcGxpY2F0aW9uKGFzTGlzdChpbnZvaWNlKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wdXQoInVzZXJuYW1lIiwgIkFQUFJPVkVEIikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgICBAVGVzdAogICAgcHVibGljIHZvaWQgc2hvdWxkX2FibGVfdG9fZmluZF9mYXBpYW9fcmVxdWVzdCgpIHsKICAgICAgICBmYXBpYW9SZXF1ZXN0cy5jcmVhdGUodXNlciwgZGF0YS5mYXBpYW9BcHBsaWNhdGlvbihhc0xpc3QoaW52b2ljZSkpKTsKICAgICAgICBhc3NlcnRUaGF0KGZhcGlhb1JlcXVlc3RzLmFsbE9mKENyaXRlcmlhLmVtcHR5KCksIFNvcnQuZW1wdHkoKSkuc2l6ZSgpLCBpcygxTCkpOwogICAgICAgIGFzc2VydFRoYXQoZmFwaWFvUmVxdWVzdHMuYWxsT2YoQ3JpdGVyaWEuZW1wdHkoKSwgU29ydC5lbXB0eSgpKS5wYWdlKDEsIDEwKS5zaXplKCksIGlzKDEpKTsKICAgIH0KCiAgICBAVGVzdAogICAgcHVibGljIHZvaWQgc2hvdWxkX2FibGVfdG9fdXVpZF90aGVfZmFwaWFvX3JlcXVlc3QoKSB7CiAgICAgICAgRmFwaWFvUmVxdWVzdCBmYXBpYW9SZXF1ZXN0ID0gZmFwaWFvUmVxdWVzdHMuY3JlYXRlKHVzZXIsIGRhdGEuZmFwaWFvQXBwbGljYXRpb24oYXNMaXN0KGludm9pY2UpKSk7CiAgICAgICAgT3B0aW9uYWw8RmFwaWFvUmVxdWVzdD4gdXVpZCA9IGZhcGlhb1JlcXVlc3RzLnV1aWQoZmFwaWFvUmVxdWVzdC51dWlkKCkpOwogICAgICAgIGFzc2VydFRoYXQodXVpZC5pc1ByZXNlbnQoKSwgaXModHJ1ZSkpOwogICAgICAgIGFzc2VydFRoYXQodXVpZC5nZXQoKS51dWlkKCksIGlzKGZhcGlhb1JlcXVlc3QudXVpZCgpKSk7CiAgICB9CgogICAgQFRlc3QKICAgIHB1YmxpYyB2b2lkIHNob3VsZF9hYmxlX3RvX3JlZl9qc29uX3doZW5fZmluZF9ieV9saXN0KCkgewogICAgICAgIGZhcGlhb1JlcXVlc3RzLmNyZWF0ZSh1c2VyLCBkYXRhLmZhcGlhb0FwcGxpY2F0aW9uKGFzTGlzdChpbnZvaWNlKSkpOwogICAgICAgIEZhcGlhb1JlcXVlc3QgZmFwaWFvUmVxdWVzdCA9IGZhcGlhb1JlcXVlc3RzLmFsbE9mKENyaXRlcmlhLmVtcHR5KCksIFNvcnQuZW1wdHkoKSkucGFnZSgxLCAxMCkuZ2V0KDApOwoKICAgICAgICBKc29uQ29udGV4dCBqc29uID0gSnNvbkNvbnRleHQuanNvbigoKEpzb25UeXBlKSBmYXBpYW9SZXF1ZXN0KS50b1JlZmVyZW5jZUpzb24oKSk7CiAgICAgICAgYXNzZXJ0VGhhdChqc29uLnBhdGgoImlkIiksIGlzKGZhcGlhb1JlcXVlc3QudXVpZCgpKSk7CiAgICAgICAgYXNzZXJ0VGhhdChqc29uLnBhdGgoImFwcGxpZXIuaWQiKSwgaXModXNlci51dWlkKCkpKTsKICAgICAgICBhc3NlcnRUaGF0KGpzb24ucGF0aCgiYXBwbGllci51c2VybmFtZSIpLCBpcygid3V1bGkiKSk7CiAgICAgICAgYXNzZXJ0VGhhdChqc29uLnBhdGgoImFwcGxpZXIubW9iaWxlIiksIGlzKCIxODY4ODg4ODg4OCIpKTsKICAgICAgICBhc3NlcnRUaGF0KGpzb24ucGF0aCgicGF5ZXIubmFtZSIpLCBpcygicGF5ZXIiKSk7CiAgICAgICAgYXNzZXJ0VGhhdChqc29uLnBhdGgoInBheWVyLmFkZHJlc3MiKSwgaXMoIkJFSiIpKTsKICAgICAgICBhc3NlcnRUaGF0KGpzb24ucGF0aCgicGF5ZXIubW9iaWxlIiksIGlzKCIxODY4ODg4ODg4OCIpKTsKICAgICAgICBhc3NlcnRUaGF0KGpzb24ucGF0aCgicGF5ZXIudGluIiksIGlzKCIxMTExMTExMTExMTExMTExMTEiKSk7CiAgICAgICAgYXNzZXJ0VGhhdChqc29uLnBhdGgoInBheWVyLmFjY291bnQuaXNzdWVkIiksIGlzKCJDTUIiKSk7CiAgICAgICAgYXNzZXJ0VGhhdChqc29uLnBhdGgoInBheWVyLmFjY291bnQubm8iKSwgaXMoIjExMTExMTExMTExMTExMTEiKSk7CgogICAgICAgIGFzc2VydFRoYXQoanNvbi5wYXRoKCJzaGlwbWVudC5yZWNpcGllbnQubmFtZSIpLCBpcygid3V1bGkiKSk7CiAgICAgICAgYXNzZXJ0VGhhdChqc29uLnBhdGgoInNoaXBtZW50LnJlY2lwaWVudC5tb2JpbGUiKSwgaXMoIjE4Njg4ODg4ODg4IikpOwogICAgICAgIGFzc2VydFRoYXQoanNvbi5wYXRoKCJzaGlwbWVudC5hZGRyZXNzLm5hbWUiKSwgaXMoIkJFSiIpKTsKICAgICAgICBhc3NlcnRUaGF0KGpzb24ucGF0aCgic2hpcG1lbnQuYWRkcmVzcy5wb3N0Y29kZSIpLCBpcygiMTAwMDAwIikpOwoKICAgICAgICBhc3NlcnRUaGF0KGpzb24ucGF0aCgiZ3Jvc3MiKSwgaXMoTW9uZXlzLm9mQ05ZKDEwMCkpKTsKICAgICAgICBhc3NlcnRUaGF0KGpzb24ucGF0aCgiaXRlbXNfY291bnQiKSwgaXMoMSkpOwogICAgfQo=</text>
