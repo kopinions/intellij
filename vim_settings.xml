@@ -177,7 +177,7 @@
         <mark key="^" line="10" column="30" />
         <mark key="." line="10" column="30" />
       </file>
-      <file name="/workspace/clients/soda/riihi/records/src/main/java/com/sodacar/riihi/records/AccountRecord.java" timestamp="1514979641950">
+      <file name="/workspace/clients/soda/riihi/records/src/main/java/com/sodacar/riihi/records/AccountRecord.java" timestamp="1515035822838">
         <mark key="[" line="254" column="0" />
         <mark key="]" line="254" column="0" />
         <mark key="." line="254" column="0" />
@@ -212,9 +212,9 @@
         <mark key="." line="0" column="29" />
         <mark key="^" line="0" column="29" />
       </file>
-      <file name="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/UserMapper.xml" timestamp="1514973533621">
+      <file name="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/UserMapper.xml" timestamp="1515031031964">
         <mark key="'" line="14" column="9" />
-        <mark key="[" line="230" column="68" />
+        <mark key="[" line="230" column="67" />
         <mark key="]" line="230" column="66" />
         <mark key="^" line="230" column="66" />
         <mark key="." line="230" column="66" />
@@ -397,7 +397,7 @@
         <mark key="^" line="53" column="8" />
         <mark key="." line="53" column="8" />
       </file>
-      <file name="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/InvoiceMapper.xml" timestamp="1514966473367">
+      <file name="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/InvoiceMapper.xml" timestamp="1515036222551">
         <mark key="'" line="162" column="0" />
         <mark key="[" line="352" column="44" />
         <mark key="]" line="352" column="53" />
@@ -797,7 +797,7 @@
         <mark key="." line="194" column="97" />
         <mark key="^" line="194" column="97" />
       </file>
-      <file name="/workspace/clients/soda/riihi/records/src/main/java/com/sodacar/riihi/records/InvoiceRecord.java" timestamp="1514973494902" />
+      <file name="/workspace/clients/soda/riihi/records/src/main/java/com/sodacar/riihi/records/InvoiceRecord.java" timestamp="1515036882524" />
       <file name="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/records/ComposeChangeSet.java" timestamp="1514869098917">
         <mark key="[" line="10" column="82" />
         <mark key="]" line="10" column="81" />
@@ -822,12 +822,12 @@
         <mark key="^" line="8" column="3" />
         <mark key="." line="8" column="3" />
       </file>
-      <file name="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/records/AccountWithdrawTest.java" timestamp="1514973476635">
+      <file name="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/records/AccountWithdrawTest.java" timestamp="1515037157829">
         <mark key="'" line="175" column="0" />
         <mark key="[" line="199" column="0" />
-        <mark key="]" line="199" column="27" />
+        <mark key="]" line="199" column="0" />
         <mark key="." line="199" column="0" />
-        <mark key="^" line="168" column="25" />
+        <mark key="^" line="233" column="87" />
       </file>
       <file name="/workspace/clients/soda/riihi/records/src/main/java/com/sodacar/riihi/records/RentalRecord.java" timestamp="1514907208854">
         <mark key="[" line="735" column="0" />
@@ -853,7 +853,7 @@
         <mark key="." line="9" column="3" />
         <mark key="^" line="9" column="3" />
       </file>
-      <file name="/fragment.java" timestamp="1514970974450">
+      <file name="/fragment.java" timestamp="1515035468165">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
@@ -7013,10 +7013,10 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGZpcnN0Q3JlZGl0SW52b2ljZS5yZXZlcnNlT2YoKS5nZXQoKS51dWlkKCksIGlzKHRoaXJkRGVwb3NpdEludm9pY2UudXVpZCgpKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7027,19 +7027,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRlVGltZVV0aWxzLnNldEN1cnJlbnRNaWxsaXNTeXN0ZW0oKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyB0aGUgZmlyc3QgY3JlZGl0IGludm9pY2UgaXMgbGFzdCBwcm9jZXNzZWQK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGFzc2VydFRoYXQoY3JlZGl0ZWRJbnZvaWNlLmdldCgwKS5yZXZlcnNlT2YoKS5nZXQoKS51dWlkKCksIGlzKHNlY29uZERlcG9zaXRJbnZvaWNlLnV1aWQoKSkpOwovLyAgICAgICAgYXNzZXJ0VGhhdChjcmVkaXRlZEludm9pY2UuZ2V0KDEpLnJldmVyc2VPZigpLmdldCgpLnV1aWQoKSwgaXModGhpcmREZXBvc2l0SW52b2ljZS51dWlkKCkpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbnZvaWNlcy5jcmVhdGUoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBEYXRlVGltZVV0aWxzLnNldEN1cnJlbnRNaWxsaXNTeXN0ZW0oKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -7048,7 +7048,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnZvaWNlcy5jcmVhdGUoKQo=</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
