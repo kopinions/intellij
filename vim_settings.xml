@@ -802,11 +802,11 @@
         <mark key="." line="194" column="97" />
         <mark key="^" line="194" column="97" />
       </file>
-      <file name="/workspace/clients/soda/riihi/records/src/main/java/com/sodacar/riihi/records/InvoiceRecord.java" timestamp="1515126269621">
-        <mark key="[" line="785" column="0" />
-        <mark key="]" line="785" column="0" />
-        <mark key="." line="785" column="0" />
-        <mark key="^" line="786" column="84" />
+      <file name="/workspace/clients/soda/riihi/records/src/main/java/com/sodacar/riihi/records/InvoiceRecord.java" timestamp="1515127474643">
+        <mark key="[" line="777" column="16" />
+        <mark key="]" line="777" column="16" />
+        <mark key="." line="777" column="16" />
+        <mark key="^" line="776" column="11" />
       </file>
       <file name="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/records/ComposeChangeSet.java" timestamp="1514869098917">
         <mark key="[" line="10" column="82" />
@@ -978,8 +978,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>debitor</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7017,16 +7017,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>isEmpty</text>
+        <text>debitor</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGRpcmVjdENhdXNlcy5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBJbnZvaWNlRXhjZXB0aW9uKCJpbnZvaWNlLm5vLmRpcmVjdC5jYXVzZSIsICJubyBkaXJlY3QgY2F1c2UgZm91bmQiKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGRlYml0b3IgPT0gbnVsbCB8fCBtc3AgPT0gbnVsbCB8fCBtc3AuaXNFbXB0eSgpKSB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgSW52b2ljZUV4Y2VwdGlvbigiaW52b2ljZS5zaWRlcy5ub3QuZm91bmQiLCAiZGViaXRvciBvciBtc3Agbm90IGZvdW5kIik7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgago=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7037,28 +7037,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgY2F1c2VzLmZvckVhY2goYyAtPiB7CiAgICAgICAgICAgIENhdXNlRGVjb3JhdG9yIGMxID0gKENhdXNlRGVjb3JhdG9yKSBjOwogICAgICAgICAgICBvcHRpb24uY2F1c2UoYzEuY2F1c2UsIENhdXNlLlJlbGF0aW9uLlJFTU9URSwgJCAtPiBjMS5ub3RpZmlhYmxlKTsKICAgICAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2F1c2VzLmZvckVhY2goYyAtPiB7IENhdXNlRGVjb3JhdG9yIGMxID0gKENhdXNlRGVjb3JhdG9yKSBjOwogICAgICAgICAgICAgICAgb3B0aW9uLmNhdXNlKGMxLmNhdXNlLCBDYXVzZS5SZWxhdGlvbi5SRU1PVEUsICQgLT4gYzEubm90aWZpYWJsZSk7CiAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2F1c2VzLmZvckVhY2goYyAtPiB7CiAgICAgICAgICAgICAgICBDYXVzZURlY29yYXRvciBjMSA9IChDYXVzZURlY29yYXRvcikgYzsKICAgICAgICAgICAgICAgIG9wdGlvbi5jYXVzZShjMS5jYXVzZSwgQ2F1c2UuUmVsYXRpb24uUkVNT1RFLCAkIC0+IGMxLm5vdGlmaWFibGUpOwogICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgSGFzaE1hcDxTdHJpbmcsIE9iamVjdD4gdGFyZ2V0ID0gbmV3IEhhc2hNYXA8PigpOwogICAgICAgICAgICB0YXJnZXQucHV0KCJtc3AiLCBtc3ApOwogICAgICAgICAgICB0YXJnZXQucHV0KCJ0eXBlIiwgdHlwZS50b1N0cmluZygpKTsKICAgICAgICAgICAgdGFyZ2V0LnB1dCgidHJhbnNhY3Rpb25zIiwgdHJhbnNhY3Rpb25zKTsKICAgICAgICAgICAgdGFyZ2V0LnB1dCgicGF5bWVudF9vcHRpb25zIiwgb3B0aW9uKTsKICAgICAgICAgICAgdGFyZ2V0LnB1dCgiZ3Jvc3MiLCBNb25leXMudG9Kc29uKGxlZGdlcih0cmFuc2FjdGlvbnMsICJncm9zcyIpKSk7CiAgICAgICAgICAgIHRhcmdldC5wdXQoInZhdCIsIE1vbmV5cy50b0pzb24obGVkZ2VyKHRyYW5zYWN0aW9ucywgInZhdCIpKSk7CiAgICAgICAgICAgIHRhcmdldC5wdXQoImNyZWF0ZWRfYXQiLCBEYXRlVGltZS5ub3coKS5nZXRNaWxsaXMoKSk7CiAgICAgICAgICAgIHRhcmdldC5wdXQoImRlYml0b3IiLCBkZWJpdG9yLnV1aWQoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbnZvaWNlLnBhaWQoZGF0YS5wYXltZW50KChkb3VibGUpIDExNywgIldFQ0hBVCIpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBJZ25vcmUoIndoYXQgaXMgdGhlIGNhdXNlIGZvciB0aGUgdW5wYWlkIGludm9pY2UiKQo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGlmIChsZWRnZXIoKExpc3Q8TWFwPFN0cmluZywgT2JqZWN0Pj4pIHJldmVyc2UuZ2V0KCJ0cmFuc2FjdGlvbnMiKSwgImdyb3NzIikuaXNHcmVhdGVyVGhhbih0aGlzLmdyb3NzKSkgewogICAgICAgICAgICAgICAgdGhyb3cgbmV3IEludm9pY2VFeGNlcHRpb24oInJldmVyc2UuYW1vdW50LmV4Y2VlZCIpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbnZvaWNlLnBhaWQoZGF0YS5wYXltZW50KChkb3VibGUpIDExNywgIldFQ0hBVCIpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnZvaWNlLnBhaWQoZGF0YS5wYXltZW50KChkb3VibGUpIDExNywgIldFQ0hBVCIpKTsK</text>
+        <text encoding="base64">CiAgICAgICAgY2F1c2VzLmZvckVhY2goYyAtPiB7CiAgICAgICAgICAgIENhdXNlRGVjb3JhdG9yIGMxID0gKENhdXNlRGVjb3JhdG9yKSBjOwogICAgICAgICAgICBvcHRpb24uY2F1c2UoYzEuY2F1c2UsIENhdXNlLlJlbGF0aW9uLlJFTU9URSwgJCAtPiBjMS5ub3RpZmlhYmxlKTsKICAgICAgICB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbnZvaWNlLnBhaWQoZGF0YS5wYXltZW50KDExNywgIldFQ0hBVCIpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2F1c2VzLmZvckVhY2goYyAtPiB7IENhdXNlRGVjb3JhdG9yIGMxID0gKENhdXNlRGVjb3JhdG9yKSBjOwogICAgICAgICAgICAgICAgb3B0aW9uLmNhdXNlKGMxLmNhdXNlLCBDYXVzZS5SZWxhdGlvbi5SRU1PVEUsICQgLT4gYzEubm90aWZpYWJsZSk7CiAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
