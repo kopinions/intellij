@@ -833,10 +833,11 @@
         <mark key="." line="194" column="97" />
         <mark key="^" line="194" column="97" />
       </file>
-      <file name="/workspace/clients/soda/riihi/records/src/main/java/com/sodacar/riihi/records/InvoiceRecord.java" timestamp="1515304457984">
-        <mark key="[" line="69" column="34" />
-        <mark key="]" line="69" column="34" />
-        <mark key="." line="69" column="34" />
+      <file name="/workspace/clients/soda/riihi/records/src/main/java/com/sodacar/riihi/records/InvoiceRecord.java" timestamp="1515306540956">
+        <mark key="'" line="465" column="70" />
+        <mark key="[" line="200" column="33" />
+        <mark key="]" line="73" column="36" />
+        <mark key="." line="73" column="36" />
         <mark key="^" line="69" column="34" />
       </file>
       <file name="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/records/ComposeChangeSet.java" timestamp="1514869098917">
@@ -909,7 +910,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="599" column="32" filename="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/Columns.xml" />
       <jump line="81" column="51" filename="/workspace/clients/soda/riihi/records/src/main/java/com/sodacar/riihi/records/FapiaoRecord.java" />
       <jump line="79" column="4" filename="/workspace/clients/soda/riihi/records/src/main/java/com/sodacar/riihi/records/FapiaoRecord.java" />
       <jump line="76" column="23" filename="/workspace/clients/soda/riihi/records/src/main/java/com/sodacar/riihi/records/FapiaoRequestRecord.java" />
@@ -1009,6 +1009,7 @@
       <jump line="0" column="0" filename="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/invoice/InvoiceTest.java" />
       <jump line="71" column="44" filename="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/invoice/InvoiceTest.java" />
       <jump line="155" column="12" filename="/workspace/clients/soda/riihi/records/src/main/java/com/sodacar/riihi/records/AccountRecord.java" />
+      <jump line="465" column="70" filename="/workspace/clients/soda/riihi/records/src/main/java/com/sodacar/riihi/records/InvoiceRecord.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1016,8 +1017,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFyZ2V0LnB1dCgiaW52b2ljZSIsICgoSnNvblR5cGUpIGRlc2MpLnRvUmVmZXJlbmNlSnNvbigpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7055,7 +7056,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;WECHAT&quot;, 100</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>through</text>
