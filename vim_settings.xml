@@ -83,12 +83,7 @@
         <mark key="^" line="26" column="29" />
         <mark key="." line="26" column="29" />
       </file>
-      <file name="/workspace/clients/soda/riihi/records/src/main/java/com/sodacar/riihi/records/FapiaoRequestRepository.java" timestamp="1515307624983">
-        <mark key="[" line="37" column="76" />
-        <mark key="]" line="85" column="77" />
-        <mark key="^" line="85" column="77" />
-        <mark key="." line="85" column="77" />
-      </file>
+      <file name="/workspace/clients/soda/riihi/records/src/main/java/com/sodacar/riihi/records/FapiaoRequestRepository.java" timestamp="1515323362606" />
       <file name="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/fapiaos/FapiaosTest.java" timestamp="1515302015557">
         <mark key="[" line="119" column="12" />
         <mark key="]" line="119" column="12" />
@@ -865,12 +860,12 @@
         <mark key="." line="194" column="97" />
         <mark key="^" line="194" column="97" />
       </file>
-      <file name="/workspace/clients/soda/riihi/records/src/main/java/com/sodacar/riihi/records/InvoiceRecord.java" timestamp="1515314806213">
+      <file name="/workspace/clients/soda/riihi/records/src/main/java/com/sodacar/riihi/records/InvoiceRecord.java" timestamp="1515323192943">
         <mark key="'" line="465" column="70" />
-        <mark key="[" line="1075" column="0" />
-        <mark key="]" line="1075" column="0" />
-        <mark key="." line="1075" column="0" />
-        <mark key="^" line="1087" column="0" />
+        <mark key="[" line="443" column="48" />
+        <mark key="]" line="443" column="55" />
+        <mark key="." line="443" column="55" />
+        <mark key="^" line="443" column="55" />
       </file>
       <file name="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/records/ComposeChangeSet.java" timestamp="1514869098917">
         <mark key="[" line="10" column="82" />
@@ -1049,8 +1044,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7088,13 +7083,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>amount</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>through</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBDT0xMRUNURURfQU1PVU5UID0gI3tyZXF1ZXN0LmNvbGxlY3RlZC5hbW91bnR9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEZhcGlhb0V4Y2VwdGlvbigiZmFwaWFvLmludm9pY2VzLm5lZWRlZCIsICJpbnZvaWNlIGlzIG5lZWQgdG8gYXBwbHkgdGhlIGZhcGlhbyIpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -7111,22 +7106,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgQEFmdGVyCiAgICBwdWJsaWMgdm9pZCB0ZWFyRG93bigpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIERhdGVUaW1lVXRpbHMuc2V0Q3VycmVudE1pbGxpc1N5c3RlbSgpOwogICAgfQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci50ZWFyRG93bigpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoKQo=</text>
-      </register>
-      <register name="7" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgQEFmdGVyCiAgICBwdWJsaWMgdm9pZCB0ZWFyRG93bigpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIERhdGVUaW1lVXRpbHMuc2V0Q3VycmVudE1pbGxpc1N5c3RlbSgpOwogICAgfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzdXBlci50ZWFyRG93bigpOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByLnN0YXR1cyA9IHIuc3RhdHVzLnRyYW5zZmVyKFN0YXR1cy5TVUNDRVNTKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
