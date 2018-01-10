@@ -456,7 +456,7 @@
         <mark key="." line="18" column="23" />
         <mark key="^" line="18" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515585970201">
+      <file name="/Dummy.txt" timestamp="1515596634702">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -833,7 +833,7 @@
         <mark key="^" line="5" column="19" />
         <mark key="." line="5" column="19" />
       </file>
-      <file name="/workspace/clients/soda/riihi/migration/src/main/resources/migration/mysql/MySQL-38__add_special_payments_related.sql" timestamp="1515586444099">
+      <file name="/workspace/clients/soda/riihi/migration/src/main/resources/migration/mysql/MySQL-38__add_special_payments_related.sql" timestamp="1515596822209">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="^" line="45" column="9" />
@@ -850,6 +850,12 @@
         <mark key="]" line="64" column="35" />
         <mark key="^" line="57" column="86" />
         <mark key="." line="64" column="35" />
+      </file>
+      <file name="/workspace/clients/soda/riihi/migration/src/main/resources/migration/mysql/MySQL-42__change_special_payments_remove_foreign_key_constriants.sql" timestamp="1515596738708">
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="1" column="5" />
+        <mark key="." line="1" column="5" />
+        <mark key="^" line="1" column="5" />
       </file>
       <file name="/workspace/clients/soda/riihi/core/src/main/java/com/sodacar/riihi/core/RefundRequest.java" timestamp="1515514319265">
         <mark key="[" line="64" column="0" />
@@ -1205,7 +1211,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>CHANGE</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7243,7 +7249,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>CHANGE</text>
       </register>
       <register name="/" type="4">
         <text>FapiaoRequests</text>
