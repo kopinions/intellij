@@ -659,6 +659,12 @@
         <mark key="^" line="17" column="31" />
         <mark key="." line="17" column="31" />
       </file>
+      <file name="/workspace/clients/soda/soda-admin/language/zh_CN.json" timestamp="1515575157991">
+        <mark key="[" line="107" column="7" />
+        <mark key="]" line="107" column="7" />
+        <mark key="." line="107" column="7" />
+        <mark key="^" line="107" column="11" />
+      </file>
       <file name="/workspace/clients/soda/riihi/core/src/main/java/com/sodacar/riihi/core/exception/InvoiceException.java" timestamp="1513679321049">
         <mark key="[" line="9" column="25" />
         <mark key="]" line="10" column="30" />
@@ -1136,8 +1142,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZWZyZXNoKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>refund</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7175,13 +7181,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>unsettled</text>
+        <text>refund</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBqc29uLnB1dCgicmVmdW5kZWQiLCBjYWxjdWxhdGUoSW52b2ljZS5Gb3JtdWxhOjpyZWZ1bmRlZCkpOwo=</text>
+      <register name="0" type="4">
+        <text>&quot;refund&quot;: {
+      &quot;title&quot;: &quot;退款管理&quot;,
+      &quot;refund&quot;: &quot;退款管理&quot;
+    },</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZWZyZXNoKCk7Cg==</text>
