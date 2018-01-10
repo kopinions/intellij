@@ -378,6 +378,12 @@
         <mark key="^" line="78" column="25" />
         <mark key="." line="78" column="25" />
       </file>
+      <file name="/workspace/clients/soda/soda-admin/src/routes/index.js" timestamp="1515575649255">
+        <mark key="[" line="36" column="61" />
+        <mark key="]" line="36" column="74" />
+        <mark key="." line="36" column="74" />
+        <mark key="^" line="36" column="74" />
+      </file>
       <file name="/workspace/clients/billing/modules/features/sharding/src/main/java/com/accounting/billing/features/sharding/core/SqlFactoryBuilder.java" timestamp="1511249495562">
         <mark key="[" line="2" column="41" />
         <mark key="]" line="2" column="41" />
@@ -1143,7 +1149,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>refund</text>
+        <text>s</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7181,16 +7187,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>refund</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;refund&quot;: {
-      &quot;title&quot;: &quot;退款管理&quot;,
-      &quot;refund&quot;: &quot;退款管理&quot;
-    },</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y29uc3QgRmFwaWFvUmVxdWVzdCA9IGFzeW5jQ29tcG9uZW50KCgpID0+IGltcG9ydCgnLi4vcGFnZXMvRmFwaWFvUmVxdWVzdHMvaW5kZXgnKSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZWZyZXNoKCk7Cg==</text>
