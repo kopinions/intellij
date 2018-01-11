@@ -298,10 +298,10 @@
       </file>
       <file name="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/Columns.xml" timestamp="1515665181885">
         <mark key="'" line="22" column="22" />
-        <mark key="[" line="642" column="37" />
-        <mark key="]" line="642" column="43" />
-        <mark key="^" line="642" column="43" />
-        <mark key="." line="642" column="43" />
+        <mark key="[" line="643" column="37" />
+        <mark key="]" line="643" column="43" />
+        <mark key="^" line="643" column="43" />
+        <mark key="." line="643" column="43" />
       </file>
       <file name="/workspace/clients/soda/riihi/migration/src/main/resources/migration/mysql/MySQL-14__create_payments.sql" timestamp="1513768882396">
         <mark key="[" line="4" column="0" />
@@ -939,12 +939,12 @@
         <mark key="." line="20" column="69" />
         <mark key="^" line="20" column="69" />
       </file>
-      <file name="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/junit/TestData.java" timestamp="1515676074507">
+      <file name="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/junit/TestData.java" timestamp="1515680772356">
         <mark key="'" line="178" column="31" />
         <mark key="[" line="207" column="29" />
-        <mark key="]" line="207" column="36" />
+        <mark key="]" line="207" column="29" />
         <mark key="^" line="207" column="36" />
-        <mark key="." line="207" column="36" />
+        <mark key="." line="207" column="29" />
       </file>
       <file name="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/records/InvoiceRecordTest.java" timestamp="1515377675429">
         <mark key="[" line="71" column="9" />
@@ -1213,7 +1213,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>name</text>
+        <text>PERSONAL</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7251,7 +7251,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>PERSONAL</text>
       </register>
       <register name="/" type="4">
         <text>FapiaoRequests</text>
