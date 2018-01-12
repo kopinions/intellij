@@ -322,12 +322,12 @@
         <mark key="." line="52" column="0" />
         <mark key="^" line="51" column="19" />
       </file>
-      <file name="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/SpecialPaymentMapper.xml" timestamp="1515726442782">
+      <file name="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/SpecialPaymentMapper.xml" timestamp="1515737413283">
         <mark key="'" line="36" column="0" />
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="97" column="40" />
-        <mark key="." line="96" column="0" />
-        <mark key="^" line="43" column="39" />
+        <mark key="[" line="159" column="16" />
+        <mark key="]" line="159" column="19" />
+        <mark key="." line="159" column="19" />
+        <mark key="^" line="159" column="19" />
       </file>
       <file name="/workspace/clients/soda/riihi/core/src/main/java/com/sodacar/riihi/core/PaymentRequestRepository.java" timestamp="1513756579788">
         <mark key="[" line="5" column="45" />
@@ -779,7 +779,6 @@
         <mark key="^" line="241" column="112" />
       </file>
       <file name="/workspace/clients/soda/soda-admin/src/components/FapiaoRequests/View.js" timestamp="1515725346327">
-        <mark key="[" line="79" column="18" />
         <mark key="]" line="75" column="35" />
         <mark key="^" line="75" column="35" />
         <mark key="." line="75" column="35" />
@@ -924,7 +923,7 @@
         <mark key="." line="0" column="65" />
         <mark key="^" line="0" column="64" />
       </file>
-      <file name="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/InvoicesRecords.xml" timestamp="1515735859668">
+      <file name="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/InvoicesRecords.xml" timestamp="1515736760982">
         <mark key="'" line="166" column="74" />
         <mark key="[" line="87" column="0" />
         <mark key="]" line="87" column="0" />
@@ -1248,7 +1247,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>R</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7286,13 +7285,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>R</text>
       </register>
       <register name="/" type="4">
         <text>FapiaoRequests</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5jbHVkZSByZWZpZD0iY29sdW1ucy53dXVsaV91c2VyIi8+LAogICAgICAgIDxpbmNsdWRlIHJlZmlkPSJjb2x1bW5zLnVzZXIiLz4sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGlmIHRlc3Q9ImNyaXRlcmlhLmNyaXRlcmlhLmNvbnRhaW5zS2V5KCdsaWNlbnNlX3BsYXRlX251bWJlcicpIGFuZCBjcml0ZXJpYS5jcml0ZXJpYS5saWNlbnNlX3BsYXRlX251bWJlciAhPSBudWxsIGFuZCBjcml0ZXJpYS5jcml0ZXJpYS5saWNlbnNlX3BsYXRlX251bWJlci5zaXplKCk9PTEiPgogICAgICAgICAgICAgICAgUi5WRUhJQ0xFX0xJQ0VOU0VfUExBVEVfTlVNQkVSID0gI3tjcml0ZXJpYS5jcml0ZXJpYS5saWNlbnNlX3BsYXRlX251bWJlclswXX0KICAgICAgICAgICAgPC9pZj4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -7333,7 +7332,7 @@
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -7374,7 +7373,6 @@
         <entry encoding="base64">JzwsJz5zL1JSQ1IvRlBDUi9nYw==</entry>
         <entry encoding="base64">JzwsJz5zL0ZSXy9VXy9nYw==</entry>
         <entry>reg</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zLyAvXy9n</entry>
         <entry encoding="base64">JzwsJz5zLyAvXy9nYw==</entry>
         <entry encoding="base64">JzwsJz5zL1VTRVJfSUQvL2dj</entry>
@@ -7389,6 +7387,7 @@
         <entry>%s/FapiaoRequests/SpecialPayment/gc</entry>
         <entry>qw</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
