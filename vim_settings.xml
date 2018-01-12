@@ -322,7 +322,7 @@
         <mark key="." line="52" column="0" />
         <mark key="^" line="51" column="19" />
       </file>
-      <file name="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/SpecialPaymentMapper.xml" timestamp="1515737413283">
+      <file name="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/SpecialPaymentMapper.xml" timestamp="1515738201825">
         <mark key="'" line="36" column="0" />
         <mark key="[" line="159" column="16" />
         <mark key="]" line="159" column="19" />
@@ -412,6 +412,12 @@
         <mark key="]" line="78" column="0" />
         <mark key="^" line="31" column="20" />
         <mark key="." line="78" column="0" />
+      </file>
+      <file name="/workspace/clients/soda/soda-admin/src/components/Fapiaos/View.js" timestamp="1515738742953">
+        <mark key="[" line="110" column="60" />
+        <mark key="]" line="110" column="75" />
+        <mark key="." line="110" column="75" />
+        <mark key="^" line="110" column="75" />
       </file>
       <file name="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/account/TransactionsTest.java" timestamp="1515566091215">
         <mark key="'" line="45" column="4" />
@@ -7332,7 +7338,7 @@
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -7386,8 +7392,8 @@
         <entry>%s/FapiaoRequests/specialPayment/gc</entry>
         <entry>%s/FapiaoRequests/SpecialPayment/gc</entry>
         <entry>qw</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
