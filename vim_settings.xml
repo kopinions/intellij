@@ -129,7 +129,6 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="13" column="53" />
       </file>
-      <file name="/workspace/clients/soda/soda-admin/src/components/Fapiaos/FapiaoStatus.js" timestamp="1515721062925" />
       <file name="/workspace/clients/billing/src/test/resources/log4j.properties" timestamp="1510574533250">
         <mark key="[" line="0" column="17" />
         <mark key="]" line="0" column="21" />
@@ -214,6 +213,12 @@
         <mark key="]" line="21" column="25" />
         <mark key="." line="21" column="24" />
         <mark key="^" line="21" column="24" />
+      </file>
+      <file name="/workspace/clients/soda/riihi/migration/src/main/resources/migration/mysql/MySQL-18__create_fapiao_related.sql" timestamp="1515746008305">
+        <mark key="[" line="65" column="26" />
+        <mark key="]" line="65" column="50" />
+        <mark key="^" line="65" column="50" />
+        <mark key="." line="65" column="50" />
       </file>
       <file name="/workspace/clients/soda/soda-admin/src/pages/SpecialPayment/LoadRedux.js" timestamp="1515577280780">
         <mark key="[" line="2" column="31" />
@@ -397,7 +402,6 @@
         <mark key="." line="191" column="47" />
         <mark key="^" line="191" column="47" />
       </file>
-      <file name="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/UsersRecords.xml" timestamp="1515665198123" />
       <file name="/workspace/clients/billing/modules/features/sharding/src/main/java/com/accounting/billing/features/sharding/core/SqlFactoryBuilder.java" timestamp="1511249495562">
         <mark key="[" line="2" column="41" />
         <mark key="]" line="2" column="41" />
@@ -554,7 +558,6 @@
         <mark key="^" line="50" column="97" />
         <mark key="." line="22" column="23" />
       </file>
-      <file name="/workspace/clients/soda/soda-admin/src/pages/Fapiaos/ListTableConfig.js" timestamp="1515725529234" />
       <file name="/workspace/clients/soda/riihi/scaffold/src/main/java/com/sodacar/riihi/task/DepositDeductionTask.java" timestamp="1515564162342">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="41" column="16" />
@@ -591,7 +594,6 @@
         <mark key="." line="17" column="14" />
         <mark key="^" line="17" column="14" />
       </file>
-      <file name="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/junit/TransactionManager.java" timestamp="1515664150858" />
       <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/core/Identifiers.java" timestamp="1510565474574">
         <mark key="[" line="3" column="15" />
         <mark key="]" line="3" column="30" />
@@ -824,13 +826,13 @@
         <mark key="." line="62" column="20" />
         <mark key="^" line="62" column="20" />
       </file>
-      <file name="/workspace/clients/soda/riihi/core/src/main/java/com/sodacar/riihi/core/FapiaoRequest.java" timestamp="1515719687659">
+      <file name="/workspace/clients/soda/riihi/core/src/main/java/com/sodacar/riihi/core/FapiaoRequest.java" timestamp="1515746285406">
         <mark key="[" line="28" column="13" />
         <mark key="]" line="28" column="13" />
         <mark key="^" line="27" column="24" />
         <mark key="." line="28" column="13" />
       </file>
-      <file name="/workspace/clients/soda/riihi/migration/src/main/resources/migration/mysql/MySQL-13__reinit_invoices.sql" timestamp="1515567245858">
+      <file name="/workspace/clients/soda/riihi/migration/src/main/resources/migration/mysql/MySQL-13__reinit_invoices.sql" timestamp="1515746888411">
         <mark key="[" line="53" column="2" />
         <mark key="]" line="53" column="8" />
         <mark key="^" line="53" column="8" />
