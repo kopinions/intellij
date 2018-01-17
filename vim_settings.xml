@@ -367,6 +367,11 @@
         <mark key="^" line="7" column="8" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/workspace/clients/soda/riihi/core/src/main/java/com/sodacar/riihi/core/validators/ValidatorImpl.java" timestamp="1516172197420">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="13" />
+        <mark key="." line="4" column="13" />
+      </file>
       <file name="/workspace/clients/soda/riihi/api/src/main/java/com/sodacar/riihi/api/UserResource.java" timestamp="1513915814170">
         <mark key="[" line="49" column="36" />
         <mark key="]" line="49" column="39" />
@@ -444,11 +449,11 @@
         <mark key="^" line="57" column="86" />
         <mark key="." line="64" column="35" />
       </file>
-      <file name="/workspace/clients/soda/riihi/core/src/main/java/com/sodacar/riihi/core/Validator.java" timestamp="1516170795749">
-        <mark key="[" line="5" column="25" />
-        <mark key="]" line="5" column="24" />
-        <mark key="." line="5" column="24" />
-        <mark key="^" line="5" column="24" />
+      <file name="/workspace/clients/soda/riihi/core/src/main/java/com/sodacar/riihi/core/Validator.java" timestamp="1516171800284">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="4" />
+        <mark key="." line="7" column="4" />
+        <mark key="^" line="7" column="10" />
       </file>
       <file name="/workspace/clients/soda/riihi/migration/src/main/resources/migration/mysql/MySQL-42__change_special_payments_remove_foreign_key_constriants.sql" timestamp="1515596738708">
         <mark key="[" line="1" column="7" />
@@ -540,6 +545,7 @@
         <mark key="." line="20" column="50" />
         <mark key="^" line="20" column="50" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-all/1.10.19/539df70269cc254a58cccc5d8e43286b4a73bf30/mockito-all-1.10.19.jar!/org/hamcrest/core/AnyOf.class" timestamp="1516172103924" />
       <file name="/workspace/clients/soda/soda-admin/src/pages/SpecialPayment/redux.js" timestamp="1515577349174">
         <mark key="[" line="23" column="11" />
         <mark key="]" line="23" column="24" />
@@ -618,11 +624,11 @@
         <mark key="." line="11" column="120" />
         <mark key="^" line="11" column="120" />
       </file>
-      <file name="/workspace/clients/soda/riihi/api/src/main/java/com/sodacar/riihi/api/RefundRequestsResource.java" timestamp="1516171423187">
-        <mark key="[" line="57" column="18" />
-        <mark key="]" line="57" column="27" />
-        <mark key="^" line="57" column="27" />
-        <mark key="." line="57" column="27" />
+      <file name="/workspace/clients/soda/riihi/api/src/main/java/com/sodacar/riihi/api/RefundRequestsResource.java" timestamp="1516171809909">
+        <mark key="[" line="60" column="83" />
+        <mark key="]" line="60" column="83" />
+        <mark key="^" line="60" column="83" />
+        <mark key="." line="60" column="83" />
       </file>
       <file name="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/records/InvoiceRecordTest.java" timestamp="1515377675429">
         <mark key="[" line="71" column="9" />
@@ -989,6 +995,12 @@
         <mark key="^" line="10" column="81" />
         <mark key="." line="10" column="81" />
       </file>
+      <file name="/workspace/clients/soda/riihi/core/src/main/java/com/sodacar/riihi/core/validators/Validator.java" timestamp="1516172053593">
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="4" column="27" />
+        <mark key="." line="4" column="27" />
+        <mark key="^" line="4" column="27" />
+      </file>
       <file name="/workspace/clients/soda/riihi/build.gradle" timestamp="1515494257183">
         <mark key="[" line="40" column="23" />
         <mark key="]" line="40" column="23" />
@@ -1037,7 +1049,7 @@
         <mark key="." line="9" column="3" />
         <mark key="^" line="9" column="3" />
       </file>
-      <file name="/fragment.java" timestamp="1516171434464">
+      <file name="/fragment.java" timestamp="1516171943689">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
@@ -1158,7 +1170,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>ValidatorImpl</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7196,7 +7208,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>ValidatorImpl</text>
       </register>
       <register name="/" type="4">
         <text>FapiaoRequests</text>
@@ -7205,7 +7217,7 @@
         <text encoding="base64">ICAgICAgICBQYXJhbWV0ZXJpemVkVHlwZSBwdCA9IChQYXJhbWV0ZXJpemVkVHlwZSkgZ2VuZXJpY1R5cGU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7216,28 +7228,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3VtZXIuYWNjZXB0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvcGVyYXRpb25kZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3VtZXIuYWNjZXB0KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBQYXJhbWV0ZXJpemVkVHlwZSBwdCA9IChQYXJhbWV0ZXJpemVkVHlwZSkgdDsKICAgICAgICBwdC4K</text>
+        <text encoding="base64">ICAgICAgICBvcGVyYXRpb25kZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnQK</text>
+        <text encoding="base64">ICAgICAgICBQYXJhbWV0ZXJpemVkVHlwZSBwdCA9IChQYXJhbWV0ZXJpemVkVHlwZSkgdDsKICAgICAgICBwdC4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBSZXF1ZXN0KHN0cmluZ09iamVjdE1hcCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbnRpdHlTdHJlYW0uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBSZXF1ZXN0KHN0cmluZ09iamVjdE1hcCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBnZW5lcmljVHlwZS4K</text>
+        <text encoding="base64">ICAgICAgICBlbnRpdHlTdHJlYW0uCg==</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
