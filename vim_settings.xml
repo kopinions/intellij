@@ -236,6 +236,9 @@
         <mark key="." line="2" column="48" />
         <mark key="^" line="2" column="48" />
       </file>
+      <file name="/workspace/personal/guardian/.gitignore" timestamp="1516247078578">
+        <mark key="[" line="36" column="42" />
+      </file>
       <file name="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/junit/WuuliCleaner.java" timestamp="1513751455554">
         <mark key="[" line="20" column="45" />
         <mark key="]" line="20" column="50" />
@@ -271,6 +274,12 @@
         <mark key="]" line="11" column="11" />
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
+      </file>
+      <file name="/workspace/personal/guardian/src/main/java/com/morpheus/guardian/core/Validator.java" timestamp="1516247268064">
+        <mark key="[" line="5" column="25" />
+        <mark key="]" line="5" column="25" />
+        <mark key="^" line="5" column="25" />
+        <mark key="." line="5" column="25" />
       </file>
       <file name="/workspace/personal/kata/word-wrap/java/src/test/java/com/morpheus/kata/wrap/WordWrapTest.java" timestamp="1513049805446">
         <mark key="[" line="4" column="21" />
@@ -404,6 +413,12 @@
         <mark key="." line="110" column="75" />
         <mark key="^" line="110" column="75" />
       </file>
+      <file name="/workspace/personal/guardian/src/main/java/com/morpheus/guardian/core/IValidatable.java" timestamp="1516247273950">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="5" column="4" />
+        <mark key="^" line="5" column="4" />
+        <mark key="." line="5" column="4" />
+      </file>
       <file name="/workspace/clients/soda/soda-admin/src/routes/index.js" timestamp="1515640095833">
         <mark key="[" line="192" column="47" />
         <mark key="]" line="191" column="47" />
@@ -499,6 +514,11 @@
         <mark key="]" line="71" column="39" />
         <mark key="^" line="52" column="36" />
         <mark key="." line="71" column="0" />
+      </file>
+      <file name="/workspace/personal/guardian/settings.gradle" timestamp="1516247115520">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/RentalMapper.xml" timestamp="1515397127865">
         <mark key="[" line="194" column="98" />
@@ -775,6 +795,11 @@
         <mark key="]" line="4" column="13" />
         <mark key="." line="4" column="13" />
       </file>
+      <file name="/workspace/personal/guardian/build.gradle" timestamp="1516247157633">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="/workspace/clients/soda/riihi/api/src/main/java/com/sodacar/riihi/api/FapiaoResource.java" timestamp="1514446331837">
         <mark key="[" line="35" column="27" />
         <mark key="]" line="36" column="56" />
@@ -1042,6 +1067,12 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="/workspace/personal/guardian/src/main/java/Validator.java" timestamp="1516247242445">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="19" />
+        <mark key="." line="0" column="19" />
+        <mark key="^" line="0" column="19" />
+      </file>
       <file name="/workspace/clients/soda/soda-admin/src/redux/reducers.js" timestamp="1515580571436">
         <mark key="[" line="27" column="38" />
         <mark key="]" line="27" column="51" />
@@ -1196,8 +1227,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tKHJlcXVlc3RhLmdldCgpLCAidGVzdCIpLnNob3VsZCgkIC0+ICQuZmllbGQoInRlc3QiKS5zaG91bGQoaXNOdWxsKCkpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>morpheus</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7235,7 +7266,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Object</text>
+        <text>morpheus</text>
       </register>
       <register name="/" type="4">
         <text>FapiaoRequests</text>
@@ -7244,7 +7275,7 @@
         <text encoding="base64">ICAgICAgICBmcm9tKHJlcXVlc3RhLmdldCgpLCAidGVzdCIpLnNob3VsZCgkIC0+ICQuZmllbGQoInRlc3QiKS5zaG91bGQoaXNOdWxsKCkpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZyb20oYWN0dWFsLCAidGVzdCIpLnNob3VsZChpcygidGVzdCIpKTsK</text>
+        <text encoding="base64">ICAgIC8vIERlY2xhcmUgdGhlIGRlcGVuZGVuY3kgZm9yIHlvdXIgZmF2b3VyaXRlIHRlc3QgZnJhbWV3b3JrIHlvdSB3YW50IHRvIHVzZSBpbiB5b3VyIHRlc3RzLgogICAgLy8gVGVzdE5HIGlzIGFsc28gc3VwcG9ydGVkIGJ5IHRoZSBHcmFkbGUgVGVzdCB0YXNrLiBKdXN0IGNoYW5nZSB0aGUKICAgIC8vIHRlc3RDb21waWxlIGRlcGVuZGVuY3kgdG8gdGVzdENvbXBpbGUgJ29yZy50ZXN0bmc6dGVzdG5nOjYuOC4xJyBhbmQgYWRkCiAgICAvLyAndGVzdC51c2VUZXN0TkcoKScgdG8geW91ciBidWlsZCBzY3JpcHQuCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7255,28 +7286,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgIC8vIFRoZSBwcm9kdWN0aW9uIGNvZGUgdXNlcyB0aGUgU0xGNEogbG9nZ2luZyBBUEkgYXQgY29tcGlsZSB0aW1lCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgQyBhID0gY29udGV4dDsK</text>
+        <text encoding="base64">Ly8gSW4gdGhpcyBzZWN0aW9uIHlvdSBkZWNsYXJlIHRoZSBkZXBlbmRlbmNpZXMgZm9yIHlvdXIgcHJvZHVjdGlvbiBhbmQgdGVzdCBjb2RlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgVCBjb250ZXh0Owo=</text>
+        <text encoding="base64">ICAgIC8vIFVzZSAnamNlbnRlcicgZm9yIHJlc29sdmluZyB5b3VyIGRlcGVuZGVuY2llcy4KICAgIC8vIFlvdSBjYW4gZGVjbGFyZSBhbnkgTWF2ZW4vSXZ5L2ZpbGUgcmVwb3NpdG9yeSBoZXJlLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVCBjb250ZXh0Owo=</text>
+        <text encoding="base64">Ly8gSW4gdGhpcyBzZWN0aW9uIHlvdSBkZWNsYXJlIHdoZXJlIHRvIGZpbmQgdGhlIGRlcGVuZGVuY2llcyBvZiB5b3VyIHByb2plY3QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBMaXN0PEVycm9yPiB2YWxpZGF0ZShBY2Nlc3NvcjxUPiBhY2Nlc3NvcikgewogICAgfQo=</text>
+        <text encoding="base64">LyoKICogVGhpcyBidWlsZCBmaWxlIHdhcyBnZW5lcmF0ZWQgYnkgdGhlIEdyYWRsZSAnaW5pdCcgdGFzay4KICoKICogVGhpcyBnZW5lcmF0ZWQgZmlsZSBjb250YWlucyBhIGNvbW1lbnRlZC1vdXQgc2FtcGxlIEphdmEgcHJvamVjdCB0byBnZXQgeW91IHN0YXJ0ZWQuCiAqIEZvciBtb3JlIGRldGFpbHMgdGFrZSBhIGxvb2sgYXQgdGhlIEphdmEgUXVpY2tzdGFydCBjaGFwdGVyIGluIHRoZSBHcmFkbGUKICogdXNlciBndWlkZSBhdmFpbGFibGUgYXQgaHR0cHM6Ly9kb2NzLmdyYWRsZS5vcmcvNC40LjEvdXNlcmd1aWRlL3R1dG9yaWFsX2phdmFfcHJvamVjdHMuaHRtbAogKi8KCi8qCi8vIEFwcGx5IHRoZSBqYXZhIHBsdWdpbiB0byBhZGQgc3VwcG9ydCBmb3IgSmF2YQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgVCBhY3R1YWwgPSBhY2Nlc3Nvci52YWx1ZSgpOwoKICAgICAgICBpZiAoYWN0dWFsID09IG51bGwpIHsKICAgICAgICAgICAgcmV0dXJuIENvbGxlY3Rpb25zLmVtcHR5TGlzdCgpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIEFycmF5TGlzdDxFcnJvcj4gZXJyb3JzID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgICAgIHJldHVybiBlcnJvcnM7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">LyoKICogVGhpcyBzZXR0aW5ncyBmaWxlIHdhcyBnZW5lcmF0ZWQgYnkgdGhlIEdyYWRsZSAnaW5pdCcgdGFzay4KICoKICogVGhlIHNldHRpbmdzIGZpbGUgaXMgdXNlZCB0byBzcGVjaWZ5IHdoaWNoIHByb2plY3RzIHRvIGluY2x1ZGUgaW4geW91ciBidWlsZC4KICogSW4gYSBzaW5nbGUgcHJvamVjdCBidWlsZCB0aGlzIGZpbGUgY2FuIGJlIGVtcHR5IG9yIGV2ZW4gcmVtb3ZlZC4KICoKICogRGV0YWlsZWQgaW5mb3JtYXRpb24gYWJvdXQgY29uZmlndXJpbmcgYSBtdWx0aS1wcm9qZWN0IGJ1aWxkIGluIEdyYWRsZSBjYW4gYmUgZm91bmQKICogaW4gdGhlIHVzZXIgZ3VpZGUgYXQgaHR0cHM6Ly9kb2NzLmdyYWRsZS5vcmcvNC40LjEvdXNlcmd1aWRlL211bHRpX3Byb2plY3RfYnVpbGRzLmh0bWwKICovCgovKgovLyBUbyBkZWNsYXJlIHByb2plY3RzIGFzIHBhcnQgb2YgYSBtdWx0aS1wcm9qZWN0IGJ1aWxkIHVzZSB0aGUgJ2luY2x1ZGUnIG1ldGhvZAppbmNsdWRlICdzaGFyZWQnCmluY2x1ZGUgJ2FwaScKaW5jbHVkZSAnc2VydmljZXM6d2Vic2VydmljZScKKi8KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZyb20oYWN0dWFsLCAidGVzdCIpLnNob3VsZChpcygidGVzdCIpKTsK</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
