@@ -868,11 +868,12 @@
         <mark key="." line="23" column="17" />
         <mark key="^" line="23" column="17" />
       </file>
-      <file name="/workspace/personal/features/auth/build.gradle" timestamp="1516761967942">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="/workspace/personal/features/auth/build.gradle" timestamp="1516764008795">
+        <mark key="'" line="82" column="61" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+        <mark key="^" line="69" column="25" />
       </file>
       <file name="/workspace/personal/guardian/src/main/java/com/morpheus/guardian/SelectBuilder.java" timestamp="1516265054988">
         <mark key="[" line="6" column="30" />
@@ -897,12 +898,6 @@
         <mark key="]" line="239" column="39" />
         <mark key="^" line="239" column="53" />
         <mark key="." line="239" column="39" />
-      </file>
-      <file name="/workspace/personal/guardian/build.gradle" timestamp="1516672085472">
-        <mark key="'" line="18" column="33" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="23" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="/workspace/clients/soda/riihi/api/src/main/java/com/sodacar/riihi/api/FapiaoResource.java" timestamp="1514446331837">
         <mark key="[" line="35" column="27" />
@@ -1280,8 +1275,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="636" column="39" filename="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/InvoiceMapper.xml" />
-      <jump line="725" column="39" filename="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/InvoiceMapper.xml" />
       <jump line="363" column="0" filename="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/FapiaoRequestMapper.xml" />
       <jump line="282" column="0" filename="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/FapiaoRequestMapper.xml" />
       <jump line="185" column="38" filename="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/FapiaoRequestMapper.xml" />
@@ -1380,6 +1373,8 @@
       <jump line="48" column="43" filename="/workspace/personal/features/auth/build.gradle" />
       <jump line="54" column="0" filename="/workspace/personal/features/auth/build.gradle" />
       <jump line="12" column="0" filename="/workspace/personal/features/auth/build.gradle" />
+      <jump line="5" column="0" filename="/workspace/personal/features/auth/build.gradle" />
+      <jump line="83" column="61" filename="/workspace/personal/features/auth/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1388,7 +1383,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIG9wdGlvbmFsbHkgYXJ0aWZhY3RJZCBjYW4gYmUgZGVmaW5lZCBoZXJlCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7426,7 +7421,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text encoding="base64">RXhhbXBsZSA=</text>
       </register>
       <register name="/" type="4">
         <text>FapiaoRequests</text>
@@ -7435,7 +7430,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmVwb3NpdG9yeSh1cmw6IG1hdmVuQ2VudHJhbCgpLnVybCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIG9wdGlvbmFsbHkgYXJ0aWZhY3RJZCBjYW4gYmUgZGVmaW5lZCBoZXJlCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7449,25 +7444,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Z3JvdXAgPSAnY29tLnRzaXl5b24nCnZlcnNpb24gPSAnMC4wLjEnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9tLnZlcnNpb24gPSAnMS4wTWF2ZW4nCiAgICAgICAgICAgIHBvbS5hcnRpZmFjdElkID0gJ215TWF2ZW5OYW1lJwogICAgICAgICAgICBwb20uZ3JvdXBJZCA9ICJjb20udHNpeXlvbiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly91cGxvYWRBcmNoaXZlcyB7Ci8vICAgIHJlcG9zaXRvcmllcyB7Ci8vICAgICAgICBtYXZlbkRlcGxveWVyIHsKLy8gICAgICAgICAgICByZXBvc2l0b3J5KHVybDogbWF2ZW5DZW50cmFsKCkudXJsKQovLyAgICAgICAgICAgIHByb2plY3QuYXJjaGl2ZXNCYXNlTmFtZSA9ICJhdXRoIgovLyAgICAgICAgICAgIHBvbS52ZXJzaW9uID0gJzEuME1hdmVuJwovLyAgICAgICAgICAgIHBvbS5ncm91cElkID0gImNvbS50c2l5eW9uIgovLyAgICAgICAgICAgIHBvbS5hcnRpZmFjdElkID0gJ215TWF2ZW5OYW1lJwovLyAgICAgICAgfQovLyAgICB9Ci8vfQo=</text>
+        <text encoding="base64">Z3JvdXAgPSAnY29tLnRzaXl5b24nCnZlcnNpb24gPSAnMC4wLjEnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Z3JvdXAgPSAnY29tLnRzaXl5b24nCnZlcnNpb24gPSAnMC4wLjEtU05BUFNIT1QnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG9tLnZlcnNpb24gPSAnMS4wTWF2ZW4nCiAgICAgICAgICAgIHBvbS5hcnRpZmFjdElkID0gJ215TWF2ZW5OYW1lJwogICAgICAgICAgICBwb20uZ3JvdXBJZCA9ICJjb20udHNpeXlvbiIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVwb3NpdG9yeSh1cmw6ICJmaWxlOi8vbG9jYWxob3N0L3RtcC9teVJlcG8vIikK</text>
+        <text encoding="base64">Ly91cGxvYWRBcmNoaXZlcyB7Ci8vICAgIHJlcG9zaXRvcmllcyB7Ci8vICAgICAgICBtYXZlbkRlcGxveWVyIHsKLy8gICAgICAgICAgICByZXBvc2l0b3J5KHVybDogbWF2ZW5DZW50cmFsKCkudXJsKQovLyAgICAgICAgICAgIHByb2plY3QuYXJjaGl2ZXNCYXNlTmFtZSA9ICJhdXRoIgovLyAgICAgICAgICAgIHBvbS52ZXJzaW9uID0gJzEuME1hdmVuJwovLyAgICAgICAgICAgIHBvbS5ncm91cElkID0gImNvbS50c2l5eW9uIgovLyAgICAgICAgICAgIHBvbS5hcnRpZmFjdElkID0gJ215TWF2ZW5OYW1lJwovLyAgICAgICAgfQovLyAgICB9Ci8vfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Z3JvdXAgPSAnY29tLnNvZGFjYXIucmlpaGknCnZlcnNpb24gPSAnMC4wLjEtU05BUFNIT1QnCg==</text>
+        <text encoding="base64">Z3JvdXAgPSAnY29tLnRzaXl5b24nCnZlcnNpb24gPSAnMC4wLjEtU05BUFNIT1QnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVwb3NpdG9yeSh1cmw6ICJmaWxlOi8vbG9jYWxob3N0L3RtcC9teVJlcG8vIikK</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
