@@ -9,6 +9,9 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1516776401913">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/workspace/clients/soda/riihi/core/src/main/java/com/sodacar/riihi/core/FapiaoRepository.java" timestamp="1514534998341">
         <mark key="[" line="12" column="29" />
         <mark key="]" line="12" column="28" />
@@ -80,6 +83,12 @@
         <mark key="]" line="4" column="72" />
         <mark key="." line="4" column="72" />
         <mark key="^" line="4" column="72" />
+      </file>
+      <file name="/workspace/personal/features/auth/src/main/java/com/tsiyyon/auth/AuthFeature.java" timestamp="1516776425968">
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="13" column="23" />
+        <mark key="." line="13" column="23" />
+        <mark key="^" line="13" column="23" />
       </file>
       <file name="/workspace/personal/guardian/src/main/java/com/morpheus/guardian/SelectorBuilder.java" timestamp="1516265234600">
         <mark key="[" line="2" column="33" />
@@ -795,6 +804,7 @@
         <mark key="^" line="10" column="30" />
         <mark key="." line="10" column="30" />
       </file>
+      <file name="/workspace/personal/features/auth/src/main/java/com/tsiyyon/auth/Auth.java" timestamp="1516776182198" />
       <file name="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/refund/RefundRequestTest.java" timestamp="1516159302107">
         <mark key="[" line="53" column="39" />
         <mark key="]" line="53" column="39" />
@@ -1382,8 +1392,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIG9wdGlvbmFsbHkgYXJ0aWZhY3RJZCBjYW4gYmUgZGVmaW5lZCBoZXJlCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGltcGxlbWVudHMgRHluYW1pY0ZlYXR1cmUgew==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7421,7 +7431,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RXhhbXBsZSA=</text>
+        <text encoding="base64">IGltcGxlbWVudHMgRHluYW1pY0ZlYXR1cmUgew==</text>
       </register>
       <register name="/" type="4">
         <text>FapiaoRequests</text>
