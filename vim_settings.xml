@@ -959,6 +959,12 @@
         <mark key="." line="21" column="56" />
         <mark key="^" line="21" column="56" />
       </file>
+      <file name="/workspace/personal/guardian/build.gradle" timestamp="1516672085472">
+        <mark key="'" line="18" column="33" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="23" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="/workspace/personal/features/auth/src/main/java/me/tzion/auth/AuthFeature.java" timestamp="1516932830554" />
       <file name="/workspace/personal/features/identity/src/main/java/me/tzion/identity/IdentityValueFactoryProvider.java" timestamp="1516951340491">
         <mark key="[" line="13" column="0" />
@@ -1332,10 +1338,11 @@
         <mark key="." line="154" column="9" />
         <mark key="^" line="154" column="9" />
       </file>
-      <file name="/workspace/personal/features/identity/src/test/java/me/tzion/identity/IdentityFilterTest.java" timestamp="1517216211892">
+      <file name="/workspace/personal/features/identity/src/test/java/me/tzion/identity/IdentityFilterTest.java" timestamp="1517216262153">
         <mark key="'" line="91" column="0" />
-        <mark key="[" line="46" column="0" />
-        <mark key="^" line="48" column="55" />
+        <mark key="[" line="45" column="20" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="/workspace/personal/kata/word-wrap/java/src/test/java/com/morpheus/kata/wrap/WordWrapperTest.java" timestamp="1513073138698">
         <mark key="[" line="78" column="11" />
@@ -1471,7 +1478,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBAU2luZ2xldG9uCg==</text>
+        <text encoding="base64">ICAgICAgICBwYWNrYWdlcygpCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7518,7 +7525,7 @@
         <text encoding="base64">ICAgICAgICAgICAgZmluYWwgRHluYW1pY0NvbmZpZ3VyYXRpb25TZXJ2aWNlIGR5bmFtaWNDb25maWdTZXJ2aWNlID0KICAgICAgICAgICAgICAgICAgICBpbmplY3Rpb25NYW5hZ2VyLmdldEluc3RhbmNlKER5bmFtaWNDb25maWd1cmF0aW9uU2VydmljZS5jbGFzcyk7CiAgICAgICAgICAgIGZpbmFsIER5bmFtaWNDb25maWd1cmF0aW9uIGR5bmFtaWNDb25maWd1cmF0aW9uID0KICAgICAgICAgICAgICAgICAgICBkeW5hbWljQ29uZmlnU2VydmljZS5jcmVhdGVEeW5hbWljQ29uZmlndXJhdGlvbigpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBAU2luZ2xldG9uCg==</text>
+        <text encoding="base64">ICAgICAgICBwYWNrYWdlcygpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7529,28 +7536,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QFNpbmdsZXRvbgo=</text>
+        <text encoding="base64">ICAgICAgICBAU2luZ2xldG9uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFNpbmdsZXRvbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBJZGVudGl0eVByb3ZpZGVyKCkgewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigidGVzdCIpOwogICAgfQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBJZGVudGl0eVByb3ZpZGVyKCkgewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigidGVzdCIpOwogICAgfQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBJbmplY3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSWRlbnRpdHlUeXBlUHJvdmlkZXI8VD4gY2w7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIEBJbmplY3QK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgSWRlbnRpdHlUeXBlUHJvdmlkZXI8VD4gY2w7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">QGphdmF4LndzLnJzLmV4dC5Qcm92aWRlcgo=</text>
+        <text encoding="base64">ICAgIEBJbmplY3QK</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
