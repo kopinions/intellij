@@ -121,6 +121,10 @@
         <mark key="." line="8" column="58" />
         <mark key="^" line="8" column="50" />
       </file>
+      <file name="/workspace/personal/features/guardian/src/main/java/com/morpheus/guardian/dsl/Validatable.java" timestamp="1517279686610">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="15" column="4" />
+      </file>
       <file name="/workspace/clients/soda/riihi/records/src/main/java/com/sodacar/riihi/mybatis/mapper/RefundRequestMapper.java" timestamp="1515489158197">
         <mark key="[" line="27" column="68" />
         <mark key="]" line="27" column="122" />
@@ -205,11 +209,11 @@
         <mark key="^" line="7" column="8" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/workspace/personal/features/guardian/src/test/java/com/morpheus/guardian/ValidatableTest.java" timestamp="1517278385545">
-        <mark key="[" line="71" column="56" />
-        <mark key="]" line="71" column="56" />
-        <mark key="." line="71" column="56" />
-        <mark key="^" line="71" column="56" />
+      <file name="/workspace/personal/features/guardian/src/test/java/com/morpheus/guardian/ValidatableTest.java" timestamp="1517280702964">
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="27" column="4" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="/workspace/clients/soda/riihi/api/src/main/java/com/sodacar/riihi/api/UserResource.java" timestamp="1513915814170">
         <mark key="[" line="49" column="36" />
@@ -252,6 +256,12 @@
         <mark key="]" line="19" column="39" />
         <mark key="." line="19" column="39" />
         <mark key="^" line="19" column="39" />
+      </file>
+      <file name="/workspace/personal/features/guardian/src/test/java/com/morpheus/guardian/WhereTest.java" timestamp="1517280808514">
+        <mark key="[" line="20" column="16" />
+        <mark key="]" line="20" column="45" />
+        <mark key="." line="20" column="45" />
+        <mark key="^" line="20" column="45" />
       </file>
       <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/records/Record.java" timestamp="1510555142028">
         <mark key="[" line="9" column="34" />
@@ -312,10 +322,10 @@
         <mark key="." line="32" column="45" />
         <mark key="^" line="32" column="45" />
       </file>
-      <file name="/workspace/personal/features/guardian/src/main/java/com/morpheus/guardian/core/DSL.java" timestamp="1517278521415">
-        <mark key="[" line="17" column="10" />
-        <mark key="]" line="17" column="10" />
-        <mark key="." line="17" column="10" />
+      <file name="/workspace/personal/features/guardian/src/main/java/com/morpheus/guardian/core/DSL.java" timestamp="1517280542200">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
         <mark key="^" line="17" column="91" />
       </file>
       <file name="/workspace/clients/soda/riihi/records/src/main/java/com/sodacar/riihi/records/AbstractPaymentRequestRecord.java" timestamp="1515404475864">
@@ -330,11 +340,10 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="/workspace/personal/features/guardian/src/main/java/com/morpheus/guardian/dsl/DSL.java" timestamp="1517278541884">
-        <mark key="[" line="122" column="30" />
-        <mark key="]" line="122" column="30" />
-        <mark key="." line="122" column="30" />
-        <mark key="^" line="121" column="126" />
+      <file name="/workspace/personal/features/guardian/src/main/java/com/morpheus/guardian/dsl/DSL.java" timestamp="1517280397977">
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="0" />
+        <mark key="." line="127" column="0" />
       </file>
       <file name="/workspace/personal/portal/src/main/java/com/morpheus/portal/Request.java" timestamp="1516672541796">
         <mark key="[" line="15" column="0" />
@@ -412,6 +421,7 @@
         <mark key="^" line="31" column="1" />
         <mark key="." line="31" column="1" />
       </file>
+      <file name="/workspace/personal/features/guardian/src/main/java/com/morpheus/guardian/expressions/JsonPathAddressable.java" timestamp="1517279274254" />
       <file name="/workspace/personal/guardian/src/main/java/com/morpheus/guardian/validators/IsNull.java" timestamp="1516607699086">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="32" column="8" />
@@ -430,10 +440,10 @@
         <mark key="." line="5" column="9" />
         <mark key="^" line="5" column="9" />
       </file>
-      <file name="/workspace/personal/features/portal/build.gradle" timestamp="1517276772505">
-        <mark key="'" line="31" column="33" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
+      <file name="/workspace/personal/features/portal/build.gradle" timestamp="1517281040737">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="93" column="0" />
         <mark key="^" line="68" column="53" />
         <mark key="." line="94" column="0" />
       </file>
@@ -526,6 +536,12 @@
         <mark key="]" line="110" column="75" />
         <mark key="." line="110" column="75" />
         <mark key="^" line="110" column="75" />
+      </file>
+      <file name="/workspace/personal/features/guardian/src/test/java/com/morpheus/guardian/SelectTest.java" timestamp="1517280877312">
+        <mark key="[" line="27" column="36" />
+        <mark key="]" line="28" column="7" />
+        <mark key="." line="28" column="7" />
+        <mark key="^" line="28" column="7" />
       </file>
       <file name="/workspace/personal/guardian/src/main/java/com/morpheus/guardian/core/IValidatable.java" timestamp="1516255889955">
         <mark key="[" line="6" column="0" />
@@ -1139,11 +1155,12 @@
         <mark key="." line="141" column="7" />
         <mark key="^" line="141" column="7" />
       </file>
-      <file name="/workspace/personal/features/guardian/build.gradle" timestamp="1516936888283">
-        <mark key="[" line="11" column="13" />
-        <mark key="]" line="11" column="17" />
-        <mark key="." line="11" column="17" />
-        <mark key="^" line="11" column="17" />
+      <file name="/workspace/personal/features/guardian/build.gradle" timestamp="1517281113343">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="69" column="52" />
+        <mark key="]" line="69" column="59" />
+        <mark key="." line="69" column="59" />
+        <mark key="^" line="69" column="59" />
       </file>
       <file name="/workspace/clients/soda/riihi/core/src/main/java/com/sodacar/riihi/core/Invoice.java" timestamp="1515573614005">
         <mark key="[" line="184" column="19" />
@@ -1217,9 +1234,10 @@
         <mark key="^" line="49" column="23" />
         <mark key="." line="49" column="23" />
       </file>
-      <file name="/workspace/personal/features/identity/build.gradle" timestamp="1517276688273">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="104" column="0" />
+      <file name="/workspace/personal/features/identity/build.gradle" timestamp="1517281063391">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="5" column="0" />
       </file>
       <file name="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/SpecialPaymentsRecords.xml" timestamp="1515726477834">
         <mark key="[" line="54" column="79" />
@@ -1364,13 +1382,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="0" filename="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/records/FapiaoRepositoryTest.java" />
-      <jump line="142" column="0" filename="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/RefundRequestMapper.xml" />
-      <jump line="88" column="99" filename="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/special/SpecialPaymentTest.java" />
-      <jump line="0" column="0" filename="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/config.xml" />
-      <jump line="634" column="35" filename="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/Columns.xml" />
-      <jump line="21" column="12" filename="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/SpecialPaymentMapper.xml" />
-      <jump line="43" column="8" filename="/workspace/clients/soda/riihi/core/src/main/java/com/sodacar/riihi/core/SpecialPayment.java" />
       <jump line="689" column="43" filename="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/Columns.xml" />
       <jump line="630" column="21" filename="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/Columns.xml" />
       <jump line="36" column="57" filename="/workspace/clients/soda/riihi/records/src/main/java/com/sodacar/riihi/records/SpecialPaymentRecord.java" />
@@ -1464,6 +1475,13 @@
       <jump line="29" column="51" filename="/workspace/personal/features/identity/src/main/java/me/tzion/identity/Binder.java" />
       <jump line="16" column="3" filename="/workspace/personal/features/identity/src/main/java/me/tzion/identity/OptionalFactory.java" />
       <jump line="31" column="33" filename="/workspace/personal/features/portal/build.gradle" />
+      <jump line="69" column="0" filename="/workspace/personal/features/guardian/src/test/java/com/morpheus/guardian/ValidatableTest.java" />
+      <jump line="78" column="0" filename="/workspace/personal/features/guardian/build.gradle" />
+      <jump line="65" column="1" filename="/workspace/personal/features/guardian/build.gradle" />
+      <jump line="45" column="0" filename="/workspace/personal/features/identity/build.gradle" />
+      <jump line="33" column="0" filename="/workspace/personal/features/portal/build.gradle" />
+      <jump line="55" column="4" filename="/workspace/personal/features/guardian/build.gradle" />
+      <jump line="0" column="0" filename="/workspace/personal/features/guardian/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1472,7 +1490,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>portal</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7510,16 +7528,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>portal</text>
       </register>
       <register name="/" type="4">
         <text>FapiaoRequests</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8VD4gU2VsZWN0LlNlbGVjdG9yPFQ+IGZpZWxkKFN0cmluZyBwYXRoKTsK</text>
+        <text encoding="base64">cGx1Z2lucyB7CiAgICBpZCAiamF2YSIKICAgIGlkICJpZGVhIgogICAgaWQgIm1hdmVuIgogICAgaWQgInNpZ25pbmciCn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIDxULCBSPiBjb20ubW9ycGhldXMuZ3VhcmRpYW4uY29yZS5EU0wuU2VsZWN0LlNlbGVjdG9yPFQ+IGZpZWxkKGNvbS5tb3JwaGV1cy5ndWFyZGlhbi5jb3JlLlZhbGlkYXRhYmxlLkFkZHJlc3NhYmxlPFI+IHBhdGgpIHsKICAgICAgICAgICAgcmV0dXJuIGNvbnRleHQgLT4gKFQpIHBhdGgubG9jYXRlKGNvbnRleHQpOwogICAgICAgIH0K</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnamF2YScK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7530,28 +7548,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8VCwgUj4gU2VsZWN0LlNlbGVjdG9yPFQ+IGZpZWxkKGNvbS5tb3JwaGV1cy5ndWFyZGlhbi5jb3JlLlZhbGlkYXRhYmxlLkFkZHJlc3NhYmxlPFI+IHBhdGgpOwo=</text>
+        <text encoding="base64">ICAgIGd1aWNlID0gJzQuMS4wJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUiBsb2NhdGUgPSBwYXRoLmxvY2F0ZShjb250ZXh0KTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZyb20oY29udGV4dCkud2hlcmUoYyAtPiBjLnBhdGgoIiQudGVzdCIpLmlzKCJ0ZXN0IikpLnNob3VsZChuaWwoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZyb20oY29udGV4dCkud2hlcmUoYyAtPiBjLnBhdGgoIiQudGVzdCIpLmlzKCJ0ZXN0IikpLnNlbGVjdChzIC0+IHMucGF0aCgieHh4IikpLnNob3VsZChuaWwoKSk7CiAgICBmcm9tKGNvbnRleHQpLndoZXJlKGMgLT4gYy5wYXRoKCIkLnRlc3QiKS5lcSgidGVzdCIpKS5zZWxlY3QocyAtPiBzLnBhdGgoInh4eCIpKS5zaG91bGQobmlsKCkpOwogICAgZnJvbShjb250ZXh0KS53aGVyZShjIC0+IGMucGF0aCgiJC50ZXN0Iikubm90KCJ0ZXN0IikpLnNlbGVjdChzIC0+IHMucGF0aCgieHh4IikpLnNob3VsZChuaWwoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CnRhc2sgamF2YWRvY0phcih0eXBlOiBKYXIpIHsKICAgIGNsYXNzaWZpZXIgPSAnamF2YWRvYycKICAgIGZyb20gamF2YWRvYwp9Cgp0YXNrIHNvdXJjZXNKYXIodHlwZTogSmFyKSB7CiAgICBjbGFzc2lmaWVyID0gJ3NvdXJjZXMnCiAgICBmcm9tIHNvdXJjZVNldHMubWFpbi5hbGxTb3VyY2UKfQoKYXJ0aWZhY3RzIHsKICAgIGFyY2hpdmVzIGphdmFkb2NKYXIsIHNvdXJjZXNKYXIKfQoKc2lnbmluZyB7CiAgICBzaWduIGNvbmZpZ3VyYXRpb25zLmFyY2hpdmVzCn0KCnVwbG9hZEFyY2hpdmVzIHsKICAgIHJlcG9zaXRvcmllcyB7CiAgICAgICAgbWF2ZW5EZXBsb3llciB7CiAgICAgICAgICAgIGJlZm9yZURlcGxveW1lbnQgeyBNYXZlbkRlcGxveW1lbnQgZGVwbG95bWVudCAtPiBzaWduaW5nLnNpZ25Qb20oZGVwbG95bWVudCkgfQogICAgICAgICAgICByZXBvc2l0b3J5KHVybDogImh0dHBzOi8vb3NzLnNvbmF0eXBlLm9yZy9zZXJ2aWNlL2xvY2FsL3N0YWdpbmcvZGVwbG95L21hdmVuMi8iKSB7CiAgICAgICAgICAgICAgICBhdXRoZW50aWNhdGlvbih1c2VyTmFtZTogb3NzcmhVc2VybmFtZSwgcGFzc3dvcmQ6IG9zc3JoUGFzc3dvcmQpCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHNuYXBzaG90UmVwb3NpdG9yeSh1cmw6ICJodHRwczovL29zcy5zb25hdHlwZS5vcmcvY29udGVudC9yZXBvc2l0b3JpZXMvc25hcHNob3RzLyIpIHsKICAgICAgICAgICAgICAgIGF1dGhlbnRpY2F0aW9uKHVzZXJOYW1lOiBvc3NyaFVzZXJuYW1lLCBwYXNzd29yZDogb3NzcmhQYXNzd29yZCkKICAgICAgICAgICAgfQoKICAgICAgICAgICAgcG9tLnByb2plY3QgewogICAgICAgICAgICAgICAgbmFtZSAnaWRlbnRpdHknCiAgICAgICAgICAgICAgICBwYWNrYWdpbmcgJ2phcicKICAgICAgICAgICAgICAgIGRlc2NyaXB0aW9uICdUaGUgamVyc2V5IGlkZW50aXR5IG1vZHVsZScKICAgICAgICAgICAgICAgIHVybCAnaHR0cHM6Ly9naXRodWIuY29tL3RzaXl5b24vaWRlbnRpdHknCgogICAgICAgICAgICAgICAgc2NtIHsKICAgICAgICAgICAgICAgICAgICBjb25uZWN0aW9uICdzY206Z2l0OmdpdDovL2dpdGh1Yi5jb20vdHNpeXlvbi9pZGVudGl0eS5naXQnCiAgICAgICAgICAgICAgICAgICAgZGV2ZWxvcGVyQ29ubmVjdGlvbiAnc2NtOmdpdDpnaXQ6Ly9naXRodWIuY29tL3RzaXl5b24vaWRlbnRpdHkuZ2l0JwogICAgICAgICAgICAgICAgICAgIHVybCAnaHR0cHM6Ly9naXRodWIuY29tL3RzaXl5b24vaWRlbnRpdHknCiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgbGljZW5zZXMgewogICAgICAgICAgICAgICAgICAgIGxpY2Vuc2UgewogICAgICAgICAgICAgICAgICAgICAgICBuYW1lICdUaGUgQXBhY2hlIExpY2Vuc2UsIFZlcnNpb24gMi4wJwogICAgICAgICAgICAgICAgICAgICAgICB1cmwgJ2h0dHA6Ly93d3cuYXBhY2hlLm9yZy9saWNlbnNlcy9MSUNFTlNFLTIuMC50eHQnCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgIGRldmVsb3BlcnMgewogICAgICAgICAgICAgICAgICAgIGRldmVsb3BlciB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlkICdzamt5c3BhJwogICAgICAgICAgICAgICAgICAgICAgICBuYW1lICdtb3JwaGV1cycKICAgICAgICAgICAgICAgICAgICAgICAgZW1haWwgJ3Nqa3lzcGFAZ21haWwuY29tJwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KfQo=</text>
+        <text encoding="base64">ICAgICAgICBmcm9tKGNvbnRleHQpLndoZXJlKGMgLT4gYy5wYXRoKCIkLnRlc3QiKS5pcygidGVzdCIpKS5zaG91bGQobmlsKCkpOwogICAgICAgIGZyb20oY29udGV4dCkud2hlcmUoYyAtPiBjLnBhdGgoIiQudGVzdCIpLmlzKCJ0ZXN0IikpLnNlbGVjdChzIC0+IHMucGF0aCgieHh4IikpLnNob3VsZChuaWwoKSk7CiAgICAgICAgZnJvbShjb250ZXh0KS53aGVyZShjIC0+IGMucGF0aCgiJC50ZXN0IikuZXEoInRlc3QiKSkuc2VsZWN0KHMgLT4gcy5wYXRoKCJ4eHgiKSkuc2hvdWxkKG5pbCgpKTsKICAgICAgICBmcm9tKGNvbnRleHQpLndoZXJlKGMgLT4gYy5wYXRoKCIkLnRlc3QiKS5ub3QoInRlc3QiKSkuc2VsZWN0KHMgLT4gcy5wYXRoKCJ4eHgiKSkuc2hvdWxkKG5pbCgpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlc2NyaXB0aW9uICdUaGUgamVyc2V5IGlkZW50aXR5IG1vZHVsZScK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
