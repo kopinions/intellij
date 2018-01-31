@@ -56,10 +56,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/workspace/golang/src/github.com/cnupp/builder/helpers/generate-build/generate-build_test.go" timestamp="1517382143572">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="/workspace/golang/src/github.com/cnupp/builder/helpers/generate-build/generate-build_test.go" timestamp="1517387682065">
+        <mark key="[" line="31" column="16" />
+        <mark key="]" line="31" column="24" />
+        <mark key="." line="31" column="24" />
+        <mark key="^" line="31" column="24" />
       </file>
       <file name="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/fapiaos/FapiaosTest.java" timestamp="1515721302162">
         <mark key="[" line="106" column="47" />
@@ -281,11 +282,6 @@
         <mark key="]" line="26" column="7" />
         <mark key="." line="26" column="7" />
         <mark key="^" line="26" column="7" />
-      </file>
-      <file name="/workspace/golang/src/github.com/cnupp/builder/helpers/verify/command/command_test.go" timestamp="1517382307407">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="/workspace/clients/soda/riihi/migration/src/main/resources/migration/mysql/MySQL-18__create_fapiao_related.sql" timestamp="1515746008305">
         <mark key="[" line="65" column="26" />
@@ -541,6 +537,12 @@
         <mark key="]" line="40" column="38" />
         <mark key="." line="40" column="38" />
         <mark key="^" line="40" column="38" />
+      </file>
+      <file name="/workspace/golang/src/github.com/cnupp/cnup/builder/helpers/build/command/fail.go" timestamp="1517381293465">
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="8" column="20" />
+        <mark key="." line="8" column="20" />
+        <mark key="^" line="8" column="20" />
       </file>
       <file name="/workspace/clients/soda/riihi/core/src/main/java/com/sodacar/riihi/core/validators/Request.java" timestamp="1516180083035">
         <mark key="[" line="32" column="0" />
@@ -822,11 +824,6 @@
         <mark key="]" line="17" column="14" />
         <mark key="." line="17" column="14" />
         <mark key="^" line="17" column="14" />
-      </file>
-      <file name="/workspace/golang/src/github.com/cnupp/cnup/builder/cli/builder.go" timestamp="1517381091202">
-        <mark key="[" line="3" column="30" />
-        <mark key="]" line="3" column="30" />
-        <mark key="." line="3" column="30" />
       </file>
       <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/core/Identifiers.java" timestamp="1510565474574">
         <mark key="[" line="3" column="15" />
@@ -1166,7 +1163,12 @@
         <mark key="." line="0" column="65" />
         <mark key="^" line="0" column="64" />
       </file>
-      <file name="/workspace/golang/src/github.com/cnupp/builder/helpers/build/command/command_test.go" timestamp="1517382471358" />
+      <file name="/workspace/golang/src/github.com/cnupp/builder/helpers/build/command/command_test.go" timestamp="1517388245841">
+        <mark key="[" line="48" column="52" />
+        <mark key="]" line="49" column="8" />
+        <mark key="." line="49" column="8" />
+        <mark key="^" line="49" column="8" />
+      </file>
       <file name="/workspace/clients/soda/riihi/records/src/main/java/com/sodacar/riihi/mybatis/mapper/PaymentRequestMapper.java" timestamp="1513757724132">
         <mark key="[" line="10" column="24" />
         <mark key="]" line="10" column="36" />
@@ -1256,11 +1258,6 @@
         <mark key="]" line="14" column="27" />
         <mark key="." line="14" column="27" />
         <mark key="^" line="14" column="27" />
-      </file>
-      <file name="/workspace/golang/src/github.com/cnupp/builder/cli/builder.go" timestamp="1517383152098">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="/workspace/personal/guardian/src/main/java/com/morpheus/guardia/Validatable.java" timestamp="1516255998541">
         <mark key="[" line="0" column="28" />
@@ -1600,7 +1597,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlFeHBlY3QoaGFuZGxlcikuVG8oSGF2ZUFsbFJlcXVlc3RzQ2FsbGVkKCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7638,7 +7635,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>deis</text>
+        <text>IwD</text>
       </register>
       <register name="/" type="4">
         <text>FapiaoRequests</text>
@@ -7647,7 +7644,7 @@
         <text encoding="base64">cGx1Z2lucyB7CiAgICBpZCAiamF2YSIKICAgIGlkICJpZGVhIgogICAgaWQgIm1hdmVuIgogICAgaWQgInNpZ25pbmciCn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlFeHBlY3QoaGFuZGxlcikuVG8oSGF2ZUFsbFJlcXVlc3RzQ2FsbGVkKCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7658,28 +7655,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQl2YXIgdHMgKmh0dHB0ZXN0LlNlcnZlcgoJCXZhciBoYW5kbGVyICp0ZXN0bmV0LlRlc3RIYW5kbGVyCgkJdHMsIGhhbmRsZXIgPSB0ZXN0bmV0Lk5ld1NlcnZlcihbXXRlc3RuZXQuVGVzdFJlcXVlc3R7CgkJCXRlc3RuZXQuVGVzdFJlcXVlc3R7CgkJCQlNZXRob2Q6ICJHRVQiLAoJCQkJUGF0aDogICAiL3YxL2t2L2NkZS9idWlsZGVyL2J1aWxkX3dyYXBwZXIiLAoJCQkJUmVzcG9uc2U6IHRlc3RuZXQuVGVzdFJlc3BvbnNlewoJCQkJCVN0YXR1czogMjAwLAoJCQkJCUJvZHk6ICAgYnVpbGRlckNvbmZpZywKCQkJCX0sCgkJCX0sCgkJfSkKCgo=</text>
+        <text encoding="base64">CQkJb3MuVW5zZXRlbnYoIkNPTlNVTF9VUkkiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlzZXJ2ZXJVUkwsIF8gOj0gdXJsLlBhcnNlKHRzLlVSTCkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQljbGllbnQsIF8gOj0gYXBpLk5ld0NsaWVudCgmYXBpLkNvbmZpZ3sKCQkJU2NoZW1lOiAgImh0dHAiLAoJCQlBZGRyZXNzOiBzZXJ2ZXJVUkwuSG9zdCwKCQl9KQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQl2YXIgdHMgKmh0dHB0ZXN0LlNlcnZlcgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJY29uc3VsVHMsIF8gOj0gdGVzdG5ldC5OZXdTZXJ2ZXIoW110ZXN0bmV0LlRlc3RSZXF1ZXN0ewoJCQkJZml4dHVyZXMuQnVpbGRBdXRoKCksCgkJCX0pCgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJbG9jYXRpb24sIF8gOj0gdXJsLlBhcnNlKGNvbnN1bFRzLlVSTCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJb3MuU2V0ZW52KCJDT05TVUxfVVJJIiwgbG9jYXRpb24uU3RyaW5nKCkpCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlzZXJ2ZXJVUkwsIF8gOj0gdXJsLlBhcnNlKHRzLlVSTCkK</text>
+        <text encoding="base64">CQkJb3MuVW5zZXRlbnYoIkNPTlNVTF9VUkkiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQljbGllbnQsIF8gOj0gYXBpLk5ld0NsaWVudCgmYXBpLkNvbmZpZ3sKCQkJU2NoZW1lOiAgImh0dHAiLAoJCQlBZGRyZXNzOiBzZXJ2ZXJVUkwuSG9zdCwKCQl9KQo=</text>
+        <text encoding="base64">CQkJbG9jYXRpb24sIF8gOj0gdXJsLlBhcnNlKGNvbnN1bFRzLlVSTCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQljbGllbnQsIF8gOj0gYXBpLk5ld0NsaWVudCgmYXBpLkNvbmZpZ3sKCQkJU2NoZW1lOiAgImh0dHAiLAoJCQlBZGRyZXNzOiBzZXJ2ZXJVUkwuSG9zdCwKCQl9KQoK</text>
+        <text encoding="base64">CQkJb3MuU2V0ZW52KCJDT05TVUxfVVJJIiwgbG9jYXRpb24uU3RyaW5nKCkpCg==</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
