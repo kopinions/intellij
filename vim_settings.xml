@@ -217,6 +217,12 @@
         <mark key="^" line="7" column="8" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/workspace/personal/features/guardian/src/test/java/com/morpheus/guardian/ValidatableTest.java" timestamp="1517280702964">
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="27" column="4" />
+        <mark key="." line="69" column="0" />
+      </file>
       <file name="/workspace/clients/soda/riihi/api/src/main/java/com/sodacar/riihi/api/UserResource.java" timestamp="1513915814170">
         <mark key="[" line="49" column="36" />
         <mark key="]" line="49" column="39" />
@@ -326,10 +332,11 @@
         <mark key="." line="39" column="0" />
       </file>
       <file name="/workspace/golang/src/github.com/cnupp/appssdk/api/fakes/fake_build_mapper.go" timestamp="1517386457595" />
-      <file name="/workspace/golang/src/github.com/cnupp/builder/git/git.go" timestamp="1517385543029">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+      <file name="/workspace/golang/src/github.com/cnupp/builder/git/git.go" timestamp="1517389268225">
+        <mark key="[" line="33" column="37" />
+        <mark key="]" line="33" column="40" />
+        <mark key="." line="33" column="40" />
+        <mark key="^" line="33" column="40" />
       </file>
       <file name="/workspace/clients/soda/riihi/core/src/main/java/com/sodacar/riihi/core/Request.java" timestamp="1516160454022">
         <mark key="[" line="32" column="32" />
@@ -359,6 +366,12 @@
         <mark key="[" line="127" column="0" />
         <mark key="]" line="127" column="0" />
         <mark key="." line="127" column="0" />
+      </file>
+      <file name="/workspace/golang/src/github.com/cnupp/builder/sshd/sshd_test.go" timestamp="1517389281218">
+        <mark key="[" line="45" column="39" />
+        <mark key="]" line="45" column="42" />
+        <mark key="." line="45" column="42" />
+        <mark key="^" line="45" column="42" />
       </file>
       <file name="/workspace/personal/portal/src/main/java/com/morpheus/portal/Request.java" timestamp="1516672541796">
         <mark key="[" line="15" column="0" />
@@ -496,10 +509,10 @@
         <mark key="^" line="2" column="26" />
         <mark key="." line="2" column="26" />
       </file>
-      <file name="/workspace/golang/src/github.com/cnupp/builder/sshd/server_test.go" timestamp="1517386127071">
-        <mark key="[" line="37" column="72" />
-        <mark key="]" line="40" column="9" />
-        <mark key="." line="40" column="9" />
+      <file name="/workspace/golang/src/github.com/cnupp/builder/sshd/server_test.go" timestamp="1517389870561">
+        <mark key="[" line="123" column="57" />
+        <mark key="]" line="123" column="57" />
+        <mark key="." line="123" column="57" />
         <mark key="^" line="40" column="9" />
       </file>
       <file name="/workspace/clients/billing/settings.gradle" timestamp="1511232057506">
@@ -588,10 +601,11 @@
         <mark key="." line="28" column="41" />
         <mark key="^" line="28" column="41" />
       </file>
-      <file name="/workspace/golang/src/github.com/cnupp/builder/helpers/run-build/run-build_test.go" timestamp="1517386192602">
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="152" column="0" />
-        <mark key="." line="152" column="0" />
+      <file name="/workspace/golang/src/github.com/cnupp/builder/helpers/run-build/run-build_test.go" timestamp="1517389249899">
+        <mark key="'" line="245" column="14" />
+        <mark key="[" line="300" column="0" />
+        <mark key="]" line="300" column="0" />
+        <mark key="." line="300" column="0" />
       </file>
       <file name="/workspace/golang/src/github.com/cnupp/builder/routes.go" timestamp="1517382015633">
         <mark key="[" line="6" column="0" />
@@ -646,7 +660,7 @@
         <mark key="." line="18" column="23" />
         <mark key="^" line="18" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517386110367">
+      <file name="/Dummy.txt" timestamp="1517389285663">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -1459,10 +1473,11 @@
         <mark key="." line="103" column="30" />
         <mark key="^" line="103" column="30" />
       </file>
-      <file name="/workspace/golang/src/github.com/cnupp/builder/helpers/run-verify/run-verify_test.go" timestamp="1517386245394">
-        <mark key="[" line="226" column="0" />
-        <mark key="]" line="226" column="0" />
-        <mark key="." line="226" column="0" />
+      <file name="/workspace/golang/src/github.com/cnupp/builder/helpers/run-verify/run-verify_test.go" timestamp="1517389218587">
+        <mark key="'" line="324" column="5" />
+        <mark key="[" line="245" column="0" />
+        <mark key="]" line="245" column="0" />
+        <mark key="." line="245" column="0" />
       </file>
       <file name="/workspace/clients/soda/riihi/core/src/main/java/com/sodacar/riihi/core/validators/Validator.java" timestamp="1516181572555">
         <mark key="[" line="5" column="44" />
@@ -1489,9 +1504,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="689" column="43" filename="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/Columns.xml" />
-      <jump line="630" column="21" filename="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/Columns.xml" />
-      <jump line="36" column="57" filename="/workspace/clients/soda/riihi/records/src/main/java/com/sodacar/riihi/records/SpecialPaymentRecord.java" />
       <jump line="94" column="38" filename="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/InvoicesRecords.xml" />
       <jump line="162" column="74" filename="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/InvoicesRecords.xml" />
       <jump line="48" column="12" filename="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/SpecialPaymentMapper.xml" />
@@ -1589,6 +1601,9 @@
       <jump line="33" column="0" filename="/workspace/personal/features/portal/build.gradle" />
       <jump line="55" column="4" filename="/workspace/personal/features/guardian/build.gradle" />
       <jump line="0" column="0" filename="/workspace/personal/features/guardian/build.gradle" />
+      <jump line="300" column="12" filename="/workspace/golang/src/github.com/cnupp/builder/helpers/run-build/run-build_test.go" />
+      <jump line="325" column="5" filename="/workspace/golang/src/github.com/cnupp/builder/helpers/run-verify/run-verify_test.go" />
+      <jump line="245" column="14" filename="/workspace/golang/src/github.com/cnupp/builder/helpers/run-build/run-build_test.go" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1596,8 +1611,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>deis</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7635,7 +7650,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>IwD</text>
+        <text>deis</text>
       </register>
       <register name="/" type="4">
         <text>FapiaoRequests</text>
@@ -7644,7 +7659,7 @@
         <text encoding="base64">cGx1Z2lucyB7CiAgICBpZCAiamF2YSIKICAgIGlkICJpZGVhIgogICAgaWQgIm1hdmVuIgogICAgaWQgInNpZ25pbmciCn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQlFeHBlY3QoYXBwbGljYXRpb24uQ29udGFpbmVyLkRvY2tlci5JbWFnZSkuVG8oRXF1YWwoImh1Yi5kZWVwaS5jbi9jZGUvYnVpbGQtd3JhcHBlciIpKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7655,28 +7670,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJb3MuVW5zZXRlbnYoIkNPTlNVTF9VUkkiKQo=</text>
+        <text encoding="base64">CQkJCQlFeHBlY3QoYXBwbGljYXRpb24uQ29udGFpbmVyLkRvY2tlci5JbWFnZSkuVG8oRXF1YWwoImh1Yi5kZWVwaS5jbi9jZGUvdmVyaWZ5LXdyYXBwZXIiKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQlFeHBlY3QoYXBwbGljYXRpb24uQ29udGFpbmVyLkRvY2tlci5JbWFnZSkuVG8oRXF1YWwoImh1Yi5kZWVwaS5jbi9jZGUvYnVpbGQtd3JhcHBlciIpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJY29uc3VsVHMsIF8gOj0gdGVzdG5ldC5OZXdTZXJ2ZXIoW110ZXN0bmV0LlRlc3RSZXF1ZXN0ewoJCQkJZml4dHVyZXMuQnVpbGRBdXRoKCksCgkJCX0pCgo=</text>
+        <text encoding="base64">CQkJCQlFeHBlY3QoYXBwbGljYXRpb24uQ29udGFpbmVyLkRvY2tlci5JbWFnZSkuVG8oRXF1YWwoImh1Yi5kZWVwaS5jbi9jZGUvYnVpbGQtd3JhcHBlciIpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJbG9jYXRpb24sIF8gOj0gdXJsLlBhcnNlKGNvbnN1bFRzLlVSTCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJb3MuU2V0ZW52KCJDT05TVUxfVVJJIiwgbG9jYXRpb24uU3RyaW5nKCkpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">CQkJb3MuVW5zZXRlbnYoIkNPTlNVTF9VUkkiKQo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJbG9jYXRpb24sIF8gOj0gdXJsLlBhcnNlKGNvbnN1bFRzLlVSTCkK</text>
+        <text encoding="base64">CQkJY29uc3VsVHMsIF8gOj0gdGVzdG5ldC5OZXdTZXJ2ZXIoW110ZXN0bmV0LlRlc3RSZXF1ZXN0ewoJCQkJZml4dHVyZXMuQnVpbGRBdXRoKCksCgkJCX0pCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJb3MuU2V0ZW52KCJDT05TVUxfVVJJIiwgbG9jYXRpb24uU3RyaW5nKCkpCg==</text>
+        <text encoding="base64">CQkJbG9jYXRpb24sIF8gOj0gdXJsLlBhcnNlKGNvbnN1bFRzLlVSTCkK</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
