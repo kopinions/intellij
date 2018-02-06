@@ -167,9 +167,11 @@
         <mark key="." line="10" column="4" />
         <mark key="^" line="8" column="28" />
       </file>
-      <file name="/workspace/golang/src/github.com/cnupp/builder/Dockerfile" timestamp="1517905664510">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="35" />
+      <file name="/workspace/golang/src/github.com/cnupp/builder/Dockerfile" timestamp="1517910978456">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="19" />
+        <mark key="^" line="46" column="18" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="/workspace/personal/guardian/src/main/java/com/morpheus/guardian/validators/IsNot.java" timestamp="1516607325704">
         <mark key="[" line="9" column="13" />
@@ -367,11 +369,11 @@
         <mark key="." line="33" column="40" />
         <mark key="^" line="33" column="40" />
       </file>
-      <file name="/workspace/golang/src/github.com/cnupp/builder/Dockerfild-http" timestamp="1517905682328">
-        <mark key="[" line="12" column="21" />
-        <mark key="]" line="12" column="24" />
-        <mark key="." line="12" column="24" />
-        <mark key="^" line="12" column="24" />
+      <file name="/workspace/golang/src/github.com/cnupp/builder/Dockerfild-http" timestamp="1517911062878">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="13" column="21" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="/workspace/clients/soda/riihi/core/src/main/java/com/sodacar/riihi/core/Request.java" timestamp="1516160454022">
         <mark key="[" line="32" column="32" />
@@ -739,11 +741,11 @@
         <mark key="^" line="22" column="7" />
         <mark key="." line="22" column="7" />
       </file>
-      <file name="/workspace/golang/src/github.com/cnupp/builder/http/etc/supervisor/supervisord.conf" timestamp="1517909355991">
-        <mark key="[" line="18" column="37" />
-        <mark key="]" line="18" column="37" />
-        <mark key="." line="18" column="37" />
-        <mark key="^" line="18" column="33" />
+      <file name="/workspace/golang/src/github.com/cnupp/builder/http/etc/supervisor/supervisord.conf" timestamp="1517911301977">
+        <mark key="[" line="20" column="5" />
+        <mark key="]" line="20" column="7" />
+        <mark key="." line="20" column="7" />
+        <mark key="^" line="20" column="7" />
       </file>
       <file name="/workspace/clients/soda/riihi/scaffold/src/test/resources/log4j.properties" timestamp="1516096565967">
         <mark key="[" line="1" column="17" />
@@ -1232,12 +1234,12 @@
         <mark key="." line="49" column="8" />
         <mark key="^" line="49" column="8" />
       </file>
-      <file name="/workspace/golang/src/github.com/cnupp/builder/nginx.conf" timestamp="1517908702028">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="31" column="26" />
-        <mark key="]" line="31" column="26" />
-        <mark key="^" line="20" column="7" />
-        <mark key="." line="31" column="26" />
+      <file name="/workspace/golang/src/github.com/cnupp/builder/nginx.conf" timestamp="1517911562175">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="31" column="30" />
+        <mark key="]" line="34" column="40" />
+        <mark key="^" line="34" column="40" />
+        <mark key="." line="34" column="40" />
       </file>
       <file name="/workspace/clients/soda/riihi/records/src/main/java/com/sodacar/riihi/mybatis/mapper/PaymentRequestMapper.java" timestamp="1513757724132">
         <mark key="[" line="10" column="24" />
@@ -1679,7 +1681,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>root</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7717,17 +7719,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>root</text>
       </register>
       <register name="/" type="4">
         <text>FapiaoRequests</text>
       </register>
-      <register name="0" type="4">
-        <text>unix:/var/run/fcgiwrap.socket;
-			i</text>
+      <register name="0" type="2">
+        <text encoding="base64">UlVOIGFkZGdyb3VwIC1TIGdpdAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBmY2dpd3JhcHBlcuaJp+ihjOi/meS4quaWh+S7tgo=</text>
+        <text encoding="base64">VVNFUiBnaXQK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7738,28 +7739,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBmY2dpd3JhcCBpcyBzZXQgdXAgdG8gbGlzdGVuIG9uIHRoaXMgaG9zdDpwb3J0Cg==</text>
+        <text encoding="base64">UlVOIGNob3duIC1SIGdpdDpnaXQgL2hvbWUvZ2l0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXV0aF9iYXNpYyAiUmVzdHJpY3RlZCI7CiAgICAgICAgICAgIGF1dGhfYmFzaWNfdXNlcl9maWxlIC9wYXRoX3RvX3Bhc3N3ZDsK</text>
+        <text encoding="base64">RU5WIEdJVEhPTUUgL2hvbWUvZ2l0CkVOViBHSVRVU0VSIGdpdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBleHBvcnQgYWxsIHJlcG9zaXRvcmllcyB1bmRlciBHSVRfUFJPSkVDVF9ST09UCg==</text>
+        <text encoding="base64">IG1rZGlyIC1wICRHSVRIT01FLy5zc2ggJiYgY2hvd24gZ2l0OmdpdCAkR0lUSE9NRS8uc3NoCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBmY2dpd3JhcCBpcyBzZXQgdXAgdG8gbGlzdGVuIG9uIHRoaXMgaG9zdDpwb3J0Cg==</text>
+        <text encoding="base64">IG1rZGlyIC1wICRHSVRIT01FLy5zc2ggJiYgY2hvd24gZ2l0OmdpdCAkR0lUSE9NRS8uc3NoCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBmY2dpd3JhcHBlcuaJp+ihjOi/meS4quaWh+S7tgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBmY2dpd3JhcCBpcyBzZXQgdXAgdG8gbGlzdGVuIG9uIHRoaXMgaG9zdDpwb3J0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXV0aF9iYXNpYyAiUmVzdHJpY3RlZCI7CiAgICAgICAgICAgIGF1dGhfYmFzaWNfdXNlcl9maWxlIC9wYXRoX3RvX3Bhc3N3ZDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBleHBvcnQgYWxsIHJlcG9zaXRvcmllcyB1bmRlciBHSVRfUFJPSkVDVF9ST09UCg==</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>

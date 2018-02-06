@@ -5,6 +5,7 @@
       <mapping pattern="logstash" type="Bash" />
       <mapping pattern="build" type="Bash" />
       <mapping pattern="jruby" type="Bash" />
+      <mapping pattern="htpasswd" type="PLAIN_TEXT" />
       <mapping pattern=".sonar_lock" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
     </extensionMap>
