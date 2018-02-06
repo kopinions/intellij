@@ -739,10 +739,10 @@
         <mark key="^" line="22" column="7" />
         <mark key="." line="22" column="7" />
       </file>
-      <file name="/workspace/golang/src/github.com/cnupp/builder/http/etc/supervisor/supervisord.conf" timestamp="1517907697508">
-        <mark key="[" line="18" column="29" />
-        <mark key="]" line="18" column="33" />
-        <mark key="." line="18" column="33" />
+      <file name="/workspace/golang/src/github.com/cnupp/builder/http/etc/supervisor/supervisord.conf" timestamp="1517909355991">
+        <mark key="[" line="18" column="37" />
+        <mark key="]" line="18" column="37" />
+        <mark key="." line="18" column="37" />
         <mark key="^" line="18" column="33" />
       </file>
       <file name="/workspace/clients/soda/riihi/scaffold/src/test/resources/log4j.properties" timestamp="1516096565967">
@@ -1232,12 +1232,12 @@
         <mark key="." line="49" column="8" />
         <mark key="^" line="49" column="8" />
       </file>
-      <file name="/workspace/golang/src/github.com/cnupp/builder/nginx.conf" timestamp="1517907861438">
+      <file name="/workspace/golang/src/github.com/cnupp/builder/nginx.conf" timestamp="1517908702028">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="20" column="4" />
-        <mark key="]" line="20" column="7" />
+        <mark key="[" line="31" column="26" />
+        <mark key="]" line="31" column="26" />
         <mark key="^" line="20" column="7" />
-        <mark key="." line="20" column="7" />
+        <mark key="." line="31" column="26" />
       </file>
       <file name="/workspace/clients/soda/riihi/records/src/main/java/com/sodacar/riihi/mybatis/mapper/PaymentRequestMapper.java" timestamp="1513757724132">
         <mark key="[" line="10" column="24" />
@@ -1679,7 +1679,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>t</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7717,7 +7717,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>FapiaoRequests</text>
