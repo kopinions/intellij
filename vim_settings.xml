@@ -328,6 +328,12 @@
         <mark key="^" line="65" column="50" />
         <mark key="." line="65" column="50" />
       </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/java/com/blockycity/heimdallr/api/hospital/resources/ProductsResource.java" timestamp="1536202994588">
+        <mark key="[" line="38" column="57" />
+        <mark key="]" line="39" column="28" />
+        <mark key="." line="39" column="28" />
+        <mark key="^" line="39" column="28" />
+      </file>
       <file name="/workspace/clients/soda/soda-admin/src/pages/SpecialPayment/LoadRedux.js" timestamp="1515577280780">
         <mark key="[" line="2" column="31" />
         <mark key="]" line="2" column="48" />
@@ -663,6 +669,10 @@
         <mark key="." line="191" column="47" />
         <mark key="^" line="191" column="47" />
       </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/java/com/blockycity/heimdallr/api/hospital/resources/DoctorsResource.java" timestamp="1536202953471">
+        <mark key="[" line="39" column="28" />
+        <mark key="]" line="40" column="54" />
+      </file>
       <file name="/workspace/clients/billing/modules/features/sharding/src/main/java/com/accounting/billing/features/sharding/core/SqlFactoryBuilder.java" timestamp="1511249495562">
         <mark key="[" line="2" column="41" />
         <mark key="]" line="2" column="41" />
@@ -781,6 +791,10 @@
         <mark key="]" line="2" column="98" />
         <mark key="." line="2" column="98" />
         <mark key="^" line="2" column="98" />
+      </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/java/com/blockycity/heimdallr/api/hospital/resources/OrdersResource.java" timestamp="1536202864879">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="58" column="53" />
       </file>
       <file name="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/RentalMapper.xml" timestamp="1515397127865">
         <mark key="[" line="194" column="98" />
@@ -1375,6 +1389,12 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/test/java/com/blockycity/heimdallr/api/hospital/resources/ProductsResourceTest.java" timestamp="1536202346719">
+        <mark key="'" line="55" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="^" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+      </file>
       <file name="/workspace/personal/guardian/src/test/java/com/morpheus/guardian/support/ErrorMatcher.java" timestamp="1516613365308">
         <mark key="[" line="19" column="59" />
         <mark key="]" line="19" column="56" />
@@ -1611,10 +1631,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="133" filename="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/SpecialPaymentMapper.xml" />
-      <jump line="334" column="26" filename="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/Columns.xml" />
-      <jump line="654" column="0" filename="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/Columns.xml" />
-      <jump line="698" column="12" filename="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/Columns.xml" />
       <jump line="55" column="82" filename="/workspace/clients/soda/riihi/records/src/main/java/com/sodacar/riihi/records/SpecialPaymentsRepository.java" />
       <jump line="686" column="0" filename="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/Columns.xml" />
       <jump line="31" column="0" filename="/workspace/clients/soda/riihi/core/src/main/java/com/sodacar/riihi/core/SpecialPayment.java" />
@@ -1711,6 +1727,10 @@
       <jump line="20" column="4" filename="/workspace/golang/src/github.com/cnupp/builder/nginx.conf" />
       <jump line="8" column="0" filename="/workspace/golang/src/github.com/cnupp/builder/nginx.conf" />
       <jump line="25" column="1" filename="/workspace/golang/src/github.com/cnupp/builder/http/home/git/build.yml" />
+      <jump line="67" column="0" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/test/java/com/blockycity/heimdallr/api/hospital/resources/ProductsResourceTest.java" />
+      <jump line="66" column="0" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/test/java/com/blockycity/heimdallr/api/hospital/resources/ProductsResourceTest.java" />
+      <jump line="56" column="4" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/test/java/com/blockycity/heimdallr/api/hospital/resources/ProductsResourceTest.java" />
+      <jump line="55" column="0" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/test/java/com/blockycity/heimdallr/api/hospital/resources/ProductsResourceTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1718,8 +1738,9 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50ZiAiJXNcbiIgIiRAIjsK</text>
+      <register name="&quot;" type="4">
+        <text>@QueryParam(&quot;page[current]&quot;) int current,
+                            @QueryParam(&quot;page[offset]&quot;)</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7757,16 +7778,17 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>@</text>
+        <text>uriInfo</text>
       </register>
       <register name="/" type="4">
         <text>FapiaoRequests</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZmFrZXR0eSAoKSB7IHNjcmlwdCAtcWZjICIkQCI7IH0K</text>
+      <register name="0" type="4">
+        <text>@QueryParam(&quot;page[current]&quot;) int current,
+                            @QueryParam(&quot;page[offset]&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50ZiAiJXNcbiIgIiRAIjsK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFByb2R1Y3Q+IG9zID0gb3JkZXJzLm1hdGNoZXMoY3VycmVudC5nZXQoKSwgdXJpSW5mby5nZXRRdWVyeVBhcmFtZXRlcnMoKSk7CiAgICAgICAgcmV0dXJuIFJlc3BvbnNlLm9rKG5ldyBSZWNvcmRzPD4ob3MpKS5idWlsZCgpOwogICAgICAgIHJldHVybiBjcmVhdGVkKFVSSS5jcmVhdGUodXJpSW5mby5nZXRSZXF1ZXN0VXJpKCkudG9TdHJpbmcoKSArICIvIiArIHByb2R1Y3QuZ2V0SWQoKSkpCiAgICAgICAgICAgICAgICAuZW50aXR5KHByb2R1Y3QpCiAgICAgICAgICAgICAgICAuYnVpbGQoKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7777,28 +7799,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50ZiAiJXNcbiIgIiRAIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBQcm9kdWN0IHByb2R1Y3QgPSBwcm9kdWN0cy5jcmVhdGUocGF5bG9hZCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLSByZWRpcwo=</text>
+        <text encoding="base64">ICAgIHByaW50ZiAiJXNcbiIgIiRAIjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLSBkYgo=</text>
+        <text encoding="base64">ICAgIHByaW50ZiAiJXNcbiIgIiRAIjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZG9ja2VyLWNvbXBvc2UgLWYgL3N0YWNrcy92ZXJpZnkueW1sIHVwIC0tYWJvcnQtb24tY29udGFpbmVyLWV4aXQK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgLSByZWRpcwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhcHA6CiAgICBpbWFnZTogaHViLmRlZXBpLmNuL2plcnNleS1teXNxbC12ZXJpZnkKICAgIGRlcGVuZHNfb246CiAgICAgIC0gZGIKICAgICAgLSByZWRpcwogICAgdm9sdW1lczoKICAgICAgLSAiL3RtcC9jYWNoZTovcm9vdC8uZ3JhZGxlIgogICAgICAtICIvdG1wL2FydGlmYWN0czovYXJ0aWZhY3RzIgogICAgICAtICIvdG1wL2NvZGViYXNlOi9jb2RlYmFzZSIKICAgIGVudmlyb25tZW50OgogICAgICBEQl9QQVNTV09SRDogIm15c3FsIgogICAgICBEQl9VU0VSTkFNRTogIm15c3FsIgogICAgICBEQl9EQVRBQkFTRTogImRhdGFzdG9yZSIKICAgICAgUlVOTkFCTEU6ICJ7e3J1bm5hYmxlfX0iCiAgICAgIEVORFBPSU5UX0hPU1Q6ICJ7e3J1bnRpbWUgYXBpLmhvc3R9fSIKICAgICAgRU5EUE9JTlRfUE9SVDogInt7cnVudGltZSBhcGkucG9ydCAwfX0iCiAgICBlbnZpcm9ubWVudDoKICAgICAgRFVNTVk6ICJkdW1teSIKICAgIGhlYWx0aGNoZWNrOgogICAgICB0ZXN0OiBbIkNNRCIsICJlY2hvIiwgInRlc3QiXQogICAgICBpbnRlcnZhbDogMW0zMHMKICAgICAgdGltZW91dDogMTBzCiAgICAgIHJldHJpZXM6IDMKICAgICAgc3RhcnRfcGVyaW9kOiA0MHMK</text>
+        <text encoding="base64">ICAgICAgLSBkYgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhcHA6CiAgICBpbWFnZTogaHViLmRlZXBpLmNuL2plcnNleS1teXNxbC12ZXJpZnkKICAgIGRlcGVuZHNfb246CiAgICAgIC0gZGIKICAgICAgLSByZWRpcwogICAgdm9sdW1lczoKICAgICAgLSAiL3RtcC9jYWNoZTovcm9vdC8uZ3JhZGxlIgogICAgICAtICIvdG1wL2FydGlmYWN0czovYXJ0aWZhY3RzIgogICAgICAtICIvdG1wL2NvZGViYXNlOi9jb2RlYmFzZSIKICAgIGVudmlyb25tZW50OgogICAgICBEQl9QQVNTV09SRDogIm15c3FsIgogICAgICBEQl9VU0VSTkFNRTogIm15c3FsIgogICAgICBEQl9EQVRBQkFTRTogImRhdGFzdG9yZSIKICAgICAgUlVOTkFCTEU6ICJ7e3J1bm5hYmxlfX0iCiAgICAgIEVORFBPSU5UX0hPU1Q6ICJ7e3J1bnRpbWUgYXBpLmhvc3R9fSIKICAgICAgRU5EUE9JTlRfUE9SVDogInt7cnVudGltZSBhcGkucG9ydCAwfX0iCiAgICBlbnZpcm9ubWVudDoKICAgICAgRFVNTVk6ICJkdW1teSIKICAgIGhlYWx0aGNoZWNrOgogICAgICB0ZXN0OiBbIkNNRCIsICJlY2hvIiwgInRlc3QiXQogICAgICBpbnRlcnZhbDogMW0zMHMKICAgICAgdGltZW91dDogMTBzCiAgICAgIHJldHJpZXM6IDMKICAgICAgc3RhcnRfcGVyaW9kOiA0MHMK</text>
+        <text encoding="base64">ZG9ja2VyLWNvbXBvc2UgLWYgL3N0YWNrcy92ZXJpZnkueW1sIHVwIC0tYWJvcnQtb24tY29udGFpbmVyLWV4aXQK</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
@@ -7884,5 +7906,8 @@
         <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
   </component>
 </application>
