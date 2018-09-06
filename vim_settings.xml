@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/workspace/clients/soda/riihi/migration/src/main/resources/migration/mysql/MySQL-39__add_fapiao_content.sql" timestamp="1515547021381">
@@ -180,6 +180,12 @@
         <mark key="^" line="27" column="39" />
         <mark key="." line="9" column="13" />
       </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/mybatis/mappers/HospitalMapper.xml" timestamp="1536206559544">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="27" column="44" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="/workspace/clients/billing/src/main/resources/mybatis/mappers/Invoices.xml" timestamp="1510573981924">
         <mark key="[" line="11" column="16" />
         <mark key="]" line="11" column="16" />
@@ -222,6 +228,12 @@
         <mark key="." line="82" column="22" />
         <mark key="^" line="82" column="22" />
       </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/mybatis/mappers/DepartmentMapper.xml" timestamp="1536206319657">
+        <mark key="[" line="28" column="18" />
+        <mark key="]" line="28" column="18" />
+        <mark key="^" line="26" column="42" />
+        <mark key="." line="28" column="18" />
+      </file>
       <file name="/workspace/clients/soda/riihi/core/src/main/java/com/sodacar/riihi/core/exception/RefundException.java" timestamp="1514266637140">
         <mark key="[" line="3" column="58" />
         <mark key="]" line="5" column="29" />
@@ -234,11 +246,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/mybatis/mappers/ProductMapper.xml" timestamp="1536205956161">
-        <mark key="[" line="11" column="12" />
-        <mark key="]" line="11" column="20" />
-        <mark key="." line="17" column="52" />
-        <mark key="^" line="17" column="52" />
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/mybatis/mappers/ProductMapper.xml" timestamp="1536206539413">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
+        <mark key="^" line="94" column="49" />
       </file>
       <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/mybatis/mappers/Invoices.java" timestamp="1510568560655">
         <mark key="[" line="15" column="39" />
@@ -311,6 +323,12 @@
         <mark key="]" line="20" column="45" />
         <mark key="." line="20" column="45" />
         <mark key="^" line="20" column="45" />
+      </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/mybatis/mappers/DiseaseMapper.xml" timestamp="1536206576595">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="41" column="45" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/records/Record.java" timestamp="1510555142028">
         <mark key="[" line="9" column="34" />
@@ -452,8 +470,11 @@
         <mark key="." line="11" column="120" />
         <mark key="^" line="11" column="120" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/db/migration/V5__create_products_related.sql" timestamp="1536205964395">
-        <mark key="[" line="7" column="35" />
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/db/migration/V5__create_products_related.sql" timestamp="1536206055505">
+        <mark key="[" line="11" column="39" />
+        <mark key="]" line="11" column="45" />
+        <mark key="^" line="11" column="45" />
+        <mark key="." line="11" column="45" />
       </file>
       <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/Resources.java" timestamp="1510555281041">
         <mark key="[" line="17" column="39" />
@@ -1178,9 +1199,11 @@
         <mark key="." line="21" column="56" />
         <mark key="^" line="21" column="56" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/mybatis/mappers/DoctorMapper.xml" timestamp="1536204191746">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="112" column="9" />
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/mybatis/mappers/DoctorMapper.xml" timestamp="1536206447324">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+        <mark key="^" line="98" column="49" />
       </file>
       <file name="/workspace/personal/features/identity/src/main/java/me/tzion/identity/IdentityValueFactoryProvider.java" timestamp="1516951340491">
         <mark key="[" line="13" column="0" />
@@ -1664,6 +1687,7 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/mybatis/mappers/Columns.xml" timestamp="1536206599456" />
     </filemarks>
     <jumps>
       <jump line="55" column="82" filename="/workspace/clients/soda/riihi/records/src/main/java/com/sodacar/riihi/records/SpecialPaymentsRepository.java" />
@@ -1773,8 +1797,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>DOCTOR_ID</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9ImFsaWFzIiB2YWx1ZT0iREkiLz4K</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7812,16 +7836,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>merchant</text>
+        <text>C_DI_</text>
       </register>
       <register name="/" type="4">
         <text>FapiaoRequests</text>
       </register>
       <register name="0" type="4">
-        <text>DOCTOR_ID</text>
+        <text>DOC_DI</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5ib2R5KCJkYXRhWzBdLmlkIiwgbWF0Y2hlc1BhdHRlcm4oIi57MzJ9IikpIDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9ImFsaWFzIiB2YWx1ZT0iREkiLz4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7832,28 +7856,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5ib2R5KCJkYXRhWzBdLmlkIiwgbWF0Y2hlc1BhdHRlcm4oIi57MzJ9IikpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9ImFsaWFzIiB2YWx1ZT0iSCIvPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5ib2R5KCJkYXRhWzBdLmlkIiwgbWF0Y2hlc1BhdHRlcm4oIi57MzJ9IikpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9ImFsaWFzIiB2YWx1ZT0iRE9DX0RJIi8+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBHUk9VUCBCWSBELklECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9ImFsaWFzIiB2YWx1ZT0iRE9DX0giLz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5jbHUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9ImFsaWFzIiB2YWx1ZT0iRE9DX0QiLz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmFkZCgic29ydC1vcmRlciIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9ImFsaWFzIiB2YWx1ZT0iRE9DX0QiLz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmFkZCgic29ydC1ieSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9ImFsaWFzIiB2YWx1ZT0iSCIvPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmFkZCgiX3QiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9ImFsaWFzIiB2YWx1ZT0iRE9DX0RJIi8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmFkZCgiX3QiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9ImFsaWFzIiB2YWx1ZT0iRE9DX0giLz4K</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
