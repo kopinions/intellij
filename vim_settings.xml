@@ -1029,6 +1029,12 @@
         <mark key="." line="0" column="38" />
         <mark key="^" line="0" column="38" />
       </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/infrastructures/config/src/main/resources/shared/gateway.yml" timestamp="1537007168672">
+        <mark key="[" line="86" column="17" />
+        <mark key="]" line="86" column="26" />
+        <mark key="." line="86" column="26" />
+        <mark key="^" line="86" column="26" />
+      </file>
       <file name="/workspace/clients/soda/riihi/records/src/main/java/com/sodacar/riihi/records/UserRecord.java" timestamp="1515564177040">
         <mark key="[" line="276" column="36" />
         <mark key="]" line="266" column="36" />
@@ -1781,7 +1787,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>hospitals</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7819,13 +7825,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>hospitals</text>
       </register>
       <register name="/" type="4">
         <text>FapiaoRequests</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgICBAUE9TVAogICAgQENvbnN1bWVzKE1lZGlhVHlwZS5BUFBMSUNBVElPTl9KU09OKQogICAgQFByb2R1Y2VzKE1lZGlhVHlwZS5BUFBMSUNBVElPTl9KU09OKQogICAgcHVibGljIFJlc3BvbnNlIGNyZWF0ZShNYXA8U3RyaW5nLCBPYmplY3Q+IHBheWxvYWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgIEBDb250ZXh0IFVyaUluZm8gdXJpSW5mbykgewoKICAgICAgICBQaGFzZUJhc2VkVHJlYXRtZW50QnVpbGRlciBidWlsZGVyID0gbmV3IFBoYXNlQmFzZWRUcmVhdG1lbnRCdWlsZGVyKG1hcHBlcik7CiAgICAgICAgcmV0dXJuIHNwZWNpZmljYXRpb25zLm1hdGNoZWQocGF5bG9hZCkKICAgICAgICAgICAgICAgIC5tYXAocyAtPiB7CiAgICAgICAgICAgICAgICAgICAgcy5hY2NlcHQocGF5bG9hZCkuYXBwbGllZChidWlsZGVyKTsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gYnVpbGRlci5idWlsZCgpOwogICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgIC5tYXAoJCAtPiBjcmVhdGVkKFVSSS5jcmVhdGUodXJpSW5mby5nZXRSZXF1ZXN0VXJpKCkudG9TdHJpbmcoKSArICIvIiArICQuZ2V0SWQoKSkpLmVudGl0eSgkKS5idWlsZCgpKQogICAgICAgICAgICAgICAgLm9yRWxzZUdldCgoKSAtPiBzdGF0dXMoNDA0KS5idWlsZCgpKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIGNpcGhlcnM6CiAgICAgIHBhdGg6IC9jaXBoZXJzLyoqCiAgICAgIHNlcnZpY2VJZDogaG9zcGl0YWxzCiAgICAgIHN0cmlwUHJlZml4OiBmYWxzZQogICAgICBzZW5zaXRpdmVIZWFkZXJzOgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyBkb2NrZXIgcHVsbAo=</text>
