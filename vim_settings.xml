@@ -371,6 +371,11 @@
         <mark key="." line="26" column="7" />
         <mark key="^" line="26" column="7" />
       </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/docker-compose.dev.yml" timestamp="1537151576177">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="18" />
+        <mark key="." line="48" column="0" />
+      </file>
       <file name="/workspace/clients/soda/riihi/migration/src/main/resources/migration/mysql/MySQL-18__create_fapiao_related.sql" timestamp="1515746008305">
         <mark key="[" line="65" column="26" />
         <mark key="]" line="65" column="50" />
@@ -1030,11 +1035,11 @@
         <mark key="." line="0" column="38" />
         <mark key="^" line="0" column="38" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/infrastructures/config/src/main/resources/shared/gateway.yml" timestamp="1537007168672">
+      <file name="/workspace/6c/startup/rxright/heimdallr/infrastructures/config/src/main/resources/shared/gateway.yml" timestamp="1537151502084">
         <mark key="[" line="86" column="17" />
-        <mark key="]" line="86" column="26" />
-        <mark key="." line="86" column="26" />
-        <mark key="^" line="86" column="26" />
+        <mark key="]" line="86" column="25" />
+        <mark key="." line="86" column="25" />
+        <mark key="^" line="86" column="25" />
       </file>
       <file name="/workspace/clients/soda/riihi/records/src/main/java/com/sodacar/riihi/records/UserRecord.java" timestamp="1515564177040">
         <mark key="[" line="276" column="36" />
@@ -1424,6 +1429,11 @@
         <mark key="." line="39" column="38" />
         <mark key="^" line="39" column="44" />
       </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/docker-compose.yml" timestamp="1537151614428">
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="18" />
+        <mark key="." line="140" column="0" />
+      </file>
       <file name="/workspace/personal/features/identity/README.md" timestamp="1517276006327">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="4" />
@@ -1798,8 +1808,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>8</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgTEVWRUw6IERFQlVHCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7837,13 +7847,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>treatments</text>
       </register>
       <register name="/" type="4">
         <text>FapiaoRequests</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNpcGhlcnM6CiAgICAgIHBhdGg6IC9jaXBoZXJzLyoqCiAgICAgIHNlcnZpY2VJZDogaG9zcGl0YWxzCiAgICAgIHN0cmlwUHJlZml4OiBmYWxzZQogICAgICBzZW5zaXRpdmVIZWFkZXJzOgo=</text>
+        <text encoding="base64">ICAgICAgTEVWRUw6IERFQlVHCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">QFRlc3RQcm9wZXJ0eVNvdXJjZShwcm9wZXJ0aWVzID0gInNlcnZlci5wb3J0PTk5OTkiKQo=</text>
@@ -7884,7 +7894,7 @@
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -7934,12 +7944,12 @@
         <entry>%s/FapiaoRequests/SpecialPayment/gc</entry>
         <entry>reg</entry>
         <entry>ew</entry>
-        <entry>wq</entry>
         <entry>qw</entry>
         <entry>we</entry>
         <entry>ws</entry>
         <entry>2</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
