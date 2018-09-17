@@ -57,11 +57,6 @@
         <mark key="." line="31" column="24" />
         <mark key="^" line="31" column="24" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/services/identities/src/test/java/com/blockycity/heimdallr/api/identities/resources/CarouselsResourceTest.java" timestamp="1537147720731">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/fapiaos/FapiaosTest.java" timestamp="1515721302162">
         <mark key="[" line="106" column="47" />
         <mark key="]" line="106" column="47" />
@@ -218,6 +213,7 @@
         <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="21" />
       </file>
+      <file name="/workspace/6c/startup/rxright/mp/package.json" timestamp="1537156538195" />
       <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/java/com/blockycity/heimdallr/api/hospital/records/SpecificationRecord.java" timestamp="1537003806499">
         <mark key="[" line="13" column="68" />
         <mark key="]" line="13" column="67" />
@@ -251,9 +247,9 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/mybatis/mappers/ProductMapper.xml" timestamp="1536206539413">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/mybatis/mappers/ProductMapper.xml" timestamp="1537155931581">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="23" />
         <mark key="." line="92" column="0" />
         <mark key="^" line="94" column="49" />
       </file>
@@ -349,7 +345,8 @@
         <mark key="^" line="175" column="21" />
         <mark key="." line="175" column="21" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/mybatis/mappers/TreatmentMapper.xml" timestamp="1537002897116">
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/mybatis/mappers/TreatmentMapper.xml" timestamp="1537156408034">
+        <mark key="s" line="39" column="8" />
         <mark key="[" line="36" column="26" />
         <mark key="]" line="36" column="27" />
         <mark key="^" line="36" column="27" />
@@ -369,11 +366,6 @@
         <mark key="]" line="26" column="7" />
         <mark key="." line="26" column="7" />
         <mark key="^" line="26" column="7" />
-      </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/docker-compose.dev.yml" timestamp="1537151576177">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="18" />
-        <mark key="." line="48" column="0" />
       </file>
       <file name="/workspace/clients/soda/riihi/migration/src/main/resources/migration/mysql/MySQL-18__create_fapiao_related.sql" timestamp="1515746008305">
         <mark key="[" line="65" column="26" />
@@ -462,6 +454,12 @@
         <mark key="." line="137" column="25" />
         <mark key="^" line="137" column="36" />
       </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/db/migration/V20__add_doctor_for_treatment.sql" timestamp="1537156242777">
+        <mark key="[" line="4" column="72" />
+        <mark key="]" line="4" column="78" />
+        <mark key="." line="4" column="78" />
+        <mark key="^" line="4" column="78" />
+      </file>
       <file name="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/records/FapiaosRepositoryTest.java" timestamp="1513904969313">
         <mark key="[" line="11" column="4" />
         <mark key="]" line="11" column="11" />
@@ -498,7 +496,7 @@
         <mark key="." line="11" column="120" />
         <mark key="^" line="11" column="120" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/db/migration/V5__create_products_related.sql" timestamp="1536206055505">
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/db/migration/V5__create_products_related.sql" timestamp="1537154021765">
         <mark key="[" line="11" column="39" />
         <mark key="]" line="11" column="45" />
         <mark key="^" line="11" column="45" />
@@ -870,12 +868,6 @@
         <mark key="^" line="10" column="81" />
         <mark key="." line="10" column="81" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/java/com/blockycity/heimdallr/api/hospital/records/PhaseBasedTreatmentBuilder.java" timestamp="1537153644074">
-        <mark key="[" line="33" column="16" />
-        <mark key="]" line="33" column="20" />
-        <mark key="." line="33" column="20" />
-        <mark key="^" line="33" column="20" />
-      </file>
       <file name="/workspace/clients/soda/riihi/records/src/main/java/com/sodacar/riihi/util/wechat/Https.java" timestamp="1515410487289">
         <mark key="[" line="48" column="11" />
         <mark key="]" line="48" column="11" />
@@ -1098,11 +1090,6 @@
         <mark key="." line="53" column="39" />
         <mark key="^" line="53" column="41" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/services/identities/src/test/java/com/blockycity/heimdallr/api/identities/resources/SessionsResourcesTest.java" timestamp="1537147860845">
-        <mark key="[" line="30" column="49" />
-        <mark key="]" line="30" column="49" />
-        <mark key="." line="30" column="49" />
-      </file>
       <file name="/workspace/clients/soda/riihi/api/src/main/java/com/sodacar/riihi/api/PaymentRequestsResource.java" timestamp="1513756679489">
         <mark key="[" line="17" column="31" />
         <mark key="]" line="17" column="39" />
@@ -1193,11 +1180,6 @@
         <mark key="." line="25" column="49" />
         <mark key="^" line="25" column="49" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/java/com/blockycity/heimdallr/api/hospital/resources/TreatmentsResource.java" timestamp="1537003766331">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-      </file>
       <file name="/workspace/clients/soda/riihi/api/src/main/java/com/sodacar/riihi/api/SpecialPaymentResource.java" timestamp="1515572034715">
         <mark key="[" line="62" column="11" />
         <mark key="]" line="63" column="7" />
@@ -1222,17 +1204,13 @@
         <mark key="." line="21" column="56" />
         <mark key="^" line="21" column="56" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/mybatis/mappers/DoctorMapper.xml" timestamp="1536206447324">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
-        <mark key="^" line="98" column="49" />
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/mybatis/mappers/DoctorMapper.xml" timestamp="1537155944539">
+        <mark key="'" line="64" column="0" />
       </file>
       <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/java/com/blockycity/heimdallr/api/hospital/core/Treatment.java" timestamp="1537153702429">
-        <mark key="[" line="13" column="33" />
-        <mark key="]" line="14" column="34" />
-        <mark key="." line="14" column="34" />
-        <mark key="^" line="14" column="34" />
+        <mark key="]" line="8" column="34" />
+        <mark key="." line="8" column="34" />
+        <mark key="^" line="8" column="34" />
       </file>
       <file name="/workspace/personal/features/identity/src/main/java/me/tzion/identity/IdentityValueFactoryProvider.java" timestamp="1516951340491">
         <mark key="[" line="13" column="0" />
@@ -1360,6 +1338,7 @@
         <mark key="." line="49" column="8" />
         <mark key="^" line="49" column="8" />
       </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/docs/api/fms.yml" timestamp="1537156488384" />
       <file name="/workspace/clients/soda/riihi/records/src/main/java/com/sodacar/riihi/mybatis/mapper/PaymentRequestMapper.java" timestamp="1513757724132">
         <mark key="[" line="10" column="24" />
         <mark key="]" line="10" column="36" />
@@ -1443,11 +1422,6 @@
         <mark key="]" line="39" column="38" />
         <mark key="." line="39" column="38" />
         <mark key="^" line="39" column="44" />
-      </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/docker-compose.yml" timestamp="1537151614428">
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="140" column="18" />
-        <mark key="." line="140" column="0" />
       </file>
       <file name="/workspace/personal/features/identity/README.md" timestamp="1517276006327">
         <mark key="[" line="15" column="0" />
@@ -1546,6 +1520,7 @@
         <mark key="." line="16" column="15" />
         <mark key="^" line="12" column="11" />
       </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/files/src/main/java/com/blockycity/heimdallr/files/resources/FilesResource.java" timestamp="1537156473087" />
       <file name="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/records/NewPaymentRequestRepositoryTest.java" timestamp="1515136953510">
         <mark key="[" line="43" column="39" />
         <mark key="]" line="43" column="39" />
@@ -1678,11 +1653,11 @@
         <mark key="." line="103" column="30" />
         <mark key="^" line="103" column="30" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/java/com/blockycity/heimdallr/api/hospital/records/ChangeRequestRecord.java" timestamp="1537153874914">
-        <mark key="[" line="55" column="59" />
-        <mark key="]" line="55" column="59" />
-        <mark key="^" line="55" column="59" />
-        <mark key="." line="55" column="59" />
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/java/com/blockycity/heimdallr/api/hospital/records/ChangeRequestRecord.java" timestamp="1537155968112">
+        <mark key="[" line="5" column="42" />
+        <mark key="]" line="5" column="47" />
+        <mark key="^" line="5" column="47" />
+        <mark key="." line="5" column="47" />
       </file>
       <file name="/workspace/clients/soda/riihi/core/src/main/java/com/sodacar/riihi/core/validators/Validator.java" timestamp="1516181572555">
         <mark key="[" line="5" column="44" />
@@ -1716,7 +1691,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/SpecialPaymentsRecords.xml" />
       <jump line="188" column="8" filename="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/SpecialPaymentMapper.xml" />
       <jump line="36" column="0" filename="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/SpecialPaymentMapper.xml" />
       <jump line="103" column="20" filename="/workspace/clients/soda/riihi/records/src/main/java/com/sodacar/riihi/records/SpecialPaymentRecord.java" />
@@ -1816,6 +1790,7 @@
       <jump line="43" column="31" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/java/com/blockycity/heimdallr/api/hospital/records/PatientRecord.java" />
       <jump line="32" column="4" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/java/com/blockycity/heimdallr/api/hospital/records/PatientRecord.java" />
       <jump line="43" column="38" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/java/com/blockycity/heimdallr/api/hospital/records/TreatmentRecord.java" />
+      <jump line="64" column="0" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/mybatis/mappers/DoctorMapper.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1824,7 +1799,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>null</text>
+        <text>PATIENTS</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7862,16 +7837,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>PATIENTS</text>
       </register>
       <register name="/" type="4">
         <text>FapiaoRequests</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNpcGhlcnM6CiAgICAgIHBhdGg6IC9jaXBoZXJzLyoqCiAgICAgIHNlcnZpY2VJZDogaG9zcGl0YWxzCiAgICAgIHN0cmlwUHJlZml4OiBmYWxzZQogICAgICBzZW5zaXRpdmVIZWFkZXJzOgo=</text>
+      <register name="0" type="4">
+        <text>DOCTOR_ID</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRyZWF0bWVudHM6CiAgICAgIHBhdGg6IC90cmVhdG1lbnRzLyoqCiAgICAgIHNlcnZpY2VJZDogaG9zcGl0YWxzCiAgICAgIHN0cmlwUHJlZml4OiBmYWxzZQogICAgICBzZW5zaXRpdmVIZWFkZXJzOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7882,28 +7857,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRyZWF0bWVudHM6CiAgICAgIHBhdGg6IC90cmVhdG1lbnRzLyoqCiAgICAgIHNlcnZpY2VJZDogaG9zcGl0YWxzCiAgICAgIHN0cmlwUHJlZml4OiBmYWxzZQogICAgICBzZW5zaXRpdmVIZWFkZXJzOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QFRlc3RQcm9wZXJ0eVNvdXJjZShwcm9wZXJ0aWVzID0gInNlcnZlci5wb3J0PTk5OTkiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QFRlc3RQcm9wZXJ0eVNvdXJjZShwcm9wZXJ0aWVzID0gInNlcnZlci5wb3J0PTk5OTkiKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QERpc2FibGVkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QERpc2FibGVkCg==</text>
+        <text encoding="base64">ICAgIHRyZWF0bWVudHM6CiAgICAgIHBhdGg6IC90cmVhdG1lbnRzLyoqCiAgICAgIHNlcnZpY2VJZDogaG9zcGl0YWxzCiAgICAgIHN0cmlwUHJlZml4OiBmYWxzZQogICAgICBzZW5zaXRpdmVIZWFkZXJzOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QERpc2FibGVkCg==</text>
+        <text encoding="base64">ICAgIHRyZWF0bWVudHM6CiAgICAgIHBhdGg6IC90cmVhdG1lbnRzLyoqCiAgICAgIHNlcnZpY2VJZDogaG9zcGl0YWxzCiAgICAgIHN0cmlwUHJlZml4OiBmYWxzZQogICAgICBzZW5zaXRpdmVIZWFkZXJzOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBkb2NrZXIgcHVsbAo=</text>
+        <text encoding="base64">QFRlc3RQcm9wZXJ0eVNvdXJjZShwcm9wZXJ0aWVzID0gInNlcnZlci5wb3J0PTk5OTkiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFRlc3RQcm9wZXJ0eVNvdXJjZShwcm9wZXJ0aWVzID0gInNlcnZlci5wb3J0PTk5OTkiKQo=</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
