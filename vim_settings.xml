@@ -387,11 +387,12 @@
         <mark key="." line="23" column="67" />
         <mark key="^" line="23" column="67" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/docker-compose.dev.yml" timestamp="1537179227928">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="130" column="23" />
-        <mark key="." line="26" column="0" />
+      <file name="/workspace/6c/startup/rxright/heimdallr/docker-compose.dev.yml" timestamp="1537259335982">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="119" column="14" />
+        <mark key="]" line="119" column="14" />
+        <mark key="^" line="119" column="11" />
+        <mark key="." line="119" column="14" />
       </file>
       <file name="/workspace/clients/soda/riihi/migration/src/main/resources/migration/mysql/MySQL-18__create_fapiao_related.sql" timestamp="1515746008305">
         <mark key="[" line="65" column="26" />
@@ -855,6 +856,12 @@
         <mark key="." line="14" column="43" />
         <mark key="^" line="14" column="43" />
       </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/build.gradle" timestamp="1537259255344">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+      </file>
       <file name="/workspace/clients/soda/riihi/migration/src/main/resources/migration/mysql/MySQL-23__remove_invoice_through_channel.sql" timestamp="1515137096794">
         <mark key="[" line="4" column="14" />
         <mark key="]" line="4" column="20" />
@@ -1060,7 +1067,6 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="17" column="0" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/services/identities/src/main/java/com/blockycity/heimdallr/api/identities/records/IdentityRecord.java" timestamp="1537254715115" />
       <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/Routes.java" timestamp="1510485699645">
         <mark key="[" line="11" column="59" />
         <mark key="]" line="11" column="65" />
@@ -1533,6 +1539,7 @@
         <mark key="." line="204" column="60" />
         <mark key="^" line="204" column="60" />
       </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/files/build.gradle" timestamp="1537259208454" />
       <file name="/workspace/clients/soda/riihi/core/src/main/java/com/sodacar/riihi/core/Exe.java" timestamp="1514599979608">
         <mark key="[" line="14" column="29" />
         <mark key="]" line="14" column="27" />
@@ -1795,9 +1802,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/java/com/blockycity/heimdallr/api/hospital/aops/GuiceFeature.java" />
-      <jump line="0" column="0" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/java/com/blockycity/heimdallr/api/hospital/aops/GuiceFeature.java" />
-      <jump line="151" column="0" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/test/java/com/blockycity/heimdallr/api/hospital/records/OrderRecordTest.java" />
       <jump line="95" column="0" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/test/java/com/blockycity/heimdallr/api/hospital/resources/OrderResourceTest.java" />
       <jump line="28" column="34" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/java/com/blockycity/heimdallr/api/hospital/records/TreatmentRecord.java" />
       <jump line="1" column="0" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/test/java/com/blockycity/heimdallr/api/hospital/resources/TreatmentsResourceTest.java" />
@@ -1895,6 +1899,9 @@
       <jump line="228" column="81" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/mybatis/mappers/Records.xml" />
       <jump line="130" column="0" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/java/com/blockycity/heimdallr/api/hospital/records/OrderRecord.java" />
       <jump line="181" column="0" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/java/com/blockycity/heimdallr/api/hospital/records/TreatmentRecord.java" />
+      <jump line="9" column="0" filename="/workspace/6c/startup/rxright/heimdallr/services/build.gradle" />
+      <jump line="12" column="0" filename="/workspace/6c/startup/rxright/heimdallr/services/build.gradle" />
+      <jump line="1" column="0" filename="/workspace/6c/startup/rxright/heimdallr/docker-compose.dev.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1902,8 +1909,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBNYXAgYXMgPSBleHRyYWN0LmFzKE1hcC5jbGFzcyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7941,16 +7948,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>includeDoctorContext</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>items</text>
+        <text>files</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVzdWx0IHByb3BlcnR5PSJjcmVhdGVkQXQiIGNvbHVtbj0iQ1JFQVRFRF9BVCIvPgogICAgICAgIDxyZXN1bHQgcHJvcGVydHk9InVwZGF0ZWRBdCIgY29sdW1uPSJVUERBVEVEX0FUIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWYgYXBwbGljYXRpb24gPSBTeXN0ZW0uZ2V0ZW52KCJET0NLRVJfUkVQTyIpID8gIiR7U3lzdGVtLmdldGVudigiRE9DS0VSX1JFUE8iKX0vJHtwLm5hbWV9IjogIiR7cC5uYW1lfSIKICAgICAgICBkZWYgdW5pZmllZCA9IFN5c3RlbS5nZXRlbnYoIkRPQ0tFUl9SRUdJU1RSWSIpID8gIiR7U3lzdGVtLmdldGVudigiRE9DS0VSX1JFR0lTVFJZIil9LyR7YXBwbGljYXRpb259IjogIiR7YXBwbGljYXRpb259IgogICAgICAgIHRhc2sgYnVpbGREb2NrZXIodHlwZTogRG9ja2VyKSB7CiAgICAgICAgICAgIGJhc2VJbWFnZSA9ICJvcGVuamRrOjgtamRrLWFscGluZSIKICAgICAgICAgICAgdGFnID0gIiR7dW5pZmllZH0iCiAgICAgICAgICAgIGFkZEZpbGUgewogICAgICAgICAgICAgICAgZnJvbSBib290SmFyCiAgICAgICAgICAgICAgICByZW5hbWUgeyAnYXBwLmphcicgfQogICAgICAgICAgICB9CiAgICAgICAgICAgIGVudHJ5UG9pbnQoWydqYXZhJywgJy1EamF2YS5zZWN1cml0eS5lZ2Q9ZmlsZTovZGV2Ly4vdXJhbmRvbScsICctamFyJywgJy9hcHAuamFyJ10pCiAgICAgICAgfQoKICAgICAgICBidWlsZERvY2tlci5kZXBlbmRzT24oYnVpbGQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBNYXAgYXMgPSBleHRyYWN0LmFzKE1hcC5jbGFzcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7961,28 +7968,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oSnNvbi50b0pzb24oYXMpKTsK</text>
+        <text encoding="base64">ICAgICAgICB0YXNrIGJ1aWxkRG9ja2VyKHR5cGU6IERvY2tlcikgewogICAgICAgICAgICBiYXNlSW1hZ2UgPSAib3Blbmpkazo4LWpkay1hbHBpbmUiCiAgICAgICAgICAgIHRhZyA9ICIke3VuaWZpZWR9IgogICAgICAgICAgICBhZGRGaWxlIHsKICAgICAgICAgICAgICAgIGZyb20gYm9vdEphcgogICAgICAgICAgICAgICAgcmVuYW1lIHsgJ2FwcC5qYXInIH0KICAgICAgICAgICAgfQogICAgICAgICAgICBlbnRyeVBvaW50KFsnamF2YScsICctRGphdmEuc2VjdXJpdHkuZWdkPWZpbGU6L2Rldi8uL3VyYW5kb20nLCAnLWphcicsICcvYXBwLmphciddKQogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oSnNvbi50b0pzb24ob2JqZWN0KSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oSnNvbi50b0pzb24oanNvbikpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0YXNrIGJ1aWxkRG9ja2VyKHR5cGU6IERvY2tlcikgewogICAgICAgICAgICBiYXNlSW1hZ2UgPSAib3Blbmpkazo4LWpkay1hbHBpbmUiCiAgICAgICAgICAgIHRhZyA9ICIke3VuaWZpZWR9IgogICAgICAgICAgICBhZGRGaWxlIHsKICAgICAgICAgICAgICAgIGZyb20gYm9vdEphcgogICAgICAgICAgICAgICAgcmVuYW1lIHsgJ2FwcC5qYXInIH0KICAgICAgICAgICAgfQogICAgICAgICAgICB2b2x1bWUoJy9kYXRhJykKICAgICAgICAgICAgZW50cnlQb2ludChbJ2phdmEnLCAnLURqYXZhLnNlY3VyaXR5LmVnZD1maWxlOi9kZXYvLi91cmFuZG9tJywgJy1qYXInLCAnL2FwcC5qYXInXSkKICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWYgYXBwbGljYXRpb24gPSBTeXN0ZW0uZ2V0ZW52KCJET0NLRVJfUkVQTyIpID8gIiR7U3lzdGVtLmdldGVudigiRE9DS0VSX1JFUE8iKX0vJHtwcm9qZWN0Lm5hbWV9IjogIiR7cHJvamVjdC5uYW1lfSIKICAgICAgICBkZWYgdW5pZmllZCA9IFN5c3RlbS5nZXRlbnYoIkRPQ0tFUl9SRUdJU1RSWSIpID8gIiR7U3lzdGVtLmdldGVudigiRE9DS0VSX1JFR0lTVFJZIil9LyR7YXBwbGljYXRpb259IjogIiR7YXBwbGljYXRpb259Igo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGluY2x1ZGVUYXNrQ29udGV4dC5wYXRoKCIkLlsqXS5hdHRyaWJ1dGVzLnN0YXR1cyIpLCBjb250YWlucyhUYXNrLlN0YXR1cy5QRU5ESU5HLCBUYXNrLlN0YXR1cy5QRU5ESU5HLCBUYXNrLlN0YXR1cy5QRU5ESU5HKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBNYXAgYXMgPSBleHRyYWN0LmFzKE1hcC5jbGFzcyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGluY2x1ZGVQaGFzZUNvbnRleHQucGF0aCgiJC5bKl0uYXR0cmlidXRlcy5uYW1lIiksIGNvbnRhaW5zSW5BbnlPcmRlcigi5ZCv5piO5Yy755Sf5o6l6K+KIiwgIuWQr+aYjuWMu+eUn+S4iuS8oOi1hOaWmSIsICLkuJPlrrbljLvnlJ/or4rnlpciKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oSnNvbi50b0pzb24oYXMpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oSnNvbi50b0pzb24ob2JqZWN0KSk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
@@ -7992,9 +7999,9 @@
       </register>
     </registers>
     <search>
-      <last-search>items</last-search>
+      <last-search>files</last-search>
       <last-offset />
-      <last-pattern>items</last-pattern>
+      <last-pattern>files</last-pattern>
       <last-replace>\$</last-replace>
       <last-substitute>\$\$</last-substitute>
       <last-dir>1</last-dir>
@@ -8002,7 +8009,6 @@
     </search>
     <history>
       <history-search>
-        <entry>R.USER_ID</entry>
         <entry>I.DEBITOR_ID</entry>
         <entry>fapiao_criteria</entry>
         <entry>_criteria</entry>
@@ -8022,6 +8028,7 @@
         <entry>$$</entry>
         <entry>\$\$</entry>
         <entry>items</entry>
+        <entry>files</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvLCQvZ2M=</entry>
