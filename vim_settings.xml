@@ -557,12 +557,12 @@
         <mark key="." line="65" column="71" />
         <mark key="^" line="65" column="71" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/test/java/com/blockycity/heimdallr/api/hospital/records/TreatmentRecordTest.java" timestamp="1537240795876">
-        <mark key="'" line="73" column="17" />
-        <mark key="[" line="90" column="58" />
-        <mark key="]" line="90" column="63" />
-        <mark key="^" line="90" column="63" />
-        <mark key="." line="90" column="63" />
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/test/java/com/blockycity/heimdallr/api/hospital/records/TreatmentRecordTest.java" timestamp="1537242347694">
+        <mark key="'" line="92" column="68" />
+        <mark key="[" line="93" column="59" />
+        <mark key="]" line="93" column="65" />
+        <mark key="^" line="93" column="65" />
+        <mark key="." line="93" column="65" />
       </file>
       <file name="/workspace/clients/soda/riihi/core/src/main/java/com/sodacar/riihi/core/Criteria.java" timestamp="1513754498805">
         <mark key="[" line="52" column="0" />
@@ -1274,11 +1274,11 @@
         <mark key="." line="21" column="56" />
         <mark key="^" line="21" column="56" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/java/com/blockycity/heimdallr/api/hospital/core/Treatment.java" timestamp="1537241027047">
-        <mark key="[" line="22" column="20" />
-        <mark key="]" line="25" column="24" />
-        <mark key="." line="25" column="24" />
-        <mark key="^" line="25" column="24" />
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/java/com/blockycity/heimdallr/api/hospital/core/Treatment.java" timestamp="1537242530911">
+        <mark key="[" line="23" column="24" />
+        <mark key="]" line="27" column="24" />
+        <mark key="." line="27" column="24" />
+        <mark key="^" line="27" column="24" />
       </file>
       <file name="/workspace/personal/features/identity/src/main/java/me/tzion/identity/IdentityValueFactoryProvider.java" timestamp="1516951340491">
         <mark key="[" line="13" column="0" />
@@ -1786,7 +1786,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="300" column="12" filename="/workspace/golang/src/github.com/cnupp/builder/helpers/run-build/run-build_test.go" />
       <jump line="325" column="5" filename="/workspace/golang/src/github.com/cnupp/builder/helpers/run-verify/run-verify_test.go" />
       <jump line="245" column="14" filename="/workspace/golang/src/github.com/cnupp/builder/helpers/run-build/run-build_test.go" />
       <jump line="20" column="16" filename="/workspace/golang/src/github.com/cnupp/builder/http/etc/supervisor/supervisord.conf" />
@@ -1886,6 +1885,7 @@
       <jump line="75" column="53" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/mybatis/mappers/TreatmentMapper.xml" />
       <jump line="0" column="0" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/mybatis/mappers/Records.xml" />
       <jump line="33" column="0" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/mybatis/mappers/TreatmentMapper.xml" />
+      <jump line="92" column="68" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/test/java/com/blockycity/heimdallr/api/hospital/records/TreatmentRecordTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1893,8 +1893,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>PENDING</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7932,13 +7932,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>paid</text>
+        <text>PENDING</text>
       </register>
       <register name="/" type="4">
         <text>treatment</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCByZXF1aXJlKFByZWRpY2F0ZTxPcmRlclJlY29yZD4gY29uc3VtZXIpIHsKICAgICAgICByZWZyZXNoKCk7CiAgICAgICAgaWYgKCFjb25zdW1lci50ZXN0KHRoaXMpKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJzdGF0dXMgc2hvdWxkIGJlIHBhaWQiKTsKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHRyZWF0bWVudC5waGFzZXMoKS5nZXQoMSkuc3RhdHVzKCkgLCBpcyhQRU5ESU5HKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
