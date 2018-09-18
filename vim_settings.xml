@@ -416,6 +416,10 @@
         <mark key="^" line="9" column="56" />
         <mark key="." line="36" column="19" />
       </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/db/migration/V2__init_tables.sql" timestamp="1537271568605">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="50" />
+      </file>
       <file name="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/junit/WuuliCleaner.java" timestamp="1513751455554">
         <mark key="[" line="20" column="45" />
         <mark key="]" line="20" column="50" />
@@ -463,11 +467,6 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
         <mark key="^" line="17" column="91" />
-      </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/java/com/blockycity/heimdallr/api/hospital/records/OrderRecord.java" timestamp="1537250595843">
-        <mark key="'" line="130" column="0" />
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="132" column="23" />
       </file>
       <file name="/workspace/clients/soda/riihi/records/src/main/java/com/sodacar/riihi/records/AbstractPaymentRequestRecord.java" timestamp="1515404475864">
         <mark key="[" line="137" column="25" />
@@ -743,6 +742,11 @@
         <mark key="]" line="28" column="7" />
         <mark key="." line="28" column="7" />
         <mark key="^" line="28" column="7" />
+      </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/test/java/com/blockycity/heimdallr/api/hospital/resources/TreatmentsResourceTest.java" timestamp="1537272199479">
+        <mark key="[" line="203" column="0" />
+        <mark key="]" line="203" column="0" />
+        <mark key="." line="203" column="0" />
       </file>
       <file name="/workspace/personal/guardian/src/main/java/com/morpheus/guardian/core/IValidatable.java" timestamp="1516255889955">
         <mark key="[" line="6" column="0" />
@@ -1520,12 +1524,11 @@
         <mark key="." line="15" column="4" />
         <mark key="^" line="15" column="86" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/java/com/blockycity/heimdallr/api/hospital/records/TreatmentRecord.java" timestamp="1537263491734">
-        <mark key="'" line="178" column="0" />
-        <mark key="[" line="92" column="19" />
-        <mark key="]" line="92" column="23" />
-        <mark key="." line="92" column="23" />
-        <mark key="^" line="92" column="23" />
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/java/com/blockycity/heimdallr/api/hospital/records/TreatmentRecord.java" timestamp="1537271627673">
+        <mark key="'" line="197" column="0" />
+        <mark key="[" line="211" column="0" />
+        <mark key="]" line="211" column="0" />
+        <mark key="." line="211" column="0" />
       </file>
       <file name="/workspace/6c/startup/rxright/heimdallr/services/files/build.gradle" timestamp="1537259208454" />
       <file name="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/sdk/vo/OrderRequest.java" timestamp="1537264950709">
@@ -7941,13 +7944,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>treatmentUri</text>
       </register>
       <register name="/" type="4">
         <text>files</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoIXBoYXNlLmlzUHJlc2VudCgpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBzdGF0dXMoNDA0KS5idWlsZCgpOwogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">CUNPTlNUUkFJTlQgTkFNRV9VTklRVUUgVU5JUVVFIChOQU1FLCBJU19ERUxFVEVEKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -7961,28 +7964,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CiAgICAgICAgTW9uZXkgb2YgPSBNb25leS5vZihDdXJyZW5jeVVuaXQuVVNELCAwLjAxKTsKLy8gICAgICAgIGRvdWJsZSBsID0gb2YuZ2V0QW1vdW50KCkuZG91YmxlVmFsdWUoKSAqIDEwMDsKICAgICAgICBsb25nIGwgPSB0b0NlbnRzKG9mKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obCk7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUGhhc2UgcGhhc2U7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsCg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcuZm9ybWF0KCIvdHJlYXRtZW50cy8iKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CiAgICAgICAgZG91YmxlIGwgPSBNb25leS5vZihDdXJyZW5jeVVuaXQuVVNELCAwLjAxKS5nZXRBbW91bnQoKS5kb3VibGVWYWx1ZSgpICogMTAwOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihsKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBmcm9tKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IG9iamVjdCA9IGN1cnJlbnRQaGFzZS5nZXQoMCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwdXQoImlkIiwgb3JkZXIuZ2V0SWQoKSk7CiAgICAgICAgICAgICAgICAgICAgcHV0KCJ0eXBlIiwgb3JkZXIuZ2V0VHlwZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oSnNvbi50b0pzb24ob2JqZWN0KSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE9wdGlvbmFsLmVtcHR5KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oSnNvbi50b0pzb24ob2JqZWN0KSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gT3B0aW9uYWwuZW1wdHkoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0cmVhdG1lbnRzLm9mKGlkKS5tYXAoCiAgICAgICAgICAgICAgICAKICAgICAgICApCiAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
