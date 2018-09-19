@@ -593,12 +593,12 @@
         <mark key="." line="65" column="71" />
         <mark key="^" line="65" column="71" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/test/java/com/blockycity/heimdallr/api/hospital/records/TreatmentRecordTest.java" timestamp="1537359079982">
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/test/java/com/blockycity/heimdallr/api/hospital/records/TreatmentRecordTest.java" timestamp="1537365308836">
         <mark key="'" line="158" column="0" />
-        <mark key="[" line="170" column="48" />
-        <mark key="]" line="170" column="63" />
-        <mark key="." line="170" column="48" />
-        <mark key="^" line="170" column="114" />
+        <mark key="[" line="170" column="66" />
+        <mark key="]" line="170" column="85" />
+        <mark key="." line="170" column="66" />
+        <mark key="^" line="170" column="65" />
       </file>
       <file name="/workspace/clients/soda/riihi/core/src/main/java/com/sodacar/riihi/core/Criteria.java" timestamp="1513754498805">
         <mark key="[" line="52" column="0" />
@@ -1944,7 +1944,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>bethune.getId()</text>
+        <text>is(bethune.getId())</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7987,8 +7987,8 @@
       <register name="/" type="4">
         <text>doctor_id</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgUEhBU0VTCglBREQgQ09MVU1OIFJFU1BPTlNJQkxFX0lEIEJJTkFSWSgxNik7CgpBTFRFUiBUQUJMRSBQSEFTRVMKCUFERCBDT0xVTU4gUkVTUE9OU0lCTEVfVFlQRSBWQVJDSEFSKDE2KTsK</text>
+      <register name="0" type="4">
+        <text>is(bethune.getId())</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAucmVzcG9uc2libGUoJCAtPiAkLnBhcnR5KDEpKQo=</text>
