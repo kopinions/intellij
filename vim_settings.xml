@@ -93,9 +93,9 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="30" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/envs/production/services/hospitals.env" timestamp="1537437360383">
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="4" column="16" />
+      <file name="/workspace/6c/startup/rxright/heimdallr/envs/production/services/hospitals.env" timestamp="1537439040266">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="55" />
         <mark key="." line="4" column="16" />
         <mark key="^" line="4" column="16" />
       </file>
@@ -414,7 +414,7 @@
         <mark key="." line="15" column="14" />
         <mark key="^" line="15" column="14" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/docker-compose.dev.yml" timestamp="1537418115796">
+      <file name="/workspace/6c/startup/rxright/heimdallr/docker-compose.dev.yml" timestamp="1537438509012">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -1606,13 +1606,6 @@
         <mark key="." line="11" column="15" />
         <mark key="^" line="11" column="15" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/docker-compose.prod.yml" timestamp="1537429740109">
-        <mark key="'" line="18" column="12" />
-        <mark key="[" line="18" column="9" />
-        <mark key="]" line="18" column="12" />
-        <mark key="." line="18" column="12" />
-        <mark key="^" line="18" column="12" />
-      </file>
       <file name="/workspace/clients/soda/riihi/core/src/main/java/com/sodacar/riihi/core/Exe.java" timestamp="1514599979608">
         <mark key="[" line="14" column="29" />
         <mark key="]" line="14" column="27" />
@@ -2001,7 +1994,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>fzv34HPKjzLf</text>
+        <text>uat.cjdduz4u07oy.rds.cn-north-1.amazonaws.com.cn</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -8044,8 +8037,8 @@
       <register name="/" type="4">
         <text>\/\.</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CnJlc291cmNlICJhd3Nfc2VjdXJpdHlfZ3JvdXBfcnVsZSIgImJhcmVfaHR0cHNfaW5ib3VuZF9pbnRlcm5ldF9hY2Nlc3NfZWxiIiB7CiAgdHlwZSA9ICJpbmdyZXNzIgogIGZyb21fcG9ydCA9IDAKICB0b19wb3J0ID0gNDQzCiAgcHJvdG9jb2wgPSAiLTEiCiAgY2lkcl9ibG9ja3MgPSBbCiAgICAiMC4wLjAuMC8wIgogIF0KICBzZWN1cml0eV9ncm91cF9pZCA9ICIke2F3c19zZWN1cml0eV9ncm91cC5lbGIuaWR9Igp9Cg==</text>
+      <register name="0" type="4">
+        <text>uat.cjdduz4u07oy.rds.cn-north-1.amazonaws.com.cn</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
