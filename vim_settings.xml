@@ -93,11 +93,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="30" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/envs/production/services/hospitals.env" timestamp="1537435658950">
+      <file name="/workspace/6c/startup/rxright/heimdallr/envs/production/services/hospitals.env" timestamp="1537437360383">
         <mark key="[" line="4" column="8" />
-        <mark key="]" line="4" column="8" />
-        <mark key="." line="4" column="8" />
-        <mark key="^" line="3" column="16" />
+        <mark key="]" line="4" column="16" />
+        <mark key="." line="4" column="16" />
+        <mark key="^" line="4" column="16" />
       </file>
       <file name="/workspace/personal/features/auth/gradle/wrapper/gradle-wrapper.properties" timestamp="1516758766066">
         <mark key="[" line="4" column="72" />
@@ -907,10 +907,10 @@
         <mark key="." line="26" column="67" />
         <mark key="^" line="26" column="67" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/envs/production/services/wechats.env" timestamp="1537435711091">
+      <file name="/workspace/6c/startup/rxright/heimdallr/envs/production/services/wechats.env" timestamp="1537437341516">
         <mark key="[" line="4" column="8" />
-        <mark key="]" line="4" column="19" />
-        <mark key="." line="4" column="19" />
+        <mark key="]" line="4" column="8" />
+        <mark key="." line="4" column="8" />
         <mark key="^" line="4" column="19" />
       </file>
       <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/db/migration/V25__add_avatar_relationship_for_hospitals_and_diseases.sql" timestamp="1537431737247" />
@@ -1179,11 +1179,11 @@
         <mark key="^" line="22" column="15" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/envs/production/services/identities.env" timestamp="1537435678071">
-        <mark key="[" line="1" column="8" />
-        <mark key="]" line="1" column="55" />
-        <mark key="." line="1" column="55" />
-        <mark key="^" line="1" column="55" />
+      <file name="/workspace/6c/startup/rxright/heimdallr/envs/production/services/identities.env" timestamp="1537437353474">
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="4" column="17" />
+        <mark key="." line="4" column="17" />
+        <mark key="^" line="4" column="17" />
       </file>
       <file name="/workspace/clients/soda/riihi/core/src/main/java/com/sodacar/riihi/core/exception/InvoiceException.java" timestamp="1513679321049">
         <mark key="[" line="9" column="25" />
@@ -1555,12 +1555,12 @@
         <mark key="." line="141" column="7" />
         <mark key="^" line="141" column="7" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/deployments/baremetal/main.tf" timestamp="1537435855044">
+      <file name="/workspace/6c/startup/rxright/heimdallr/deployments/baremetal/main.tf" timestamp="1537437227916">
         <mark key="'" line="68" column="7" />
-        <mark key="[" line="174" column="7" />
-        <mark key="]" line="174" column="7" />
-        <mark key="^" line="64" column="32" />
-        <mark key="." line="174" column="7" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="^" line="102" column="1" />
+        <mark key="." line="105" column="0" />
       </file>
       <file name="/workspace/clients/soda/riihi/core/src/main/java/com/sodacar/riihi/core/Invoice.java" timestamp="1515573614005">
         <mark key="[" line="184" column="19" />
@@ -1664,11 +1664,11 @@
         <mark key="^" line="38" column="39" />
         <mark key="." line="38" column="39" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/envs/production/services/files.env" timestamp="1537435634922">
+      <file name="/workspace/6c/startup/rxright/heimdallr/envs/production/services/files.env" timestamp="1537437365750">
         <mark key="[" line="4" column="8" />
-        <mark key="]" line="4" column="8" />
-        <mark key="." line="4" column="8" />
-        <mark key="^" line="3" column="13" />
+        <mark key="]" line="4" column="12" />
+        <mark key="." line="4" column="12" />
+        <mark key="^" line="4" column="12" />
       </file>
       <file name="/workspace/clients/soda/riihi/scaffold/src/main/java/com/sodacar/riihi/records/FapiaoRecord.java" timestamp="1514428220186">
         <mark key="[" line="37" column="60" />
@@ -2000,8 +2000,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YXB0IGluc3RhbGwgbHJ6c3oK</text>
+      <register name="&quot;" type="4">
+        <text>fzv34HPKjzLf</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -8039,16 +8039,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>fzv34HPKjzLf</text>
       </register>
       <register name="/" type="4">
         <text>\/\.</text>
       </register>
-      <register name="0" type="4">
-        <text>identities</text>
+      <register name="0" type="2">
+        <text encoding="base64">CnJlc291cmNlICJhd3Nfc2VjdXJpdHlfZ3JvdXBfcnVsZSIgImJhcmVfaHR0cHNfaW5ib3VuZF9pbnRlcm5ldF9hY2Nlc3NfZWxiIiB7CiAgdHlwZSA9ICJpbmdyZXNzIgogIGZyb21fcG9ydCA9IDAKICB0b19wb3J0ID0gNDQzCiAgcHJvdG9jb2wgPSAiLTEiCiAgY2lkcl9ibG9ja3MgPSBbCiAgICAiMC4wLjAuMC8wIgogIF0KICBzZWN1cml0eV9ncm91cF9pZCA9ICIke2F3c19zZWN1cml0eV9ncm91cC5lbGIuaWR9Igp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXB0IGluc3RhbGwgbHJ6c3oK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8059,7 +8059,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXB0IGluc3RhbGwgbHJ6c3oK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -8071,16 +8071,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBQcm9maWxlKCJ0ZXN0IikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBQcm9maWxlKCJ0ZXN0IikK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Li91cGRhdGUuc2gK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
