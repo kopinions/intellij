@@ -202,11 +202,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/deployments/baremetal/templates/user_data.sh" timestamp="1537421809944">
-        <mark key="[" line="8" column="32" />
-        <mark key="]" line="8" column="31" />
-        <mark key="." line="8" column="31" />
-        <mark key="^" line="8" column="31" />
+      <file name="/workspace/6c/startup/rxright/heimdallr/deployments/baremetal/templates/user_data.sh" timestamp="1537428080416">
+        <mark key="[" line="8" column="19" />
+        <mark key="]" line="8" column="23" />
+        <mark key="." line="8" column="23" />
+        <mark key="^" line="8" column="23" />
       </file>
       <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/core/Invoices.java" timestamp="1510556029833">
         <mark key="[" line="7" column="12" />
@@ -1946,7 +1946,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>${var.name}_${var.env}_docker</text>
+        <text>lrzsz</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7984,13 +7984,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>|</text>
+        <text>lrzsz</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">OiA=</text>
       </register>
-      <register name="0" type="4">
-        <text>${var.name}_${var.env}_docker</text>
+      <register name="0" type="2">
+        <text encoding="base64">YXB0LWdldCBpbnN0YWxsIC15IGxyenN6Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
