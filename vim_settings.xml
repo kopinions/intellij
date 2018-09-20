@@ -1528,11 +1528,12 @@
         <mark key="." line="141" column="7" />
         <mark key="^" line="141" column="7" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/deployments/baremetal/main.tf" timestamp="1537421541030">
-        <mark key="[" line="89" column="44" />
-        <mark key="]" line="89" column="46" />
-        <mark key="." line="89" column="46" />
-        <mark key="^" line="89" column="46" />
+      <file name="/workspace/6c/startup/rxright/heimdallr/deployments/baremetal/main.tf" timestamp="1537425952016">
+        <mark key="'" line="56" column="17" />
+        <mark key="[" line="120" column="22" />
+        <mark key="]" line="120" column="51" />
+        <mark key="." line="120" column="22" />
+        <mark key="^" line="120" column="21" />
       </file>
       <file name="/workspace/clients/soda/riihi/core/src/main/java/com/sodacar/riihi/core/Invoice.java" timestamp="1515573614005">
         <mark key="[" line="184" column="19" />
@@ -1837,7 +1838,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="552" column="3" filename="/workspace/6c/startup/rxright/heimdallr/docs/api/heimdallr.yml" />
       <jump line="566" column="23" filename="/workspace/6c/startup/rxright/heimdallr/docs/api/heimdallr.yml" />
       <jump line="1873" column="4" filename="/workspace/6c/startup/rxright/heimdallr/docs/api/heimdallr.yml" />
       <jump line="1881" column="23" filename="/workspace/6c/startup/rxright/heimdallr/docs/api/heimdallr.yml" />
@@ -1937,6 +1937,7 @@
       <jump line="0" column="0" filename="/workspace/6c/startup/rxright/heimdallr/envs/production/services/.hospitals.env" />
       <jump line="110" column="0" filename="/workspace/6c/startup/rxright/heimdallr/database.yml" />
       <jump line="2" column="0" filename="/workspace/6c/startup/rxright/heimdallr/database.yml" />
+      <jump line="56" column="17" filename="/workspace/6c/startup/rxright/heimdallr/deployments/baremetal/main.tf" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1944,8 +1945,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">RE9DS0VSX1JFUE89dHppb24gVkVSU0lPTj0xLjAuMCBncmFkbGUgYnVpbGREb2NrZXIK</text>
+      <register name="&quot;" type="4">
+        <text>${var.name}_${var.env}_docker</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -7988,8 +7989,8 @@
       <register name="/" type="4">
         <text encoding="base64">OiA=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">RE9DS0VSX1JFUE89dHppb24gVkVSU0lPTj0xLjAuMCBncmFkbGUgYnVpbGREb2NrZXIK</text>
+      <register name="0" type="4">
+        <text>${var.name}_${var.env}_docker</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
