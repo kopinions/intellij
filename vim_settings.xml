@@ -190,11 +190,11 @@
         <mark key="^" line="27" column="39" />
         <mark key="." line="9" column="13" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/mybatis/mappers/HospitalMapper.xml" timestamp="1537239120336">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="47" />
-        <mark key="^" line="27" column="44" />
-        <mark key="." line="25" column="0" />
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/mybatis/mappers/HospitalMapper.xml" timestamp="1537500371937">
+        <mark key="[" line="89" column="29" />
+        <mark key="]" line="89" column="29" />
+        <mark key="." line="89" column="29" />
+        <mark key="^" line="89" column="29" />
       </file>
       <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/java/com/blockycity/heimdallr/api/hospital/records/DummyRecord.java" timestamp="1537337162285">
         <mark key="[" line="6" column="16" />
@@ -256,11 +256,11 @@
         <mark key="." line="82" column="22" />
         <mark key="^" line="82" column="22" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/mybatis/mappers/DepartmentMapper.xml" timestamp="1536206319657">
-        <mark key="[" line="28" column="18" />
-        <mark key="]" line="28" column="18" />
-        <mark key="^" line="26" column="42" />
-        <mark key="." line="28" column="18" />
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/mybatis/mappers/DepartmentMapper.xml" timestamp="1537500440308">
+        <mark key="[" line="54" column="27" />
+        <mark key="]" line="55" column="7" />
+        <mark key="." line="55" column="7" />
+        <mark key="^" line="55" column="7" />
       </file>
       <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/java/com/blockycity/heimdallr/api/hospital/mybatis/mappers/TreatmentMapper.java" timestamp="1537249121584">
         <mark key="[" line="24" column="20" />
@@ -376,11 +376,11 @@
         <mark key="." line="20" column="45" />
         <mark key="^" line="20" column="45" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/mybatis/mappers/DiseaseMapper.xml" timestamp="1536206576595">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="^" line="41" column="45" />
-        <mark key="." line="39" column="0" />
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/mybatis/mappers/DiseaseMapper.xml" timestamp="1537500364132">
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="65" />
+        <mark key="^" line="96" column="31" />
+        <mark key="." line="97" column="65" />
       </file>
       <file name="/workspace/6c/startup/rxright/heimdallr/envs/dev/services/.wechats.env" timestamp="1537417769693">
         <mark key="[" line="1" column="8" />
@@ -773,6 +773,7 @@
         <mark key="." line="26" column="9" />
         <mark key="^" line="26" column="9" />
       </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/test/java/com/blockycity/heimdallr/api/hospital/IntegrationTest.java" timestamp="1537499805566" />
       <file name="/workspace/clients/soda/riihi/migration/src/main/resources/migration/mysql/MySQL-3__create_rental_base.sql" timestamp="1515506366843">
         <mark key="[" line="77" column="18" />
         <mark key="]" line="78" column="0" />
@@ -1281,11 +1282,11 @@
         <mark key="^" line="4" column="7" />
         <mark key="." line="4" column="7" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/db/migration/V27__disease_and_department_name_unique_constraint.sql" timestamp="1537496855872">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="5" column="60" />
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/db/migration/V27__disease_and_department_name_unique_constraint.sql" timestamp="1537500311648">
+        <mark key="[" line="18" column="12" />
+        <mark key="]" line="18" column="23" />
+        <mark key="." line="18" column="12" />
+        <mark key="^" line="15" column="24" />
       </file>
       <file name="/workspace/clients/billing/modules/features/sharding/src/main/java/com/accounting/billing/features/sharding/core/DatasourceProxy.java" timestamp="1511236703782">
         <mark key="[" line="9" column="17" />
@@ -2046,7 +2047,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CkFMVEVSIFRBQkxFIEhPU1BJVEFMUwoJTU9ESUZZIE5BTUVfVU5JUVVFIFZBUkNIQVIoMTYpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -8084,16 +8085,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>HOSPITALS</text>
       </register>
       <register name="/" type="4">
         <text>wechat</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CUFERCBDT05TVFJBSU5UIFRSRUFUTUVOVF9ET0NUT1JfRksgRk9SRUlHTiBLRVkgKERPQ1RPUl9JRCkgUkVGRVJFTkNFUyBET0NUT1JTIChJRCkK</text>
+        <text encoding="base64">ICAgICAgICAgIERFTEVURV9UT0tFTiA9IFJPVU5EKFVOSVhfVElNRVNUQU1QKENVUlRJTUUoNCkpICogMTAwMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CkFMVEVSIFRBQkxFIEhPU1BJVEFMUwoJTU9ESUZZIE5BTUVfVU5JUVVFIFZBUkNIQVIoMTYpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8104,28 +8105,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLSBlbnZzLyR7U1RBR0lOR30vYWxpeXVuLmVudgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNlY3JldC1rZXk6ICR7fQogICAgc2lnbi1uYW1lOiAke0FMSVlVTl9TTVNfU0lHTl9OQU1FfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VVBEQVRFIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CkFMVEVSIFRBQkxFIEhPU1BJVEFMUwoJTU9ESUZZIE5BTUVfVU5JUVVFIFZBUkNIQVIoMTYpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAiaW8uZnJhbnpiZWNrZXIuZ3JhZGxlLWxvbWJvayIK</text>
+        <text encoding="base64">ICAgICAgLSBlbnZzLyR7U1RBR0lOR30vYWxpeXVuLmVudgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAiaW8uZnJhbnpiZWNrZXIuZ3JhZGxlLWxvbWJvayIK</text>
+        <text encoding="base64">ICAgIHNlY3JldC1rZXk6ICR7fQogICAgc2lnbi1uYW1lOiAke0FMSVlVTl9TTVNfU0lHTl9OQU1FfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgIm9yZy5wcm9qZWN0bG9tYm9rOmxvbWJvazokbG9tYm9rIgo=</text>
+        <text encoding="base64">cAo=</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
@@ -8178,7 +8179,6 @@
         <entry encoding="base64">JzwsJz5zLyQkLyQvZ2M=</entry>
         <entry encoding="base64">JzwsJz5zL1wkXCQvXCQvZ2M=</entry>
         <entry>w3</entry>
-        <entry>reg</entry>
         <entry>we</entry>
         <entry>%s/envs\//envs\/production\//gc</entry>
         <entry>%s/production/\$\{STAGING\}/gc</entry>
@@ -8186,6 +8186,7 @@
         <entry>wq</entry>
         <entry>%s/\/\./\//gc</entry>
         <entry>q</entry>
+        <entry>reg</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
