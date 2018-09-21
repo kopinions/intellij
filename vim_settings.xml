@@ -954,6 +954,11 @@
         <mark key="." line="2" column="98" />
         <mark key="^" line="2" column="98" />
       </file>
+      <file name="/workspace/6c/startup/rxright/odin/.env.development" timestamp="1537506085431">
+        <mark key="[" line="1" column="24" />
+        <mark key="]" line="1" column="24" />
+        <mark key="." line="1" column="24" />
+      </file>
       <file name="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/RentalMapper.xml" timestamp="1515397127865">
         <mark key="[" line="194" column="98" />
         <mark key="]" line="194" column="97" />
@@ -1133,10 +1138,11 @@
         <mark key="^" line="11" column="10" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/envs/dev/services/wechats.env" timestamp="1537446417963">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="15" />
-        <mark key="." line="6" column="0" />
+      <file name="/workspace/6c/startup/rxright/heimdallr/envs/dev/services/wechats.env" timestamp="1537506534908">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="15" />
+        <mark key="." line="1" column="15" />
+        <mark key="^" line="1" column="15" />
       </file>
       <file name="/workspace/clients/soda/riihi/core/src/main/java/com/sodacar/riihi/core/TransactionHistoryRepository.java" timestamp="1514181519204">
         <mark key="[" line="3" column="13" />
@@ -2046,8 +2052,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>localhost</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -8085,7 +8091,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>HOSPITALS</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
         <text>wechat</text>
