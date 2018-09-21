@@ -532,9 +532,9 @@
         <mark key="." line="137" column="25" />
         <mark key="^" line="137" column="36" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/db/migration/V20__add_doctor_for_treatment.sql" timestamp="1537156242777">
-        <mark key="[" line="4" column="72" />
-        <mark key="]" line="4" column="78" />
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/db/migration/V20__add_doctor_for_treatment.sql" timestamp="1537496783491">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="83" />
         <mark key="." line="4" column="78" />
         <mark key="^" line="4" column="78" />
       </file>
@@ -1280,11 +1280,11 @@
         <mark key="^" line="4" column="7" />
         <mark key="." line="4" column="7" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/db/migration/V27__disease_and_department_name_unique_constraint.sql" timestamp="1537494432186">
-        <mark key="[" line="4" column="9" />
-        <mark key="]" line="4" column="19" />
-        <mark key="." line="4" column="19" />
-        <mark key="^" line="4" column="19" />
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/db/migration/V27__disease_and_department_name_unique_constraint.sql" timestamp="1537496855872">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="5" column="60" />
       </file>
       <file name="/workspace/clients/billing/modules/features/sharding/src/main/java/com/accounting/billing/features/sharding/core/DatasourceProxy.java" timestamp="1511236703782">
         <mark key="[" line="9" column="17" />
@@ -1731,6 +1731,7 @@
         <mark key="." line="37" column="3" />
         <mark key="^" line="37" column="3" />
       </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/db/migration/V14__create_patients.sql" timestamp="1537496719388" />
       <file name="/workspace/6c/startup/rxright/heimdallr/infrastructures/config/src/main/resources/shared/identities.yml" timestamp="1537446288081">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="17" column="22" />
@@ -2043,8 +2044,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>RESPONSIBLE_TYPE</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CkFMVEVSIFRBQkxFIEhPU1BJVEFMUwoJTU9ESUZZIE5BTUVfVU5JUVVFIFZBUkNIQVIoMTYpOwo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -8082,16 +8083,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>RESPONSIBLE_TYPE</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>wechat</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QUxJWVVOX1NNU19TSUdOX05BTUU95ZCv5piO5Yy755SfCkFMSVlVTl9TTVNfQUNDRVNTX0tFWT1MVEFJc0ZrbGd3T3lJeTdnCkFMSVlVTl9TTVNfU0VDUkVUX0tFWT1OY0lIUHZsRG55VGRzZW5MRVBJWTNMbktXQ0FETTAK</text>
+        <text encoding="base64">CUFERCBDT05TVFJBSU5UIFRSRUFUTUVOVF9ET0NUT1JfRksgRk9SRUlHTiBLRVkgKERPQ1RPUl9JRCkgUkVGRVJFTkNFUyBET0NUT1JTIChJRCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSBlbnZzLyR7U1RBR0lOR30vYWxpeXVuLmVudgo=</text>
+        <text encoding="base64">CkFMVEVSIFRBQkxFIEhPU1BJVEFMUwoJTU9ESUZZIE5BTUVfVU5JUVVFIFZBUkNIQVIoMTYpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8102,28 +8103,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNlY3JldC1rZXk6ICR7fQogICAgc2lnbi1uYW1lOiAke0FMSVlVTl9TTVNfU0lHTl9OQU1FfQo=</text>
+        <text encoding="base64">ICAgICAgLSBlbnZzLyR7U1RBR0lOR30vYWxpeXVuLmVudgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cAo=</text>
+        <text encoding="base64">ICAgIHNlY3JldC1rZXk6ICR7fQogICAgc2lnbi1uYW1lOiAke0FMSVlVTl9TTVNfU0lHTl9OQU1FfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAiaW8uZnJhbnpiZWNrZXIuZ3JhZGxlLWxvbWJvayIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">YXBwbHkgcGx1Z2luOiAiaW8uZnJhbnpiZWNrZXIuZ3JhZGxlLWxvbWJvayIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgIm9yZy5wcm9qZWN0bG9tYm9rOmxvbWJvazokbG9tYm9rIgo=</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAiaW8uZnJhbnpiZWNrZXIuZ3JhZGxlLWxvbWJvayIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFwcGx5IHBsdWdpbjogJ2phdmEnCg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgIm9yZy5wcm9qZWN0bG9tYm9rOmxvbWJvazokbG9tYm9rIgo=</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
