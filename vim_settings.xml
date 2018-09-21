@@ -171,13 +171,6 @@
         <mark key="." line="10" column="4" />
         <mark key="^" line="8" column="28" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/envs/production/services/.hospitals.env" timestamp="1537417085665">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="1" column="8" />
-        <mark key="]" line="1" column="16" />
-        <mark key="^" line="1" column="16" />
-        <mark key="." line="1" column="16" />
-      </file>
       <file name="/workspace/golang/src/github.com/cnupp/builder/Dockerfile" timestamp="1517967788148">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="19" />
@@ -1486,6 +1479,12 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="31" column="43" />
       </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/db/migration/V28__disease_and_department_name_unique_constraint.sql" timestamp="1537517744036">
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="1" column="15" />
+        <mark key="^" line="1" column="15" />
+        <mark key="." line="1" column="15" />
+      </file>
       <file name="/workspace/clients/soda/riihi/migration/src/main/resources/migration/mysql/MySQL-17__create_refund_requests_related.sql" timestamp="1515566365482">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="12" column="36" />
@@ -1593,13 +1592,6 @@
         <mark key="." line="141" column="7" />
         <mark key="^" line="141" column="7" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/deployments/baremetal/main.tf" timestamp="1537437227916">
-        <mark key="'" line="68" column="7" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="^" line="102" column="1" />
-        <mark key="." line="105" column="0" />
-      </file>
       <file name="/workspace/clients/soda/riihi/core/src/main/java/com/sodacar/riihi/core/Invoice.java" timestamp="1515573614005">
         <mark key="[" line="184" column="19" />
         <mark key="]" line="184" column="19" />
@@ -1618,25 +1610,11 @@
         <mark key="." line="39" column="38" />
         <mark key="^" line="39" column="44" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/docker-compose.yml" timestamp="1537448030780">
-        <mark key="'" line="74" column="47" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-        <mark key="^" line="49" column="42" />
-      </file>
       <file name="/workspace/personal/features/identity/README.md" timestamp="1517276006327">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="4" />
         <mark key="." line="15" column="4" />
         <mark key="^" line="15" column="86" />
-      </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/java/com/blockycity/heimdallr/api/hospital/records/TreatmentRecord.java" timestamp="1537431641586">
-        <mark key="'" line="327" column="0" />
-        <mark key="[" line="306" column="0" />
-        <mark key="]" line="306" column="0" />
-        <mark key="^" line="305" column="47" />
-        <mark key="." line="306" column="0" />
       </file>
       <file name="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/sdk/vo/OrderRequest.java" timestamp="1537264950709">
         <mark key="[" line="11" column="12" />
@@ -1935,13 +1913,6 @@
         <mark key="]" line="221" column="7" />
         <mark key="." line="221" column="7" />
         <mark key="^" line="221" column="7" />
-      </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/mybatis/mappers/Columns.xml" timestamp="1537431726734">
-        <mark key="'" line="159" column="45" />
-        <mark key="[" line="162" column="35" />
-        <mark key="]" line="162" column="35" />
-        <mark key="." line="162" column="35" />
-        <mark key="^" line="162" column="35" />
       </file>
     </filemarks>
     <jumps>
