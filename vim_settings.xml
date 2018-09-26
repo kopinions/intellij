@@ -14,7 +14,7 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1537884665923">
+      <file name="/a.dummy" timestamp="1537889323697">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/workspace/clients/soda/riihi/core/src/main/java/com/sodacar/riihi/core/FapiaoRepository.java" timestamp="1514534998341">
@@ -1929,11 +1929,11 @@
         <mark key="." line="40" column="23" />
         <mark key="^" line="40" column="31" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/records/Wechat.java" timestamp="1537886328937">
-        <mark key="[" line="18" column="59" />
-        <mark key="]" line="18" column="64" />
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/records/Wechat.java" timestamp="1537889485976">
+        <mark key="[" line="41" column="43" />
+        <mark key="]" line="41" column="43" />
         <mark key="^" line="18" column="64" />
-        <mark key="." line="18" column="64" />
+        <mark key="." line="41" column="43" />
       </file>
       <file name="/workspace/golang/src/github.com/cnupp/builder/http/usr/bin/fcgi" timestamp="1517905579928">
         <mark key="[" line="8" column="0" />
@@ -1941,10 +1941,10 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="8" column="35" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/core/Channel.java" timestamp="1537884085437">
-        <mark key="[" line="5" column="4" />
-        <mark key="]" line="5" column="4" />
-        <mark key="." line="5" column="4" />
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/core/Channel.java" timestamp="1537889133700">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/records/FapiaoRepositoryTest.java" timestamp="1516096544737">
         <mark key="[" line="291" column="31" />
@@ -2062,7 +2062,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>PaymentRequestsResource</text>
+        <text>getStringObjectMap</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -8100,7 +8100,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>PaymentRequestsResource</text>
+        <text>getStringObjectMap</text>
       </register>
       <register name="/" type="4">
         <text>wechat</text>
@@ -8109,7 +8109,7 @@
         <text encoding="base64">CiAgICBASW5qZWN0CiAgICBwcml2YXRlIENvbmZpZyBjb25maWc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIExvZ2dlciBMT0dHRVIgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihQYXltZW50UmVxdWVzdHNSZXNvdXJjZS5jbGFzcyk7Cg==</text>
+        <text encoding="base64">CiAgICBTb3VyY2Ugc291cmNlKCk7CgogICAgaW50ZXJmYWNlIFNvdXJjZSB7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8120,28 +8120,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIExvZ2dlciBMT0dHRVIgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihQYXltZW50UmVxdWVzdHNSZXNvdXJjZS5jbGFzcyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gY3JlYXRlZChVUkkuY3JlYXRlKHVyaUluZm8uZ2V0UmVxdWVzdFVyaSgpLnRvU3RyaW5nKCkgKyAiLyIgKyByZXF1ZXN0LmdldElkKCkpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLmVudGl0eShyZXF1ZXN0KQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLmJ1aWxkKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBQYXltZW50UmVxdWVzdCByZXF1ZXN0ID0gV2VjaGF0LmdldFBheW1lbnRSZXF1ZXN0KHBheWxvYWQsIG8sIHRoaXMucGF5bWVudFJlcXVlc3RzLCB0aGlzLnBheW1lbnRTZXJ2aWNlLCB0aGlzLmNvbmZpZyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gY3JlYXRlZChVUkkuY3JlYXRlKHVyaUluZm8uZ2V0UmVxdWVzdFVyaSgpLnRvU3RyaW5nKCkgKyAiLyIgKyByZXF1ZXN0LmdldElkKCkpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLmVudGl0eShyZXF1ZXN0KQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLmJ1aWxkKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5tYXAoJCAtPiAkLmFwcGxpZWQob3JkZXIsIHBheWxvYWQpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBQYXltZW50UmVxdWVzdCByZXF1ZXN0ID0gV2VjaGF0LmdldFBheW1lbnRSZXF1ZXN0KHBheWxvYWQsIG8sIHRoaXMucGF5bWVudFJlcXVlc3RzLCB0aGlzLnBheW1lbnRTZXJ2aWNlLCB0aGlzLmNvbmZpZyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5tYXAoJCAtPiAkLmFwcGxpZWQob3JkZXIsIHBheWxvYWQpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gT3B0aW9uYWwuZW1wdHkoKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBQYXltZW50UmVxdWVzdCByZXF1ZXN0ID0gZ2V0UGF5bWVudFJlcXVlc3QocGF5bG9hZCwgaWQsIG8sIHRoaXMucGF5bWVudFJlcXVlc3RzLCB0aGlzLnBheW1lbnRTZXJ2aWNlLCB0aGlzLmNvbmZpZyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gT3B0aW9uYWwuZW1wdHkoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGNoYW5uZWxzLm1hdGNoZWQocGF5bG9hZCkKLy8gICAgICAgICAgICAgICAgLm1hcCgkIC0+ICQuYXBwbGllZChwYXlsb2FkKSkKLy8gICAgICAgICAgICAgICAgLm9yRWxzZVRocm93KFJ1bnRpbWVFeGNlcHRpb246Om5ldyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBQYXltZW50UmVxdWVzdCByZXF1ZXN0ID0gZ2V0UGF5bWVudFJlcXVlc3QocGF5bG9hZCwgaWQsIG8sIHRoaXMucGF5bWVudFJlcXVlc3RzLCB0aGlzLnBheW1lbnRTZXJ2aWNlLCB0aGlzLmNvbmZpZyk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
