@@ -421,9 +421,9 @@
         <mark key="^" line="43" column="13" />
         <mark key="." line="43" column="13" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/docker-compose.dev.yml" timestamp="1537438509012">
+      <file name="/workspace/6c/startup/rxright/heimdallr/docker-compose.dev.yml" timestamp="1537927905961">
         <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
+        <mark key="]" line="13" column="19" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="7" column="26" />
       </file>
@@ -746,6 +746,11 @@
         <mark key="." line="6" column="22" />
         <mark key="^" line="8" column="29" />
       </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/envs/qa/commons.env" timestamp="1537928156917">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+      </file>
       <file name="/workspace/clients/soda/riihi/scaffold/src/main/java/com/sodacar/riihi/records/RefundRequestRepository.java" timestamp="1514288882087">
         <mark key="[" line="40" column="38" />
         <mark key="]" line="40" column="38" />
@@ -926,6 +931,11 @@
         <mark key="]" line="6" column="15" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="1" column="19" />
+      </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/docker-compose.qa.yml" timestamp="1537927912179">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="/workspace/clients/soda/riihi/api/src/main/java/com/sodacar/riihi/api/FapiaoRequestsResource.java" timestamp="1515485663793">
         <mark key="[" line="22" column="111" />
@@ -1315,11 +1325,11 @@
         <mark key="." line="6" column="3" />
         <mark key="^" line="6" column="3" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/resources/PaymentRequestsResource.java" timestamp="1537886147320">
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/resources/PaymentRequestsResource.java" timestamp="1537927622344">
         <mark key="[" line="27" column="28" />
-        <mark key="]" line="27" column="28" />
-        <mark key="^" line="46" column="42" />
-        <mark key="." line="27" column="28" />
+        <mark key="]" line="46" column="66" />
+        <mark key="^" line="46" column="66" />
+        <mark key="." line="46" column="67" />
       </file>
       <file name="/workspace/clients/soda/riihi/scaffold/src/main/java/com/sodacar/riihi/api/message/RequestBodyReader.java" timestamp="1516586674696">
         <mark key="[" line="23" column="3" />
@@ -1660,6 +1670,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/docker-compose.prod.yml" timestamp="1537927899499" />
       <file name="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/records/WechatMPChannel.java" timestamp="1537926342496">
         <mark key="'" line="17" column="13" />
         <mark key="[" line="36" column="24" />
@@ -2079,8 +2090,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>DEBUG</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -8118,16 +8129,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>process</text>
+        <text>DEBUG</text>
       </register>
       <register name="/" type="4">
         <text>wechat</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgICBASW5qZWN0CiAgICBwcml2YXRlIENvbmZpZyBjb25maWc7Cg==</text>
+        <text encoding="base64">ICBkYXRhYmFzZToKICAgICAgaW1hZ2U6IG15c3FsOjUuNwogICAgICByZXN0YXJ0OiBhbHdheXMKICAgICAgY29tbWFuZDogLS1sb3dlci1jYXNlLXRhYmxlLW5hbWVzPTEgLS1jaGFyYWN0ZXItc2V0LXNlcnZlcj11dGY4bWI0IC0tY29sbGF0aW9uLXNlcnZlcj11dGY4bWI0X3VuaWNvZGVfY2kKICAgICAgdm9sdW1lczoKICAgICAgICAtIC4vZW52cy8ke1NUQUdJTkd9L3NxbHM6L2RvY2tlci1lbnRyeXBvaW50LWluaXRkYi5kCiAgICAgIGVudmlyb25tZW50OgogICAgICAgIE1ZU1FMX1VTRVI6IG15c3FsCiAgICAgICAgTVlTUUxfUEFTU1dPUkQ6IG15c3FsCiAgICAgICAgTVlTUUxfUk9PVF9QQVNTV09SRDogbXlzcWwKICAgICAgcG9ydHM6CiAgICAgICAgLSAzMzA2OjMzMDYK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8141,13 +8152,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -8159,13 +8170,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBQYXltZW50U2VydmljZSBwYXltZW50U2VydmljZSA9IHdlY2hhdC5wYXltZW50U2VydmljZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -8216,11 +8227,11 @@
         <entry>%s/envs\//envs\/production\//gc</entry>
         <entry>%s/production/\$\{STAGING\}/gc</entry>
         <entry>%s/: /=/gc</entry>
-        <entry>wq</entry>
         <entry>%s/\/\./\//gc</entry>
         <entry>q</entry>
         <entry>reg</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
