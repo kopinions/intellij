@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="/workspace/clients/soda/riihi/migration/src/main/resources/migration/mysql/MySQL-39__add_fapiao_content.sql" timestamp="1515547021381">
@@ -1560,6 +1560,7 @@
         <mark key="]" line="8" column="12" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/java/com/blockycity/heimdallr/api/hospital/resources/CiphersResource.java" timestamp="1538061143834" />
       <file name="/workspace/clients/soda/riihi/migration/src/main/resources/migration/mysql/MySQL-23__remove_invoice_through_channel.sql" timestamp="1515137096794">
         <mark key="[" line="4" column="14" />
         <mark key="]" line="4" column="20" />
@@ -1945,11 +1946,11 @@
         <mark key="]" line="6" column="22" />
         <mark key="." line="6" column="22" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/infrastructures/config/src/main/resources/shared/application.yml" timestamp="1537943001140">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="21" />
-        <mark key="." line="2" column="21" />
-        <mark key="^" line="2" column="20" />
+      <file name="/workspace/6c/startup/rxright/heimdallr/infrastructures/config/src/main/resources/shared/application.yml" timestamp="1538060627577">
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="5" column="13" />
+        <mark key="." line="5" column="13" />
+        <mark key="^" line="5" column="13" />
       </file>
       <file name="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/FapiaoRequestsRecords.xml" timestamp="1515678747312">
         <mark key="[" line="26" column="0" />
@@ -2285,8 +2286,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CiAgICAgICAgU3RyaW5nIGlwID0gIjExNy4zMy4xMjQuMTQ0LCAxNzIuMzEuMTcuMzkiOwogICAgICAgIGlmIChpcCAhPSBudWxsICYmIGlwLmNvbnRhaW5zKCIsIikpIHsKICAgICAgICAgICAgU3RyaW5nW10gaXBzID0gaXAuc3BsaXQoIiwiKTsKICAgICAgICAgICAgaXAgPSBpcHNbMF07CiAgICAgICAgfQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihpcCk7CgogICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>DEBUG</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -8324,7 +8325,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ip</text>
+        <text>DEBUG</text>
       </register>
       <register name="/" type="4">
         <text>wechat</text>
