@@ -130,11 +130,10 @@
         <mark key="^" line="2" column="33" />
         <mark key="." line="2" column="33" />
       </file>
-      <file name="/workspace/6c/startup/rxright/sunny-doctor-web-client/vue.config.js" timestamp="1537968411566">
-        <mark key="[" line="14" column="26" />
-        <mark key="]" line="14" column="26" />
-        <mark key="^" line="14" column="26" />
-        <mark key="." line="14" column="26" />
+      <file name="/workspace/6c/startup/rxright/sunny-doctor-web-client/vue.config.js" timestamp="1538037978527">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="/workspace/personal/guardian/src/main/java/com/morpheus/guardian/dsl/Validatable.java" timestamp="1516612966199">
         <mark key="[" line="31" column="64" />
@@ -288,6 +287,12 @@
         <mark key="]" line="5" column="29" />
         <mark key="." line="5" column="29" />
         <mark key="^" line="5" column="29" />
+      </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/resources/mybatis/mappers/PaymentRequests.xml" timestamp="1538038781415">
+        <mark key="[" line="19" column="34" />
+        <mark key="]" line="19" column="40" />
+        <mark key="^" line="19" column="40" />
+        <mark key="." line="19" column="40" />
       </file>
       <file name="/workspace/golang/src/github.com/cnupp/builder/hooks/pre-commit" timestamp="1517966436024">
         <mark key="[" line="0" column="11" />
@@ -696,7 +701,12 @@
         <mark key="." line="5" column="9" />
         <mark key="^" line="5" column="9" />
       </file>
-      <file name="/workspace/6c/startup/rxright/sunny-doctor-web-client/src/utils/request.js" timestamp="1537972202118" />
+      <file name="/workspace/6c/startup/rxright/sunny-doctor-web-client/src/utils/request.js" timestamp="1538036818328">
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="7" column="12" />
+        <mark key="^" line="7" column="51" />
+        <mark key="." line="7" column="12" />
+      </file>
       <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/java/com/blockycity/heimdallr/api/hospital/mybatis/mappers/ProductMapper.java" timestamp="1536204164627">
         <mark key="[" line="17" column="32" />
         <mark key="]" line="17" column="40" />
@@ -1385,10 +1395,11 @@
         <mark key="." line="6" column="3" />
         <mark key="^" line="6" column="3" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/resources/PaymentRequestsResource.java" timestamp="1537969934312">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/resources/PaymentRequestsResource.java" timestamp="1538038785408">
+        <mark key="[" line="43" column="67" />
+        <mark key="]" line="48" column="23" />
+        <mark key="." line="48" column="23" />
+        <mark key="^" line="48" column="23" />
       </file>
       <file name="/workspace/clients/soda/riihi/scaffold/src/main/java/com/sodacar/riihi/api/message/RequestBodyReader.java" timestamp="1516586674696">
         <mark key="[" line="23" column="3" />
@@ -1735,7 +1746,7 @@
         <mark key="." line="39" column="38" />
         <mark key="^" line="39" column="44" />
       </file>
-      <file name="/workspace/6c/startup/rxright/sunny-doctor-web-client/src/views/payment/index.vue" timestamp="1537972760446">
+      <file name="/workspace/6c/startup/rxright/sunny-doctor-web-client/src/views/payment/index.vue" timestamp="1538037474734">
         <mark key="[" line="82" column="44" />
         <mark key="]" line="83" column="39" />
         <mark key="." line="83" column="39" />
@@ -2200,8 +2211,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIENoYW5uZWwgY2hhbm5lbDsK</text>
+      <register name="&quot;" type="4">
+        <text>channel</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -8239,16 +8250,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Bill</text>
+        <text>channel</text>
       </register>
       <register name="/" type="4">
         <text>wechat</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwdXRTaW5nbGUoIkxvY2F0aW9uIiwgIi9wYXltZW50LXJlcXVlc3RzLyIgKyBwbGFjZS5nZXRJZCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAje3BheWxvYWQuZGF0YS5hdHRyaWJ1dGVzLmNoYW5uZWx9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIENoYW5uZWwgY2hhbm5lbDsK</text>
+        <text encoding="base64">ICAgICAgICBwYXlsb2FkLmdldCgiIikK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8259,25 +8270,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB1cmlJbmZvLmdldAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBDaGFubmVsIGNoYW5uZWwoKSB7CiAgICAgICAgcmV0dXJuIGNoYW5uZWw7Cg==</text>
+        <text encoding="base64">ICAgIC8vIHNldHRpbmcgaG9zdCBzaG91bGQgbm90IGJlIG5lY2Vzc2FyeQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGhvc3Q6ICcwLjAuMC4wOjgwODAnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIENoYW5uZWwgY2hhbm5lbCgpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYzogJzAuMC4wLjA6ODA4MCcsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEJpbGwoKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgaW50IHN0YXR1cygpIHsKICAgICAgICAgICAgICAgIHJldHVybiAyMDE7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgTXVsdGl2YWx1ZWRNYXA8U3RyaW5nLCBPYmplY3Q+IGhlYWRlcnMoKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gbmV3IE11bHRpdmFsdWVkSGFzaE1hcDxTdHJpbmcsIE9iamVjdD4oKSB7ewogICAgICAgICAgICAgICAgICAgIHB1dFNpbmdsZSgiTG9jYXRpb24iLCAiL3BheW1lbnQtcmVxdWVzdHMvIiArIHBsYWNlLmdldElkKCkpOwogICAgICAgICAgICAgICAgICAgIHB1dFNpbmdsZSgiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKTsKICAgICAgICAgICAgICAgIH19OwogICAgICAgICAgICB9CgogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIDxUPiBUIHBheWxvYWQoKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gKFQpIHBsYWNlOwogICAgICAgICAgICB9CiAgICAgICAgfTsK</text>
+        <text encoding="base64">ICAgIENoYW5uZWwgY2hhbm5lbDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyA8VD4gVCBwYXlsb2FkKCkgewogICAgICAgICAgICAgICAgcmV0dXJuIChUKSByZXF1ZXN0OwogICAgICAgICAgICB9CiAgICAgICAgfTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEJpbGwoKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgaW50IHN0YXR1cygpIHsKICAgICAgICAgICAgICAgIHJldHVybiAyMDE7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgTXVsdGl2YWx1ZWRNYXA8U3RyaW5nLCBPYmplY3Q+IGhlYWRlcnMoKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gbmV3IE11bHRpdmFsdWVkSGFzaE1hcDxTdHJpbmcsIE9iamVjdD4oKSB7ewovLyAgICAgICAgICAgICAgICAgICAgU3RyaW5nIGxvY2F0aW9uID0gSnNvbkNvbnRleHQuZnJvbSgoKFJlY29yZCkgcmVxdWVzdCkudG9Kc29uKCkpLnBhdGgoImRhdGEuYXR0cmlidXRlcy5td2ViX3VybCIpOwovLyAgICAgICAgICAgICAgICAgICAgcHV0U2luZ2xlKCJMb2NhdGlvbiIsIGxvY2F0aW9uKTsKICAgICAgICAgICAgICAgIH19OwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBDaGFubmVsIGNoYW5uZWwoKSB7CiAgICAgICAgcmV0dXJuIGNoYW5uZWw7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
