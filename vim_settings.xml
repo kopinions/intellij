@@ -9,9 +9,6 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1538039165523">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/workspace/clients/soda/riihi/core/src/main/java/com/sodacar/riihi/core/FapiaoRepository.java" timestamp="1514534998341">
         <mark key="[" line="12" column="29" />
         <mark key="]" line="12" column="28" />
@@ -60,6 +57,12 @@
         <mark key="." line="8" column="42" />
         <mark key="^" line="8" column="39" />
       </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/resources/db/migration/V3__create_context_for_the_payment_request.sql" timestamp="1538045821175">
+        <mark key="[" line="2" column="36" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="1" column="17" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="/workspace/clients/soda/riihi/core/src/main/java/com/sodacar/riihi/core/exception/SpecialPaymentException.java" timestamp="1515489914978">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -95,6 +98,12 @@
         <mark key="]" line="51" column="64" />
         <mark key="." line="51" column="64" />
         <mark key="^" line="51" column="64" />
+      </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/test/java/com/blockycity/heimdallr/api/wechat/records/PaymentRequestsTest.java" timestamp="1538045944461">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
+        <mark key="^" line="55" column="42" />
       </file>
       <file name="/workspace/clients/soda/riihi/core/src/main/java/com/sodacar/riihi/core/SpecialPaymentsRepository.java" timestamp="1515485966067">
         <mark key="[" line="10" column="4" />
@@ -743,11 +752,11 @@
         <mark key="." line="6" column="45" />
         <mark key="^" line="6" column="45" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/resources/PaymentRequestsResource.java" timestamp="1538039260842">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="63" column="39" />
-        <mark key="." line="44" column="0" />
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/resources/PaymentRequestsResource.java" timestamp="1538045442534">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="61" column="39" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/db/migration/V23__add_phase_results_related.sql" timestamp="1537275721116">
         <mark key="[" line="1" column="26" />
@@ -923,11 +932,11 @@
         <mark key="." line="20" column="69" />
         <mark key="^" line="20" column="69" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/records/PaymentRequestRecord.java" timestamp="1538039556603">
-        <mark key="[" line="21" column="24" />
-        <mark key="]" line="21" column="30" />
-        <mark key="." line="21" column="30" />
-        <mark key="^" line="21" column="30" />
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/records/PaymentRequestRecord.java" timestamp="1538045383257">
+        <mark key="[" line="76" column="41" />
+        <mark key="]" line="76" column="47" />
+        <mark key="." line="76" column="47" />
+        <mark key="^" line="76" column="47" />
       </file>
       <file name="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/junit/DatabaseTestRunner.java" timestamp="1516758018337">
         <mark key="[" line="39" column="38" />
@@ -999,6 +1008,10 @@
         <mark key="]" line="11" column="52" />
         <mark key="." line="11" column="52" />
         <mark key="^" line="11" column="52" />
+      </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/db/migration/V9__update_created_at_and_updated_at_for_all_tables.sql" timestamp="1538045204828">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="32" />
       </file>
       <file name="/workspace/golang/src/github.com/cnupp/builder/helpers/run-verify/run-verify.go" timestamp="1517385441668">
         <mark key="[" line="69" column="0" />
@@ -1213,10 +1226,10 @@
         <mark key="." line="24" column="20" />
         <mark key="^" line="22" column="43" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/resources/mybatis/mappers/PaymentRequests.xml" timestamp="1538040013596">
-        <mark key="[" line="19" column="43" />
-        <mark key="]" line="19" column="43" />
-        <mark key="." line="19" column="43" />
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/resources/mybatis/mappers/PaymentRequests.xml" timestamp="1538045857392">
+        <mark key="[" line="10" column="8" />
+        <mark key="]" line="10" column="14" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/java/com/blockycity/heimdallr/api/hospital/records/PatientRecord.java" timestamp="1537175538013">
         <mark key="[" line="62" column="0" />
@@ -1392,11 +1405,11 @@
         <mark key="^" line="7" column="51" />
         <mark key="." line="7" column="12" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/resources/mybatis/mappers/Records.xml" timestamp="1538039470217">
-        <mark key="[" line="8" column="43" />
-        <mark key="]" line="8" column="49" />
-        <mark key="." line="8" column="49" />
-        <mark key="^" line="8" column="49" />
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/resources/mybatis/mappers/Records.xml" timestamp="1538045522967">
+        <mark key="[" line="7" column="43" />
+        <mark key="]" line="7" column="50" />
+        <mark key="." line="7" column="50" />
+        <mark key="^" line="8" column="51" />
       </file>
       <file name="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/junit/ConcurrentSupport.java" timestamp="1513653225167">
         <mark key="[" line="32" column="31" />
@@ -1549,11 +1562,11 @@
         <mark key="^" line="10" column="81" />
         <mark key="." line="10" column="81" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/resources/mybatis/mappers/Columns.xml" timestamp="1538039441019">
-        <mark key="[" line="9" column="37" />
-        <mark key="]" line="9" column="43" />
-        <mark key="." line="9" column="43" />
-        <mark key="^" line="9" column="43" />
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/resources/mybatis/mappers/Columns.xml" timestamp="1538045483192">
+        <mark key="[" line="8" column="46" />
+        <mark key="]" line="8" column="46" />
+        <mark key="^" line="8" column="46" />
+        <mark key="." line="8" column="46" />
       </file>
       <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/validation/Validator.java" timestamp="1510484109061">
         <mark key="[" line="9" column="27" />
@@ -2092,8 +2105,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="12" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/mybatis/mappers/TreatmentMapper.xml" />
-      <jump line="103" column="0" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/java/com/blockycity/heimdallr/api/hospital/records/TreatmentRecord.java" />
       <jump line="152" column="33" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/java/com/blockycity/heimdallr/api/hospital/records/TreatmentRecord.java" />
       <jump line="96" column="24" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/mybatis/mappers/TreatmentMapper.xml" />
       <jump line="228" column="81" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/mybatis/mappers/Records.xml" />
@@ -2192,6 +2203,8 @@
       <jump line="0" column="0" filename="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/test/java/com/blockycity/heimdallr/api/wechat/resources/PaymentRequestResourceTest.java" />
       <jump line="139" column="45" filename="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/records/WechatH5Channel.java" />
       <jump line="129" column="0" filename="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/records/WechatH5Channel.java" />
+      <jump line="3" column="18" filename="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/resources/db/migration/V3__create_context_for_the_payment_request.sql" />
+      <jump line="85" column="43" filename="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/test/java/com/blockycity/heimdallr/api/wechat/records/PaymentRequestsTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2200,7 +2213,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgQVNTRVNTTUVOVFMKICAgIEFERCBDT0xVTU4gQ09NTUVOVCBURVhUIE5VTEw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwdXQoImNoYW5uZWwiLCAiV0VDSEFUIik7Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -8238,16 +8251,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>MP</text>
       </register>
       <register name="/" type="4">
         <text>wechat</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgQVNTRVNTTUVOVFMKICAgIEFERCBDT0xVTU4gQ09NTUVOVCBURVhUIE5VTEw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwdXQoImNoYW5uZWwiLCAiTVAiKTsKICAgICAgICAgICAgICAgICAgICBwdXQoInNlbGVjdG9yIiwgIldFQ0hBVCIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhcHBJZDogYXBwSWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwdXQoImNoYW5uZWwiLCAiV0VDSEFUIik7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8258,28 +8271,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">QUxURVIgVEFCTEUgUEFZTUVOVF9SRVFVRVNUUwoJQUREIFNFTEVDVE9SIFZBUkNIQVIoMTYpIE5PVCBOVUxMLAoJQUREIENIQU5ORUwgVkFSQ0hBUigxNikgTk9UIE5VTEw7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiBmcm9tID0gbmV3IEhhc2hNYXA8U3RyaW5nLCBPYmplY3Q+KCkge3sKICAgICAgICAgICAgcHV0KCJmcm9tIiwgbmV3IEhhc2hNYXA8U3RyaW5nLCBPYmplY3Q+KCkge3sKICAgICAgICAgICAgICAgIHB1dCgiaXAiLCBpcCk7CiAgICAgICAgICAgIH19KTsKICAgICAgICB9fTsK</text>
+        <text encoding="base64">CUFERCBDSEFOTkVMIFZBUkNIQVIoMTYpIE5PVCBOVUxMOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhdHRyaWJ1dGVzLnB1dAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXlsb2FkLmdldCgiIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB1cmlJbmZvLmdldAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaXAgPT0gbnVsbCB8fCBpcC5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IEJhZFJlcXVlc3RFeGNlcHRpb24oIlVua25vd24gaXAgYWRkcmVzcyBmb3VuZCIpOwogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIHNldHRpbmcgaG9zdCBzaG91bGQgbm90IGJlIG5lY2Vzc2FyeQo=</text>
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIFBBWU1FTlRfUkVRVUVTVFMgKAoJSUQgICAgICAgICBCSU5BUlkoMTYpIFBSSU1BUlkgS0VZLAoJT1JERVJfSUQgICBCSU5BUlkoMTYpICBOT1QgTlVMTCwKCUNIQU5ORUwgICAgVkFSQ0hBUig2NCkgTk9UIE5VTEwsCglDSEFSR0lORyAgIFRFWFQsCglSRUNJUFQgICAgIFRFWFQsCglDUkVBVEVEX0FUIEJJR0lOVCwKCVVQREFURURfQVQgQklHSU5UCikKCURFRkFVTFQgQ0hBUlNFVCBVVEY4TUI0Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIGhvc3Q6ICcwLjAuMC4wOjgwODAnCg==</text>
+        <text encoding="base64">ICAgICAgICAje3BheWxvYWQuZGF0YS5hdHRyaWJ1dGVzLnNlbGVjdG9yfSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYzogJzAuMC4wLjA6ODA4MCcsCg==</text>
+        <text encoding="base64">ICAgICAgICBDSEFOTkVMLAo=</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
