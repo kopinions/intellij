@@ -1881,12 +1881,12 @@
         <mark key="." line="7" column="4" />
         <mark key="^" line="7" column="10" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/records/WechatNativeChannel.java" timestamp="1538052701913">
-        <mark key="'" line="108" column="0" />
-        <mark key="[" line="79" column="24" />
-        <mark key="]" line="79" column="39" />
-        <mark key="." line="79" column="39" />
-        <mark key="^" line="79" column="39" />
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/records/WechatNativeChannel.java" timestamp="1538066231204">
+        <mark key="'" line="109" column="0" />
+        <mark key="[" line="37" column="33" />
+        <mark key="]" line="37" column="36" />
+        <mark key="." line="37" column="36" />
+        <mark key="^" line="37" column="36" />
       </file>
       <file name="/workspace/clients/soda/riihi/migration/src/main/resources/migration/mysql/MySQL-13__reinit_invoices.sql" timestamp="1515746888411">
         <mark key="[" line="53" column="2" />
@@ -2135,6 +2135,12 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="23" />
       </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/services/Wechats.java" timestamp="1538065791351">
+        <mark key="[" line="22" column="12" />
+        <mark key="]" line="22" column="12" />
+        <mark key="." line="22" column="12" />
+        <mark key="^" line="22" column="12" />
+      </file>
       <file name="/workspace/solutions/p2p/ums/modules/impl-db/src/main/resources/ums/mybatis/mappers/UserMapper.xml" timestamp="1514359519706">
         <mark key="[" line="157" column="0" />
         <mark key="]" line="162" column="32" />
@@ -2287,7 +2293,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>DEBUG</text>
+        <text>innnnnnnnnfo</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -8325,16 +8331,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>DEBUG</text>
+        <text>innnnnnnnnfo</text>
       </register>
       <register name="/" type="4">
         <text>wechat</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaXAgIT0gbnVsbCAmJiBpcC5jb250YWlucygiLCIpKSB7CiAgICAgICAgICAgIFN0cmluZ1tdIGlwcyA9IGlwLnNwbGl0KCIsIik7CiAgICAgICAgICAgIGlwID0gaXBzWzBdOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmRlYnVnKCJzdGFydCB0byBkbyB1bmlmaWVkIG9yZGVyOiIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CiAgICAgICAgU3RyaW5nIGlwID0gIjExNy4zMy4xMjQuMTQ0LCAxNzIuMzEuMTcuMzkiOwogICAgICAgIGlmIChpcCAhPSBudWxsICYmIGlwLmNvbnRhaW5zKCIsIikpIHsKICAgICAgICAgICAgU3RyaW5nW10gaXBzID0gaXAuc3BsaXQoIiwiKTsKICAgICAgICAgICAgaXAgPSBpcHNbMF07CiAgICAgICAgfQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihpcCk7CgogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIk1QIi5lcXVhbHMoY2hhbm5lbCkpIHsKICAgICAgICAgICAgdGFyZ2V0LnBhdGgoIi9zbnMvanNjb2RlMnNlc3Npb24iKQogICAgICAgICAgICAgICAgICAgIC5xdWVyeVBhcmFtKCJhcHBpZCIsIGNvbmZpZy5nZXRBcHBJZCgpKQogICAgICAgICAgICAgICAgICAgIC5xdWVyeVBhcmFtKCJzZWNyZXQiLCBjb25maWcuZ2V0QXBwU2VjcmV0KCkpCiAgICAgICAgICAgICAgICAgICAgLnF1ZXJ5UGFyYW0oImpzX2NvZGUiLCBjb2RlKQogICAgICAgICAgICAgICAgICAgIC5xdWVyeVBhcmFtKCJncmFudF90eXBlIiwgImF1dGhvcml6YXRpb25fY29kZSIpOwogICAgICAgIH0gZWxzZSBpZiAoIk5BVElWRSIuZXF1YWxzKGNoYW5uZWwpKSB7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8345,28 +8351,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgaXAgPSBmb3J3YXJkZWQ7CiAgICAgICAgaWYgKGZvcndhcmRlZCAhPSBudWxsICYmIGZvcndhcmRlZC5jb250YWlucygiLCIpKSB7CiAgICAgICAgICAgIFN0cmluZ1tdIGlwcyA9IGZvcndhcmRlZC5zcGxpdCgiLCIpOwogICAgICAgICAgICBpcCA9IGlwc1swXTsKICAgICAgICB9IAo=</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CiAgICAgICAgU3RyaW5nIGlwID0gIjExNy4zMy4xMjQuMTQ0LCAxNzIuMzEuMTcuMzkiOwogICAgICAgIGlmIChpcCAhPSBudWxsICYmIGlwLmNvbnRhaW5zKCIsIikpIHsKICAgICAgICAgICAgU3RyaW5nW10gaXBzID0gaXAuc3BsaXQoIiwiKTsKICAgICAgICAgICAgaXAgPSBpcHNbMF07CiAgICAgICAgfQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihpcCk7CgogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAyNGIwZjA2OGFlZTkK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgaXAgPSBmb3J3YXJkZWQ7CiAgICAgICAgaWYgKGZvcndhcmRlZCAhPSBudWxsICYmIGZvcndhcmRlZC5jb250YWlucygiLCIpKSB7CiAgICAgICAgICAgIFN0cmluZ1tdIGlwcyA9IGZvcndhcmRlZC5zcGxpdCgiLCIpOwogICAgICAgICAgICBpcCA9IGlwc1swXTsKICAgICAgICB9IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIExvZ2dlciBMT0dHRVIgCg==</text>
+        <text encoding="base64">ICAgICAgICAyNGIwZjA2OGFlZTkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIExvZ2dlciBMT0dHRVIgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgY29kZSA9IEpzb25Db250ZXh0LmZyb20ocGF5bG9hZCkucGF0aCgiZGF0YS5hdHRyaWJ1dGVzLmNvZGUiKTsKICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IGluZm8gPSB3ZWNoYXRzLmZyb21Db2RlKCJOQVRJVkUiLCBjb2RlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgY29kZSA9IEpzb25Db250ZXh0LmZyb20ocGF5bG9hZCkucGF0aCgiZGF0YS5hdHRyaWJ1dGVzLmNvZGUiKTsKICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IGluZm8gPSB3ZWNoYXRzLmZyb21Db2RlKCJOQVRJVkUiLCBjb2RlKTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAucmVxdWVzdCgpCiAgICAgICAgICAgICAgICAgICAgLmdldCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
