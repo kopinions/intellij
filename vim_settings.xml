@@ -9,6 +9,9 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1538143086829">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/workspace/clients/soda/riihi/core/src/main/java/com/sodacar/riihi/core/FapiaoRepository.java" timestamp="1514534998341">
         <mark key="[" line="12" column="29" />
         <mark key="]" line="12" column="28" />
@@ -21,7 +24,10 @@
         <mark key="." line="12" column="10" />
         <mark key="^" line="12" column="12" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/services/PaymentService.java" timestamp="1537929175350" />
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/services/PaymentService.java" timestamp="1538143027744">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="37" column="23" />
+      </file>
       <file name="/workspace/clients/soda/soda-admin/src/pages/FapiaoRequests/saga.js" timestamp="1515580784816">
         <mark key="[" line="13" column="9" />
         <mark key="]" line="13" column="44" />
@@ -251,6 +257,13 @@
         <mark key="]" line="23" column="67" />
         <mark key="." line="23" column="67" />
         <mark key="^" line="23" column="67" />
+      </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/sdk/util/FillUtil.java" timestamp="1537929231100">
+        <mark key="'" line="23" column="40" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="24" column="73" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/java/com/blockycity/heimdallr/api/hospital/resources/ProductsResource.java" timestamp="1536204171026">
         <mark key="[" line="41" column="47" />
@@ -937,6 +950,13 @@
         <mark key="." line="20" column="69" />
         <mark key="^" line="20" column="69" />
       </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/records/PaymentRequestRecord.java" timestamp="1538121389439">
+        <mark key="'" line="42" column="3" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
+        <mark key="^" line="36" column="3" />
+      </file>
       <file name="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/junit/DatabaseTestRunner.java" timestamp="1516758018337">
         <mark key="[" line="39" column="38" />
         <mark key="]" line="39" column="38" />
@@ -1010,6 +1030,10 @@
         <mark key="]" line="48" column="19" />
         <mark key="^" line="48" column="19" />
         <mark key="." line="48" column="19" />
+      </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/db/migration/V9__update_created_at_and_updated_at_for_all_tables.sql" timestamp="1538045204828">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="32" />
       </file>
       <file name="/workspace/golang/src/github.com/cnupp/builder/helpers/run-verify/run-verify.go" timestamp="1517385441668">
         <mark key="[" line="69" column="0" />
@@ -1135,12 +1159,26 @@
         <mark key="." line="27" column="26" />
         <mark key="^" line="27" column="26" />
       </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/files/src/main/java/com/blockycity/heimdallr/files/aops/RecordToJson.java" timestamp="1538127740104">
+        <mark key="[" line="4" column="60" />
+      </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/mybatis/mappers/Records.xml" timestamp="1538127221747">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="12" column="57" />
+      </file>
       <file name="/Files.java" timestamp="1538127426357" />
       <file name="/workspace/6c/startup/rxright/heimdallr/envs/production/services/.files.env" timestamp="1537417080577">
         <mark key="[" line="1" column="8" />
         <mark key="]" line="1" column="16" />
         <mark key="." line="1" column="16" />
         <mark key="^" line="1" column="16" />
+      </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/records/WechatH5Channel.java" timestamp="1538120397355">
+        <mark key="'" line="132" column="0" />
+        <mark key="[" line="30" column="11" />
+        <mark key="]" line="31" column="13" />
+        <mark key="." line="31" column="13" />
+        <mark key="^" line="31" column="13" />
       </file>
       <file name="/workspace/clients/soda/riihi/core/src/main/java/com/sodacar/riihi/core/FapiaoRequestRepository.java" timestamp="1514353730157">
         <mark key="[" line="8" column="58" />
@@ -1517,6 +1555,10 @@
         <mark key="^" line="519" column="0" />
         <mark key="." line="520" column="0" />
       </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/db/migration/V31__add_comment_for_assessment.sql" timestamp="1538040069749">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="32" />
+      </file>
       <file name="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/records/ComposeChangeSet.java" timestamp="1514869098917">
         <mark key="[" line="10" column="82" />
         <mark key="]" line="10" column="81" />
@@ -1602,11 +1644,11 @@
         <mark key="^" line="11" column="10" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/envs/dev/services/wechats.env" timestamp="1538123284914">
-        <mark key="[" line="37" column="24" />
-        <mark key="]" line="37" column="55" />
-        <mark key="^" line="37" column="55" />
-        <mark key="." line="37" column="55" />
+      <file name="/workspace/6c/startup/rxright/heimdallr/envs/dev/services/wechats.env" timestamp="1538143318829">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="33" />
+        <mark key="^" line="29" column="24" />
+        <mark key="." line="29" column="24" />
       </file>
       <file name="/Filee.java" timestamp="1538128335792" />
       <file name="/workspace/clients/soda/riihi/core/src/main/java/com/sodacar/riihi/core/TransactionHistoryRepository.java" timestamp="1514181519204">
@@ -1796,6 +1838,13 @@
         <mark key="." line="7" column="4" />
         <mark key="^" line="7" column="10" />
       </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/records/WechatNativeChannel.java" timestamp="1538143280844">
+        <mark key="'" line="40" column="46" />
+        <mark key="[" line="98" column="32" />
+        <mark key="]" line="98" column="34" />
+        <mark key="." line="98" column="34" />
+        <mark key="^" line="98" column="34" />
+      </file>
       <file name="/workspace/clients/soda/riihi/migration/src/main/resources/migration/mysql/MySQL-13__reinit_invoices.sql" timestamp="1515746888411">
         <mark key="[" line="53" column="2" />
         <mark key="]" line="53" column="8" />
@@ -1890,6 +1939,13 @@
       </file>
       <file name="/workspace/6c/startup/rxright/heimdallr/docker-compose.prod.yml" timestamp="1537927899499" />
       <file name="/Requests.java" timestamp="1538132366585" />
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/records/WechatMPChannel.java" timestamp="1538051765803">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="105" column="4" />
+        <mark key="." line="35" column="20" />
+        <mark key="^" line="35" column="20" />
+      </file>
       <file name="/workspace/6c/startup/rxright/heimdallr/envs/production/.commons.env" timestamp="1537417106332">
         <mark key="[" line="0" column="6" />
         <mark key="]" line="0" column="9" />
@@ -2173,8 +2229,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuaGVhZGVyKCJDb250ZW50LVR5cGUiLCBNZWRpYVR5cGUuQVBQTElDQVRJT05fSlNPTik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>wxda7fccb8d4953f13</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -8212,16 +8268,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Mei</text>
+        <text>JSAPI</text>
       </register>
       <register name="/" type="4">
         <text>wechat</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuaGVhZGVyKCJDb250ZW50LVR5cGUiLCBNZWRpYVR5cGUuQVBQTElDQVRJT05fSlNPTik7Cg==</text>
+      <register name="0" type="4">
+        <text>wxda7fccb8d4953f13</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU0VMRUNUCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGNvbmZpKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8232,28 +8288,39 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICApIEFTIFRNUDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFyYW1NYXAucHV0KCJzcGJpbGxfY3JlYXRlX2lwIiwgY29uZmlnLmdldE5vdGlmeUlwKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBJTlNFUlQgSU5UTyBBU1NFU1NNRU5UX0RJTUVOU0lPTlMgKAogICAgICAgIElELCBBU1NFU1NNRU5UX0lELCBUWVBFLCBSQVRJTkcsIERFVEFJTAogICAgICAgICkgU0VMRUNUIE9SREVSRURfVVVJRChVVUlEKCkpIEFTIElELCBUTVAuKiBGUk9NICgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgRmlsbFV0aWwgZmlsbFV0aWwgPSBuZXcgRmlsbFV0aWwocGFyYW1NYXAsIGNvbmZpZyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAg5bqP56uv5Lyg6L+H5p2l6K6i5Y2V5Y+3Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvZk51bGxhYmxlKGxpbmspLmlmUHJlc2VudCgkIC0+IHsK</text>
+      <register name="5" type="8">
+        <text>fillUtil.
+fillUtil.
+fillUtil.
+//可以考虑让小程
+fillUtil.
+fillUtil.
+fillUtil.
+fillUtil.
+fillUtil.
+fillUtil.
+fillUtil.
+fillUtil.</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmRlYnVnKCJyZXN1bHQgb2YgdGhlIHdlY2hhdCB1bmlmaWVkIG9yZGVyIHt9IiwgdW5pZmllZE9yZGVyUmVzdWx0KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW52b2NhdGlvbi5CdWlsZGVyIHJlcXVlc3Q7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWFwPFN0cmluZywgU3RyaW5nPiB1bmlmaWVkT3JkZXJSZXN1bHQgPSBwYXltZW50U2VydmljZS51bmlmaWVkT3JkZXIob3JkZXJSZXF1ZXN0KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBJbnZvY2F0aW9uLkJ1aWxkZXIgcmVxdWVzdCA9IHRhcmdldC5yZXF1ZXN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU0VMRUNUCg==</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
