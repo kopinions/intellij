@@ -166,11 +166,12 @@
         <mark key="^" line="2" column="40" />
         <mark key="." line="2" column="40" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/services/identities/src/main/resources/db/init/V3__complete_the_permssions.sql" timestamp="1539060779538">
-        <mark key="[" line="6" column="41" />
-        <mark key="]" line="6" column="41" />
-        <mark key="." line="6" column="41" />
-        <mark key="^" line="6" column="48" />
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/identities/src/main/resources/db/init/V3__complete_the_permssions.sql" timestamp="1539063579127">
+        <mark key="'" line="20" column="39" />
+        <mark key="[" line="35" column="26" />
+        <mark key="]" line="35" column="27" />
+        <mark key="." line="35" column="27" />
+        <mark key="^" line="35" column="27" />
       </file>
       <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/mybatis/Models.java" timestamp="1511313080126">
         <mark key="[" line="81" column="35" />
@@ -2180,7 +2181,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="4" filename="/workspace/6c/startup/rxright/heimdallr/docker-compose.yml" />
       <jump line="124" column="4" filename="/workspace/6c/startup/rxright/heimdallr/docker-compose.yml" />
       <jump line="22" column="4" filename="/workspace/6c/startup/rxright/heimdallr/docker-compose.yml" />
       <jump line="0" column="0" filename="/workspace/6c/startup/rxright/heimdallr/envs/production/services/.hospitals.env" />
@@ -2280,6 +2280,7 @@
       <jump line="1" column="17" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/mybatis/mappers/DepartmentMapper.xml" />
       <jump line="55" column="0" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/mybatis/mappers/DepartmentMapper.xml" />
       <jump line="69" column="0" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/test/java/com/blockycity/heimdallr/api/hospital/resources/DepartmentResourceTest.java" />
+      <jump line="20" column="39" filename="/workspace/6c/startup/rxright/heimdallr/services/identities/src/main/resources/db/init/V3__complete_the_permssions.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2288,7 +2289,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>单</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -8326,16 +8327,17 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>单</text>
       </register>
       <register name="/" type="4">
-        <text>DEPARTMENTS</text>
+        <text>orders</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CShPUkRFUkVEX1VVSUQoVVVJRCgpKSwgJ09SREVSX01BTkFHRVInKTsK</text>
+        <text encoding="base64">CShPUkRFUkVEX1VVSUQoVVVJRCgpKSwgJ+iuouWNleeuoeeQhuWRmCcsICdPUkRFUl9NQU5BR0VSJyksCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CShPUkRFUkVEX1VVSUQoVVVJRCgpKSwgJ09SREVSX01BTkFHRVInKSwK</text>
+      <register name="1" type="8">
+        <text>s
+s</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8345,29 +8347,33 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CShPUkRFUkVEX1VVSUQoVVVJRCgpKSwgJ09SREVSX01BTkFHRVInKSwK</text>
+      <register name="2" type="8">
+        <text>orders
+orders
+orders</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CShPUkRFUkVEX1VVSUQoVVVJRCgpKSwgJ09SREVSX01BTkFHRVInKSwK</text>
+      <register name="3" type="8">
+        <text>order
+order</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">U0VUIEBST0xFX0lEID0gT1JERVJFRF9VVUlEKFVVSUQoKSk7Cg==</text>
+      <register name="4" type="8">
+        <text>orders
+orders</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">U0VUIEBQRVJNSVNTSU9OX0lEID0gT1JERVJFRF9VVUlEKFVVSUQoKSk7Cg==</text>
+        <text encoding="base64">CShPUkRFUkVEX1VVSUQoVVVJRCgpKSwgJ+iOt+WPluWMu+eUn+WIl+ihqCcsICdvcmRlcnM6bGlzdCcpLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CUFERCAgVkFSQ0hBUigyNTYpIE5PVCBOVUxMLAo=</text>
+        <text encoding="base64">CShPUkRFUkVEX1VVSUQoVVVJRCgpKSwgJ+iOt+WPluWMu+eUn+WIl+ihqCcsICdvcmRlcnM6bGlzdCcpLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBBREQgQ09OU1RSQUlOVCBWQUxVRV9VTklRVUU7Cg==</text>
+        <text encoding="base64">CShPUkRFUkVEX1VVSUQoVVVJRCgpKSwgJ+abtOaWsOWMu+eUnycsICdvcmRlcnM6bGlzdCcpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CUFERCBWQUxVRSBWQVJDSEFSKDI1NikgTk9UIE5VTEw7Cg==</text>
+        <text encoding="base64">CShPUkRFUkVEX1VVSUQoVVVJRCgpKSwgJ09SREVSX01BTkFHRVInKSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CShPUkRFUkVEX1VVSUQoVVVJRCgpKSwgJ09SREVSX01BTkFHRVInKSwK</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
@@ -8377,17 +8383,16 @@
       </register>
     </registers>
     <search>
-      <last-search>DEPARTMENTS</last-search>
+      <last-search>orders</last-search>
       <last-offset />
-      <last-pattern>DEPARTMENTS</last-pattern>
-      <last-replace>\/</last-replace>
-      <last-substitute>\/\.</last-substitute>
+      <last-pattern>orders</last-pattern>
+      <last-replace>doctors</last-replace>
+      <last-substitute>orders</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>$$</entry>
         <entry>\$\$</entry>
         <entry>items</entry>
         <entry>diagnose</entry>
@@ -8407,9 +8412,9 @@
         <entry>console.</entry>
         <entry>image</entry>
         <entry>DEPARTMENTS</entry>
+        <entry>orders</entry>
       </history-search>
       <history-cmd>
-        <entry>qw</entry>
         <entry>ws</entry>
         <entry>2</entry>
         <entry encoding="base64">JzwsJz5zLzovPS9nYw==</entry>
@@ -8428,6 +8433,7 @@
         <entry>reg</entry>
         <entry>ew</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zL29yZGVycy9kb2N0b3JzL2c=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
