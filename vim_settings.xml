@@ -170,6 +170,11 @@
         <mark key="^" line="2" column="40" />
         <mark key="." line="2" column="40" />
       </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/identities/src/main/resources/db/init/V3__complete_the_permssions.sql" timestamp="1539057736177">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/mybatis/Models.java" timestamp="1511313080126">
         <mark key="[" line="81" column="35" />
         <mark key="]" line="82" column="22" />
@@ -491,6 +496,11 @@
         <mark key="]" line="24" column="49" />
         <mark key="^" line="24" column="49" />
         <mark key="." line="24" column="49" />
+      </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/test/java/com/blockycity/heimdallr/api/hospital/resources/DiseasesResourceTest.java" timestamp="1538905600132">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/sdk/util/SignUtil.java" timestamp="1537930311147">
         <mark key="[" line="19" column="55" />
@@ -2356,7 +2366,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZG9ja2VyIGltYWdlc3wgZ3JlcCAtRSAiXnR6aW9uIiB8IGdyZXAgIjEuMC4wIiB8IGF3ayAne3ByaW50ICQxIjoiJDJ9JyB8IHhhcmdzIC1Je30gZWNobyBzaCAtYyBcJ2RvY2tlciBwdWxsIHt9XCBcJiBcJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -8403,7 +8413,7 @@
         <text encoding="base64">ZG9ja2VyIGltYWdlc3wgZ3JlcCAtRSAiXnR6aW9uIiB8IGdyZXAgIjEuMC4wIiB8IGF3ayAne3ByaW50ICQxIjoiJDJ9JyB8IHhhcmdzIC1Je30gZWNobyBzaCAtYyBcJ2RvY2tlciBwdWxsIHt9XCBcJiBcJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8414,28 +8424,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlbGF0aW9uc2hpcHM6Cg==</text>
+        <text encoding="base64">U0VUIEBJREVOVElUWV9JRCA9IE9SREVSRURfVVVJRChVVUlEKCkpOwoKSU5TRVJUIElOVE8gSURFTlRJVElFUyAoCglJRCwgVVNFUk5BTUUsIFBBU1NXRAopIFZBTFVFUyAoCglASURFTlRJVFlfSUQsCgkncm9vdCcsCgknJDJhJDA0JFdZN0o0a29NRFBGOWY1RDZjMWNsaS51T0JsLzB4ZGkwenZsbzVNRDlXSDhmNHdYcFFZVGF1JwopOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZGVwYXJ0bWVudDoKICAgICAgICBkYXRhOgogICAgICAgICAgdHlwZTogZGVwYXJ0bWVudHMKICAgICAgICAgIGlkOiAkKGRlcGFydG1lbnRfaWQpCg==</text>
+        <text encoding="base64">CQksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlbGF0aW9uc2hpcHM6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgZGVwYXJ0bWVudDoKICAgICAgICBkYXRhOgogICAgICAgICAgdHlwZTogZGVwYXJ0bWVudHMKICAgICAgICAgIGlkOiAkKGRlcGFydG1lbnRfaWQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChQZXJzaXN0ZW5jZUV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBDb25mbGljdEV4Y2VwdGlvbigiQ29uZmlsY3Qgd2l0aCBleGlzdGVkIGRpc2Vhc2UiLCBlKTsKICAgICAgICB9Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChQZXJzaXN0ZW5jZUV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBDb25mbGljdEV4Y2VwdGlvbigiQ29uZmlsY3Qgd2l0aCBleGlzdGVkIGRpc2Vhc2UiLCBlKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBJbmplY3QKICAgIERlcGFydG1lbnRzIGRlcGFydG1lbnRzOwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
