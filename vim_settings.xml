@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="/workspace/clients/soda/riihi/migration/src/main/resources/migration/mysql/MySQL-39__add_fapiao_content.sql" timestamp="1515547021381">
@@ -274,11 +274,11 @@
         <mark key="^" line="23" column="67" />
       </file>
       <file name="/workspace/6c/startup/rxright/heimdallr/services/identities/src/main/resources/db/migration/V4__create_roles_related.sql" timestamp="1539058859749" />
-      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/java/com/blockycity/heimdallr/api/hospital/resources/ProductsResource.java" timestamp="1536204171026">
-        <mark key="[" line="41" column="47" />
-        <mark key="]" line="41" column="43" />
-        <mark key="." line="41" column="43" />
-        <mark key="^" line="41" column="43" />
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/java/com/blockycity/heimdallr/api/hospital/resources/ProductsResource.java" timestamp="1539074222929">
+        <mark key="[" line="39" column="9" />
+        <mark key="]" line="42" column="37" />
+        <mark key="." line="42" column="37" />
+        <mark key="^" line="42" column="37" />
       </file>
       <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/java/com/blockycity/heimdallr/api/hospital/services/Identities.java" timestamp="1537448298539">
         <mark key="[" line="36" column="42" />
@@ -670,6 +670,10 @@
         <mark key="]" line="212" column="27" />
         <mark key="^" line="212" column="28" />
         <mark key="." line="212" column="27" />
+      </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/java/com/blockycity/heimdallr/api/hospital/resources/OrdersResource.java" timestamp="1539074119718">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="28" column="34" />
       </file>
       <file name="/workspace/clients/soda/riihi/records/src/main/java/com/sodacar/riihi/util/wechat/Https.java" timestamp="1515410487289">
         <mark key="[" line="48" column="11" />
@@ -1148,6 +1152,10 @@
         <mark key="." line="9" column="31" />
         <mark key="^" line="7" column="36" />
       </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/java/com/blockycity/heimdallr/api/hospital/records/ChangeRequestRecord.java" timestamp="1538889378162">
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="141" column="22" />
+      </file>
       <file name="/workspace/clients/soda/riihi/build.gradle" timestamp="1516759939722">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="12" column="0" />
@@ -1427,6 +1435,10 @@
         <mark key="]" line="5" column="25" />
         <mark key="^" line="5" column="25" />
         <mark key="." line="5" column="25" />
+      </file>
+      <file name="/workspace/6c/startup/rxright/odin/src/components/DoctorDetailForm.vue" timestamp="1538898599732">
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="39" />
       </file>
       <file name="/workspace/personal/kata/word-wrap/java/src/test/java/com/morpheus/kata/wrap/WordWrapTest.java" timestamp="1513049805446">
         <mark key="[" line="4" column="21" />
@@ -2309,8 +2321,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">QENvbnRleHQgVXJpSW5mbyB1cmlJbmZvLCA=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -8348,13 +8360,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>R</text>
+        <text encoding="base64">QENvbnRleHQgVXJpSW5mbyB1cmlJbmZvLCA=</text>
       </register>
       <register name="/" type="4">
         <text>orders</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">SU5TRVJUIElOVE8gUk9MRV9QRVJNSVNTSU9OIChST0xFX0lELCBQRVJNSVNTSU9OX0lEKQoJU0VMRUNUCgkJUi5JRCwKCQlQLklECglGUk9NIFJPTEVTIFIKCQlJTk5FUiBKT0lOIFBFUk1JU1NJT05TIFAKCQkJT04gUi5OQU1FID0gJ0lERU5USVRZX01BTkFHRVInIEFORCBQLkFDVElPTiBMSUtFICclaWRlbnRpdCUnOwo=</text>
+        <text encoding="base64">ICAgIEBJbmplY3QKICAgIHByaXZhdGUgSWRlbnRpdGllcyBpZGVudGl0aWVzOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -8368,28 +8380,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">SU5TRVJUIElOVE8gUk9MRV9QRVJNSVNTSU9OIChST0xFX0lELCBQRVJNSVNTSU9OX0lEKQoJU0VMRUNUCgkJUi5JRCwKCQlQLklECglGUk9NIFJPTEVTIFIKCQlJTk5FUiBKT0lOIFBFUk1JU1NJT05TIFAKCQkJT04gUi5OQU1FID0gJ0RJU0VBU0VfTUFOQUdFUicgQU5EIFAuQUNUSU9OIExJS0UgJyVkaXNlYXNlJSc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KE9SREVSRURfVVVJRChVVUlEKCkpLCAn5Yy755Sf566h55CG5ZGYJywgJ0RPQ1RPUl9NQU5BR0VSJyksCihPUkRFUkVEX1VVSUQoVVVJRCgpKSwgJ+eUqOaIt+euoeeQhuWRmCcsICdJREVOVElUWV9NQU5BR0VSJyksCihPUkRFUkVEX1VVSUQoVVVJRCgpKSwgJ+i2hee6p+euoeeQhuWRmCcsICdBRE1JTl9NQU5BR0VSJyk7Cg==</text>
+        <text encoding="base64">SU5TRVJUIElOVE8gUk9MRV9QRVJNSVNTSU9OIChST0xFX0lELCBQRVJNSVNTSU9OX0lEKQoJU0VMRUNUCgkJUi5JRCwKCQlQLklECglGUk9NIFJPTEVTIFIKCQlJTk5FUiBKT0lOIFBFUk1JU1NJT05TIFAKCQkJT04gUi5OQU1FID0gJ0RJU0VBU0VfTUFOQUdFUicgQU5EIFAuQUNUSU9OIExJS0UgJyVkaXNlYXNlJSc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CihPUkRFUkVEX1VVSUQoVVVJRCgpKSwgJ+WMu+eUn+euoeeQhuWRmCcsICdET0NUT1JfTUFOQUdFUicpLAooT1JERVJFRF9VVUlEKFVVSUQoKSksICfnlKjmiLfnrqHnkIblkZgnLCAnVVNFUl9NQU5BR0VSJyksCihPUkRFUkVEX1VVSUQoVVVJRCgpKSwgJ+i2hee6p+euoeeQhuWRmCcsICdBRE1JTl9NQU5BR0VSJyk7Cg==</text>
+        <text encoding="base64">KE9SREVSRURfVVVJRChVVUlEKCkpLCAn5Yy755Sf566h55CG5ZGYJywgJ0RPQ1RPUl9NQU5BR0VSJyksCihPUkRFUkVEX1VVSUQoVVVJRCgpKSwgJ+eUqOaIt+euoeeQhuWRmCcsICdJREVOVElUWV9NQU5BR0VSJyksCihPUkRFUkVEX1VVSUQoVVVJRCgpKSwgJ+i2hee6p+euoeeQhuWRmCcsICdBRE1JTl9NQU5BR0VSJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KE9SREVSRURfVVVJRChVVUlEKCkpLCAn55eF56eN566h55CG5ZGYJywgJ0RJU0VBU0VfTUFOQUdFUicpLAo=</text>
+        <text encoding="base64">CihPUkRFUkVEX1VVSUQoVVVJRCgpKSwgJ+WMu+eUn+euoeeQhuWRmCcsICdET0NUT1JfTUFOQUdFUicpLAooT1JERVJFRF9VVUlEKFVVSUQoKSksICfnlKjmiLfnrqHnkIblkZgnLCAnVVNFUl9NQU5BR0VSJyksCihPUkRFUkVEX1VVSUQoVVVJRCgpKSwgJ+i2hee6p+euoeeQhuWRmCcsICdBRE1JTl9NQU5BR0VSJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KE9SREVSRURfVVVJRChVVUlEKCkpLCAn56eR5a6k566h55CG5ZGYJywgJ0RFUEFSVE1FTlRfTUFOQUdFUicpLAo=</text>
+        <text encoding="base64">KE9SREVSRURfVVVJRChVVUlEKCkpLCAn55eF56eN566h55CG5ZGYJywgJ0RJU0VBU0VfTUFOQUdFUicpLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KE9SREVSRURfVVVJRChVVUlEKCkpLCAn5Yy76Zmi566h55CG5ZGYJywgJ0hPU1BJVEFMX01BTkFHRVInKSwK</text>
+        <text encoding="base64">KE9SREVSRURfVVVJRChVVUlEKCkpLCAn56eR5a6k566h55CG5ZGYJywgJ0RFUEFSVE1FTlRfTUFOQUdFUicpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KE9SREVSRURfVVVJRChVVUlEKCkpLCAn5Lqn5ZOB566h55CG5ZGYJywgJ1BST0RVQ1RfTUFOQUdFUicpLAo=</text>
+        <text encoding="base64">KE9SREVSRURfVVVJRChVVUlEKCkpLCAn5Yy76Zmi566h55CG5ZGYJywgJ0hPU1BJVEFMX01BTkFHRVInKSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KE9SREVSRURfVVVJRChVVUlEKCkpLCAn5Lqn5ZOB566h55CG5ZGYJywgJ1BST0RVQ1RfTUFOQUdFUicpLAooT1JERVJFRF9VVUlEKFVVSUQoKSksICfljLvpmaLnrqHnkIblkZgnLCAnSE9TUElUQUxfTUFOQUdFUicpLAooT1JERVJFRF9VVUlEKFVVSUQoKSksICfnp5HlrqTnrqHnkIblkZgnLCAnREVQQVJUTUVOVF9NQU5BR0VSJyksCihPUkRFUkVEX1VVSUQoVVVJRCgpKSwgJ+eXheenjeeuoeeQhuWRmCcsICdESVNFQVNFX01BTkFHRVInKSwKKE9SREVSRURfVVVJRChVVUlEKCkpLCAn5Yy755Sf566h55CG5ZGYJywgJ0RPQ1RPUl9NQU5BR0VSJyksCihPUkRFUkVEX1VVSUQoVVVJRCgpKSwgJ+eUqOaIt+euoeeQhuWRmCcsICdVU0VSX01BTkFHRVInKSwKKE9SREVSRURfVVVJRChVVUlEKCkpLCAn6LaF57qn566h55CG5ZGYJywgJ0FETUlOX01BTkFHRVInKTsK</text>
+        <text encoding="base64">KE9SREVSRURfVVVJRChVVUlEKCkpLCAn5Lqn5ZOB566h55CG5ZGYJywgJ1BST0RVQ1RfTUFOQUdFUicpLAo=</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
@@ -8431,7 +8443,6 @@
         <entry>orders</entry>
       </history-search>
       <history-cmd>
-        <entry>ws</entry>
         <entry>2</entry>
         <entry encoding="base64">JzwsJz5zLzovPS9nYw==</entry>
         <entry encoding="base64">JzwsJz5zLzogLz0vZ2M=</entry>
@@ -8450,6 +8461,7 @@
         <entry>ew</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL29yZGVycy9kb2N0b3JzL2c=</entry>
+        <entry>qw</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
