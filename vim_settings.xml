@@ -177,6 +177,12 @@
         <mark key="." line="41" column="66" />
         <mark key="^" line="41" column="66" />
       </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/java/com/blockycity/heimdallr/api/hospital/aops/RuntimeExceptionMapper.java" timestamp="1539136906423">
+        <mark key="[" line="18" column="43" />
+        <mark key="]" line="18" column="49" />
+        <mark key="." line="18" column="49" />
+        <mark key="^" line="18" column="49" />
+      </file>
       <file name="/workspace/clients/soda/riihi/core/src/main/java/com/sodacar/riihi/core/exception/RefundException.java" timestamp="1514266637140">
         <mark key="[" line="3" column="58" />
         <mark key="]" line="5" column="29" />
@@ -398,11 +404,6 @@
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="11" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/services/identities/src/test/java/com/blockycity/heimdallr/api/identities/support/Application.java" timestamp="1539071281465">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-      </file>
       <file name="/workspace/clients/soda/riihi/core/src/main/java/com/sodacar/riihi/core/Criteria.java" timestamp="1513754498805">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
@@ -516,11 +517,6 @@
         <mark key="]" line="110" column="75" />
         <mark key="." line="110" column="75" />
         <mark key="^" line="110" column="75" />
-      </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/services/files/src/main/java/com/blockycity/heimdallr/files/records/FileeRecord.java" timestamp="1539087478246">
-        <mark key="[" line="39" column="4" />
-        <mark key="]" line="39" column="4" />
-        <mark key="." line="39" column="4" />
       </file>
       <file name="/workspace/personal/guardian/src/main/java/com/morpheus/guardian/core/IValidatable.java" timestamp="1516255889955">
         <mark key="[" line="6" column="0" />
@@ -1654,7 +1650,7 @@
         <mark key="." line="9" column="3" />
         <mark key="^" line="9" column="3" />
       </file>
-      <file name="/fragment.java" timestamp="1539079875035">
+      <file name="/fragment.java" timestamp="1539136864638">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
@@ -2165,11 +2161,11 @@
         <mark key="." line="52" column="37" />
         <mark key="^" line="45" column="7" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/java/com/blockycity/heimdallr/api/hospital/JerseyConfig.java" timestamp="1536980496536">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="13" column="23" />
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/java/com/blockycity/heimdallr/api/hospital/JerseyConfig.java" timestamp="1539136960623">
+        <mark key="[" line="32" column="17" />
+        <mark key="]" line="32" column="32" />
+        <mark key="." line="32" column="32" />
+        <mark key="^" line="32" column="32" />
       </file>
       <file name="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/services/Wechats.java" timestamp="1538141987858">
         <mark key="[" line="47" column="56" />
@@ -2335,7 +2331,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>BadRequestExceptionMapper</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -8373,13 +8369,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>BadRequestExceptionMapper</text>
       </register>
       <register name="/" type="4">
         <text>orders</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gcmVzcG9uc2lhYmxlSWRzID0gaW5jbHVkZVBoYXNlQ29udGV4dC5wYXRoKCIkLlsqXS5yZWxhdGlvbnNoaXBzLnJlc3BvbnNpYmxlLmRhdGEuaWQiKTsKICAgICAgICBhc3NlcnRUaGF0KHJlc3BvbnNpYWJsZUlkcywgY29udGFpbnMoaXMoYmV0aHVuZS5nZXRJZCgpKSwgaXMoYmV0aHVuZS5nZXRJZCgpKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZWdpc3RlcihCYWRSZXF1ZXN0RXhjZXB0aW9uTWFwcGVyLmNsYXNzKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gICAgICAgIGlmIChjdXJyZW50VXNlci5nZXQoKS5wZXJtaXNzaW9ucygpLmNvbnRhaW5zKCJ0cmVhdG1lbnQ6cmVhZCIpIHx8IG9mLmdldCgpLnBhdGllbnQoKS5pZGVudGl0eSgpLmdldElkKCkuZXF1YWxzKGN1cnJlbnRVc2VyLmdldCgpLmdldElkKCkpKSB7Ci8vICAgICAgICAgICAgcmV0dXJuIG9rKG9mLmdldCgpKS5idWlsZCgpOwovLyAgICAgICAgfQo=</text>
