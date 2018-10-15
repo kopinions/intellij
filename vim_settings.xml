@@ -2080,9 +2080,9 @@
         <mark key="^" line="28" column="26" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/infrastructures/config/src/main/resources/shared/files.yml" timestamp="1539596543495">
+      <file name="/workspace/6c/startup/rxright/heimdallr/infrastructures/config/src/main/resources/shared/files.yml" timestamp="1539599401849">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="19" />
+        <mark key="]" line="23" column="19" />
         <mark key="^" line="23" column="19" />
       </file>
       <file name="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/records/InvoiceRecordDeductionTest.java" timestamp="1515310689999">
@@ -2357,7 +2357,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBkYXRhc291cmNlOgogICAgIGRyaXZlci1jbGFzcy1uYW1lOiBjb20ubXlzcWwuY2ouamRiYy5Ecml2ZXIKICBmbHl3YXk6CiAgICAgbG9jYXRpb25zOiBjbGFzc3BhdGg6ZGIvbWlncmF0aW9uCiAganBhOgogICAgZGF0YWJhc2UtcGxhdGZvcm06IG9yZy5oaWJlcm5hdGUuZGlhbGVjdC5NeVNRTDVJbm5vREJEaWFsZWN0CiAgICBoaWJlcm5hdGU6CiAgICAgIGRkbC1hdXRvOiBjcmVhdGUKIGp3dDoKICAgc2VjcmV0OiAke0pXVF9TRUNFUlR9CgogZmlsZVN5c3RlbToKICAgIyBjdXJyZW50bHksIDIgY2hvaWNlcyBhcmUgYXZhbGlhYmxlOiBJUEZTLCBMT0NBTAogICBkZWZhdWx0OiBMT0NBTAogICBpcGZzOgogICAgIG11bHRpLWFkZHI6IC9pcDQvMTI3LjAuMC4xL3RjcC81MDAxCiAgIGxvY2FsOgogICAgIGZpbGVQYXRoOiAvZGF0YS8K</text>
+        <text encoding="base64">c2VydmVyOgogIHBvcnQ6ICR7TElTVEVOSU5HfQpzcHJpbmc6CiAgZGF0YXNvdXJjZToKICAgIGRyaXZlci1jbGFzcy1uYW1lOiBjb20ubXlzcWwuY2ouamRiYy5Ecml2ZXIKICAgIHVybDogamRiYzpteXNxbDovLyR7REJfSE9TVH06JHtEQl9QT1JUfS8ke0RCX05BTUV9P3VzZVNTTD1mYWxzZSZhbGxvd011bHRpUXVlcmllcz10cnVlCiAgICB1c2VybmFtZTogJHtEQl9VU0VSfQogICAgcGFzc3dvcmQ6ICR7REJfUEFTU30KICBmbHl3YXk6CiAgICBsb2NhdGlvbnM6IGNsYXNzcGF0aDpkYi9taWdyYXRpb24KICBqcGE6CiAgICBkYXRhYmFzZS1wbGF0Zm9ybTogb3JnLmhpYmVybmF0ZS5kaWFsZWN0Lk15U1FMNUlubm9EQkRpYWxlY3QKICAgIGhpYmVybmF0ZToKICAgICAgZGRsLWF1dG86IGNyZWF0ZQpqd3Q6CiAgc2VjcmV0OiAke0pXVF9TRUNFUlR9CgpmaWxlU3lzdGVtOgogICMgY3VycmVudGx5LCAyIGNob2ljZXMgYXJlIGF2YWxpYWJsZTogSVBGUywgTE9DQUwKICBkZWZhdWx0OiBMT0NBTAogIGlwZnM6CiAgICBtdWx0aS1hZGRyOiAvaXA0LzEyNy4wLjAuMS90Y3AvNTAwMQogIGxvY2FsOgogICAgZmlsZVBhdGg6IC9kYXRhLwo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -8401,7 +8401,7 @@
         <text>orders</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VydmVyOgogIHBvcnQ6ICR7TElTVEVOSU5HfQo=</text>
+        <text encoding="base64">c2VydmVyOgogIHBvcnQ6ICR7TElTVEVOSU5HfQpzcHJpbmc6CiAgZGF0YXNvdXJjZToKICAgIGRyaXZlci1jbGFzcy1uYW1lOiBjb20ubXlzcWwuY2ouamRiYy5Ecml2ZXIKICAgIHVybDogamRiYzpteXNxbDovLyR7REJfSE9TVH06JHtEQl9QT1JUfS8ke0RCX05BTUV9P3VzZVNTTD1mYWxzZSZhbGxvd011bHRpUXVlcmllcz10cnVlCiAgICB1c2VybmFtZTogJHtEQl9VU0VSfQogICAgcGFzc3dvcmQ6ICR7REJfUEFTU30KICBmbHl3YXk6CiAgICBsb2NhdGlvbnM6IGNsYXNzcGF0aDpkYi9taWdyYXRpb24KICBqcGE6CiAgICBkYXRhYmFzZS1wbGF0Zm9ybTogb3JnLmhpYmVybmF0ZS5kaWFsZWN0Lk15U1FMNUlubm9EQkRpYWxlY3QKICAgIGhpYmVybmF0ZToKICAgICAgZGRsLWF1dG86IGNyZWF0ZQpqd3Q6CiAgc2VjcmV0OiAke0pXVF9TRUNFUlR9CgpmaWxlU3lzdGVtOgogICMgY3VycmVudGx5LCAyIGNob2ljZXMgYXJlIGF2YWxpYWJsZTogSVBGUywgTE9DQUwKICBkZWZhdWx0OiBMT0NBTAogIGlwZnM6CiAgICBtdWx0aS1hZGRyOiAvaXA0LzEyNy4wLjAuMS90Y3AvNTAwMQogIGxvY2FsOgogICAgZmlsZVBhdGg6IC9kYXRhLwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBkYXRhc291cmNlOgogICAgIGRyaXZlci1jbGFzcy1uYW1lOiBjb20ubXlzcWwuY2ouamRiYy5Ecml2ZXIKICBmbHl3YXk6CiAgICAgbG9jYXRpb25zOiBjbGFzc3BhdGg6ZGIvbWlncmF0aW9uCiAganBhOgogICAgZGF0YWJhc2UtcGxhdGZvcm06IG9yZy5oaWJlcm5hdGUuZGlhbGVjdC5NeVNRTDVJbm5vREJEaWFsZWN0CiAgICBoaWJlcm5hdGU6CiAgICAgIGRkbC1hdXRvOiBjcmVhdGUKIGp3dDoKICAgc2VjcmV0OiAke0pXVF9TRUNFUlR9CgogZmlsZVN5c3RlbToKICAgIyBjdXJyZW50bHksIDIgY2hvaWNlcyBhcmUgYXZhbGlhYmxlOiBJUEZTLCBMT0NBTAogICBkZWZhdWx0OiBMT0NBTAogICBpcGZzOgogICAgIG11bHRpLWFkZHI6IC9pcDQvMTI3LjAuMC4xL3RjcC81MDAxCiAgIGxvY2FsOgogICAgIGZpbGVQYXRoOiAvZGF0YS8K</text>
