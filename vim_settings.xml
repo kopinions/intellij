@@ -1314,7 +1314,7 @@
         <mark key="^" line="11" column="10" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/envs/dev/services/wechats.env" timestamp="1538149419617">
+      <file name="/workspace/6c/startup/rxright/heimdallr/envs/dev/services/wechats.env" timestamp="1539603884594">
         <mark key="[" line="42" column="35" />
         <mark key="]" line="42" column="35" />
         <mark key="^" line="42" column="33" />
@@ -1858,9 +1858,10 @@
         <mark key="^" line="13" column="21" />
         <mark key="." line="13" column="21" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/infrastructures/config/src/main/resources/shared/wechats.yml" timestamp="1538098444157">
-        <mark key="[" line="16" column="13" />
-        <mark key="]" line="16" column="12" />
+      <file name="/workspace/6c/startup/rxright/heimdallr/infrastructures/config/src/main/resources/shared/wechats.yml" timestamp="1539603853569">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="56" column="49" />
         <mark key="." line="16" column="12" />
         <mark key="^" line="16" column="12" />
       </file>
@@ -2032,9 +2033,9 @@
         <mark key="." line="37" column="3" />
         <mark key="^" line="37" column="3" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/infrastructures/config/src/main/resources/shared/identities.yml" timestamp="1537446288081">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="17" column="22" />
+      <file name="/workspace/6c/startup/rxright/heimdallr/infrastructures/config/src/main/resources/shared/identities.yml" timestamp="1539603535301">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="15" column="30" />
         <mark key="." line="17" column="15" />
         <mark key="^" line="17" column="15" />
       </file>
@@ -2249,7 +2250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="0" filename="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/records/WechatMPChannel.java" />
       <jump line="97" column="8" filename="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/records/WechatMPChannel.java" />
       <jump line="1" column="0" filename="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/records/WechatMPChannel.java" />
       <jump line="35" column="0" filename="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/records/WechatMPChannel.java" />
@@ -2349,6 +2349,7 @@
       <jump line="38" column="29" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/test/java/com/blockycity/heimdallr/api/hospital/resources/DoctorsResourceTest.java" />
       <jump line="72" column="16" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/test/java/com/blockycity/heimdallr/api/hospital/resources/DoctorsResourceTest.java" />
       <jump line="74" column="22" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/test/java/com/blockycity/heimdallr/api/hospital/resources/DoctorsResourceTest.java" />
+      <jump line="14" column="0" filename="/workspace/6c/startup/rxright/heimdallr/infrastructures/config/src/main/resources/shared/wechats.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2356,8 +2357,50 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YWxpeXVuOgogIHNtczoKICAgIHByb2R1Y3Q6IER5c21zYXBpCiAgICBkb21haW46IGR5c21zYXBpLmFsaXl1bmNzLmNvbQogICAgcmVnaW9uLWlkOiBjbi1oYW5nemhvdQogICAgZW5kcG9pbnQtaWQ6IGNuLWhhbmd6aG91CiAgICBjb25uZWN0LXRpbWVvdXQ6IDEwMDAwCiAgICByZWFkLXRpbWVvdXQ6IDEwMDAwCiAgICBhY2Nlc3Mta2V5OiAke0FMSVlVTl9TTVNfQUNDRVNTX0tFWX0KICAgIHNlY3JldC1rZXk6ICR7QUxJWVVOX1NNU19TRUNSRVRfS0VZfQogICAgc2lnbi1uYW1lOiAke0FMSVlVTl9TTVNfU0lHTl9OQU1FfQo=</text>
+      <register name="&quot;" type="4">
+        <text>wechat:
+  mp:
+    appId: ${WECHAT_MP_APPID}
+    appName: ${WECHAT_MP_APPNAME}
+    appSecret: ${WECHAT_MP_APPSECRET}
+    mchId: ${WECHAT_MP_MCHID}
+    signType: ${WECHAT_MP_SIGN_TYPE}
+    key: ${WECHAT_MP_KEY}
+    notifyIp: ${WECHAT_MP_NOTIFY_IP}
+    notifyUrl: ${WECHAT_MP_NOTIFY_URL}
+    tradeType: ${WECHAT_MP_TRADE_TYPE}
+    unifiedOrderUrl: ${WECHAT_MP_UNIFIEDORDER_URL}
+    queryOrderUrl: ${WECHAT_MP_QUERYORDER_URL}
+    downloadBillUrl: ${WECHAT_MP_DOWNLOADBILL_URL}
+    closeOrderUrl: ${WECHAT_MP_CLOSEORDER_URL}
+  h5:
+    appId: ${WECHAT_H5_APPID}
+    appName: ${WECHAT_H5_APPNAME}
+    appSecret: ${WECHAT_H5_APPSECRET}
+    mchId: ${WECHAT_H5_MCHID}
+    signType: ${WECHAT_H5_SIGN_TYPE}
+    key: ${WECHAT_H5_KEY}
+    notifyIp: ${WECHAT_H5_NOTIFY_IP}
+    notifyUrl: ${WECHAT_H5_NOTIFY_URL}
+    tradeType: ${WECHAT_H5_TRADE_TYPE}
+    unifiedOrderUrl: ${WECHAT_H5_UNIFIEDORDER_URL}
+    queryOrderUrl: ${WECHAT_H5_QUERYORDER_URL}
+    downloadBillUrl: ${WECHAT_H5_DOWNLOADBILL_URL}
+    closeOrderUrl: ${WECHAT_H5_CLOSEORDER_URL}
+  native:
+    appId: ${WECHAT_NATIVE_APPID}
+    appName: ${WECHAT_NATIVE_APPNAME}
+    appSecret: ${WECHAT_NATIVE_APPSECRET}
+    mchId: ${WECHAT_NATIVE_MCHID}
+    signType: ${WECHAT_NATIVE_SIGN_TYPE}
+    key: ${WECHAT_NATIVE_KEY}
+    notifyIp: ${WECHAT_NATIVE_NOTIFY_IP}
+    notifyUrl: ${WECHAT_NATIVE_NOTIFY_URL}
+    tradeType: ${WECHAT_NATIVE_TRADE_TYPE}
+    unifiedOrderUrl: ${WECHAT_NATIVE_UNIFIEDORDER_URL}
+    queryOrderUrl: ${WECHAT_NATIVE_QUERYORDER_URL}
+    downloadBillUrl: ${WECHAT_NATIVE_DOWNLOADBILL_URL}
+    closeOrderUrl: ${WECHAT_NATIVE_CLOSEORDER_URL}</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -8401,7 +8444,7 @@
         <text>orders</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YWxpeXVuOgogIHNtczoKICAgIHByb2R1Y3Q6IER5c21zYXBpCiAgICBkb21haW46IGR5c21zYXBpLmFsaXl1bmNzLmNvbQogICAgcmVnaW9uLWlkOiBjbi1oYW5nemhvdQogICAgZW5kcG9pbnQtaWQ6IGNuLWhhbmd6aG91CiAgICBjb25uZWN0LXRpbWVvdXQ6IDEwMDAwCiAgICByZWFkLXRpbWVvdXQ6IDEwMDAwCiAgICBhY2Nlc3Mta2V5OiAke0FMSVlVTl9TTVNfQUNDRVNTX0tFWX0KICAgIHNlY3JldC1rZXk6ICR7QUxJWVVOX1NNU19TRUNSRVRfS0VZfQogICAgc2lnbi1uYW1lOiAke0FMSVlVTl9TTVNfU0lHTl9OQU1FfQo=</text>
+        <text encoding="base64">d2VjaGF0OgogIG1wOgogICAgYXBwSWQ6ICR7V0VDSEFUX01QX0FQUElEfQogICAgYXBwTmFtZTogJHtXRUNIQVRfTVBfQVBQTkFNRX0KICAgIGFwcFNlY3JldDogJHtXRUNIQVRfTVBfQVBQU0VDUkVUfQogICAgbWNoSWQ6ICR7V0VDSEFUX01QX01DSElEfQogICAgc2lnblR5cGU6ICR7V0VDSEFUX01QX1NJR05fVFlQRX0KICAgIGtleTogJHtXRUNIQVRfTVBfS0VZfQogICAgbm90aWZ5SXA6ICR7V0VDSEFUX01QX05PVElGWV9JUH0KICAgIG5vdGlmeVVybDogJHtXRUNIQVRfTVBfTk9USUZZX1VSTH0KICAgIHRyYWRlVHlwZTogJHtXRUNIQVRfTVBfVFJBREVfVFlQRX0KICAgIHVuaWZpZWRPcmRlclVybDogJHtXRUNIQVRfTVBfVU5JRklFRE9SREVSX1VSTH0KICAgIHF1ZXJ5T3JkZXJVcmw6ICR7V0VDSEFUX01QX1FVRVJZT1JERVJfVVJMfQogICAgZG93bmxvYWRCaWxsVXJsOiAke1dFQ0hBVF9NUF9ET1dOTE9BREJJTExfVVJMfQogICAgY2xvc2VPcmRlclVybDogJHtXRUNIQVRfTVBfQ0xPU0VPUkRFUl9VUkx9CiAgaDU6CiAgICBhcHBJZDogJHtXRUNIQVRfSDVfQVBQSUR9CiAgICBhcHBOYW1lOiAke1dFQ0hBVF9INV9BUFBOQU1FfQogICAgYXBwU2VjcmV0OiAke1dFQ0hBVF9INV9BUFBTRUNSRVR9CiAgICBtY2hJZDogJHtXRUNIQVRfSDVfTUNISUR9CiAgICBzaWduVHlwZTogJHtXRUNIQVRfSDVfU0lHTl9UWVBFfQogICAga2V5OiAke1dFQ0hBVF9INV9LRVl9CiAgICBub3RpZnlJcDogJHtXRUNIQVRfSDVfTk9USUZZX0lQfQogICAgbm90aWZ5VXJsOiAke1dFQ0hBVF9INV9OT1RJRllfVVJMfQogICAgdHJhZGVUeXBlOiAke1dFQ0hBVF9INV9UUkFERV9UWVBFfQogICAgdW5pZmllZE9yZGVyVXJsOiAke1dFQ0hBVF9INV9VTklGSUVET1JERVJfVVJMfQogICAgcXVlcnlPcmRlclVybDogJHtXRUNIQVRfSDVfUVVFUllPUkRFUl9VUkx9CiAgICBkb3dubG9hZEJpbGxVcmw6ICR7V0VDSEFUX0g1X0RPV05MT0FEQklMTF9VUkx9CiAgICBjbG9zZU9yZGVyVXJsOiAke1dFQ0hBVF9INV9DTE9TRU9SREVSX1VSTH0KICBuYXRpdmU6CiAgICBhcHBJZDogJHtXRUNIQVRfTkFUSVZFX0FQUElEfQogICAgYXBwTmFtZTogJHtXRUNIQVRfTkFUSVZFX0FQUE5BTUV9CiAgICBhcHBTZWNyZXQ6ICR7V0VDSEFUX05BVElWRV9BUFBTRUNSRVR9CiAgICBtY2hJZDogJHtXRUNIQVRfTkFUSVZFX01DSElEfQogICAgc2lnblR5cGU6ICR7V0VDSEFUX05BVElWRV9TSUdOX1RZUEV9CiAgICBrZXk6ICR7V0VDSEFUX05BVElWRV9LRVl9CiAgICBub3RpZnlJcDogJHtXRUNIQVRfTkFUSVZFX05PVElGWV9JUH0KICAgIG5vdGlmeVVybDogJHtXRUNIQVRfTkFUSVZFX05PVElGWV9VUkx9CiAgICB0cmFkZVR5cGU6ICR7V0VDSEFUX05BVElWRV9UUkFERV9UWVBFfQogICAgdW5pZmllZE9yZGVyVXJsOiAke1dFQ0hBVF9OQVRJVkVfVU5JRklFRE9SREVSX1VSTH0KICAgIHF1ZXJ5T3JkZXJVcmw6ICR7V0VDSEFUX05BVElWRV9RVUVSWU9SREVSX1VSTH0KICAgIGRvd25sb2FkQmlsbFVybDogJHtXRUNIQVRfTkFUSVZFX0RPV05MT0FEQklMTF9VUkx9CiAgICBjbG9zZU9yZGVyVXJsOiAke1dFQ0hBVF9OQVRJVkVfQ0xPU0VPUkRFUl9VUkx9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">bXliYXRpczoKICBjb25maWctbG9jYXRpb246IGNsYXNzcGF0aDpteWJhdGlzL2NvbmZpZy54bWwKICBtYXBwZXItbG9jYXRpb25zOiBjbGFzc3BhdGg6bXliYXRpcy9tYXBwZXJzLyoueG1sCiAgdHlwZS1hbGlhc2VzLXBhY2thZ2U6IGNvbS5ibG9ja3ljaXR5LmhlaW1kYWxsci5hcGkuaG9zcGl0YWwuZG9tYWluCg==</text>
