@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/workspace/clients/soda/riihi/migration/src/main/resources/migration/mysql/MySQL-39__add_fapiao_content.sql" timestamp="1515547021381">
@@ -923,6 +923,12 @@
         <mark key="]" line="188" column="0" />
         <mark key="." line="188" column="0" />
         <mark key="^" line="2" column="58" />
+      </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/envs/prod/aa" timestamp="1539693197027">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="225" column="149" />
+        <mark key="^" line="225" column="149" />
+        <mark key="." line="225" column="149" />
       </file>
       <file name="/workspace/clients/soda/riihi/migration/src/main/resources/migration/mysql/MySQL-42__change_special_payments_remove_foreign_key_constriants.sql" timestamp="1515596738708">
         <mark key="[" line="1" column="7" />
