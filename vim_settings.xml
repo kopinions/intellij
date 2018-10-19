@@ -135,6 +135,11 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="7" column="3" />
       </file>
+      <file name="/workspace/6c/startup/rxright/sunny-doctor-web-client/build/docker-compose.qa.yml" timestamp="1539936837665">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="39" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="/workspace/clients/billing/src/main/resources/mybatis/mappers/Invoices.xml" timestamp="1510573981924">
         <mark key="[" line="11" column="16" />
         <mark key="]" line="11" column="16" />
@@ -1198,6 +1203,11 @@
         <mark key="." line="40" column="23" />
         <mark key="^" line="40" column="31" />
       </file>
+      <file name="/workspace/6c/startup/rxright/sunny-doctor-web-client/public/index.html" timestamp="1539936956063">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/RefundRequestsRecords.xml" timestamp="1515547983535">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="61" />
@@ -1312,11 +1322,11 @@
         <mark key="." line="24" column="20" />
         <mark key="^" line="22" column="43" />
       </file>
-      <file name="/workspace/6c/startup/rxright/odin/build/docker-compose.prod.yml" timestamp="1539933135683">
-        <mark key="[" line="8" column="24" />
-        <mark key="]" line="8" column="24" />
-        <mark key="." line="8" column="24" />
-        <mark key="^" line="8" column="24" />
+      <file name="/workspace/6c/startup/rxright/odin/build/docker-compose.prod.yml" timestamp="1539936866035">
+        <mark key="[" line="8" column="48" />
+        <mark key="]" line="8" column="50" />
+        <mark key="." line="8" column="50" />
+        <mark key="^" line="8" column="50" />
       </file>
       <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/java/com/blockycity/heimdallr/api/hospital/records/PatientRecord.java" timestamp="1539244516692">
         <mark key="[" line="68" column="15" />
@@ -1510,7 +1520,7 @@
         <mark key="." line="65" column="71" />
         <mark key="^" line="65" column="71" />
       </file>
-      <file name="/workspace/6c/startup/rxright/sunny-doctor-web-client/src/utils/request.js" timestamp="1539936728789">
+      <file name="/workspace/6c/startup/rxright/sunny-doctor-web-client/src/utils/request.js" timestamp="1539937007001">
         <mark key="[" line="7" column="10" />
         <mark key="]" line="7" column="25" />
         <mark key="^" line="7" column="25" />
@@ -1568,6 +1578,12 @@
         <mark key="]" line="32" column="0" />
         <mark key="^" line="21" column="16" />
         <mark key="." line="32" column="0" />
+      </file>
+      <file name="/workspace/6c/startup/rxright/sunny-doctor-web-client/build/docker-compose.prod.yml" timestamp="1539936856113">
+        <mark key="[" line="8" column="50" />
+        <mark key="]" line="8" column="50" />
+        <mark key="." line="8" column="50" />
+        <mark key="^" line="8" column="50" />
       </file>
       <file name="/workspace/golang/src/github.com/cnupp/builder/http/home/git/build.yml" timestamp="1518059129930">
         <mark key="[" line="3" column="11" />
@@ -2270,6 +2286,10 @@
         <mark key="." line="103" column="30" />
         <mark key="^" line="103" column="30" />
       </file>
+      <file name="/workspace/6c/startup/rxright/sunny-doctor-web-client/README.md" timestamp="1539937105785">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="45" />
+      </file>
       <file name="/workspace/clients/soda/riihi/core/src/main/java/com/sodacar/riihi/core/validators/Validator.java" timestamp="1516181572555">
         <mark key="[" line="5" column="44" />
         <mark key="]" line="5" column="13" />
@@ -2409,8 +2429,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>window.appConfig.VUE_APP_BASE_URL</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZG9ja2VyIGJ1aWxkIC10IHR6aW9uL3N1bm55LWRvY3Rvci1oNToxLjAuMyAuCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -8448,7 +8468,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>window.appConfig.VUE_APP_BASE_URL</text>
+        <text>cn</text>
       </register>
       <register name="/" type="4">
         <text>orders</text>
@@ -8456,9 +8476,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgX19CQVNFX1VSTF9fOiBodHRwOi8vYXBpLmRlZXBpLmNuCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>process.env.NODE_ENV === 'development' ?
-    process.env.VUE_APP_BASE_URL</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJhcHAtY29uZmlnLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8469,28 +8488,29 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2V0IC14Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">RU5WIEJVSUxEX0RFUFM9ImdldHRleHQiICBcCiAgICBSVU5USU1FX0RFUFM9ImxpYmludGwiCgpSVU4gc2V0IC14ICYmIFwKICAgIGFwayBhZGQgLS11cGRhdGUgJFJVTlRJTUVfREVQUyAmJiBcCiAgICBhcGsgYWRkIC0tdmlydHVhbCBidWlsZF9kZXBzICRCVUlMRF9ERVBTICYmICBcCiAgICBjcCAvdXNyL2Jpbi9lbnZzdWJzdCAvdXNyL2xvY2FsL2Jpbi9lbnZzdWJzdCAmJiBcCiAgICBhcGsgZGVsIGJ1aWxkX2RlcHMKCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgRU5WOiBwcm9kCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">TU9DS0lORyA/IChkYXRhKSA9PiB7CiAgICAgICAgICAgIGlmIChBcnJheS5pc0FycmF5KGRhdGEpKSB7CiAgICAgICAgICAgICAgICBkYXRhLm1hcCgoaXRlbSkgPT4gewogICAgICAgICAgICAgICAgICAgIGNvbnN0IHtpZCwgdHlwZSwgLi4ub3RoZXJ9ID0gaXRlbTsKICAgICAgICAgICAgICAgICAgICBpdGVtLmRhdGEgPSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlkLAogICAgICAgICAgICAgICAgICAgICAgICB0eXBlLAogICAgICAgICAgICAgICAgICAgICAgICBhdHRyaWJ1dGVzOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAuLi5vdGhlciwKICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICB9OwogICAgICAgICAgICAgICAgICAgIHJldHVybiBpdGVtOwogICAgICAgICAgICAgICAgfSk7CgogICAgICAgICAgICAgICAgcmV0dXJuIGRhdGEucmVkdWNlKChhLCBjKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgYS5kYXRhLnB1c2goYy5kYXRhKTsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gYTsKICAgICAgICAgICAgICAgIH0sIHtkYXRhOiBbXX0pOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGNvbnN0IHtpZCwgdHlwZSwgLi4ub3RoZXJ9ID0gZGF0YTsKICAgICAgICAgICAgZGF0YS5kYXRhID0gewogICAgICAgICAgICAgICAgaWQsCiAgICAgICAgICAgICAgICB0eXBlLAogICAgICAgICAgICAgICAgYXR0cmlidXRlczogewogICAgICAgICAgICAgICAgICAgIC4uLm90aGVyLAogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgfTsKICAgICAgICAgICAgcmV0dXJuIGRhdGE7CiAgICAgICAgfSA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">TU9DS0lORyA/IChkYXRhKSA9PiB7CiAgICAgICAgICAgIGlmIChBcnJheS5pc0FycmF5KGRhdGEpKSB7CiAgICAgICAgICAgICAgICBkYXRhLm1hcCgoaXRlbSkgPT4gewogICAgICAgICAgICAgICAgICAgIGNvbnN0IHtpZCwgdHlwZSwgLi4ub3RoZXJ9ID0gaXRlbTsKICAgICAgICAgICAgICAgICAgICBpdGVtLmRhdGEgPSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlkLAogICAgICAgICAgICAgICAgICAgICAgICB0eXBlLAogICAgICAgICAgICAgICAgICAgICAgICBhdHRyaWJ1dGVzOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAuLi5vdGhlciwKICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICB9OwogICAgICAgICAgICAgICAgICAgIHJldHVybiBpdGVtOwogICAgICAgICAgICAgICAgfSk7CgogICAgICAgICAgICAgICAgcmV0dXJuIGRhdGEucmVkdWNlKChhLCBjKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgYS5kYXRhLnB1c2goYy5kYXRhKTsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gYTsKICAgICAgICAgICAgICAgIH0sIHtkYXRhOiBbXX0pOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGNvbnN0IHtpZCwgdHlwZSwgLi4ub3RoZXJ9ID0gZGF0YTsKICAgICAgICAgICAgZGF0YS5kYXRhID0gewogICAgICAgICAgICAgICAgaWQsCiAgICAgICAgICAgICAgICB0eXBlLAogICAgICAgICAgICAgICAgYXR0cmlidXRlczogewogICAgICAgICAgICAgICAgICAgIC4uLm90aGVyLAogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgfTsKICAgICAgICAgICAgcmV0dXJuIGRhdGE7CiAgICAgICAgfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgRU5WOiBxYQo=</text>
+      </register>
+      <register name="5" type="4">
+        <text>process.env.NODE_ENV === 'development' ?
+    process.env.VUE_APP_BASE_URL</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">c2V0IC14Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9IDogZGF0YSA9PiAoZGF0YSksCg==</text>
+        <text encoding="base64">RU5WIEJVSUxEX0RFUFM9ImdldHRleHQiICBcCiAgICBSVU5USU1FX0RFUFM9ImxpYmludGwiCgpSVU4gc2V0IC14ICYmIFwKICAgIGFwayBhZGQgLS11cGRhdGUgJFJVTlRJTUVfREVQUyAmJiBcCiAgICBhcGsgYWRkIC0tdmlydHVhbCBidWlsZF9kZXBzICRCVUlMRF9ERVBTICYmICBcCiAgICBjcCAvdXNyL2Jpbi9lbnZzdWJzdCAvdXNyL2xvY2FsL2Jpbi9lbnZzdWJzdCAmJiBcCiAgICBhcGsgZGVsIGJ1aWxkX2RlcHMKCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">T0NLSU5HID8gKGRhdGEpID0+IHsKICAgICAgICAgICAgaWYgKEFycmF5LmlzQXJyYXkoZGF0YSkpIHsKICAgICAgICAgICAgICAgIGRhdGEubWFwKChpdGVtKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgY29uc3Qge2lkLCB0eXBlLCAuLi5vdGhlcn0gPSBpdGVtOwogICAgICAgICAgICAgICAgICAgIGl0ZW0uZGF0YSA9IHsKICAgICAgICAgICAgICAgICAgICAgICAgaWQsCiAgICAgICAgICAgICAgICAgICAgICAgIHR5cGUsCiAgICAgICAgICAgICAgICAgICAgICAgIGF0dHJpYnV0ZXM6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC4uLm90aGVyLAogICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgIH07CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGl0ZW07CiAgICAgICAgICAgICAgICB9KTsKCiAgICAgICAgICAgICAgICByZXR1cm4gZGF0YS5yZWR1Y2UoKGEsIGMpID0+IHsKICAgICAgICAgICAgICAgICAgICBhLmRhdGEucHVzaChjLmRhdGEpOwogICAgICAgICAgICAgICAgICAgIHJldHVybiBhOwogICAgICAgICAgICAgICAgfSwge2RhdGE6IFtdfSk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgY29uc3Qge2lkLCB0eXBlLCAuLi5vdGhlcn0gPSBkYXRhOwogICAgICAgICAgICBkYXRhLmRhdGEgPSB7CiAgICAgICAgICAgICAgICBpZCwKICAgICAgICAgICAgICAgIHR5cGUsCiAgICAgICAgICAgICAgICBhdHRyaWJ1dGVzOiB7CiAgICAgICAgICAgICAgICAgICAgLi4ub3RoZXIsCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICB9OwogICAgICAgICAgICByZXR1cm4gZGF0YTsKICAgICAgICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgRU5WOiBwcm9kCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbmZpZyBmcm9tICcuLi9jb25maWcvYXBpLmNvbmZpZyc7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">TU9DS0lORyA/IChkYXRhKSA9PiB7CiAgICAgICAgICAgIGlmIChBcnJheS5pc0FycmF5KGRhdGEpKSB7CiAgICAgICAgICAgICAgICBkYXRhLm1hcCgoaXRlbSkgPT4gewogICAgICAgICAgICAgICAgICAgIGNvbnN0IHtpZCwgdHlwZSwgLi4ub3RoZXJ9ID0gaXRlbTsKICAgICAgICAgICAgICAgICAgICBpdGVtLmRhdGEgPSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlkLAogICAgICAgICAgICAgICAgICAgICAgICB0eXBlLAogICAgICAgICAgICAgICAgICAgICAgICBhdHRyaWJ1dGVzOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAuLi5vdGhlciwKICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICB9OwogICAgICAgICAgICAgICAgICAgIHJldHVybiBpdGVtOwogICAgICAgICAgICAgICAgfSk7CgogICAgICAgICAgICAgICAgcmV0dXJuIGRhdGEucmVkdWNlKChhLCBjKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgYS5kYXRhLnB1c2goYy5kYXRhKTsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gYTsKICAgICAgICAgICAgICAgIH0sIHtkYXRhOiBbXX0pOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGNvbnN0IHtpZCwgdHlwZSwgLi4ub3RoZXJ9ID0gZGF0YTsKICAgICAgICAgICAgZGF0YS5kYXRhID0gewogICAgICAgICAgICAgICAgaWQsCiAgICAgICAgICAgICAgICB0eXBlLAogICAgICAgICAgICAgICAgYXR0cmlidXRlczogewogICAgICAgICAgICAgICAgICAgIC4uLm90aGVyLAogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgfTsKICAgICAgICAgICAgcmV0dXJuIGRhdGE7CiAgICAgICAgfSA=</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
