@@ -1369,6 +1369,12 @@
         <mark key="^" line="5" column="81" />
         <mark key="." line="5" column="81" />
       </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/db/migration/V36__add_diseases_relation_to_order.sql" timestamp="1540396980716">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="/workspace/golang/src/github.com/cnupp/builder/xxx/pre-commit" timestamp="1517904630350">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="16" />
@@ -1908,6 +1914,12 @@
         <mark key="." line="89" column="79" />
         <mark key="^" line="89" column="79" />
       </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/db/migration/V38__add_level_to_doctors.sql" timestamp="1540397006345">
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="5" column="10" />
+        <mark key="." line="5" column="10" />
+        <mark key="^" line="5" column="10" />
+      </file>
       <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/db/migration/V27__disease_and_department_name_unique_constraint.sql" timestamp="1537500311648">
         <mark key="[" line="18" column="12" />
         <mark key="]" line="18" column="23" />
@@ -2428,8 +2440,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZG9ja2VyIGJ1aWxkIC10IHR6aW9uL3N1bm55LWRvY3Rvci1oNToxLjAuMyAuCg==</text>
+      <register name="&quot;" type="4">
+        <text>5</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -8467,16 +8479,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>cn</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>orders</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgX19CQVNFX1VSTF9fOiBodHRwOi8vYXBpLmRlZXBpLmNuCg==</text>
+        <text encoding="base64">QUxURVIgVEFCTEUgT1JERVJfSVRFTVMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJhcHAtY29uZmlnLmpzIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8487,35 +8499,35 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgRU5WOiBwcm9kCg==</text>
+        <text encoding="base64">VVBEQVRFIE9SREVSX0lURU1TIEFTIE9JIFNFVCBESVNFQVNFX0lEPSgKICAgIFNFTEVDVCBERC5ESVNFQVNFX0lECiAgICBGUk9NIERPQ1RPUl9ESVNFQVNFUyBBUyBERCwgUFJPRFVDVFMgQVMgUAogICAgV0hFUkUgT0kuUFJPRFVDVF9JRCA9IFAuSUQgQU5EIFAuRE9DVE9SX0lEID0gREQuRE9DVE9SX0lECiAgICBMSU1JVCAxCik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VVBEQVRFIE9SREVSX0lURU1TIEFTIE9JIFNFVCBESVNFQVNFX0lEPSgKICAgIFNFTEVDVCBERC5ESVNFQVNFX0lECiAgICBGUk9NIERPQ1RPUl9ESVNFQVNFUyBBUyBERCwgUFJPRFVDVFMgQVMgUAogICAgV0hFUkUgT0kuUFJPRFVDVF9JRCA9IFAuSUQgQU5EIFAuRE9DVE9SX0lEID0gREQuRE9DVE9SX0lECiAgICBMSU1JVCAxCik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgRU5WOiBxYQo=</text>
+        <text encoding="base64">QUxURVIgVEFCTEUgT1JERVJfSVRFTVMKICAgIEFERCBDT05TVFJBSU5UIE9SREVSX0RJU0VBU0VfRksgRk9SRUlHTiBLRVkgKERJU0VBU0VfSUQpIFJFRkVSRU5DRVMgRElTRUFTRVMgKElEKTsK</text>
       </register>
-      <register name="5" type="4">
-        <text>process.env.NODE_ENV === 'development' ?
-    process.env.VUE_APP_BASE_URL</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJhcHAtY29uZmlnLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2V0IC14Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">RU5WIEJVSUxEX0RFUFM9ImdldHRleHQiICBcCiAgICBSVU5USU1FX0RFUFM9ImxpYmludGwiCgpSVU4gc2V0IC14ICYmIFwKICAgIGFwayBhZGQgLS11cGRhdGUgJFJVTlRJTUVfREVQUyAmJiBcCiAgICBhcGsgYWRkIC0tdmlydHVhbCBidWlsZF9kZXBzICRCVUlMRF9ERVBTICYmICBcCiAgICBjcCAvdXNyL2Jpbi9lbnZzdWJzdCAvdXNyL2xvY2FsL2Jpbi9lbnZzdWJzdCAmJiBcCiAgICBhcGsgZGVsIGJ1aWxkX2RlcHMKCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgRU5WOiBwcm9kCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgRU5WOiBxYQo=</text>
+      </register>
       <register name="9" type="4">
-        <text encoding="base64">TU9DS0lORyA/IChkYXRhKSA9PiB7CiAgICAgICAgICAgIGlmIChBcnJheS5pc0FycmF5KGRhdGEpKSB7CiAgICAgICAgICAgICAgICBkYXRhLm1hcCgoaXRlbSkgPT4gewogICAgICAgICAgICAgICAgICAgIGNvbnN0IHtpZCwgdHlwZSwgLi4ub3RoZXJ9ID0gaXRlbTsKICAgICAgICAgICAgICAgICAgICBpdGVtLmRhdGEgPSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlkLAogICAgICAgICAgICAgICAgICAgICAgICB0eXBlLAogICAgICAgICAgICAgICAgICAgICAgICBhdHRyaWJ1dGVzOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAuLi5vdGhlciwKICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICB9OwogICAgICAgICAgICAgICAgICAgIHJldHVybiBpdGVtOwogICAgICAgICAgICAgICAgfSk7CgogICAgICAgICAgICAgICAgcmV0dXJuIGRhdGEucmVkdWNlKChhLCBjKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgYS5kYXRhLnB1c2goYy5kYXRhKTsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gYTsKICAgICAgICAgICAgICAgIH0sIHtkYXRhOiBbXX0pOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGNvbnN0IHtpZCwgdHlwZSwgLi4ub3RoZXJ9ID0gZGF0YTsKICAgICAgICAgICAgZGF0YS5kYXRhID0gewogICAgICAgICAgICAgICAgaWQsCiAgICAgICAgICAgICAgICB0eXBlLAogICAgICAgICAgICAgICAgYXR0cmlidXRlczogewogICAgICAgICAgICAgICAgICAgIC4uLm90aGVyLAogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgfTsKICAgICAgICAgICAgcmV0dXJuIGRhdGE7CiAgICAgICAgfSA=</text>
+        <text>process.env.NODE_ENV === 'development' ?
+    process.env.VUE_APP_BASE_URL</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -8566,11 +8578,11 @@
         <entry>we</entry>
         <entry>&quot;w</entry>
         <entry>ew</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL29yZGVycy9kb2N0b3JzL2c=</entry>
         <entry>qw</entry>
         <entry>reg</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
