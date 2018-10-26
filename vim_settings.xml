@@ -99,11 +99,11 @@
         <mark key="^" line="11" column="35" />
         <mark key="." line="37" column="12" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/WechatsApp.java" timestamp="1539607488874">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="49" column="64" />
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/WechatsApp.java" timestamp="1540520365436">
+        <mark key="[" line="50" column="17" />
+        <mark key="]" line="50" column="25" />
+        <mark key="." line="50" column="25" />
+        <mark key="^" line="50" column="25" />
       </file>
       <file name="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/test/java/com/blockycity/heimdallr/api/wechat/records/PaymentRequestsTest.java" timestamp="1538045944461">
         <mark key="[" line="85" column="0" />
@@ -183,11 +183,12 @@
         <mark key="." line="10" column="64" />
         <mark key="^" line="10" column="64" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/Modules.java" timestamp="1538120455761">
-        <mark key="[" line="41" column="61" />
-        <mark key="]" line="41" column="66" />
-        <mark key="." line="41" column="66" />
-        <mark key="^" line="41" column="66" />
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/Modules.java" timestamp="1540520443178">
+        <mark key="'" line="28" column="31" />
+        <mark key="[" line="80" column="61" />
+        <mark key="]" line="80" column="69" />
+        <mark key="." line="80" column="69" />
+        <mark key="^" line="80" column="69" />
       </file>
       <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/java/com/blockycity/heimdallr/api/hospital/aops/RuntimeExceptionMapper.java" timestamp="1539136906423">
         <mark key="[" line="18" column="43" />
@@ -278,6 +279,13 @@
         <mark key="]" line="28" column="84" />
         <mark key="^" line="28" column="84" />
         <mark key="." line="28" column="84" />
+      </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/records/RemoteOrder.java" timestamp="1540520596939">
+        <mark key="'" line="25" column="4" />
+        <mark key="[" line="62" column="64" />
+        <mark key="]" line="62" column="65" />
+        <mark key="." line="62" column="65" />
+        <mark key="^" line="62" column="65" />
       </file>
       <file name="/workspace/clients/soda/riihi/api/src/main/java/com/sodacar/riihi/api/SpecialPaymentsResource.java" timestamp="1515487138066">
         <mark key="[" line="25" column="58" />
@@ -1012,6 +1020,12 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/infrastructures/config/src/main/resources/shared/wechats.yml" timestamp="1540520416725">
+        <mark key="[" line="17" column="33" />
+        <mark key="]" line="20" column="39" />
+        <mark key="." line="20" column="39" />
+        <mark key="^" line="20" column="39" />
+      </file>
       <file name="/workspace/clients/soda/riihi/api/src/main/java/com/sodacar/riihi/api/AccountsResource.java" timestamp="1513923799654">
         <mark key="[" line="20" column="69" />
         <mark key="]" line="20" column="69" />
@@ -1155,6 +1169,13 @@
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
         <mark key="^" line="0" column="19" />
+      </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/records/RemoteOrders.java" timestamp="1540520587552">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="32" column="28" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="/workspace/clients/soda/soda-admin/src/redux/reducers.js" timestamp="1515580571436">
         <mark key="[" line="27" column="38" />
@@ -2267,10 +2288,6 @@
         <mark key="." line="103" column="30" />
         <mark key="^" line="103" column="30" />
       </file>
-      <file name="/workspace/6c/startup/rxright/sunny-doctor-web-client/README.md" timestamp="1539937105785">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="45" />
-      </file>
       <file name="/workspace/clients/soda/riihi/core/src/main/java/com/sodacar/riihi/core/validators/Validator.java" timestamp="1516181572555">
         <mark key="[" line="5" column="44" />
         <mark key="]" line="5" column="13" />
@@ -2303,15 +2320,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="0" filename="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/records/WechatH5Channel.java" />
-      <jump line="3" column="18" filename="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/resources/db/migration/V3__create_context_for_the_payment_request.sql" />
-      <jump line="85" column="43" filename="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/test/java/com/blockycity/heimdallr/api/wechat/records/PaymentRequestsTest.java" />
-      <jump line="125" column="0" filename="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/records/PaymentRequestRecord.java" />
-      <jump line="28" column="0" filename="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/records/WechatMPChannel.java" />
-      <jump line="18" column="0" filename="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/records/WechatMPChannel.java" />
-      <jump line="62" column="4" filename="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/records/WechatNativeChannel.java" />
-      <jump line="103" column="0" filename="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/records/WechatNativeChannel.java" />
-      <jump line="174" column="23" filename="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/test/java/com/blockycity/heimdallr/api/wechat/support/Application.java" />
       <jump line="177" column="17" filename="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/test/java/com/blockycity/heimdallr/api/wechat/support/Application.java" />
       <jump line="76" column="0" filename="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/resources/PaymentRequestsResource.java" />
       <jump line="36" column="46" filename="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/records/WechatNativeChannel.java" />
@@ -2403,6 +2411,15 @@
       <jump line="2" column="48" filename="/workspace/6c/startup/rxright/odin/entrypoint.sh" />
       <jump line="68" column="44" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/java/com/blockycity/heimdallr/api/hospital/resources/OrdersResource.java" />
       <jump line="29" column="0" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/java/com/blockycity/heimdallr/api/hospital/resources/OrdersResource.java" />
+      <jump line="22" column="0" filename="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/Modules.java" />
+      <jump line="73" column="0" filename="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/Modules.java" />
+      <jump line="26" column="19" filename="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/Modules.java" />
+      <jump line="28" column="31" filename="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/Modules.java" />
+      <jump line="44" column="0" filename="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/records/RemoteOrders.java" />
+      <jump line="3" column="48" filename="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/records/RemoteOrder.java" />
+      <jump line="71" column="0" filename="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/records/RemoteOrder.java" />
+      <jump line="18" column="0" filename="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/records/RemoteOrder.java" />
+      <jump line="25" column="4" filename="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/records/RemoteOrder.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2410,8 +2427,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBJbmplY3QKICAgICAgICAgICAgQE5hbWVkCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -8449,16 +8466,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>token</text>
       </register>
       <register name="/" type="4">
         <text>orders</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBDb250ZXh0IENvbnRhaW5lclJlcXVlc3RDb250ZXh0IHJlcXVlc3QpIHsK</text>
+        <text encoding="base64">ICAgIEBJbmplY3QKICAgIEBOYW1lZCgic2VydmljZXMub3JkZXJzLm9yZGVyLnJlYWQiKQogICAgcHJpdmF0ZSBTdHJpbmcgdG9rZW47Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBPcHRpb25hbDxJZGVudGl0eT4gY3VycmVudCA9IGlkZW50aXRpZXMuY3VycmVudChyZXF1ZXN0KTsKICAgICAgICBpZiAoIWN1cnJlbnQuaXNQcmVzZW50KCkpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEF1dGhvcml6ZWRFeGNlcHRpb24oIk5vdCBhdXRob3JpemVkIik7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIEBJbmplY3QKICAgICAgICAgICAgQE5hbWVkCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8469,28 +8486,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBPcHRpb25hbDxJZGVudGl0eT4gY3VycmVudCA9IGlkZW50aXRpZXMuY3VycmVudChyZXF1ZXN0KTsKICAgICAgICBpZiAoIWN1cnJlbnQuaXNQcmVzZW50KCkpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEF1dGhvcml6ZWRFeGNlcHRpb24oIk5vdCBhdXRob3JpemVkIik7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIEBJbmplY3QKICAgIEBOYW1lZCgic2VydmljZXMucGF5bWVudHMucGF5bWVudHMuY3JlYXRlIikKICAgIHByaXZhdGUgU3RyaW5nIHBheW1lbnRUb2tlbjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">b3JkZXJzOgo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICBPcHRpb25hbDxJZGVudGl0eT4gY3VycmVudCA9IGlkZW50aXRpZXMuY3VycmVudChyZXF1ZXN0KTsKICAgICAgICBpZiAoIWN1cnJlbnQuaXNQcmVzZW50KCkpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEF1dGhvcml6ZWRFeGNlcHRpb24oIk5vdCBhdXRob3JpemVkIik7CiAgICAgICAgfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHV0KCJ0b2tlbiIsIGVudi5nZXRQcm9wZXJ0eSgidG9rZW4iKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBPcHRpb25hbDxJZGVudGl0eT4gY3VycmVudCA9IGlkZW50aXRpZXMuY3VycmVudChyZXF1ZXN0KTsKICAgICAgICBpZiAoIWN1cnJlbnQuaXNQcmVzZW50KCkpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEF1dGhvcml6ZWRFeGNlcHRpb24oIk5vdCBhdXRob3JpemVkIik7CiAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">VVBEQVRFIE9SREVSX0lURU1TIEFTIE9JIFNFVCBESVNFQVNFX0lEPSgKICAgIFNFTEVDVCBERC5ESVNFQVNFX0lECiAgICBGUk9NIERPQ1RPUl9ESVNFQVNFUyBBUyBERCwgUFJPRFVDVFMgQVMgUAogICAgV0hFUkUgT0kuUFJPRFVDVF9JRCA9IFAuSUQgQU5EIFAuRE9DVE9SX0lEID0gREQuRE9DVE9SX0lECiAgICBMSU1JVCAxCik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBPcHRpb25hbDxJZGVudGl0eT4gY3VycmVudCA9IGlkZW50aXRpZXMuY3VycmVudChyZXF1ZXN0KTsKICAgICAgICBpZiAoIWN1cnJlbnQuaXNQcmVzZW50KCkpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEF1dGhvcml6ZWRFeGNlcHRpb24oIk5vdCBhdXRob3JpemVkIik7CiAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">VVBEQVRFIE9SREVSX0lURU1TIEFTIE9JIFNFVCBESVNFQVNFX0lEPSgKICAgIFNFTEVDVCBERC5ESVNFQVNFX0lECiAgICBGUk9NIERPQ1RPUl9ESVNFQVNFUyBBUyBERCwgUFJPRFVDVFMgQVMgUAogICAgV0hFUkUgT0kuUFJPRFVDVF9JRCA9IFAuSUQgQU5EIFAuRE9DVE9SX0lEID0gREQuRE9DVE9SX0lECiAgICBMSU1JVCAxCik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgT1JERVJfSVRFTVMKICAgIEFERCBDT05TVFJBSU5UIE9SREVSX0RJU0VBU0VfRksgRk9SRUlHTiBLRVkgKERJU0VBU0VfSUQpIFJFRkVSRU5DRVMgRElTRUFTRVMgKElEKTsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICBPcHRpb25hbDxJZGVudGl0eT4gY3VycmVudCA9IGlkZW50aXRpZXMuY3VycmVudChyZXF1ZXN0KTsKICAgICAgICBpZiAoIWN1cnJlbnQuaXNQcmVzZW50KCkpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEF1dGhvcml6ZWRFeGNlcHRpb24oIk5vdCBhdXRob3JpemVkIik7CiAgICAgICAgfQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJhcHAtY29uZmlnLmpzIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
