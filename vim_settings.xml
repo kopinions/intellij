@@ -75,9 +75,10 @@
         <mark key="." line="9" column="22" />
         <mark key="^" line="9" column="21" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/DEPLOY.md" timestamp="1540543768290">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="118" />
+      <file name="/workspace/6c/startup/rxright/heimdallr/DEPLOY.md" timestamp="1540568205702">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="50" />
         <mark key="." line="66" column="49" />
         <mark key="^" line="66" column="49" />
       </file>
@@ -630,6 +631,7 @@
         <mark key="." line="14" column="43" />
         <mark key="^" line="14" column="43" />
       </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/build.gradle" timestamp="1540568435600" />
       <file name="/workspace/clients/soda/riihi/records/src/main/java/com/sodacar/riihi/mybatis/mapper/UserMapper.java" timestamp="1515667473906">
         <mark key="[" line="60" column="99" />
         <mark key="]" line="60" column="68" />
@@ -1739,11 +1741,12 @@
         <mark key="^" line="8" column="46" />
         <mark key="." line="8" column="46" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/.gitlab-ci.yml" timestamp="1540543809190">
-        <mark key="[" line="42" column="19" />
-        <mark key="]" line="42" column="28" />
-        <mark key="." line="42" column="28" />
-        <mark key="^" line="42" column="28" />
+      <file name="/workspace/6c/startup/rxright/heimdallr/.gitlab-ci.yml" timestamp="1540568775317">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="56" column="48" />
+        <mark key="]" line="56" column="46" />
+        <mark key="." line="56" column="46" />
+        <mark key="^" line="56" column="46" />
       </file>
       <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/validation/Validator.java" timestamp="1510484109061">
         <mark key="[" line="9" column="27" />
@@ -2363,8 +2366,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="177" column="17" filename="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/test/java/com/blockycity/heimdallr/api/wechat/support/Application.java" />
-      <jump line="76" column="0" filename="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/resources/PaymentRequestsResource.java" />
       <jump line="36" column="46" filename="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/records/WechatNativeChannel.java" />
       <jump line="42" column="3" filename="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/records/PaymentRequestRecord.java" />
       <jump line="17" column="13" filename="/workspace/6c/startup/rxright/heimdallr/services/files/src/main/java/com/blockycity/heimdallr/files/records/FileeRecord.java" />
@@ -2463,6 +2464,8 @@
       <jump line="71" column="0" filename="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/records/RemoteOrder.java" />
       <jump line="18" column="0" filename="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/records/RemoteOrder.java" />
       <jump line="25" column="4" filename="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/records/RemoteOrder.java" />
+      <jump line="31" column="0" filename="/workspace/6c/startup/rxright/heimdallr/.gitlab-ci.yml" />
+      <jump line="9" column="0" filename="/workspace/6c/startup/rxright/heimdallr/DEPLOY.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2470,8 +2473,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>wechats</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -8509,16 +8512,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>wechats</text>
+        <text>hospitals</text>
       </register>
       <register name="/" type="4">
-        <text>orders</text>
+        <text>build</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAtIHNlcnZpY2VzL3dlY2hhdHMvYnVpbGQvdGVzdC1yZXN1bHRzL3Rlc3QvVEVTVC0qLnhtbAo=</text>
+        <text encoding="base64">ICAgIC0gZG9ja2VyIHB1c2ggJENJX1JFR0lTVFJZL2hvc3BpdGFsczokVkVSU0lPTjoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAtIHB3ZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8529,28 +8532,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAtIGxzIC1sdHJjaGEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtIGVudgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtIGRvY2tlciBsb2dpbiAtdSBnaXRsYWItY2ktdG9rZW4gLXAgJENJX0JVSUxEX1RPS0VOIHJlZ2lzdHJ5LmdpdGxhYi5jb20K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBJbmplY3QKICAgICAgICAgICAgQE5hbWVkCg==</text>
+        <text encoding="base64">ICAtIHB3ZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBJbmplY3QKICAgIEBOYW1lZCgic2VydmljZXMucGF5bWVudHMucGF5bWVudHMuY3JlYXRlIikKICAgIHByaXZhdGUgU3RyaW5nIHBheW1lbnRUb2tlbjsK</text>
+        <text encoding="base64">ICAtIGxzIC1sdHJjaGEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">b3JkZXJzOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHV0KCJ0b2tlbiIsIGVudi5nZXRQcm9wZXJ0eSgidG9rZW4iKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBPcHRpb25hbDxJZGVudGl0eT4gY3VycmVudCA9IGlkZW50aXRpZXMuY3VycmVudChyZXF1ZXN0KTsKICAgICAgICBpZiAoIWN1cnJlbnQuaXNQcmVzZW50KCkpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEF1dGhvcml6ZWRFeGNlcHRpb24oIk5vdCBhdXRob3JpemVkIik7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIEBJbmplY3QKICAgICAgICAgICAgQE5hbWVkCg==</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
@@ -8560,9 +8563,9 @@
       </register>
     </registers>
     <search>
-      <last-search>orders</last-search>
+      <last-search>build</last-search>
       <last-offset />
-      <last-pattern>orders</last-pattern>
+      <last-pattern>build</last-pattern>
       <last-replace>doctors</last-replace>
       <last-substitute>orders</last-substitute>
       <last-dir>1</last-dir>
@@ -8570,7 +8573,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\$\$</entry>
         <entry>items</entry>
         <entry>diagnose</entry>
         <entry>doctor</entry>
@@ -8590,6 +8592,7 @@
         <entry>image</entry>
         <entry>DEPARTMENTS</entry>
         <entry>orders</entry>
+        <entry>build</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
