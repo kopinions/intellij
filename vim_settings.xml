@@ -1729,6 +1729,12 @@
         <mark key="^" line="8" column="46" />
         <mark key="." line="8" column="46" />
       </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/.gitlab-ci.yml" timestamp="1540655481154">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+        <mark key="^" line="0" column="25" />
+      </file>
       <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/validation/Validator.java" timestamp="1510484109061">
         <mark key="[" line="9" column="27" />
         <mark key="]" line="9" column="36" />
@@ -2448,8 +2454,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0gZG9ja2VyOmRpbmQK</text>
+      <register name="&quot;" type="4">
+        <text>docker</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -8487,7 +8493,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>docker:latest</text>
+        <text>docker</text>
       </register>
       <register name="/" type="4">
         <text>build</text>
