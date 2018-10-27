@@ -290,10 +290,10 @@
         <mark key="^" line="33" column="18" />
       </file>
       <file name="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/services/OrderService.java" timestamp="1540543619685">
-        <mark key="[" line="37" column="29" />
-        <mark key="]" line="37" column="41" />
-        <mark key="^" line="37" column="41" />
-        <mark key="." line="37" column="41" />
+        <mark key="[" line="25" column="29" />
+        <mark key="]" line="25" column="41" />
+        <mark key="^" line="25" column="41" />
+        <mark key="." line="25" column="41" />
       </file>
       <file name="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/records/RemoteOrder.java" timestamp="1540525109019">
         <mark key="'" line="25" column="4" />
@@ -595,6 +595,7 @@
         <mark key="^" line="50" column="84" />
         <mark key="." line="50" column="100" />
       </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/db/migration/V40__insert_address_data.sql" timestamp="1540653214206" />
       <file name="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/records/ComposeChangeSets.java" timestamp="1514866438365">
         <mark key="[" line="6" column="29" />
         <mark key="]" line="6" column="29" />
@@ -631,7 +632,6 @@
         <mark key="." line="14" column="43" />
         <mark key="^" line="14" column="43" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/services/build.gradle" timestamp="1540568435600" />
       <file name="/workspace/clients/soda/riihi/records/src/main/java/com/sodacar/riihi/mybatis/mapper/UserMapper.java" timestamp="1515667473906">
         <mark key="[" line="60" column="99" />
         <mark key="]" line="60" column="68" />
@@ -1045,12 +1045,6 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/infrastructures/config/src/main/resources/shared/wechats.yml" timestamp="1540543665920">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="20" column="40" />
-        <mark key="." line="20" column="39" />
-        <mark key="^" line="20" column="39" />
-      </file>
       <file name="/workspace/clients/soda/riihi/api/src/main/java/com/sodacar/riihi/api/AccountsResource.java" timestamp="1513923799654">
         <mark key="[" line="20" column="69" />
         <mark key="]" line="20" column="69" />
@@ -1196,11 +1190,7 @@
         <mark key="^" line="0" column="19" />
       </file>
       <file name="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/records/RemoteOrders.java" timestamp="1540543639601">
-        <mark key="'" line="40" column="0" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="32" column="28" />
-        <mark key="." line="33" column="0" />
+        <mark key="'" line="35" column="0" />
       </file>
       <file name="/workspace/clients/soda/soda-admin/src/redux/reducers.js" timestamp="1515580571436">
         <mark key="[" line="27" column="38" />
@@ -1297,7 +1287,6 @@
         <mark key="." line="27" column="26" />
         <mark key="^" line="27" column="26" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/db/migration/V39__create_tables_for_addresses.sql" timestamp="1540519348340" />
       <file name="/workspace/6c/startup/rxright/heimdallr/envs/production/services/.files.env" timestamp="1537417080577">
         <mark key="[" line="1" column="8" />
         <mark key="]" line="1" column="16" />
@@ -1741,13 +1730,6 @@
         <mark key="^" line="8" column="46" />
         <mark key="." line="8" column="46" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/.gitlab-ci.yml" timestamp="1540573646820">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="^" line="45" column="1" />
-        <mark key="." line="46" column="0" />
-      </file>
       <file name="/workspace/clients/billing/src/main/java/com/accounting/billing/validation/Validator.java" timestamp="1510484109061">
         <mark key="[" line="9" column="27" />
         <mark key="]" line="9" column="36" />
@@ -1801,12 +1783,6 @@
         <mark key="]" line="3" column="30" />
         <mark key="^" line="3" column="30" />
         <mark key="." line="3" column="30" />
-      </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/test/resources/application.yml" timestamp="1540543657460">
-        <mark key="[" line="27" column="14" />
-        <mark key="]" line="27" column="14" />
-        <mark key="." line="27" column="14" />
-        <mark key="^" line="24" column="28" />
       </file>
       <file name="/workspace/6c/startup/rxright/odin/build/config.sh" timestamp="1539928699613">
         <mark key="[" line="2" column="28" />
