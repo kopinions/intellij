@@ -595,6 +595,12 @@
         <mark key="^" line="50" column="84" />
         <mark key="." line="50" column="100" />
       </file>
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/db/migration/V40__insert_address_data.sql" timestamp="1540703337772">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="92" column="45" />
+        <mark key="." line="93" column="0" />
+        <mark key="^" line="92" column="9" />
+      </file>
       <file name="/workspace/clients/soda/riihi/scaffold/src/test/java/com/sodacar/riihi/records/ComposeChangeSets.java" timestamp="1514866438365">
         <mark key="[" line="6" column="29" />
         <mark key="]" line="6" column="29" />
@@ -1189,7 +1195,7 @@
         <mark key="^" line="0" column="19" />
       </file>
       <file name="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/records/RemoteOrders.java" timestamp="1540543639601">
-        <mark key="'" line="40" column="0" />
+        <mark key="'" line="35" column="0" />
       </file>
       <file name="/workspace/clients/soda/soda-admin/src/redux/reducers.js" timestamp="1515580571436">
         <mark key="[" line="27" column="38" />
@@ -2454,8 +2460,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>docker</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QUxURVIgVEFCTEUgQUREUkVTU0VTCiAgICBNT0RJRlkgQ09MVU1OIEVOVU1fSUQgQklOQVJZKDE2KSBOT1QgTlVMTDsK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -8493,16 +8499,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>docker</text>
+        <text>ADD</text>
       </register>
       <register name="/" type="4">
         <text>build</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC0gZG9ja2VyIHB1c2ggJENJX1JFR0lTVFJZL2hvc3BpdGFsczokVkVSU0lPTjoK</text>
+        <text encoding="base64">QUxURVIgVEFCTEUgQUREUkVTU0VTCiAgICBNT0RJRlkgQ09MVU1OIEVOVU1fSUQgQklOQVJZKDE2KSBOT1QgTlVMTDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gZG9ja2VyOmRpbmQK</text>
+        <text encoding="base64">QUREIENPTlNUUkFJTlQgYEVOVU1fSURfRktgIEZPUkVJR04gS0VZIChFTlVNX0lEKSBSRUZFUkVOQ0VTIEFERFJFU1NfRU5VTSAoSUQpLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8513,10 +8519,10 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzZXJ2aWNlczoK</text>
+        <text encoding="base64">QUxURVIgVEFCTEUgQUREUkVTU0VTCiAgICBBREQgQ09MVU1OIEVOVU1fSUQgQklOQVJZKDE2KSBOT1QgTlVMTDsKQUREIENPTlNUUkFJTlQgYEVOVU1fSURfRktgIEZPUkVJR04gS0VZIChFTlVNX0lEKSBSRUZFUkVOQ0VTIEFERFJFU1NfRU5VTSAoSUQpLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpbWFnZTogZ3JhZGxlOjQuMTAuMi1qZGs4Cg==</text>
+        <text encoding="base64">ICAgIEFERCBDT0xVTU4gRU5VTV9JRCBCSU5BUlkoMTYpIE5PVCBOVUxMOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIC0gZG9ja2VyOmRpbmQK</text>
@@ -8528,13 +8534,13 @@
         <text encoding="base64">ICBpbWFnZTogZ3JhZGxlOjQuMTAuMi1qZGs4Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC0K</text>
+        <text encoding="base64">ICAgIC0gZG9ja2VyOmRpbmQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpbWFnZTogZ3JhZGxlOjQuMTAuMi1qZGs4Cg==</text>
+        <text encoding="base64">ICBzZXJ2aWNlczoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpbWFnZTogZ3JhZGxlOjQuMTAuMi1qZGs4Cg==</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
