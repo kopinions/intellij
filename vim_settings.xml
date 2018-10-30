@@ -124,11 +124,11 @@
         <mark key="." line="10" column="4" />
         <mark key="^" line="8" column="28" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/mybatis/mappers/HospitalMapper.xml" timestamp="1537500371937">
-        <mark key="[" line="89" column="29" />
-        <mark key="]" line="89" column="29" />
-        <mark key="." line="89" column="29" />
-        <mark key="^" line="89" column="29" />
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/mybatis/mappers/HospitalMapper.xml" timestamp="1540866076091">
+        <mark key="[" line="25" column="38" />
+        <mark key="]" line="25" column="38" />
+        <mark key="." line="25" column="38" />
+        <mark key="^" line="25" column="38" />
       </file>
       <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/java/com/blockycity/heimdallr/api/hospital/records/DummyRecord.java" timestamp="1537337162285">
         <mark key="[" line="6" column="16" />
@@ -2113,7 +2113,6 @@
         <mark key="." line="34" column="43" />
         <mark key="^" line="34" column="43" />
       </file>
-      <file name="/workspace/6c/startup/rxright/odin/README.md" timestamp="1540779747689" />
       <file name="/workspace/clients/soda/riihi/scaffold/src/main/resources/mybatis/mappers/FapiaoRequestsRecords.xml" timestamp="1515678747312">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="27" column="50" />
@@ -8553,7 +8552,7 @@
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -8600,7 +8599,6 @@
         <entry>%s/production/\$\{STAGING\}/gc</entry>
         <entry>%s/: /=/gc</entry>
         <entry>%s/\/\./\//gc</entry>
-        <entry>q</entry>
         <entry>we</entry>
         <entry>&quot;w</entry>
         <entry>ew</entry>
@@ -8609,6 +8607,7 @@
         <entry>reg</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
