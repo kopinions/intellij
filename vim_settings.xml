@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/workspace/6c/startup/rxright/config/charts/java/templates/service.yaml" timestamp="1541656445544" />
       <file name="/workspace/6c/startup/rxright/odin/config.js.tmpl" timestamp="1539930364091">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -37,6 +38,11 @@
         <mark key="^" line="10" column="34" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="/workspace/6c/startup/rxright/config/charts/java/templates/secrets.yaml" timestamp="1541658343872">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/workspace/6c/startup/rxright/heimdallr/DEPLOY.md" timestamp="1541644026108" />
       <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/application.yml" timestamp="1541511820055">
         <mark key="[" line="11" column="0" />
@@ -49,6 +55,12 @@
         <mark key="." line="10" column="32" />
         <mark key="^" line="10" column="32" />
       </file>
+      <file name="/workspace/6c/startup/rxright/config/charts/java/templates/deployment.yaml" timestamp="1541657780192">
+        <mark key="[" line="27" column="31" />
+        <mark key="]" line="27" column="32" />
+        <mark key="^" line="27" column="32" />
+        <mark key="." line="27" column="32" />
+      </file>
       <file name="/workspace/6c/startup/rxright/heimdallr/services/identities/src/test/java/com/blockycity/heimdallr/api/identities/support/Application.java" timestamp="1541148485996">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -59,12 +71,25 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="/workspace/6c/startup/rxright/config/charts/java/templates/ingress.yaml" timestamp="1541657738069">
+        <mark key="'" line="31" column="8" />
+        <mark key="[" line="29" column="16" />
+        <mark key="]" line="29" column="19" />
+        <mark key="^" line="29" column="19" />
+        <mark key="." line="29" column="19" />
+      </file>
       <file name="/workspace/6c/startup/rxright/heimdallr/commons/utils/src/main/java/com/blockycity/heimdallr/commons/codec/Encryption.java" timestamp="1541651185498">
         <mark key="[" line="23" column="41" />
         <mark key="]" line="23" column="41" />
         <mark key="." line="23" column="41" />
       </file>
       <file name="/workspace/6c/startup/rxright/config/charts/vue/values.yaml" timestamp="1541600520991" />
+      <file name="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/services/OrderService.java" timestamp="1540975186309">
+        <mark key="[" line="25" column="29" />
+        <mark key="]" line="25" column="41" />
+        <mark key="^" line="25" column="41" />
+        <mark key="." line="25" column="41" />
+      </file>
       <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/java/com/blockycity/heimdallr/api/hospital/aops/CORSRequestFilter.java" timestamp="1539425602625">
         <mark key="[" line="21" column="83" />
         <mark key="]" line="26" column="0" />
@@ -75,22 +100,37 @@
         <mark key="]" line="8" column="39" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/workspace/6c/startup/rxright/config/charts/java/values.yaml" timestamp="1541559235383" />
-      <file name="/workspace/6c/startup/rxright/config/releases/qa/files.yml" timestamp="1541600569030">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="12" column="31" />
-        <mark key="^" line="11" column="17" />
-        <mark key="." line="10" column="0" />
+      <file name="/workspace/6c/startup/rxright/config/charts/java/templates/tests/ingress.yaml" timestamp="1541657705985">
+        <mark key="[" line="16" column="76" />
+        <mark key="]" line="16" column="76" />
+        <mark key="." line="16" column="76" />
+        <mark key="^" line="16" column="74" />
+      </file>
+      <file name="/workspace/6c/startup/rxright/config/charts/java/values.yaml" timestamp="1541657640475">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="26" column="10" />
+      </file>
+      <file name="/workspace/6c/startup/rxright/config/releases/qa/files.yml" timestamp="1541657101198">
+        <mark key="[" line="14" column="21" />
+        <mark key="]" line="14" column="14" />
+        <mark key="^" line="14" column="14" />
+        <mark key="." line="14" column="14" />
       </file>
       <file name="/workspace/6c/startup/rxright/sunny-doctor-web-client/public/index.html" timestamp="1539936956063">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="/workspace/6c/startup/rxright/config/charts/java/Chart.yaml" timestamp="1541656578861">
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="2" column="52" />
+        <mark key="." line="2" column="52" />
+        <mark key="^" line="2" column="52" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="23" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/java/com/blockycity/heimdallr/api/hospital/records/DoctorRecord.java" />
-      <jump line="0" column="0" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/mybatis/mappers/TreatmentMapper.xml" />
       <jump line="65" column="16" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/mybatis/mappers/DoctorMapper.xml" />
       <jump line="95" column="42" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/mybatis/mappers/Columns.xml" />
       <jump line="182" column="0" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/mybatis/mappers/Columns.xml" />
@@ -189,6 +229,8 @@
       <jump line="46" column="12" filename="/workspace/6c/startup/rxright/heimdallr/.gitlab-ci.yml" />
       <jump line="5" column="0" filename="/workspace/6c/startup/rxright/heimdallr/.gitlab-ci.yml" />
       <jump line="176" column="12" filename="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/test/java/com/blockycity/heimdallr/api/wechat/support/Application.java" />
+      <jump line="8" column="0" filename="/workspace/6c/startup/rxright/config/charts/java/templates/ingress.yaml" />
+      <jump line="31" column="8" filename="/workspace/6c/startup/rxright/config/charts/java/templates/ingress.yaml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -196,8 +238,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>f880918fxn</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">e3stIGlmIC5WYWx1ZXMudXNlUGFzc3dvcmQgLX19Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -6235,16 +6277,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>f880918fxn</text>
+        <text>externalPort</text>
       </register>
       <register name="/" type="4">
-        <text>build</text>
+        <text>path</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgaW1hZ2U6CiAgICAgICAgcmVwb3NpdG9yeTogdHppb24vaG9zcGl0YWxzCiAgICAgICAgdGFnOiAxLjAuMAogICAgICAgIHB1bGxQb2xpY3k6IElmTm90UHJlc2VudAo=</text>
+        <text encoding="base64">ICAgIGFwcC5rdWJlcm5ldGVzLmlvL25hbWU6IHt7IGluY2x1ZGUgImphdmEubmFtZSIgLiB9fQogICAgaGVsbS5zaC9jaGFydDoge3sgaW5jbHVkZSAiamF2YS5jaGFydCIgLiB9fQogICAgYXBwLmt1YmVybmV0ZXMuaW8vaW5zdGFuY2U6IHt7IC5SZWxlYXNlLk5hbWUgfX0KICAgIGFwcC5rdWJlcm5ldGVzLmlvL21hbmFnZWQtYnk6IHt7IC5SZWxlYXNlLlNlcnZpY2UgfX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaW1hZ2U6IHR6aW9uL3dlY2hhdHM6MS4wLjAK</text>
+        <text encoding="base64">e3stIGlmIC5WYWx1ZXMudXNlUGFzc3dvcmQgLX19Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -6255,40 +6297,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaW1hZ2U6IHR6aW9uL2lkZW50aXRpZXM6MS4wLjAK</text>
+        <text encoding="base64">ICBwYXRoOiAvCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaW1hZ2U6IHR6aW9uL2hvc3BpdGFsczoxLjAuMAo=</text>
+        <text encoding="base64">ICAgIHJlbGVhc2U6IHt7IC5SZWxlYXNlLk5hbWUgfX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA6MS4wLjAK</text>
+        <text encoding="base64">ICAgIGNoYXJ0OiB7eyAuQ2hhcnQuTmFtZSB9fS17eyAuQ2hhcnQuVmVyc2lvbiB9fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxhYmVsczoKICAgICAgY2hhcnQ6IGphdmEKICAgIGFubm90YXRpb25zOgogICAgICBmbHV4LndlYXZlLndvcmtzL2F1dG9tYXRlZDogInRydWUiCg==</text>
+        <text encoding="base64">ICAgIGFwcDoge3sgdGVtcGxhdGUgInBvZGluZm8ubmFtZSIgLiB9fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcm9maWxlczoKICAgIGFjdGl2ZTogJHtQUk9GSUxFfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c3ByaW5nOgo=</text>
+        <text encoding="base64">ICAgIGhlcml0YWdlOiB7eyAuUmVsZWFzZS5TZXJ2aWNlIH19Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcm9maWxlczoKICAgIGFjdGl2ZTogJHtQUk9GSUxFfQo=</text>
+        <text encoding="base64">ICAgICAgaW1hZ2U6IHR6aW9uL3dlY2hhdHM6MS4wLjAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aHlzdHJpeDoKICBjb21tYW5kOgogICAgZGVmYXVsdDoKICAgICAgZXhlY3V0aW9uOgogICAgICAgIGlzb2xhdGlvbjoKICAgICAgICAgIHRocmVhZDoKICAgICAgICAgICAgdGltZW91dEluTWlsbGlzZWNvbmRzOiAxMDAwMAo=</text>
+        <text encoding="base64">ICAgICAgaW1hZ2U6IHR6aW9uL2lkZW50aXRpZXM6MS4wLjAK</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>build</last-search>
+      <last-search>path</last-search>
       <last-offset />
-      <last-pattern>build</last-pattern>
+      <last-pattern>path</last-pattern>
       <last-replace>doctors</last-replace>
       <last-substitute>orders</last-substitute>
       <last-dir>1</last-dir>
@@ -6296,7 +6338,6 @@
     </search>
     <history>
       <history-search>
-        <entry>items</entry>
         <entry>diagnose</entry>
         <entry>doctor</entry>
         <entry>doctor_id</entry>
@@ -6316,6 +6357,7 @@
         <entry>DEPARTMENTS</entry>
         <entry>orders</entry>
         <entry>build</entry>
+        <entry>path</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -6336,8 +6378,8 @@
         <entry>qw</entry>
         <entry>reg</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
