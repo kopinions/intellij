@@ -4,16 +4,16 @@
     <globalmarks />
     <filemarks>
       <file name="/workspace/6c/startup/rxright/config/charts/java/templates/service.yaml" timestamp="1541656445544" />
-      <file name="/workspace/6c/startup/rxright/config/charts/secrets/templates/deployment.yaml" timestamp="1541661132884">
+      <file name="/workspace/6c/startup/rxright/config/charts/secrets/templates/deployment.yaml" timestamp="1541693511360">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="12" />
         <mark key="^" line="42" column="40" />
         <mark key="." line="42" column="12" />
       </file>
-      <file name="/workspace/6c/startup/rxright/config/charts/secrets/templates/service.yaml" timestamp="1541661014443">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="/workspace/6c/startup/rxright/config/charts/secrets/templates/service.yaml" timestamp="1541692894987">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/resources/application.yml" timestamp="1540976179330">
         <mark key="[" line="16" column="0" />
@@ -26,6 +26,12 @@
         <mark key="." line="15" column="0" />
       </file>
       <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/db/migration/V4__create_orders_related.sql" timestamp="1541561595900" />
+      <file name="/workspace/6c/startup/rxright/config/releases/qa/secrets.yml" timestamp="1541693982691">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="/workspace/6c/startup/rxright/config/charts/java/templates/secrets.yaml" timestamp="1541660639145">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="8" column="56" />
@@ -88,6 +94,12 @@
         <mark key="^" line="14" column="14" />
         <mark key="." line="14" column="14" />
       </file>
+      <file name="/workspace/6c/startup/rxright/config/charts/secrets/templates/service-account.yaml" timestamp="1541693370579">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="3" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="/workspace/6c/startup/rxright/config/charts/secrets/Chart.yaml" timestamp="1541661210865">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="2" />
@@ -99,8 +111,8 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="/workspace/6c/startup/rxright/heimdallr/services/identities/src/main/resources/db/init/V3__complete_the_permssions.sql" timestamp="1541644382872" />
-      <file name="/workspace/6c/startup/rxright/config/charts/secrets/values.yaml" timestamp="1541661245661">
-        <mark key="[" line="7" column="13" />
+      <file name="/workspace/6c/startup/rxright/config/charts/secrets/values.yaml" timestamp="1541693948467">
+        <mark key="[" line="16" column="10" />
         <mark key="]" line="7" column="13" />
         <mark key="^" line="7" column="13" />
         <mark key="." line="7" column="13" />
@@ -267,8 +279,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwdWxsUG9saWN5OiBJZk5vdFByZXNlbnQK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -6306,7 +6318,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>files</text>
       </register>
       <register name="/" type="4">
         <text>path</text>
@@ -6315,7 +6327,7 @@
         <text encoding="base64">ICAgIGFwcC5rdWJlcm5ldGVzLmlvL25hbWU6IHt7IGluY2x1ZGUgImphdmEubmFtZSIgLiB9fQogICAgaGVsbS5zaC9jaGFydDoge3sgaW5jbHVkZSAiamF2YS5jaGFydCIgLiB9fQogICAgYXBwLmt1YmVybmV0ZXMuaW8vaW5zdGFuY2U6IHt7IC5SZWxlYXNlLk5hbWUgfX0KICAgIGFwcC5rdWJlcm5ldGVzLmlvL21hbmFnZWQtYnk6IHt7IC5SZWxlYXNlLlNlcnZpY2UgfX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZW5naW5lOiBnb3RwbAo=</text>
+        <text encoding="base64">ICAgICAgICBwdWxsUG9saWN5OiBJZk5vdFByZXNlbnQK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -6326,28 +6338,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bWFpbnRhaW5lcnM6CiAgLSBuYW1lOiBzdGVmYW5wcm9kYW4KICAgIGVtYWlsOiBzdGVmYW5wcm9kYW5AdXNlcnMubm9yZXBseS5naXRodWIuY29tCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVzY3JpcHRpb246IEEgSGVsbSBjaGFydCBmb3IgS3ViZXJuZXRlcwo=</text>
+        <text encoding="base64">ICAgICAgaW5ncmVzczoKICAgICAgICBlbmFibGVkOiB0cnVlCiAgICAgICAgaG9zdHM6CiAgICAgICAgICAtCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVzY3JpcHRpb246IEEgS3ViZXJuZXRlcyBjb250cm9sbGVyIGFuZCB0b29sIGZvciBvbmUtd2F5IGVuY3J5cHRlZCBTZWNyZXRzCg==</text>
+        <text encoding="base64">ICAgICAgICB0YWc6IDEuMC4wCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">dmVyc2lvbjogMC4xLjAK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgaW1hZ2U6CiAgICAgICAgcmVwb3NpdG9yeTog</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bmFtZTogc2VjcmV0cwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YXBwVmVyc2lvbjogIjEuMCIK</text>
+        <text encoding="base64">ICAKICAtLS0KICBhcGlWZXJzaW9uOiB2MQogIGtpbmQ6IFNlcnZpY2VBY2NvdW50CiAgbWV0YWRhdGE6CiAgICBuYW1lOiBzZWFsZWQtc2VjcmV0cy1jb250cm9sbGVyCiAgICBuYW1lc3BhY2U6IGt1YmUtc3lzdGVtCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YXBpVmVyc2lvbjogdjEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c3BlYzoKICB0eXBlOiB7eyAuVmFsdWVzLnNlcnZpY2UudHlwZSB9fQogIHBvcnRzOgogICAgLSBwb3J0OiB7eyAuVmFsdWVzLnNlcnZpY2UucG9ydCB9fQogIHNlbGVjdG9yOgogICAgYXBwOiB7eyB0ZW1wbGF0ZSAic2VhbGVkLXNlY3JldHMubmFtZSIgLiB9fQogICAgcmVsZWFzZToge3sgLlJlbGVhc2UuTmFtZSB9fQo=</text>
+        <text encoding="base64">ZW5naW5lOiBnb3RwbAo=</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
