@@ -25,7 +25,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/workspace/6c/startup/rxright/config/charts/secrets/values.yaml" timestamp="1541735032639">
+      <file name="/workspace/6c/startup/rxright/config/charts/secrets/values.yaml" timestamp="1541744669364">
         <mark key="[" line="16" column="10" />
         <mark key="]" line="7" column="13" />
         <mark key="^" line="7" column="13" />
@@ -46,11 +46,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/workspace/6c/startup/rxright/config/releases/qa/secrets.yml" timestamp="1541696554264">
-        <mark key="[" line="7" column="17" />
-        <mark key="]" line="7" column="17" />
-        <mark key="^" line="7" column="27" />
-        <mark key="." line="7" column="17" />
+      <file name="/workspace/6c/startup/rxright/config/releases/qa/secrets.yml" timestamp="1541744811050">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="6" />
+        <mark key="^" line="9" column="44" />
+        <mark key="." line="9" column="6" />
       </file>
       <file name="/workspace/6c/startup/rxright/config/releases/qa/identities.yml" timestamp="1541743938306">
         <mark key="[" line="28" column="0" />
@@ -74,7 +74,7 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/workspace/6c/startup/rxright/config/releases/qa/wechats.yml" timestamp="1541743939853">
+      <file name="/workspace/6c/startup/rxright/config/releases/qa/wechats.yml" timestamp="1541744801434">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="33" column="730" />
         <mark key="." line="28" column="0" />
@@ -6372,7 +6372,7 @@
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -6426,8 +6426,8 @@
         <entry>qw</entry>
         <entry>reg</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
