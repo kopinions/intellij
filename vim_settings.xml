@@ -58,7 +58,7 @@
         <mark key="^" line="9" column="44" />
         <mark key="." line="9" column="6" />
       </file>
-      <file name="/workspace/6c/startup/rxright/config/releases/qa/identities.yml" timestamp="1541848603530">
+      <file name="/workspace/6c/startup/rxright/config/releases/qa/identities.yml" timestamp="1541850028275">
         <mark key="[" line="25" column="14" />
         <mark key="]" line="25" column="14" />
         <mark key="^" line="9" column="39" />
@@ -70,10 +70,10 @@
         <mark key="^" line="11" column="40" />
         <mark key="." line="12" column="4" />
       </file>
-      <file name="/workspace/6c/startup/rxright/config/releases/qa/hospitals.yml" timestamp="1541848595451">
-        <mark key="[" line="32" column="14" />
-        <mark key="]" line="32" column="14" />
-        <mark key="." line="32" column="14" />
+      <file name="/workspace/6c/startup/rxright/config/releases/qa/hospitals.yml" timestamp="1541850018603">
+        <mark key="[" line="51" column="19" />
+        <mark key="]" line="51" column="19" />
+        <mark key="." line="51" column="19" />
         <mark key="^" line="34" column="731" />
       </file>
       <file name="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/application.yml" timestamp="1541511820055">
@@ -81,7 +81,7 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/workspace/6c/startup/rxright/config/releases/qa/wechats.yml" timestamp="1541848707192">
+      <file name="/workspace/6c/startup/rxright/config/releases/qa/wechats.yml" timestamp="1541850032939">
         <mark key="[" line="72" column="0" />
         <mark key="]" line="72" column="8" />
         <mark key="^" line="25" column="23" />
@@ -144,7 +144,7 @@
         <mark key="." line="17" column="1" />
         <mark key="^" line="17" column="1" />
       </file>
-      <file name="/workspace/6c/startup/rxright/config/releases/qa/files.yml" timestamp="1541849358737">
+      <file name="/workspace/6c/startup/rxright/config/releases/qa/files.yml" timestamp="1541850024326">
         <mark key="[" line="24" column="14" />
         <mark key="]" line="24" column="14" />
         <mark key="." line="24" column="14" />
@@ -295,7 +295,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>name</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -6333,7 +6333,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text>path</text>
