@@ -10,12 +10,12 @@
         <mark key="^" line="13" column="20" />
       </file>
       <file name="/workspace/6c/startup/rxright/config/charts/mysql/templates/deployment.yaml" timestamp="1541859044805" />
-      <file name="/workspace/6c/startup/rxright/config/README.md" timestamp="1541862062233">
+      <file name="/workspace/6c/startup/rxright/config/README.md" timestamp="1541864232609">
         <mark key="'" line="21" column="0" />
-        <mark key="[" line="28" column="42" />
-        <mark key="]" line="28" column="43" />
-        <mark key="." line="28" column="43" />
-        <mark key="^" line="28" column="43" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="33" column="18" />
+        <mark key="." line="14" column="96" />
+        <mark key="^" line="14" column="96" />
       </file>
       <file name="/workspace/6c/startup/rxright/config/charts/secrets/values.yaml" timestamp="1541744669364">
         <mark key="[" line="16" column="10" />
@@ -215,8 +215,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZXhwb3J0IEZMVVhfR0lUX0RFUExPWV9LRVk9fi8uc3NoL3FhLWZsdXgtZ2l0LWRlcGxveQprdWJlY3RsIC1uIGZsdXggZ2V0IHNlY3JldCBmbHV4LWdpdC1kZXBsb3kgPi9kZXYvbnVsbCAyPiYxICYmIGt1YmVjdGwgLW4gZmx1eCBkZWxldGUgc2VjcmV0IGZsdXgtZ2l0LWRlcGxveSA+L2Rldi9udWxsIDI+JjEKa3ViZWN0bCAtbiBmbHV4IGNyZWF0ZSBzZWNyZXQgZ2VuZXJpYyBmbHV4LWdpdC1kZXBsb3kgLS1mcm9tLWZpbGU9aWRlbnRpdHk9JHtGTFVYX0dJVF9ERVBMT1lfS0VZfQprdWJlY3RsIC1uIGZsdXggZGVsZXRlICQoa3ViZWN0bCAtbiBmbHV4IGdldCBwb2QgLW8gbmFtZSAgLWwgYXBwPWZsdXgpCmhlbG0gaW5zdGFsbCAtLW5hbWUgZmx1eCBcCiAgICAtLXNldCByYmFjLmNyZWF0ZT10cnVlIFwKICAgIC0tc2V0IGltYWdlLnJlcG9zaXRvcnk9NTIxMzQ4Njc0OTAwLmRrci5lY3IuY24tbm9ydGgtMS5hbWF6b25hd3MuY29tLmNuL3F1YXkuaW8td2VhdmV3b3Jrcy1mbHV4IFwKICAgIC0tc2V0IGltYWdlLnRhZz0xLjguMCBcCiAgICAtLXNldCBnaXQudXJsPXNzaDovL2dpdEBnaXRsYWIuY29tL2Jsb2NreWNpdHkvY29uZmlnIFwKICAgIC0tc2V0IGdpdC5wb2xsSW50ZXJ2YWw9Mm0gXAogICAgLS1zZXQgZ2l0LnRpbWVvdXQ9MW0gXAogICAgLS1zZXQgZ2l0LnNlY3JldE5hbWU9Zmx1eC1naXQtZGVwbG95IFwKICAgIC0tc2V0IGdpdC5icmFuY2g9aGVsbSBcCiAgICAtLXNldCBoZWxtT3BlcmF0b3IucmVwb3NpdG9yeT01MjEzNDg2NzQ5MDAuZGtyLmVjci5jbi1ub3J0aC0xLmFtYXpvbmF3cy5jb20uY24vcXVheS5pby13ZWF2ZXdvcmtzLWhlbG0tb3BlcmF0b3IgXAogICAgLS1zZXQgaGVsbU9wZXJhdG9yLnRhZz0wLjQuMCBcCiAgICAtLXNldCBoZWxtT3BlcmF0b3IuY3JlYXRlPXRydWUgXAogICAgLS1zZXQgaGVsbU9wZXJhdG9yLmNoYXJ0c1N5bmNJbnRlcnZhbD0ybSBcCiAgICAtLXNldCBoZWxtT3BlcmF0b3IuY2hhcnRzU3luY1RpbWVvdXQ9MW0gXAogICAgLS1zZXQgaGVsbU9wZXJhdG9yLmdpdC5jaGFydHNQYXRoPWNoYXJ0cyBcCiAgICAtLXNldCBoZWxtT3BlcmF0b3IuZ2l0LnNlY3JldE5hbWU9Zmx1eC1naXQtZGVwbG95IFwKICAgIC0tbmFtZXNwYWNlIGZsdXggXAogICAgd2VhdmV3b3Jrcy9mbHV4Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -6254,13 +6254,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>path</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC0tc2V0IGdpdC5wb2xsSW50ZXJ2YWw9MzBzIFwK</text>
+        <text encoding="base64">ICAgIC0tc2V0IGhlbG1PcGVyYXRvci5jaGFydHNTeW5jSW50ZXJ2YWw9Mm0gXAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIHNzbC1jYT0vc3NsL2NhLnBlbQogICAgICAgICAgc3NsLWNlcnQ9L3NzbC9zZXJ2ZXItY2VydC5wZW0KICAgICAgICAgIHNzbC1rZXk9L3NzbC9zZXJ2ZXIta2V5LnBlbQo=</text>
