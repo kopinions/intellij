@@ -163,6 +163,12 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="/workspace/6c/startup/rxright/config/releases/qa/mysql.yml" timestamp="1541855135630">
+        <mark key="[" line="4" column="10" />
+        <mark key="]" line="4" column="10" />
+        <mark key="." line="4" column="10" />
+        <mark key="^" line="7" column="17" />
+      </file>
       <file name="/workspace/6c/startup/rxright/sunny-doctor-web-client/public/index.html" timestamp="1539936956063">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -294,8 +300,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>hospitals</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -6333,7 +6339,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>after</text>
+        <text>hospitals</text>
       </register>
       <register name="/" type="4">
         <text>path</text>
