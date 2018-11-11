@@ -10,12 +10,11 @@
         <mark key="^" line="13" column="20" />
       </file>
       <file name="/workspace/6c/startup/rxright/config/charts/mysql/templates/deployment.yaml" timestamp="1541859044805" />
-      <file name="/workspace/6c/startup/rxright/config/README.md" timestamp="1541864232609">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="12" column="0" />
+      <file name="/workspace/6c/startup/rxright/config/README.md" timestamp="1541866766080">
+        <mark key="[" line="16" column="0" />
         <mark key="]" line="33" column="18" />
-        <mark key="." line="14" column="96" />
-        <mark key="^" line="14" column="96" />
+        <mark key="." line="25" column="15" />
+        <mark key="^" line="21" column="18" />
       </file>
       <file name="/workspace/6c/startup/rxright/config/charts/secrets/values.yaml" timestamp="1541744669364">
         <mark key="[" line="16" column="10" />
@@ -61,13 +60,6 @@
         <mark key="." line="51" column="47" />
       </file>
       <file name="/workspace/6c/startup/rxright/config/charts/mysql/README.md" timestamp="1541857650727" />
-      <file name="/workspace/6c/startup/rxright/config/charts/java/templates/ingress.yaml" timestamp="1541734136782">
-        <mark key="'" line="31" column="8" />
-        <mark key="[" line="33" column="22" />
-        <mark key="]" line="33" column="29" />
-        <mark key="^" line="33" column="29" />
-        <mark key="." line="33" column="29" />
-      </file>
       <file name="/workspace/6c/startup/rxright/config/files.secret.tmpl" timestamp="1541850883288">
         <mark key="[" line="11" column="20" />
         <mark key="]" line="11" column="19" />
@@ -223,7 +215,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBmb286IGJhcgo=</text>
+        <text encoding="base64">aGVsbSBpbnN0YWxsIC0tbmFtZSBmbHV4IFwKICAgIC0tc2V0IHJiYWMuY3JlYXRlPXRydWUgXAogICAgLS1zZXQgaW1hZ2UucmVwb3NpdG9yeT01MjEzNDg2NzQ5MDAuZGtyLmVjci5jbi1ub3J0aC0xLmFtYXpvbmF3cy5jb20uY24vcXVheS5pby13ZWF2ZXdvcmtzLWZsdXggXAogICAgLS1zZXQgaW1hZ2UudGFnPTEuOC4wIFwKICAgIC0tc2V0IGdpdC51cmw9c3NoOi8vZ2l0QGdpdGxhYi5jb20vYmxvY2t5Y2l0eS9jb25maWcgXAogICAgLS1zZXQgZ2l0LnBvbGxJbnRlcnZhbD0ybSBcCiAgICAtLXNldCBnaXQudGltZW91dD0xbSBcCiAgICAtLXNldCBnaXQuc2VjcmV0TmFtZT1mbHV4LWdpdC1kZXBsb3kgXAogICAgLS1zZXQgZ2l0LmJyYW5jaD1oZWxtIFwKICAgIC0tc2V0IGhlbG1PcGVyYXRvci5yZXBvc2l0b3J5PTUyMTM0ODY3NDkwMC5ka3IuZWNyLmNuLW5vcnRoLTEuYW1hem9uYXdzLmNvbS5jbi9xdWF5LmlvLXdlYXZld29ya3MtaGVsbS1vcGVyYXRvciBcCiAgICAtLXNldCBoZWxtT3BlcmF0b3IudGFnPTAuNC4wIFwKICAgIC0tc2V0IGhlbG1PcGVyYXRvci5jcmVhdGU9dHJ1ZSBcCiAgICAtLXNldCBoZWxtT3BlcmF0b3IuY2hhcnRzU3luY0ludGVydmFsPTJtIFwKICAgIC0tc2V0IGhlbG1PcGVyYXRvci5jaGFydHNTeW5jVGltZW91dD0xbSBcCiAgICAtLXNldCBoZWxtT3BlcmF0b3IuZ2l0LmNoYXJ0c1BhdGg9Y2hhcnRzIFwKICAgIC0tc2V0IGhlbG1PcGVyYXRvci5naXQuc2VjcmV0TmFtZT1mbHV4LWdpdC1kZXBsb3kgXAogICAgLS1uYW1lc3BhY2UgZmx1eCBcCiAgICB3ZWF2ZXdvcmtzL2ZsdXgK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -6261,13 +6253,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>path</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC0tc2V0IGhlbG1PcGVyYXRvci5jaGFydHNTeW5jSW50ZXJ2YWw9Mm0gXAo=</text>
+        <text encoding="base64">aGVsbSBpbnN0YWxsIC0tbmFtZSBmbHV4IFwKICAgIC0tc2V0IHJiYWMuY3JlYXRlPXRydWUgXAogICAgLS1zZXQgaW1hZ2UucmVwb3NpdG9yeT01MjEzNDg2NzQ5MDAuZGtyLmVjci5jbi1ub3J0aC0xLmFtYXpvbmF3cy5jb20uY24vcXVheS5pby13ZWF2ZXdvcmtzLWZsdXggXAogICAgLS1zZXQgaW1hZ2UudGFnPTEuOC4wIFwKICAgIC0tc2V0IGdpdC51cmw9c3NoOi8vZ2l0QGdpdGxhYi5jb20vYmxvY2t5Y2l0eS9jb25maWcgXAogICAgLS1zZXQgZ2l0LnBvbGxJbnRlcnZhbD0ybSBcCiAgICAtLXNldCBnaXQudGltZW91dD0xbSBcCiAgICAtLXNldCBnaXQuc2VjcmV0TmFtZT1mbHV4LWdpdC1kZXBsb3kgXAogICAgLS1zZXQgZ2l0LmJyYW5jaD1oZWxtIFwKICAgIC0tc2V0IGhlbG1PcGVyYXRvci5yZXBvc2l0b3J5PTUyMTM0ODY3NDkwMC5ka3IuZWNyLmNuLW5vcnRoLTEuYW1hem9uYXdzLmNvbS5jbi9xdWF5LmlvLXdlYXZld29ya3MtaGVsbS1vcGVyYXRvciBcCiAgICAtLXNldCBoZWxtT3BlcmF0b3IudGFnPTAuNC4wIFwKICAgIC0tc2V0IGhlbG1PcGVyYXRvci5jcmVhdGU9dHJ1ZSBcCiAgICAtLXNldCBoZWxtT3BlcmF0b3IuY2hhcnRzU3luY0ludGVydmFsPTJtIFwKICAgIC0tc2V0IGhlbG1PcGVyYXRvci5jaGFydHNTeW5jVGltZW91dD0xbSBcCiAgICAtLXNldCBoZWxtT3BlcmF0b3IuZ2l0LmNoYXJ0c1BhdGg9Y2hhcnRzIFwKICAgIC0tc2V0IGhlbG1PcGVyYXRvci5naXQuc2VjcmV0TmFtZT1mbHV4LWdpdC1kZXBsb3kgXAogICAgLS1uYW1lc3BhY2UgZmx1eCBcCiAgICB3ZWF2ZXdvcmtzL2ZsdXgK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBmb286IGJhcgo=</text>
