@@ -53,13 +53,6 @@
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
       </file>
-      <file name="/workspace/6c/startup/rxright/config/charts/java/templates/deployment.yaml" timestamp="1542007340786">
-        <mark key="'" line="58" column="23" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="39" />
-        <mark key="^" line="57" column="27" />
-        <mark key="." line="57" column="27" />
-      </file>
       <file name="/workspace/6c/startup/rxright/heimdallr/services/files/src/main/java/com/blockycity/heimdallr/files/resources/HealthResource.java" timestamp="1542002563768">
         <mark key="[" line="11" column="24" />
         <mark key="]" line="11" column="25" />
@@ -88,6 +81,13 @@
         <mark key="[" line="15" column="8" />
         <mark key="]" line="15" column="8" />
         <mark key="." line="15" column="8" />
+      </file>
+      <file name="/workspace/6c/startup/rxright/config/charts/java/values.yaml" timestamp="1542014868120">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="43" column="14" />
+        <mark key="]" line="43" column="14" />
+        <mark key="." line="43" column="14" />
+        <mark key="^" line="47" column="3" />
       </file>
       <file name="/workspace/6c/startup/rxright/heimdallr/services/wechats/src/main/java/com/blockycity/heimdallr/api/wechat/ResourceConfig.java" timestamp="1542002680494">
         <mark key="[" line="17" column="17" />
@@ -155,12 +155,11 @@
         <mark key="." line="17" column="31" />
         <mark key="^" line="17" column="31" />
       </file>
-      <file name="/workspace/6c/startup/rxright/config/charts/nginx/templates/rbac.yaml" timestamp="1542008124582">
-        <mark key="'" line="9" column="2" />
-        <mark key="[" line="140" column="10" />
-        <mark key="]" line="140" column="41" />
-        <mark key="." line="140" column="41" />
-        <mark key="^" line="140" column="41" />
+      <file name="/workspace/6c/startup/rxright/config/charts/nginx/templates/rbac.yaml" timestamp="1542014599048">
+        <mark key="'" line="140" column="4" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="." line="114" column="0" />
       </file>
       <file name="/workspace/6c/startup/rxright/config/files.secret.tmpl" timestamp="1541850883288">
         <mark key="[" line="11" column="20" />
@@ -198,13 +197,6 @@
         <mark key="]" line="31" column="6" />
         <mark key="." line="31" column="6" />
       </file>
-      <file name="/workspace/6c/startup/rxright/config/charts/secrets/templates/rbac.yaml" timestamp="1541991726890">
-        <mark key="'" line="66" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="36" column="10" />
-        <mark key="^" line="52" column="1" />
-        <mark key="." line="52" column="1" />
-      </file>
       <file name="/workspace/6c/startup/rxright/config/charts/java/Chart.yaml" timestamp="1541656578861">
         <mark key="[" line="2" column="30" />
         <mark key="]" line="2" column="52" />
@@ -213,11 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="472" column="52" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/test/java/com/blockycity/heimdallr/api/hospital/records/Requests.java" />
-      <jump line="423" column="0" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/test/java/com/blockycity/heimdallr/api/hospital/records/Requests.java" />
-      <jump line="485" column="38" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/test/java/com/blockycity/heimdallr/api/hospital/records/Requests.java" />
-      <jump line="215" column="0" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/test/java/com/blockycity/heimdallr/api/hospital/records/Requests.java" />
-      <jump line="466" column="4" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/test/java/com/blockycity/heimdallr/api/hospital/records/Requests.java" />
       <jump line="468" column="31" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/test/java/com/blockycity/heimdallr/api/hospital/records/Requests.java" />
       <jump line="496" column="25" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/test/java/com/blockycity/heimdallr/api/hospital/records/Requests.java" />
       <jump line="48" column="24" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/test/java/com/blockycity/heimdallr/api/hospital/resources/DoctorsResourceTest.java" />
@@ -313,6 +300,11 @@
       <jump line="58" column="23" filename="/workspace/6c/startup/rxright/config/charts/java/templates/deployment.yaml" />
       <jump line="23" column="32" filename="/workspace/6c/startup/rxright/config/charts/nginx/deployment.yaml" />
       <jump line="9" column="2" filename="/workspace/6c/startup/rxright/config/charts/nginx/templates/rbac.yaml" />
+      <jump line="121" column="8" filename="/workspace/6c/startup/rxright/config/charts/nginx/templates/rbac.yaml" />
+      <jump line="78" column="8" filename="/workspace/6c/startup/rxright/config/charts/nginx/templates/rbac.yaml" />
+      <jump line="80" column="8" filename="/workspace/6c/startup/rxright/config/charts/nginx/templates/rbac.yaml" />
+      <jump line="124" column="4" filename="/workspace/6c/startup/rxright/config/charts/nginx/templates/rbac.yaml" />
+      <jump line="140" column="4" filename="/workspace/6c/startup/rxright/config/charts/nginx/templates/rbac.yaml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -321,7 +313,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>java</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -6359,16 +6351,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>java</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>path</text>
+        <text>namespace</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG5hbWVzcGFjZToge3sgLlJlbGVhc2UuTmFtZXNwYWNlIHwgcXVvdGUgfX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBuYW1lc3BhY2U6IAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -6379,28 +6371,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbXlzcWxSb290UGFzc3dvcmQ6IG15c3FsCiAgICAgIG15c3FsVXNlcjogbXlzcWwKICAgICAgbXlzcWxQYXNzd29yZDogbXlzcWwKICAgICAgaW5pdGlhbGl6YXRpb25GaWxlczoKICAgICAgICBmaXJzdC1kYi5zcWw6IHwtCiAgICAgICAgICBDUkVBVEUgREFUQUJBU0UgSUYgTk9UIEVYSVNUUyBgaWRlbnRpdGllc2A7CiAgICAgICAgICBDUkVBVEUgREFUQUJBU0UgSUYgTk9UIEVYSVNUUyBgaG9zcGl0YWxzYDsKICAgICAgICAgIENSRUFURSBEQVRBQkFTRSBJRiBOT1QgRVhJU1RTIGB3ZWNoYXRzYDsKICAgICAgICAgIENSRUFURSBEQVRBQkFTRSBJRiBOT1QgRVhJU1RTIGBmaWxlc2A7CiAgICAgICAgICBDUkVBVEUgVVNFUiAnbXlzcWwnQCclJyBJREVOVElGSUVEIEJZICdteXNxbCc7CiAgICAgICAgICBHUkFOVCBBTEwgT04gKi4qIFRPICdteXNxbCdAJyUnOwogICAgICBjb25maWd1cmF0aW9uRmlsZXM6CiAgICAgICAgbXlzcWwuY25mOiB8LQogICAgICAgICAgW215c3FsZF0KICAgICAgICAgIGxvd2VyX2Nhc2VfdGFibGVfbmFtZXM9MQogICAgICAgICAgY2hhcmFjdGVyLXNldC1zZXJ2ZXI9dXRmOG1iNAogICAgICAgICAgY29sbGF0aW9uLXNlcnZlcj11dGY4bWI0X3VuaWNvZGVfY2kK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgbXlzcWxSb290UGFzc3dvcmQ6IG15c3FsCiAgICAgIG15c3FsVXNlcjogbXlzcWwKICAgICAgbXlzcWxQYXNzd29yZDogbXlzcWwKICAgICAgaW5pdGlhbGl6YXRpb25GaWxlczoKICAgICAgICBmaXJzdC1kYi5zcWw6IHwtCiAgICAgICAgICBDUkVBVEUgREFUQUJBU0UgSUYgTk9UIEVYSVNUUyBgaWRlbnRpdGllc2A7CiAgICAgICAgICBDUkVBVEUgREFUQUJBU0UgSUYgTk9UIEVYSVNUUyBgaG9zcGl0YWxzYDsKICAgICAgICAgIENSRUFURSBEQVRBQkFTRSBJRiBOT1QgRVhJU1RTIGB3ZWNoYXRzYDsKICAgICAgICAgIENSRUFURSBEQVRBQkFTRSBJRiBOT1QgRVhJU1RTIGBmaWxlc2A7CiAgICAgICAgICBDUkVBVEUgVVNFUiAnbXlzcWwnQCclJyBJREVOVElGSUVEIEJZICdteXNxbCc7CiAgICAgICAgICBHUkFOVCBBTEwgT04gKi4qIFRPICdteXNxbCdAJyUnOwogICAgICBjb25maWd1cmF0aW9uRmlsZXM6CiAgICAgICAgbXlzcWwuY25mOiB8LQogICAgICAgICAgW215c3FsZF0KICAgICAgICAgIGxvd2VyX2Nhc2VfdGFibGVfbmFtZXM9MQogICAgICAgICAgY2hhcmFjdGVyLXNldC1zZXJ2ZXI9dXRmOG1iNAogICAgICAgICAgY29sbGF0aW9uLXNlcnZlcj11dGY4bWI0X3VuaWNvZGVfY2kK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG5hbWU6IG15c3FsCg==</text>
+        <text encoding="base64">ICAgICAgbXlzcWxSb290UGFzc3dvcmQ6IG15c3FsCiAgICAgIG15c3FsVXNlcjogbXlzcWwKICAgICAgbXlzcWxQYXNzd29yZDogbXlzcWwKICAgICAgaW5pdGlhbGl6YXRpb25GaWxlczoKICAgICAgICBmaXJzdC1kYi5zcWw6IHwtCiAgICAgICAgICBDUkVBVEUgREFUQUJBU0UgSUYgTk9UIEVYSVNUUyBgaWRlbnRpdGllc2A7CiAgICAgICAgICBDUkVBVEUgREFUQUJBU0UgSUYgTk9UIEVYSVNUUyBgaG9zcGl0YWxzYDsKICAgICAgICAgIENSRUFURSBEQVRBQkFTRSBJRiBOT1QgRVhJU1RTIGB3ZWNoYXRzYDsKICAgICAgICAgIENSRUFURSBEQVRBQkFTRSBJRiBOT1QgRVhJU1RTIGBmaWxlc2A7CiAgICAgICAgICBDUkVBVEUgVVNFUiAnbXlzcWwnQCclJyBJREVOVElGSUVEIEJZICdteXNxbCc7CiAgICAgICAgICBHUkFOVCBBTEwgT04gKi4qIFRPICdteXNxbCdAJyUnOwogICAgICBjb25maWd1cmF0aW9uRmlsZXM6CiAgICAgICAgbXlzcWwuY25mOiB8LQogICAgICAgICAgW215c3FsZF0KICAgICAgICAgIGxvd2VyX2Nhc2VfdGFibGVfbmFtZXM9MQogICAgICAgICAgY2hhcmFjdGVyLXNldC1zZXJ2ZXI9dXRmOG1iNAogICAgICAgICAgY29sbGF0aW9uLXNlcnZlcj11dGY4bWI0X3VuaWNvZGVfY2kK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBuYW1lc3BhY2U6IGRldgo=</text>
+        <text encoding="base64">ICAgIG5hbWU6IG15c3FsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG5hbWVzcGFjZTogZGV2Cg==</text>
+        <text encoding="base64">ICBuYW1lc3BhY2U6IGRldgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIG5hbWVzcGFjZTogZGV2Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBuYW1lc3BhY2U6IGRldgo=</text>
+        <text encoding="base64">ICAgIG5hbWVzcGFjZTogZGV2Cg==</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
@@ -6410,9 +6402,9 @@
       </register>
     </registers>
     <search>
-      <last-search>path</last-search>
+      <last-search>namespace</last-search>
       <last-offset />
-      <last-pattern>path</last-pattern>
+      <last-pattern>namespace</last-pattern>
       <last-replace>doctors</last-replace>
       <last-substitute>orders</last-substitute>
       <last-dir>1</last-dir>
@@ -6420,7 +6412,6 @@
     </search>
     <history>
       <history-search>
-        <entry>diagnose</entry>
         <entry>doctor</entry>
         <entry>doctor_id</entry>
         <entry>envs\/</entry>
@@ -6440,6 +6431,7 @@
         <entry>orders</entry>
         <entry>build</entry>
         <entry>path</entry>
+        <entry>namespace</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
