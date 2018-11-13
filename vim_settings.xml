@@ -26,12 +26,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/workspace/6c/startup/rxright/config/README.md" timestamp="1542072644796">
-        <mark key="'" line="66" column="41" />
-        <mark key="[" line="66" column="28" />
-        <mark key="]" line="66" column="36" />
-        <mark key="." line="66" column="36" />
-        <mark key="^" line="66" column="36" />
+      <file name="/workspace/6c/startup/rxright/config/README.md" timestamp="1542085335069">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="63" column="3" />
+        <mark key="^" line="62" column="14" />
+        <mark key="." line="62" column="14" />
       </file>
       <file name="/workspace/6c/startup/rxright/config/charts/nginx/templates/deployment.yaml" timestamp="1542034423195">
         <mark key="[" line="22" column="25" />
@@ -88,13 +87,6 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
-      </file>
-      <file name="/workspace/6c/startup/rxright/config/charts/java/templates/deployment.yaml" timestamp="1542027036388">
-        <mark key="'" line="58" column="23" />
-        <mark key="[" line="0" column="43" />
-        <mark key="]" line="0" column="45" />
-        <mark key="^" line="57" column="27" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="/workspace/6c/startup/rxright/heimdallr/services/files/src/main/java/com/blockycity/heimdallr/files/resources/HealthResource.java" timestamp="1542002563768">
         <mark key="[" line="11" column="24" />
@@ -230,6 +222,11 @@
         <mark key="." line="40" column="20" />
         <mark key="^" line="40" column="20" />
       </file>
+      <file name="/workspace/6c/startup/rxright/config/tmpls/secrets.tmpl" timestamp="1542084789880">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="/workspace/6c/startup/rxright/config/charts/nginx/ingress.yaml" timestamp="1542007329312">
         <mark key="[" line="3" column="8" />
         <mark key="]" line="3" column="8" />
@@ -343,13 +340,6 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
-      </file>
-      <file name="/workspace/6c/startup/rxright/config/charts/secrets/templates/rbac.yaml" timestamp="1541991726890">
-        <mark key="'" line="66" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="36" column="10" />
-        <mark key="^" line="52" column="1" />
-        <mark key="." line="52" column="1" />
       </file>
       <file name="/workspace/6c/startup/rxright/config/charts/java/Chart.yaml" timestamp="1541656578861">
         <mark key="[" line="2" column="30" />
@@ -466,8 +456,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Zm9yIHNlY3JldF9maWxlIGluICQobHMgc2VjcmV0cykKZG8KICAgIGV4cG9ydCBDSEFSVD0kKGVjaG8gJHtzZWNyZXRfZmlsZX0gfGF3ayAtRicuJyAne3ByaW50ZigiJXMiLCAkKE5GLTEpKX0nKQogICAgZWNobyAkQ0hBUlQKZG9uZQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -6505,7 +6495,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>secret_file</text>
       </register>
       <register name="/" type="4">
         <text>namespace</text>
@@ -6514,7 +6504,7 @@
         <text>RELEASE</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfCBzZWQgJ3MvICAgIC8gICAgICAgIC9nJ1wK</text>
+        <text encoding="base64">ICAgIGNhdCByZWxlYXNlcy8ke1JFTEVBU0V9LyR7aXRlbX0ueWFtbHwgeXEgciAtIC1qIFwKICAgICAgICB8IGpxIC0tYXJnanNvbiBzZWNyZXRzICQoa3ViZXNlYWwgLS1jb250cm9sbGVyLW5hbWVzcGFjZSAke05BTUVTUEFDRX0gLS1jb250cm9sbGVyLW5hbWUgJHtOQU1FU1BBQ0V9LXNlY3JldHMgLS1mb3JtYXQgeWFtbCA8IDwoY2F0IHRtcGxzLyR7aXRlbX0uc2VjcmV0LnRtcGx8ZW52c3Vic3QpIFwKICAgICAgICAgICAgfCBzZWQgJzEsL2VuY3J5cHRlZERhdGEvZCcgXAogICAgICAgICAgICB8IHlxIHIgLSAtaikgJy5zcGVjLnZhbHVlcy5zZWNyZXRzPSRzZWNyZXRzJyBcCiAgICAgICAgfCB5cSByIC0gPiByZWxlYXNlcy8ke1JFTEVBU0V9LyR7aXRlbX0ueWFtbAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -6525,28 +6515,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBuYW1lOiBxYS1ob3NwaXRhbHMtamF2YQogIG5hbWVzcGFjZTogcWEK</text>
+        <text encoding="base64">ICAgICAgICB8IGpxIC0tYXJnanNvbiBzZWNyZXRzICQoa3ViZXNlYWwgLS1jb250cm9sbGVyLW5hbWVzcGFjZSAke05BTUVTUEFDRX0gLS1jb250cm9sbGVyLW5hbWUgJHtOQU1FU1BBQ0V9LXNlY3JldHMgLS1mb3JtYXQgeWFtbCA8IDwoY2F0IHRtcGxzLyR7aXRlbX0uc2VjcmV0LnRtcGx8ZW52c3Vic3QpIFwKICAgICAgICAgICAgfCBzZWQgJzEsL2VuY3J5cHRlZERhdGEvZCcgXAogICAgICAgICAgICB8IHlxIHIgLSAtaikgJy5zcGVjLnZhbHVlcy5zZWNyZXRzPSRzZWNyZXRzJyBcCiAgICAgICAgfCB5cSByIC0gPiByZWxlYXNlcy8ke1JFTEVBU0V9LyR7aXRlbX0ueWFtbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBuYW1lOiBxYS1oNS12dWUK</text>
+        <text encoding="base64">dG9fZW5jcnlwdGVkPShmaWxlcyBob3NwaXRhbHMgaWRlbnRpdGllcyB3ZWNoYXRzIGg1KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBuYW1lc3BhY2U6IHFhCg==</text>
+        <text encoding="base64">ICBqd3Q6IGNHbHZkSEk9CiAgaG9zdDogY1dFdGJYbHpjV3c9CiAgcG9ydDogTXpNd05nPT0gCiAgdXNlcjogYlhsemNXdz0KICBwYXNzd29yZDogYlhsemNXd1YK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2F0IHJlbGVhc2VzL3FhL2ZpbGVzLnlhbWwgfCB5cSByIC0gLWogXAogICAgfCBqcSAtLWFyZ2pzb24gc2VjcmV0cyAkKGt1YmVzZWFsIC0tY29udHJvbGxlci1uYW1lc3BhY2UgcWEgLS1jb250cm9sbGVyLW5hbWUgcWEtc2VjcmV0cyAtLWZvcm1hdCB5YW1sIDwgdG1wbHMvZmlsZXMuc2VjcmV0LnRtcGx8IHNlZCAnMSwvZW5jcnlwdGVkRGF0YS9kJyB8IHNlZCAncy8gICAgLyAgICAgICAgL2cnfHNlZCAnL14kL2QnIHwgeXEgciAtIC1qKSAnLnNwZWMudmFsdWVzLnNlY3JldHM9JHNlY3JldHMnIFwKICAgIHwgeXEgciAtID4gcmVsZWFzZXMvcWEvZmlsZXMueWFtbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfCBzZWQgJ3MvICAgIC8gICAgICAgIC9nJ1wK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBkZWNvZGUgdGhlIHNlY3JldHMK</text>
+        <text encoding="base64">ICBuYW1lOiBxYS1ob3NwaXRhbHMtamF2YQogIG5hbWVzcGFjZTogcWEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyByZXBsYWNlIHRoZSBzZWNyZXRzIHVuZGVyIHRoZSByZWxlYXNlcy9xYS9maWxlcy55YW1sCmt1YmVzZWFsIC0tY29udHJvbGxlci1uYW1lc3BhY2UgcWEgLS1jb250cm9sbGVyLW5hbWUgcWEtc2VjcmV0cyAtLWZvcm1hdCB5YW1sIDwgdG1wbHMvZmlsZXMuc2VjcmV0LnRtcGwKIyByZXBsYWNlIHRoZSBzZWNyZXRzIHVuZGVyIHRoZSByZWxlYXNlcy9xYS9ob3NwaXRhbHMueWFtbAprdWJlc2VhbCAtLWNvbnRyb2xsZXItbmFtZXNwYWNlIHFhIC0tY29udHJvbGxlci1uYW1lIHFhLXNlY3JldHMgLS1mb3JtYXQgeWFtbCA8IHRtcGxzL2hvc3BpdGFscy5zZWNyZXQudG1wbAojIHJlcGxhY2UgdGhlIHNlY3JldHMgdW5kZXIgdGhlIHJlbGVhc2VzL3FhL2lkZW50aXRpZXMueWFtbAprdWJlc2VhbCAtLWNvbnRyb2xsZXItbmFtZXNwYWNlIHFhIC0tY29udHJvbGxlci1uYW1lIHFhLXNlY3JldHMgLS1mb3JtYXQgeWFtbCA8IHRtcGxzL2lkZW50aXRpZXMuc2VjcmV0LnRtcGwKIyByZXBsYWNlIHRoZSBzZWNyZXRzIHVuZGVyIHRoZSByZWxlYXNlcy9xYS93ZWNoYXRzLnlhbWwK</text>
+        <text encoding="base64">ICBuYW1lOiBxYS1oNS12dWUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBuYW1lc3BhY2U6IHFhCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aDVfc2VjcmV0cz0kKCkK</text>
+        <text encoding="base64">Y2F0IHJlbGVhc2VzL3FhL2ZpbGVzLnlhbWwgfCB5cSByIC0gLWogXAogICAgfCBqcSAtLWFyZ2pzb24gc2VjcmV0cyAkKGt1YmVzZWFsIC0tY29udHJvbGxlci1uYW1lc3BhY2UgcWEgLS1jb250cm9sbGVyLW5hbWUgcWEtc2VjcmV0cyAtLWZvcm1hdCB5YW1sIDwgdG1wbHMvZmlsZXMuc2VjcmV0LnRtcGx8IHNlZCAnMSwvZW5jcnlwdGVkRGF0YS9kJyB8IHNlZCAncy8gICAgLyAgICAgICAgL2cnfHNlZCAnL14kL2QnIHwgeXEgciAtIC1qKSAnLnNwZWMudmFsdWVzLnNlY3JldHM9JHNlY3JldHMnIFwKICAgIHwgeXEgciAtID4gcmVsZWFzZXMvcWEvZmlsZXMueWFtbAo=</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
