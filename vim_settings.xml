@@ -72,11 +72,8 @@
         <mark key="]" line="40" column="14" />
         <mark key="." line="40" column="14" />
       </file>
-      <file name="/workspace/6c/startup/rxright/config/secrets/wechats.java.properties" timestamp="1542333893133">
-        <mark key="[" line="4" column="9" />
-        <mark key="]" line="4" column="15" />
-        <mark key="^" line="4" column="15" />
-        <mark key="." line="4" column="15" />
+      <file name="/workspace/6c/startup/rxright/config/secrets/wechats.java.properties" timestamp="1542443898538">
+        <mark key="[" line="4" column="19" />
       </file>
       <file name="/workspace/6c/startup/rxright/config/tmpls/wechats.secret.tmpl" timestamp="1542073769581">
         <mark key="[" line="4" column="13" />
@@ -218,10 +215,10 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="/workspace/6c/startup/rxright/config/secrets/files.java.properties" timestamp="1542434777945">
+      <file name="/workspace/6c/startup/rxright/config/secrets/files.java.properties" timestamp="1542443511846">
         <mark key="[" line="4" column="9" />
-        <mark key="]" line="4" column="13" />
-        <mark key="." line="4" column="13" />
+        <mark key="]" line="4" column="9" />
+        <mark key="." line="4" column="9" />
         <mark key="^" line="4" column="13" />
       </file>
       <file name="/workspace/6c/startup/rxright/config/charts/nginx/ingress.yaml" timestamp="1542007329312">
@@ -242,11 +239,11 @@
         <mark key="." line="4" column="11" />
         <mark key="^" line="4" column="11" />
       </file>
-      <file name="/workspace/6c/startup/rxright/config/secrets/hospitals.java.properties" timestamp="1542333858738">
+      <file name="/workspace/6c/startup/rxright/config/secrets/hospitals.java.properties" timestamp="1542443596801">
         <mark key="[" line="4" column="9" />
-        <mark key="]" line="4" column="17" />
-        <mark key="." line="4" column="17" />
-        <mark key="^" line="4" column="17" />
+        <mark key="]" line="2" column="8" />
+        <mark key="." line="2" column="8" />
+        <mark key="^" line="2" column="8" />
       </file>
       <file name="/workspace/6c/startup/rxright/config/charts/vue/templates/configmap.yaml" timestamp="1542018434104">
         <mark key="[" line="6" column="31" />
@@ -260,11 +257,11 @@
         <mark key="." line="16" column="30" />
         <mark key="^" line="16" column="30" />
       </file>
-      <file name="/workspace/6c/startup/rxright/config/secrets/identities.java.properties" timestamp="1542333871597">
+      <file name="/workspace/6c/startup/rxright/config/secrets/identities.java.properties" timestamp="1542443627176">
         <mark key="[" line="4" column="9" />
         <mark key="]" line="4" column="9" />
         <mark key="." line="4" column="9" />
-        <mark key="^" line="3" column="14" />
+        <mark key="^" line="4" column="19" />
       </file>
       <file name="/workspace/6c/startup/rxright/config/releases/uat/admin.yaml" timestamp="1542073365953">
         <mark key="[" line="20" column="17" />
@@ -460,7 +457,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>mysql</text>
+        <text>wechats</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -6498,7 +6495,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>mysql</text>
+        <text>wechats</text>
       </register>
       <register name="/" type="4">
         <text>namespace</text>
