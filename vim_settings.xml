@@ -143,6 +143,12 @@
         <mark key="." line="8" column="2" />
         <mark key="^" line="7" column="25" />
       </file>
+      <file name="/workspace/6c/startup/rxright/config/charts/java/templates/ingress.yaml" timestamp="1542659802550">
+        <mark key="[" line="35" column="30" />
+        <mark key="]" line="35" column="30" />
+        <mark key="." line="35" column="30" />
+        <mark key="^" line="35" column="30" />
+      </file>
       <file name="/workspace/6c/startup/rxright/config/releases/prod/nginx.yaml" timestamp="1542621339734">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="8" />
@@ -502,7 +508,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>files</text>
+        <text>fullName</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -6540,7 +6546,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>files</text>
+        <text>fullName</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw6XD4=</text>
