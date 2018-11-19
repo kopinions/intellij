@@ -79,10 +79,11 @@
         <mark key="^" line="15" column="8" />
         <mark key="." line="15" column="8" />
       </file>
-      <file name="/workspace/6c/startup/rxright/config/secrets/wechats.java.properties" timestamp="1542444956852">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
+      <file name="/workspace/6c/startup/rxright/config/secrets/wechats.java.properties" timestamp="1542660565047">
+        <mark key="[" line="6" column="251" />
+        <mark key="]" line="6" column="250" />
+        <mark key="." line="6" column="250" />
+        <mark key="^" line="6" column="250" />
       </file>
       <file name="/workspace/6c/startup/rxright/config/tmpls/wechats.secret.tmpl" timestamp="1542073769581">
         <mark key="[" line="4" column="13" />
@@ -508,7 +509,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>fullName</text>
+        <text>=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -6546,7 +6547,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>fullName</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw6XD4=</text>
