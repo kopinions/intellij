@@ -9,11 +9,11 @@
         <mark key="." line="13" column="20" />
         <mark key="^" line="13" column="20" />
       </file>
-      <file name="/workspace/6c/startup/rxright/config/charts/secrets/templates/deployment.yaml" timestamp="1541693511360">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="12" />
-        <mark key="^" line="42" column="40" />
-        <mark key="." line="42" column="12" />
+      <file name="/workspace/6c/startup/rxright/config/charts/secrets/templates/deployment.yaml" timestamp="1542637219935">
+        <mark key="[" line="21" column="25" />
+        <mark key="]" line="21" column="50" />
+        <mark key="^" line="21" column="50" />
+        <mark key="." line="21" column="50" />
       </file>
       <file name="/workspace/6c/startup/rxright/config/charts/mysql/templates/deployment.yaml" timestamp="1542290438176">
         <mark key="[" line="176" column="0" />
@@ -25,9 +25,9 @@
         <mark key="." line="4" column="10" />
         <mark key="^" line="4" column="10" />
       </file>
-      <file name="/workspace/6c/startup/rxright/config/charts/nginx/templates/deployment.yaml" timestamp="1542034423195">
-        <mark key="[" line="22" column="25" />
-        <mark key="]" line="22" column="57" />
+      <file name="/workspace/6c/startup/rxright/config/charts/nginx/templates/deployment.yaml" timestamp="1542637184445">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="58" />
         <mark key="." line="22" column="57" />
         <mark key="^" line="22" column="57" />
       </file>
@@ -212,7 +212,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="26" />
       </file>
-      <file name="/workspace/6c/startup/rxright/config/charts/secrets/templates/rbac.yaml" timestamp="1542270341983" />
+      <file name="/workspace/6c/startup/rxright/config/charts/secrets/templates/rbac.yaml" timestamp="1542637262658">
+        <mark key="[" line="39" column="40" />
+        <mark key="]" line="39" column="40" />
+        <mark key="." line="39" column="40" />
+      </file>
       <file name="/workspace/6c/startup/rxright/config/charts/java/Chart.yaml" timestamp="1541656578861">
         <mark key="[" line="2" column="30" />
         <mark key="]" line="2" column="52" />
@@ -225,7 +229,7 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="12" column="10" />
       </file>
-      <file name="/workspace/6c/startup/rxright/config/README.md" timestamp="1542629096700">
+      <file name="/workspace/6c/startup/rxright/config/README.md" timestamp="1542637082468">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="34" />
         <mark key="." line="55" column="64" />
@@ -483,8 +487,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">a3ViZWN0bCAtbiBwcm9kIGFwcGx5IC1mIHByb2QueWFtbAo=</text>
+      <register name="&quot;" type="4">
+        <text>beta1</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -6522,13 +6526,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>replace</text>
+        <text>beta1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw6XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">a3ViZWN0bCAtbiBwcm9kIGFwcGx5IC1mIHByb2QueWFtbAo=</text>
+        <text encoding="base64">ICAgICAgc2VydmljZUFjY291bnROYW1lOiB7eyBpbmNsdWRlICJuZ2lueC5mdWxsbmFtZSIgLiB9fQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC0tc2V0IGhlbG1PcGVyYXRvci5naXQudXJsCg==</text>
