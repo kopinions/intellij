@@ -225,11 +225,11 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="12" column="10" />
       </file>
-      <file name="/workspace/6c/startup/rxright/config/README.md" timestamp="1542623874366">
-        <mark key="[" line="15" column="27" />
-        <mark key="]" line="15" column="27" />
-        <mark key="." line="15" column="27" />
-        <mark key="^" line="17" column="58" />
+      <file name="/workspace/6c/startup/rxright/config/README.md" timestamp="1542629096700">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="34" />
+        <mark key="." line="55" column="64" />
+        <mark key="^" line="55" column="64" />
       </file>
       <file name="/workspace/6c/startup/rxright/config/charts/java/templates/pvc.yaml" timestamp="1542275398026">
         <mark key="[" line="10" column="0" />
@@ -483,8 +483,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">a3ViZWN0bCAtbiBwcm9kIGFwcGx5IC1mIHByb2QueWFtbAo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -6522,13 +6522,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>replace</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw6XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC0tc2V0IGdpdC5wYXRoPXJlbGVhc2VzL3Byb2QgXAo=</text>
+        <text encoding="base64">a3ViZWN0bCAtbiBwcm9kIGFwcGx5IC1mIHByb2QueWFtbAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC0tc2V0IGhlbG1PcGVyYXRvci5naXQudXJsCg==</text>
