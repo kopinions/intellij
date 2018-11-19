@@ -96,6 +96,12 @@
         <mark key="." line="13" column="37" />
         <mark key="^" line="13" column="37" />
       </file>
+      <file name="/workspace/6c/startup/rxright/config/releases/prod/nginx.yaml" timestamp="1542621339734">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="8" />
+        <mark key="^" line="15" column="67" />
+        <mark key="." line="15" column="8" />
+      </file>
       <file name="/workspace/6c/startup/rxright/config/charts/vue/templates/ingress.yaml" timestamp="1542017948700">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="54" />
@@ -254,17 +260,23 @@
         <mark key="." line="29" column="17" />
         <mark key="^" line="29" column="17" />
       </file>
-      <file name="/workspace/6c/startup/rxright/config/charts/nginx/templates/service.yaml" timestamp="1542008208776">
-        <mark key="[" line="11" column="30" />
-        <mark key="]" line="11" column="30" />
-        <mark key="." line="11" column="30" />
-        <mark key="^" line="11" column="30" />
+      <file name="/workspace/6c/startup/rxright/config/charts/nginx/templates/service.yaml" timestamp="1542621367649">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="2" />
+        <mark key="." line="8" column="2" />
+        <mark key="^" line="7" column="25" />
       </file>
+      <file name="/workspace/6c/startup/rxright/config/charts/java/templates/ingress.yaml" timestamp="1542621196135" />
       <file name="/workspace/6c/startup/rxright/config/releases/prod/hospitals.yaml" timestamp="1542248907060">
         <mark key="[" line="46" column="28" />
         <mark key="]" line="46" column="30" />
         <mark key="." line="46" column="30" />
         <mark key="^" line="46" column="30" />
+      </file>
+      <file name="/workspace/6c/startup/rxright/config/charts/nginx/values.yaml" timestamp="1542621327869">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="/workspace/6c/startup/rxright/config/releases/qa/h5.yaml" timestamp="1542026183095">
         <mark key="[" line="14" column="24" />
@@ -471,8 +483,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>default</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhbm5vdGF0aW9uczoK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -6510,16 +6522,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>default</text>
+        <text>ingress</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw6XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>KOPS_STATE_STORE</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBhbm5vdGF0aW9uczoge30K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">S09QU19TM19CVUNLRVQK</text>
+        <text encoding="base64">ICAgICAgICBhbm5vdGF0aW9uczoK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -6533,25 +6545,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2x1c3Rlcl9uYW1lPSIkMS5rOHMubG9jYWwiCg==</text>
+        <text encoding="base64">S09QU19TM19CVUNLRVQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YXdzIHMzYXBpIGNyZWF0ZS1idWNrZXQgLS1idWNrZXQgYmxvY2t5Y2l0eS1rb3BzLXN0YXRlLXN0b3JlIC0tY3JlYXRlLWJ1Y2tldC1jb25maWd1cmF0aW9uIExvY2F0aW9uQ29uc3RyYWludD0kQVdTX1JFR0lPTgojIOWvuXMzIOWtmOWCqOahtuW8gOWQr+eJiOacrOeuoeeQhgphd3MgczNhcGkgcHV0LWJ1Y2tldC12ZXJzaW9uaW5nIC0tYnVja2V0IGJsb2NreWNpdHkta29wcy1zdGF0ZS1zdG9yZSAgLS12ZXJzaW9uaW5nLWNvbmZpZ3VyYXRpb24gU3RhdHVzPUVuYWJsZWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBkZXBsb3kgdG8gQmVpamluZyByZWdpb24oY24tbm9ydGgtMSkgb3IgTmluZ1hpYSByZWdpb24oY24tbm9ydGh3ZXN0LTEpClRBUkdFVF9SRUdJT049J2NuLW5vcnRod2VzdC0xJwoKIyBjaGFuZ2UgdGhpcyB0byB5b3VyIGF3cy1jbGkgcHJvZmlsZSBuYW1lIGZvciBBV1MgQ2hpbmEKZXhwb3J0IEFXU19QUk9GSUxFPSR7QVdTX1BST0ZJTEUtZGVmYXVsdH0KZXhwb3J0IEFXU19ERUZBVUxUX1JFR0lPTj0ke1RBUkdFVF9SRUdJT059CmV4cG9ydCBBV1NfUkVHSU9OPSR7QVdTX0RFRkFVTFRfUkVHSU9OfQojIGNoYW5nZSB0aGlzIHRvIHlvdXIgUzMgYnVja2V0CmV4cG9ydCBLT1BTX1NUQVRFX1NUT1JFPXMzOi8vYmxvY2t5Y2l0eS1rb3BzLXN0YXRlLXN0b3JlCg==</text>
+        <text encoding="base64">Y2x1c3Rlcl9uYW1lPSIkMS5rOHMubG9jYWwiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">awo=</text>
+        <text encoding="base64">YXdzIHMzYXBpIGNyZWF0ZS1idWNrZXQgLS1idWNrZXQgYmxvY2t5Y2l0eS1rb3BzLXN0YXRlLXN0b3JlIC0tY3JlYXRlLWJ1Y2tldC1jb25maWd1cmF0aW9uIExvY2F0aW9uQ29uc3RyYWludD0kQVdTX1JFR0lPTgojIOWvuXMzIOWtmOWCqOahtuW8gOWQr+eJiOacrOeuoeeQhgphd3MgczNhcGkgcHV0LWJ1Y2tldC12ZXJzaW9uaW5nIC0tYnVja2V0IGJsb2NreWNpdHkta29wcy1zdGF0ZS1zdG9yZSAgLS12ZXJzaW9uaW5nLWNvbmZpZ3VyYXRpb24gU3RhdHVzPUVuYWJsZWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Z2l0IGNsb25lIGh0dHBzOi8vZ2l0bGFiLmNvbS9ibG9ja3ljaXR5L2NvbmZpZy5naXQKa3ViZWN0bCBhcHBseSAtUiAtZiAuCg==</text>
+        <text encoding="base64">IyBkZXBsb3kgdG8gQmVpamluZyByZWdpb24oY24tbm9ydGgtMSkgb3IgTmluZ1hpYSByZWdpb24oY24tbm9ydGh3ZXN0LTEpClRBUkdFVF9SRUdJT049J2NuLW5vcnRod2VzdC0xJwoKIyBjaGFuZ2UgdGhpcyB0byB5b3VyIGF3cy1jbGkgcHJvZmlsZSBuYW1lIGZvciBBV1MgQ2hpbmEKZXhwb3J0IEFXU19QUk9GSUxFPSR7QVdTX1BST0ZJTEUtZGVmYXVsdH0KZXhwb3J0IEFXU19ERUZBVUxUX1JFR0lPTj0ke1RBUkdFVF9SRUdJT059CmV4cG9ydCBBV1NfUkVHSU9OPSR7QVdTX0RFRkFVTFRfUkVHSU9OfQojIGNoYW5nZSB0aGlzIHRvIHlvdXIgUzMgYnVja2V0CmV4cG9ydCBLT1BTX1NUQVRFX1NUT1JFPXMzOi8vYmxvY2t5Y2l0eS1rb3BzLXN0YXRlLXN0b3JlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiMjIyBoZWxtCgpgYGAKa3ViZWN0bCAtbiBrdWJlLXN5c3RlbSBjcmVhdGUgc2EgdGlsbGVyCmt1YmVjdGwgY3JlYXRlIGNsdXN0ZXJyb2xlYmluZGluZyB0aWxsZXItY2x1c3Rlci1ydWxlIFwKICAgIC0tY2x1c3RlcnJvbGU9Y2x1c3Rlci1hZG1pbiBcCiAgICAtLXNlcnZpY2VhY2NvdW50PWt1YmUtc3lzdGVtOnRpbGxlcgpoZWxtIGluaXQgLS1za2lwLXJlZnJlc2ggLS11cGdyYWRlIC1pIDUyMTM0ODY3NDkwMC5ka3IuZWNyLmNuLW5vcnRoLTEuYW1hem9uYXdzLmNvbS5jbi9nY3IuaW8ta3ViZXJuZXRlcy1oZWxtLXRpbGxlcjp2Mi4xMS4wIC0tc2VydmljZS1hY2NvdW50IHRpbGxlcgpgYGAKIyMjIGZsdXggCgpgYGAKaGVsbSByZXBvIGFkZCB3ZWF2ZXdvcmtzIGh0dHBzOi8vd2VhdmV3b3Jrcy5naXRodWIuaW8vZmx1eAoKaGVsbSBpbnN0YWxsIC0tbmFtZSBmbHV4IFwKLS1zZXQgcmJhYy5jcmVhdGU9dHJ1ZSBcCi0tc2V0IGltYWdlLnJlcG9zaXRvcnk9NTIxMzQ4Njc0OTAwLmRrci5lY3IuY24tbm9ydGgtMS5hbWF6b25hd3MuY29tLmNuL3F1YXkuaW8td2VhdmV3b3Jrcy1mbHV4IFwKLS1zZXQgZ2l0LnBvbGxJbnRlcnZhbD0xbSBcCi0tc2V0IGltYWdlLnRhZz0xLjguMCBcCi0tc2V0IGhlbG1PcGVyYXRvci5yZXBvc2l0b3J5PTUyMTM0ODY3NDkwMC5ka3IuZWNyLmNuLW5vcnRoLTEuYW1hem9uYXdzLmNvbS5jbi9xdWF5LmlvLXdlYXZld29ya3MtaGVsbS1vcGVyYXRvciBcCi0tc2V0IGhlbG1PcGVyYXRvci50YWc9MC40LjAgXAotLXNldCBoZWxtT3BlcmF0b3IuY3JlYXRlPXRydWUgXAotLXNldCBnaXQudXJsPXNzaDovL2dpdEBnaXRsYWIuY29tL2Jsb2NreWNpdHkvY29uZmlnIFwKLS1zZXQgZ2l0LmJyYW5jaD1oZWxtIFwKLS1zZXQgZ2l0LmNoYXJ0c1BhdGg9Y2hhcnRzIFwKLS1uYW1lc3BhY2UgcWEgXAp3ZWF2ZXdvcmtzL2ZsdXgKYGBgCg==</text>
+        <text encoding="base64">awo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z2l0IGNsb25lIGh0dHBzOi8vZ2l0bGFiLmNvbS9ibG9ja3ljaXR5L2NvbmZpZy5naXQKa3ViZWN0bCBhcHBseSAtUiAtZiAuCg==</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
