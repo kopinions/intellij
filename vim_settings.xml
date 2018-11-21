@@ -389,12 +389,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="26" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/.gitlab-ci.yml" timestamp="1542726642936">
+      <file name="/workspace/6c/startup/rxright/heimdallr/.gitlab-ci.yml" timestamp="1542778505583">
         <mark key="'" line="18" column="0" />
-        <mark key="[" line="128" column="104" />
-        <mark key="]" line="128" column="104" />
-        <mark key="." line="128" column="104" />
-        <mark key="^" line="20" column="14" />
+        <mark key="[" line="43" column="87" />
+        <mark key="]" line="43" column="87" />
+        <mark key="." line="43" column="87" />
+        <mark key="^" line="43" column="86" />
       </file>
       <file name="/workspace/6c/startup/rxright/config/releases/prod/wechats.yaml" timestamp="1542777266356">
         <mark key="[" line="6" column="0" />
@@ -521,8 +521,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZsdXgud2VhdmUud29ya3MvdGFnLmNoYXJ0LWltYWdlOiBzZW12ZXI6fnYxLjAK</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -6560,7 +6560,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>before</text>
