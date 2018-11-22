@@ -389,12 +389,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="26" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/.gitlab-ci.yml" timestamp="1542804514627">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="112" column="125" />
-        <mark key="." line="43" column="87" />
-        <mark key="^" line="43" column="86" />
+      <file name="/workspace/6c/startup/rxright/heimdallr/.gitlab-ci.yml" timestamp="1542863527422">
+        <mark key="'" line="92" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="23" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="19" column="0" />
       </file>
       <file name="/workspace/6c/startup/rxright/config/releases/prod/wechats.yaml" timestamp="1542777266356">
         <mark key="[" line="6" column="0" />
@@ -414,7 +414,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/mybatis/mappers/DiseaseMapper.xml" />
       <jump line="21" column="8" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/resources/mybatis/mappers/DoctorMapper.xml" />
       <jump line="378" column="36" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/java/com/blockycity/heimdallr/api/hospital/records/DoctorRecord.java" />
       <jump line="177" column="14" filename="/workspace/6c/startup/rxright/odin/src/views/doctor/DoctorUpdate.vue" />
@@ -514,6 +513,7 @@
       <jump line="122" column="2" filename="/workspace/6c/startup/rxright/heimdallr/.gitlab-ci.yml" />
       <jump line="18" column="0" filename="/workspace/6c/startup/rxright/heimdallr/.gitlab-ci.yml" />
       <jump line="44" column="6" filename="/workspace/6c/startup/rxright/config/releases/prod/hospitals.yaml" />
+      <jump line="92" column="0" filename="/workspace/6c/startup/rxright/heimdallr/.gitlab-ci.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -522,7 +522,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGVwbG95OnFhOgogIHN0YWdlOiBkZXBsb3k6cWEKICBvbmx5OgogICAgcmVmczoKICAgICAgLSBtYXN0ZXIKICBleGNlcHQ6CiAgICAtIHRhZ3MKICB2YXJpYWJsZXM6CiAgICBJTUFHRVM6ICJmaWxlcyxob3NwaXRhbHMsaWRlbnRpdGllcyx3ZWNoYXRzIgogIHNjcmlwdDoKICAgIC0gZXhwb3J0IFZFUlNJT049JHtDSV9DT01NSVRfU0hBOjA6OH0KICAgIC0gZXhwb3J0IFRBRz1xYS0ke1ZFUlNJT059CiAgICAtICdlY2hvICRJTUFHRVMgfCBzZWQgLWUgJCcncy8sL1xcXG4vZycnIHwgYXdrIC12IHJlcG89JHtET0NLRVJfUkVQT30gLXYgdmVyPSR7VkVSU0lPTn0gJyd7cHJpbnQgImRvY2tlciBwdWxsICIgcmVwbyAiLyIkMSI6InZlcn0nJyB8IHNoJwogICAgLSAnZG9ja2VyIGltYWdlcyAtLWZvcm1hdD0ie3suUmVwb3NpdG9yeX19Ont7LlRhZ319IiB8IGdyZXAgLUYgIiRET0NLRVJfUkVQTyIgfGdyZXAgLUYgIiRWRVJTSU9OIiB8IHhhcmdzIC1Je30gc2ggLWMgJydkb2NrZXIgdGFnIHt9ICR7MS8kVkVSU0lPTi8kVEFHfScnIC0tIHt9JwogICAgLSAnZG9ja2VyIGltYWdlcyAtLWZvcm1hdD0ie3suUmVwb3NpdG9yeX19Ont7LlRhZ319IiB8IGdyZXAgLUYgIiRET0NLRVJfUkVQTyIgfGdyZXAgLUYgIiRUQUciIHwgeGFyZ3MgLUl7fSBkb2NrZXIgcHVzaCB7fScKCmRlcGxveTp1YXQ6CiAgc3RhZ2U6IGRlcGxveTp1YXQKICBvbmx5OgogICAgcmVmczoKICAgICAgLSBtYXN0ZXIKICBleGNlcHQ6CiAgICAtIHRhZ3MKICBhbGxvd19mYWlsdXJlOiBmYWxzZQogIHdoZW46IG1hbnVhbAogIHZhcmlhYmxlczoKICAgIElNQUdFUzogImZpbGVzLGhvc3BpdGFscyxpZGVudGl0aWVzLHdlY2hhdHMiCiAgc2NyaXB0OgogICAgLSBleHBvcnQgVkVSU0lPTj0ke0NJX0NPTU1JVF9TSEE6MDo4fQogICAgLSBleHBvcnQgVEFHPXVhdC0ke1ZFUlNJT059CiAgICAtICdlY2hvICRJTUFHRVMgfCBzZWQgLWUgJCcncy8sL1xcXG4vZycnIHwgYXdrIC12IHJlcG89JHtET0NLRVJfUkVQT30gLXYgdmVyPSR7VkVSU0lPTn0gJyd7cHJpbnQgImRvY2tlciBwdWxsICIgcmVwbyAiLyIkMSI6InZlcn0nJyB8IHNoJwogICAgLSAnZG9ja2VyIGltYWdlcyAtLWZvcm1hdD0ie3suUmVwb3NpdG9yeX19Ont7LlRhZ319IiB8IGdyZXAgLUYgIiRET0NLRVJfUkVQTyIgfGdyZXAgLUYgIiRWRVJTSU9OIiB8IHhhcmdzIC1Je30gc2ggLWMgJydkb2NrZXIgdGFnIHt9ICR7MS8kVkVSU0lPTi8kVEFHfScnIC0tIHt9JwogICAgLSAnZG9ja2VyIGltYWdlcyAtLWZvcm1hdD0ie3suUmVwb3NpdG9yeX19Ont7LlRhZ319IiB8IGdyZXAgLUYgIiRET0NLRVJfUkVQTyIgfGdyZXAgLUYgIiRUQUciIHwgeGFyZ3MgLUl7fSBkb2NrZXIgcHVzaCB7fScK</text>
+        <text encoding="base64">c2VydmljZXM6CiAgLSBuYW1lOiAiZG9ja2VyOmRpbmQiCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -6560,13 +6560,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text encoding="base64">ICAtICcoZWNobyAiJENJX1JFR0lTVFJZX1BBU1NXT1JEIiB8IGRvY2tlciBsb2dpbiAtdSAiJENJX1JFR0lTVFJZX1VTRVIiIC0tcGFzc3dvcmQtc3RkaW4pIHx8IHRydWUn</text>
       </register>
       <register name="/" type="4">
         <text>before</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVwbG95OnFhOgogIHN0YWdlOiBkZXBsb3k6cWEKICBvbmx5OgogICAgcmVmczoKICAgICAgLSBtYXN0ZXIKICBleGNlcHQ6CiAgICAtIHRhZ3MKICB2YXJpYWJsZXM6CiAgICBJTUFHRVM6ICJmaWxlcyxob3NwaXRhbHMsaWRlbnRpdGllcyx3ZWNoYXRzIgogIHNjcmlwdDoKICAgIC0gZXhwb3J0IFZFUlNJT049JHtDSV9DT01NSVRfU0hBOjA6OH0KICAgIC0gZXhwb3J0IFRBRz1xYS0ke1ZFUlNJT059CiAgICAtICdlY2hvICRJTUFHRVMgfCBzZWQgLWUgJCcncy8sL1xcXG4vZycnIHwgYXdrIC12IHJlcG89JHtET0NLRVJfUkVQT30gLXYgdmVyPSR7VkVSU0lPTn0gJyd7cHJpbnQgImRvY2tlciBwdWxsICIgcmVwbyAiLyIkMSI6InZlcn0nJyB8IHNoJwogICAgLSAnZG9ja2VyIGltYWdlcyAtLWZvcm1hdD0ie3suUmVwb3NpdG9yeX19Ont7LlRhZ319IiB8IGdyZXAgLUYgIiRET0NLRVJfUkVQTyIgfGdyZXAgLUYgIiRWRVJTSU9OIiB8IHhhcmdzIC1Je30gc2ggLWMgJydkb2NrZXIgdGFnIHt9ICR7MS8kVkVSU0lPTi8kVEFHfScnIC0tIHt9JwogICAgLSAnZG9ja2VyIGltYWdlcyAtLWZvcm1hdD0ie3suUmVwb3NpdG9yeX19Ont7LlRhZ319IiB8IGdyZXAgLUYgIiRET0NLRVJfUkVQTyIgfGdyZXAgLUYgIiRUQUciIHwgeGFyZ3MgLUl7fSBkb2NrZXIgcHVzaCB7fScKCmRlcGxveTp1YXQ6CiAgc3RhZ2U6IGRlcGxveTp1YXQKICBvbmx5OgogICAgcmVmczoKICAgICAgLSBtYXN0ZXIKICBleGNlcHQ6CiAgICAtIHRhZ3MKICBhbGxvd19mYWlsdXJlOiBmYWxzZQogIHdoZW46IG1hbnVhbAogIHZhcmlhYmxlczoKICAgIElNQUdFUzogImZpbGVzLGhvc3BpdGFscyxpZGVudGl0aWVzLHdlY2hhdHMiCiAgc2NyaXB0OgogICAgLSBleHBvcnQgVkVSU0lPTj0ke0NJX0NPTU1JVF9TSEE6MDo4fQogICAgLSBleHBvcnQgVEFHPXVhdC0ke1ZFUlNJT059CiAgICAtICdlY2hvICRJTUFHRVMgfCBzZWQgLWUgJCcncy8sL1xcXG4vZycnIHwgYXdrIC12IHJlcG89JHtET0NLRVJfUkVQT30gLXYgdmVyPSR7VkVSU0lPTn0gJyd7cHJpbnQgImRvY2tlciBwdWxsICIgcmVwbyAiLyIkMSI6InZlcn0nJyB8IHNoJwogICAgLSAnZG9ja2VyIGltYWdlcyAtLWZvcm1hdD0ie3suUmVwb3NpdG9yeX19Ont7LlRhZ319IiB8IGdyZXAgLUYgIiRET0NLRVJfUkVQTyIgfGdyZXAgLUYgIiRWRVJTSU9OIiB8IHhhcmdzIC1Je30gc2ggLWMgJydkb2NrZXIgdGFnIHt9ICR7MS8kVkVSU0lPTi8kVEFHfScnIC0tIHt9JwogICAgLSAnZG9ja2VyIGltYWdlcyAtLWZvcm1hdD0ie3suUmVwb3NpdG9yeX19Ont7LlRhZ319IiB8IGdyZXAgLUYgIiRET0NLRVJfUkVQTyIgfGdyZXAgLUYgIiRUQUciIHwgeGFyZ3MgLUl7fSBkb2NrZXIgcHVzaCB7fScK</text>
+        <text encoding="base64">c2VydmljZXM6CiAgLSBuYW1lOiAiZG9ja2VyOmRpbmQiCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGZsdXgud2VhdmUud29ya3MvdGFnLmNoYXJ0LWltYWdlOiBzZW12ZXI6fnYxLjAK</text>
