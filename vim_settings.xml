@@ -15,11 +15,11 @@
         <mark key="^" line="21" column="50" />
         <mark key="." line="21" column="50" />
       </file>
-      <file name="/workspace/6c/startup/rxright/config/namespaces/uat.yaml" timestamp="1542072354137">
+      <file name="/workspace/6c/startup/rxright/config/namespaces/uat.yaml" timestamp="1543292718703">
         <mark key="[" line="4" column="8" />
-        <mark key="]" line="4" column="10" />
-        <mark key="." line="4" column="10" />
-        <mark key="^" line="4" column="10" />
+        <mark key="]" line="4" column="8" />
+        <mark key="." line="4" column="8" />
+        <mark key="^" line="3" column="8" />
       </file>
       <file name="/workspace/6c/startup/rxright/config/charts/nginx/templates/deployment.yaml" timestamp="1542637184445">
         <mark key="[" line="22" column="0" />
@@ -38,6 +38,11 @@
         <mark key="]" line="62" column="46" />
         <mark key="." line="60" column="0" />
         <mark key="^" line="46" column="20" />
+      </file>
+      <file name="/workspace/6c/startup/rxright/config/releases/uat/mysql.yaml" timestamp="1543292510303">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="13" />
+        <mark key="." line="5" column="13" />
       </file>
       <file name="/workspace/6c/startup/rxright/config/releases/prod/identities.yaml" timestamp="1542777258300">
         <mark key="[" line="6" column="0" />
@@ -95,7 +100,6 @@
       <file name="/workspace/6c/startup/rxright/config/releases/qa/nginx.yaml" timestamp="1542009890320">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
-        <mark key="^" line="14" column="15" />
         <mark key="." line="13" column="0" />
       </file>
       <file name="/workspace/6c/startup/rxright/config/releases/prod/h5.yaml" timestamp="1542777241045">
@@ -226,12 +230,6 @@
         <mark key="]" line="6" column="47" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/workspace/6c/startup/rxright/config/releases/uat/admin.yaml" timestamp="1543288847994">
-        <mark key="[" line="30" column="24" />
-        <mark key="]" line="30" column="26" />
-        <mark key="." line="30" column="26" />
-        <mark key="^" line="30" column="26" />
-      </file>
       <file name="/workspace/6c/startup/rxright/config/prod.yaml" timestamp="1542650353478">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="5" column="17" />
@@ -242,6 +240,12 @@
         <mark key="]" line="36" column="44" />
         <mark key="^" line="13" column="3" />
         <mark key="." line="13" column="4" />
+      </file>
+      <file name="/workspace/6c/startup/rxright/config/releases/uat/nginx.yaml" timestamp="1543292492362">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="15" />
+        <mark key="." line="5" column="15" />
+        <mark key="^" line="5" column="15" />
       </file>
       <file name="/workspace/6c/startup/rxright/config/tmpls/files.secret.tmpl" timestamp="1542073707787">
         <mark key="[" line="3" column="0" />
@@ -267,11 +271,6 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="26" />
       </file>
-      <file name="/workspace/6c/startup/rxright/config/releases/qa/identities.yaml" timestamp="1543288443437">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="47" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="/workspace/6c/startup/rxright/config/charts/secrets/templates/rbac.yaml" timestamp="1542637262658">
         <mark key="[" line="39" column="40" />
         <mark key="]" line="39" column="40" />
@@ -282,11 +281,6 @@
         <mark key="]" line="2" column="52" />
         <mark key="." line="2" column="52" />
         <mark key="^" line="2" column="52" />
-      </file>
-      <file name="/workspace/6c/startup/rxright/config/releases/qa/wechats.yaml" timestamp="1543288507235">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="/workspace/6c/startup/rxright/config/charts/java/templates/pv.yaml" timestamp="1542273038320">
         <mark key="[" line="0" column="0" />
@@ -376,10 +370,7 @@
         <mark key="." line="6" column="0" />
       </file>
       <file name="/workspace/6c/startup/rxright/config/releases/uat/identities.yaml" timestamp="1543288701591">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="49" column="45" />
-        <mark key="." line="42" column="32" />
-        <mark key="^" line="42" column="32" />
+        <mark key="]" line="0" column="45" />
       </file>
       <file name="/workspace/6c/startup/rxright/infrastructures/infrastructure.yaml" timestamp="1543284552397">
         <mark key="[" line="36" column="14" />
@@ -586,7 +577,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>qa</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -6624,7 +6615,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>qa</text>
       </register>
       <register name="/" type="4">
         <text>sshkey</text>
