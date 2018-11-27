@@ -49,10 +49,10 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="47" column="20" />
       </file>
-      <file name="/workspace/6c/startup/rxright/config/releases/uat/mysql.yaml" timestamp="1543302310492">
-        <mark key="[" line="5" column="13" />
-        <mark key="]" line="5" column="13" />
-        <mark key="." line="5" column="13" />
+      <file name="/workspace/6c/startup/rxright/config/releases/uat/mysql.yaml" timestamp="1543302923257">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="/workspace/6c/startup/rxright/config/releases/prod/identities.yaml" timestamp="1542777258300">
         <mark key="[" line="6" column="0" />
@@ -247,6 +247,11 @@
         <mark key="]" line="1" column="13" />
         <mark key="." line="1" column="13" />
         <mark key="^" line="1" column="13" />
+      </file>
+      <file name="/workspace/6c/startup/rxright/config/releases/qa/mysql.yaml" timestamp="1543302952267">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="/provision" timestamp="1543221177371" />
       <file name="/workspace/6c/startup/rxright/config/releases/qa/hospitals.yaml" timestamp="1543288433339">
@@ -607,7 +612,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDUkVBVEUgVVNFUiAnbXlzcWwnQCclJyBJREVOVElGSUVEIEJZICdteXNxbCc7Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -6654,7 +6659,7 @@
         <text>医生</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDUkVBVEUgVVNFUiAnbXlzcWwnQCclJyBJREVOVElGSUVEIEJZICdteXNxbCc7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -6665,28 +6670,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">OuWQiOW5tuacgOe7iOivhOS7tzsK</text>
+        <text encoding="base64">ICAgICAgICBDUkVBVEUgVVNFUiAnbXlzcWwnQCclJyBJREVOVElGSUVEIEJZICdteXNxbCc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">OuacgOWQjuivhOS7t+amgui/sDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">OuiOt+WPluesrOS4gOS4quaJp+S4muWMu+W4iDsKOuiOt+WPluaJp+S4muWMu+W4iOeahOeXheS6uuivhOS7tzsKOuiOt+WPluaJp+S4muWMu+W4iOeahOWMu+W4iOivhOS7tzsKOuiOt+WPluaJp+S4muWMu+W4iOeahOWFtuS7luivhOS7tzsKOuiOt+WPluaJgOacieeXheS6uueahOivhOS7t+adg+mHjTsKOuiOt+WPluWFtuS7luWMu+W4iOeahOivhOS7tzsKOuiuoeeul+W9k+WJjeaJp+S4muWMu+W4iOivhOS7tzsK</text>
+        <text encoding="base64">OuWQiOW5tuacgOe7iOivhOS7tzsK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Ci0tLQphcGlWZXJzaW9uOiByYmFjLmF1dGhvcml6YXRpb24uazhzLmlvL3YxCmtpbmQ6IENsdXN0ZXJSb2xlQmluZGluZwptZXRhZGF0YToKICBuYW1lOiB7eyBpbmNsdWRlICJzZWNyZXRzLmZ1bGxuYW1lIiAuIH19CnJvbGVSZWY6CiAgYXBpR3JvdXA6IHJiYWMuYXV0aG9yaXphdGlvbi5rOHMuaW8KICBraW5kOiBDbHVzdGVyUm9sZQogIG5hbWU6IHt7IGluY2x1ZGUgInNlY3JldHMuZnVsbG5hbWUiIC4gfX0Kc3ViamVjdHM6Ci0gYXBpR3JvdXA6ICIiCiAga2luZDogU2VydmljZUFjY291bnQKICBuYW1lOiB7eyBpbmNsdWRlICJzZWNyZXRzLm5hbWUiIC4gfX0KICBuYW1lc3BhY2U6IHt7IC5SZWxlYXNlLk5hbWVzcGFjZSB8IHF1b3RlIH19CgotLS0KYXBpVmVyc2lvbjogcmJhYy5hdXRob3JpemF0aW9uLms4cy5pby92MQpraW5kOiBDbHVzdGVyUm9sZQptZXRhZGF0YToKICBuYW1lOiB7eyBpbmNsdWRlICJzZWNyZXRzLmZ1bGxuYW1lIiAuIH19CnJ1bGVzOgotIGFwaUdyb3VwczoKICAtIGJpdG5hbWkuY29tCiAgcmVzb3VyY2VzOgogIC0gc2VhbGVkc2VjcmV0cwogIHZlcmJzOgogIC0gZ2V0CiAgLSBsaXN0CiAgLSB3YXRjaAotIGFwaUdyb3VwczoKICAtICIiCiAgcmVzb3VyY2VzOgogIC0gc2VjcmV0cwogIHZlcmJzOgogIC0gY3JlYXRlCiAgLSB1cGRhdGUKICAtIGRlbGV0ZQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">OuacgOWQjuivhOS7t+amgui/sDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29udGFpbmVyczoK</text>
+        <text encoding="base64">OuiOt+WPluesrOS4gOS4quaJp+S4muWMu+W4iDsKOuiOt+WPluaJp+S4muWMu+W4iOeahOeXheS6uuivhOS7tzsKOuiOt+WPluaJp+S4muWMu+W4iOeahOWMu+W4iOivhOS7tzsKOuiOt+WPluaJp+S4muWMu+W4iOeahOWFtuS7luivhOS7tzsKOuiOt+WPluaJgOacieeXheS6uueahOivhOS7t+adg+mHjTsKOuiOt+WPluWFtuS7luWMu+W4iOeahOivhOS7tzsKOuiuoeeul+W9k+WJjeaJp+S4muWMu+W4iOivhOS7tzsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgc2VydmljZUFjY291bnROYW1lOiB7eyBpbmNsdWRlICJzZWNyZXRzLm5hbWUiIC4gfX1zZWFsZWQtc2VjcmV0cy1jb250cm9sbGVyCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">Ci0tLQphcGlWZXJzaW9uOiByYmFjLmF1dGhvcml6YXRpb24uazhzLmlvL3YxCmtpbmQ6IENsdXN0ZXJSb2xlQmluZGluZwptZXRhZGF0YToKICBuYW1lOiB7eyBpbmNsdWRlICJzZWNyZXRzLmZ1bGxuYW1lIiAuIH19CnJvbGVSZWY6CiAgYXBpR3JvdXA6IHJiYWMuYXV0aG9yaXphdGlvbi5rOHMuaW8KICBraW5kOiBDbHVzdGVyUm9sZQogIG5hbWU6IHt7IGluY2x1ZGUgInNlY3JldHMuZnVsbG5hbWUiIC4gfX0Kc3ViamVjdHM6Ci0gYXBpR3JvdXA6ICIiCiAga2luZDogU2VydmljZUFjY291bnQKICBuYW1lOiB7eyBpbmNsdWRlICJzZWNyZXRzLm5hbWUiIC4gfX0KICBuYW1lc3BhY2U6IHt7IC5SZWxlYXNlLk5hbWVzcGFjZSB8IHF1b3RlIH19CgotLS0KYXBpVmVyc2lvbjogcmJhYy5hdXRob3JpemF0aW9uLms4cy5pby92MQpraW5kOiBDbHVzdGVyUm9sZQptZXRhZGF0YToKICBuYW1lOiB7eyBpbmNsdWRlICJzZWNyZXRzLmZ1bGxuYW1lIiAuIH19CnJ1bGVzOgotIGFwaUdyb3VwczoKICAtIGJpdG5hbWkuY29tCiAgcmVzb3VyY2VzOgogIC0gc2VhbGVkc2VjcmV0cwogIHZlcmJzOgogIC0gZ2V0CiAgLSBsaXN0CiAgLSB3YXRjaAotIGFwaUdyb3VwczoKICAtICIiCiAgcmVzb3VyY2VzOgogIC0gc2VjcmV0cwogIHZlcmJzOgogIC0gY3JlYXRlCiAgLSB1cGRhdGUKICAtIGRlbGV0ZQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY29udGFpbmVyczoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZsdXggXAo=</text>
+        <text encoding="base64">ICAgICAgc2VydmljZUFjY291bnROYW1lOiB7eyBpbmNsdWRlICJzZWNyZXRzLm5hbWUiIC4gfX1zZWFsZWQtc2VjcmV0cy1jb250cm9sbGVyCg==</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
