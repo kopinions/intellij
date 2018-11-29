@@ -58,6 +58,7 @@
         <mark key="]" line="13" column="56" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="/workspace/6c/startup/rxright/config/charts/secrets/templates/crd.yaml" timestamp="1543498330185" />
       <file name="/workspace/6c/startup/rxright/infrastructures/kopsrc" timestamp="1543222778442">
         <mark key="[" line="37" column="13" />
         <mark key="]" line="37" column="14" />
@@ -495,11 +496,11 @@
         <mark key="]" line="6" column="49" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/workspace/6c/startup/rxright/config/charts/secrets/templates/rbac.yaml" timestamp="1543300892584">
-        <mark key="[" line="40" column="6" />
-        <mark key="]" line="40" column="5" />
-        <mark key="." line="40" column="5" />
-        <mark key="^" line="40" column="5" />
+      <file name="/workspace/6c/startup/rxright/config/charts/secrets/templates/rbac.yaml" timestamp="1543498892213">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="42" column="31" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="/workspace/6c/startup/rxright/config/charts/java/Chart.yaml" timestamp="1541656578861">
         <mark key="[" line="2" column="30" />
@@ -617,8 +618,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>机</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LSBhcGlHcm91cHM6CiAgLSAiIgogIHJlc291cmNlczoKICAtIHNlYWxlZHNlY3JldHMKICB2ZXJiczoKICAtIGdldAogIC0gbGlzdAogIC0gd2F0Y2gK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -6656,7 +6657,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>机</text>
+        <text>fullname</text>
       </register>
       <register name="/" type="4">
         <text>sshkey</text>
@@ -6665,7 +6666,7 @@
         <text encoding="base64">OueXheS6uuagueaNrumihOe6puWwseivijsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBDUkVBVEUgVVNFUiAnbXlzcWwnQCclJyBJREVOVElGSUVEIEJZICdteXNxbCc7Cg==</text>
+        <text encoding="base64">LSBhcGlHcm91cHM6CiAgLSAiIgogIHJlc291cmNlczoKICAtIHNlYWxlZHNlY3JldHMKICB2ZXJiczoKICAtIGdldAogIC0gbGlzdAogIC0gd2F0Y2gK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -6676,28 +6677,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBDUkVBVEUgVVNFUiAnbXlzcWwnQCclJyBJREVOVElGSUVEIEJZICdteXNxbCc7Cg==</text>
+        <text encoding="base64">ICAtIHVwZGF0ZQogIC0gZGVsZXRlCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">OuWQiOW5tuacgOe7iOivhOS7tzsK</text>
+        <text encoding="base64">LS0tCmFwaVZlcnNpb246IHJiYWMuYXV0aG9yaXphdGlvbi5rOHMuaW8vdjEKa2luZDogQ2x1c3RlclJvbGUKbWV0YWRhdGE6CiAgbmFtZToge3sgaW5jbHVkZSAic2VjcmV0cy5mdWxsbmFtZSIgLiB9fQpydWxlczoKLSBhcGlHcm91cHM6CiAgLSBiaXRuYW1pLmNvbQogIHJlc291cmNlczoKICAtIHNlYWxlZHNlY3JldHMKICB2ZXJiczoKICAtIGdldAogIC0gbGlzdAogIC0gd2F0Y2gKLSBhcGlHcm91cHM6CiAgLSAiIgogIHJlc291cmNlczoKICAtIHNlY3JldHMKICB2ZXJiczoKICAtIGNyZWF0ZQogIC0gdXBkYXRlCiAgLSBkZWxldGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">OuacgOWQjuivhOS7t+amgui/sDsK</text>
+        <text encoding="base64">ICAgICAgICBDUkVBVEUgVVNFUiAnbXlzcWwnQCclJyBJREVOVElGSUVEIEJZICdteXNxbCc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">OuiOt+WPluesrOS4gOS4quaJp+S4muWMu+W4iDsKOuiOt+WPluaJp+S4muWMu+W4iOeahOeXheS6uuivhOS7tzsKOuiOt+WPluaJp+S4muWMu+W4iOeahOWMu+W4iOivhOS7tzsKOuiOt+WPluaJp+S4muWMu+W4iOeahOWFtuS7luivhOS7tzsKOuiOt+WPluaJgOacieeXheS6uueahOivhOS7t+adg+mHjTsKOuiOt+WPluWFtuS7luWMu+W4iOeahOivhOS7tzsKOuiuoeeul+W9k+WJjeaJp+S4muWMu+W4iOivhOS7tzsK</text>
+        <text encoding="base64">ICAgICAgICBDUkVBVEUgVVNFUiAnbXlzcWwnQCclJyBJREVOVElGSUVEIEJZICdteXNxbCc7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Ci0tLQphcGlWZXJzaW9uOiByYmFjLmF1dGhvcml6YXRpb24uazhzLmlvL3YxCmtpbmQ6IENsdXN0ZXJSb2xlQmluZGluZwptZXRhZGF0YToKICBuYW1lOiB7eyBpbmNsdWRlICJzZWNyZXRzLmZ1bGxuYW1lIiAuIH19CnJvbGVSZWY6CiAgYXBpR3JvdXA6IHJiYWMuYXV0aG9yaXphdGlvbi5rOHMuaW8KICBraW5kOiBDbHVzdGVyUm9sZQogIG5hbWU6IHt7IGluY2x1ZGUgInNlY3JldHMuZnVsbG5hbWUiIC4gfX0Kc3ViamVjdHM6Ci0gYXBpR3JvdXA6ICIiCiAga2luZDogU2VydmljZUFjY291bnQKICBuYW1lOiB7eyBpbmNsdWRlICJzZWNyZXRzLm5hbWUiIC4gfX0KICBuYW1lc3BhY2U6IHt7IC5SZWxlYXNlLk5hbWVzcGFjZSB8IHF1b3RlIH19CgotLS0KYXBpVmVyc2lvbjogcmJhYy5hdXRob3JpemF0aW9uLms4cy5pby92MQpraW5kOiBDbHVzdGVyUm9sZQptZXRhZGF0YToKICBuYW1lOiB7eyBpbmNsdWRlICJzZWNyZXRzLmZ1bGxuYW1lIiAuIH19CnJ1bGVzOgotIGFwaUdyb3VwczoKICAtIGJpdG5hbWkuY29tCiAgcmVzb3VyY2VzOgogIC0gc2VhbGVkc2VjcmV0cwogIHZlcmJzOgogIC0gZ2V0CiAgLSBsaXN0CiAgLSB3YXRjaAotIGFwaUdyb3VwczoKICAtICIiCiAgcmVzb3VyY2VzOgogIC0gc2VjcmV0cwogIHZlcmJzOgogIC0gY3JlYXRlCiAgLSB1cGRhdGUKICAtIGRlbGV0ZQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29udGFpbmVyczoK</text>
+        <text encoding="base64">OuWQiOW5tuacgOe7iOivhOS7tzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc2VydmljZUFjY291bnROYW1lOiB7eyBpbmNsdWRlICJzZWNyZXRzLm5hbWUiIC4gfX1zZWFsZWQtc2VjcmV0cy1jb250cm9sbGVyCg==</text>
+        <text encoding="base64">OuacgOWQjuivhOS7t+amgui/sDsK</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
