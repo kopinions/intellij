@@ -47,9 +47,9 @@
         <mark key="." line="22" column="57" />
         <mark key="^" line="22" column="57" />
       </file>
-      <file name="/workspace/6c/startup/rxright/config/README.md" timestamp="1543559022817">
-        <mark key="[" line="12" column="20" />
-        <mark key="]" line="12" column="20" />
+      <file name="/workspace/6c/startup/rxright/config/README.md" timestamp="1543559896362">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="42" column="77" />
         <mark key="." line="12" column="20" />
         <mark key="^" line="12" column="20" />
       </file>
@@ -623,8 +623,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>a</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">a3ViZWN0bCAtbiBmbHV4IGdldCBzZWNyZXQgZmx1eC1naXQtZGVwbG95ID4vZGV2L251bGwgMj4mMSAmJiBrdWJlY3RsIC1uIGZsdXggZGVsZXRlIHNlY3JldCBmbHV4LWdpdC1kZXBsb3kgPi9kZXYvbnVsbCAyPiYxCmt1YmVjdGwgLW4gZmx1eCBjcmVhdGUgc2VjcmV0IGdlbmVyaWMgZmx1eC1naXQtZGVwbG95IC0tZnJvbS1maWxlPWlkZW50aXR5PSR7Zmx1eF9naXRfZGVwbG95X2tleX0Ka3ViZWN0bCAtbiBmbHV4IGRlbGV0ZSAkKGt1YmVjdGwgLW4gZmx1eCBnZXQgcG9kIC1vIG5hbWUgIC1sIGFwcD1mbHV4KSB8fCB0cnVlCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -6668,7 +6668,7 @@
         <text>sshkey</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjaGVja3N1bS9pbmdyZXNzOiB7eyBpbmNsdWRlIChwcmludCAkLlRlbXBsYXRlLkJhc2VQYXRoICIvaW5ncmVzcy55YW1sIikgLiB8IHNoYTI1NnN1bSB9fQo=</text>
+        <text encoding="base64">a3ViZWN0bCAtbiBmbHV4IGdldCBzZWNyZXQgZmx1eC1naXQtZGVwbG95ID4vZGV2L251bGwgMj4mMSAmJiBrdWJlY3RsIC1uIGZsdXggZGVsZXRlIHNlY3JldCBmbHV4LWdpdC1kZXBsb3kgPi9kZXYvbnVsbCAyPiYxCmt1YmVjdGwgLW4gZmx1eCBjcmVhdGUgc2VjcmV0IGdlbmVyaWMgZmx1eC1naXQtZGVwbG95IC0tZnJvbS1maWxlPWlkZW50aXR5PSR7Zmx1eF9naXRfZGVwbG95X2tleX0Ka3ViZWN0bCAtbiBmbHV4IGRlbGV0ZSAkKGt1YmVjdGwgLW4gZmx1eCBnZXQgcG9kIC1vIG5hbWUgIC1sIGFwcD1mbHV4KSB8fCB0cnVlCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBjaGFydEdpdFBhdGg6IGphdmEK</text>
