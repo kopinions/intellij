@@ -24,7 +24,6 @@
         <mark key="]" line="8" column="11" />
         <mark key="." line="8" column="11" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/testing/src/main/java/com/blockycity/heimdallr/testing/support/ApiSupport.java" timestamp="1545148596649" />
       <file name="/workspace/6c/startup/rxright/config/namespaces/uat.yaml" timestamp="1543292718703">
         <mark key="[" line="4" column="8" />
         <mark key="]" line="4" column="8" />
@@ -191,12 +190,23 @@
         <mark key="." line="8" column="2" />
         <mark key="^" line="7" column="25" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/services/files/build.gradle" timestamp="1545148159825" />
       <file name="/workspace/6c/startup/rxright/config/charts/java/templates/ingress.yaml" timestamp="1543288769122">
         <mark key="[" line="35" column="30" />
         <mark key="]" line="35" column="30" />
         <mark key="." line="35" column="30" />
         <mark key="^" line="35" column="30" />
+      </file>
+      <file name="/workspace/6c/startup/options/edan/src/main/java/com/blockycity/edan/wechat/WeiXinIdentityProvider.java" timestamp="1545399111008">
+        <mark key="'" line="33" column="20" />
+        <mark key="[" line="38" column="13" />
+        <mark key="]" line="38" column="18" />
+        <mark key="." line="38" column="18" />
+        <mark key="^" line="38" column="18" />
+      </file>
+      <file name="/workspace/6c/startup/options/edan/src/main/java/com/blockycity/edan/wechat/WeiXinIdentityProviderFactory.java" timestamp="1545399073885">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/workspace/6c/startup/rxright/config/releases/prod/nginx.yaml" timestamp="1542621339734">
         <mark key="[" line="18" column="0" />
@@ -408,7 +418,6 @@
         <mark key="." line="4" column="9" />
         <mark key="^" line="4" column="19" />
       </file>
-      <file name="/workspace/6c/startup/rxright/heimdallr/services/build.gradle" timestamp="1545148215350" />
       <file name="/workspace/6c/startup/rxright/config/releases/qa/admin.yaml" timestamp="1543516259580">
         <mark key="[" line="10" column="43" />
         <mark key="]" line="10" column="46" />
@@ -474,6 +483,14 @@
         <mark key="^" line="25" column="41" />
         <mark key="." line="25" column="41" />
       </file>
+      <file name="/workspace/6c/startup/options/edan/Dockerfile" timestamp="1545398581925">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/workspace/6c/startup/options/edan/build.gradle.kts" timestamp="1545398507873">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="/workspace/6c/startup/rxright/config/charts/java/templates/tests/ingress.yaml" timestamp="1541657705985">
         <mark key="[" line="16" column="76" />
         <mark key="]" line="16" column="76" />
@@ -498,6 +515,11 @@
         <mark key="." line="9" column="14" />
         <mark key="^" line="9" column="14" />
       </file>
+      <file name="/workspace/6c/startup/options/edan/src/main/java/com/blockycity/edan/wechat/WechatIdentityProvider.java" timestamp="1545399128888">
+        <mark key="[" line="38" column="13" />
+        <mark key="]" line="38" column="13" />
+        <mark key="." line="38" column="13" />
+      </file>
       <file name="/workspace/6c/startup/rxright/config/releases/prod/wechats.yaml" timestamp="1542777266356">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="49" />
@@ -517,7 +539,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="329" column="40" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/test/java/com/blockycity/heimdallr/api/hospital/records/Requests.java" />
       <jump line="435" column="0" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/test/java/com/blockycity/heimdallr/api/hospital/records/Requests.java" />
       <jump line="18" column="13" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/java/com/blockycity/heimdallr/api/hospital/resources/DepartmentResource.java" />
       <jump line="36" column="39" filename="/workspace/6c/startup/rxright/heimdallr/services/hospitals/src/main/java/com/blockycity/heimdallr/api/hospital/resources/DepartmentsResource.java" />
@@ -617,6 +638,7 @@
       <jump line="15" column="53" filename="/workspace/6c/startup/rxright/infrastructures/infrastructure.tpl" />
       <jump line="35" column="24" filename="/workspace/6c/startup/rxright/infrastructures/infrastructure.tpl" />
       <jump line="25" column="86" filename="/workspace/6c/startup/rxright/infrastructures/README.md" />
+      <jump line="49" column="20" filename="/workspace/6c/startup/options/edan/src/main/java/com/blockycity/edan/wechat/WeiXinIdentityProvider.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -624,8 +646,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">a3ViZWN0bCAtbiBmbHV4IGdldCBzZWNyZXQgZmx1eC1naXQtZGVwbG95ID4vZGV2L251bGwgMj4mMSAmJiBrdWJlY3RsIC1uIGZsdXggZGVsZXRlIHNlY3JldCBmbHV4LWdpdC1kZXBsb3kgPi9kZXYvbnVsbCAyPiYxCmt1YmVjdGwgLW4gZmx1eCBjcmVhdGUgc2VjcmV0IGdlbmVyaWMgZmx1eC1naXQtZGVwbG95IC0tZnJvbS1maWxlPWlkZW50aXR5PSR7Zmx1eF9naXRfZGVwbG95X2tleX0Ka3ViZWN0bCAtbiBmbHV4IGRlbGV0ZSAkKGt1YmVjdGwgLW4gZmx1eCBnZXQgcG9kIC1vIG5hbWUgIC1sIGFwcD1mbHV4KSB8fCB0cnVlCg==</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -6663,7 +6685,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>sshkey</text>
@@ -6672,7 +6694,7 @@
         <text encoding="base64">a3ViZWN0bCAtbiBmbHV4IGdldCBzZWNyZXQgZmx1eC1naXQtZGVwbG95ID4vZGV2L251bGwgMj4mMSAmJiBrdWJlY3RsIC1uIGZsdXggZGVsZXRlIHNlY3JldCBmbHV4LWdpdC1kZXBsb3kgPi9kZXYvbnVsbCAyPiYxCmt1YmVjdGwgLW4gZmx1eCBjcmVhdGUgc2VjcmV0IGdlbmVyaWMgZmx1eC1naXQtZGVwbG95IC0tZnJvbS1maWxlPWlkZW50aXR5PSR7Zmx1eF9naXRfZGVwbG95X2tleX0Ka3ViZWN0bCAtbiBmbHV4IGRlbGV0ZSAkKGt1YmVjdGwgLW4gZmx1eCBnZXQgcG9kIC1vIG5hbWUgIC1sIGFwcD1mbHV4KSB8fCB0cnVlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjaGFydEdpdFBhdGg6IGphdmEK</text>
+        <text encoding="base64">LyoKICogQ29weXJpZ2h0IDIwMTYgUmVkIEhhdCwgSW5jLiBhbmQvb3IgaXRzIGFmZmlsaWF0ZXMKICogYW5kIG90aGVyIGNvbnRyaWJ1dG9ycyBhcyBpbmRpY2F0ZWQgYnkgdGhlIEBhdXRob3IgdGFncy4KICoKICogTGljZW5zZWQgdW5kZXIgdGhlIEFwYWNoZSBMaWNlbnNlLCBWZXJzaW9uIDIuMCAodGhlICJMaWNlbnNlIik7CiAqIHlvdSBtYXkgbm90IHVzZSB0aGlzIGZpbGUgZXhjZXB0IGluIGNvbXBsaWFuY2Ugd2l0aCB0aGUgTGljZW5zZS4KICogWW91IG1heSBvYnRhaW4gYSBjb3B5IG9mIHRoZSBMaWNlbnNlIGF0CiAqCiAqIGh0dHA6Ly93d3cuYXBhY2hlLm9yZy9saWNlbnNlcy9MSUNFTlNFLTIuMAogKgogKiBVbmxlc3MgcmVxdWlyZWQgYnkgYXBwbGljYWJsZSBsYXcgb3IgYWdyZWVkIHRvIGluIHdyaXRpbmcsIHNvZnR3YXJlCiAqIGRpc3RyaWJ1dGVkIHVuZGVyIHRoZSBMaWNlbnNlIGlzIGRpc3RyaWJ1dGVkIG9uIGFuICJBUyBJUyIgQkFTSVMsCiAqIFdJVEhPVVQgV0FSUkFOVElFUyBPUiBDT05ESVRJT05TIE9GIEFOWSBLSU5ELCBlaXRoZXIgZXhwcmVzcyBvciBpbXBsaWVkLgogKiBTZWUgdGhlIExpY2Vuc2UgZm9yIHRoZSBzcGVjaWZpYyBsYW5ndWFnZSBnb3Zlcm5pbmcgcGVybWlzc2lvbnMgYW5kCiAqIGxpbWl0YXRpb25zIHVuZGVyIHRoZSBMaWNlbnNlLgogKi8K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -6683,28 +6705,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LSBhcGlHcm91cHM6CiAgLSAiIgogIHJlc291cmNlczoKICAtIHNlYWxlZHNlY3JldHMKICB2ZXJiczoKICAtIGdldAogIC0gbGlzdAogIC0gd2F0Y2gK</text>
+        <text encoding="base64">Ci8qKgogKiBAYXV0aG9yIHlvbmcuamlhbmcKICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAtIHVwZGF0ZQogIC0gZGVsZXRlCg==</text>
+        <text encoding="base64">LyoKICogQ29weXJpZ2h0IDIwMTYgUmVkIEhhdCwgSW5jLiBhbmQvb3IgaXRzIGFmZmlsaWF0ZXMKICogYW5kIG90aGVyIGNvbnRyaWJ1dG9ycyBhcyBpbmRpY2F0ZWQgYnkgdGhlIEBhdXRob3IgdGFncy4KICoKICogTGljZW5zZWQgdW5kZXIgdGhlIEFwYWNoZSBMaWNlbnNlLCBWZXJzaW9uIDIuMCAodGhlICJMaWNlbnNlIik7CiAqIHlvdSBtYXkgbm90IHVzZSB0aGlzIGZpbGUgZXhjZXB0IGluIGNvbXBsaWFuY2Ugd2l0aCB0aGUgTGljZW5zZS4KICogWW91IG1heSBvYnRhaW4gYSBjb3B5IG9mIHRoZSBMaWNlbnNlIGF0CiAqCiAqIGh0dHA6Ly93d3cuYXBhY2hlLm9yZy9saWNlbnNlcy9MSUNFTlNFLTIuMAogKgogKiBVbmxlc3MgcmVxdWlyZWQgYnkgYXBwbGljYWJsZSBsYXcgb3IgYWdyZWVkIHRvIGluIHdyaXRpbmcsIHNvZnR3YXJlCiAqIGRpc3RyaWJ1dGVkIHVuZGVyIHRoZSBMaWNlbnNlIGlzIGRpc3RyaWJ1dGVkIG9uIGFuICJBUyBJUyIgQkFTSVMsCiAqIFdJVEhPVVQgV0FSUkFOVElFUyBPUiBDT05ESVRJT05TIE9GIEFOWSBLSU5ELCBlaXRoZXIgZXhwcmVzcyBvciBpbXBsaWVkLgogKiBTZWUgdGhlIExpY2Vuc2UgZm9yIHRoZSBzcGVjaWZpYyBsYW5ndWFnZSBnb3Zlcm5pbmcgcGVybWlzc2lvbnMgYW5kCiAqIGxpbWl0YXRpb25zIHVuZGVyIHRoZSBMaWNlbnNlLgogKi8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqIAogKiBAYXV0aG9yIHlvbmcuamlhbmcKICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LS0tCmFwaVZlcnNpb246IHJiYWMuYXV0aG9yaXphdGlvbi5rOHMuaW8vdjEKa2luZDogQ2x1c3RlclJvbGUKbWV0YWRhdGE6CiAgbmFtZToge3sgaW5jbHVkZSAic2VjcmV0cy5mdWxsbmFtZSIgLiB9fQpydWxlczoKLSBhcGlHcm91cHM6CiAgLSBiaXRuYW1pLmNvbQogIHJlc291cmNlczoKICAtIHNlYWxlZHNlY3JldHMKICB2ZXJiczoKICAtIGdldAogIC0gbGlzdAogIC0gd2F0Y2gKLSBhcGlHcm91cHM6CiAgLSAiIgogIHJlc291cmNlczoKICAtIHNlY3JldHMKICB2ZXJiczoKICAtIGNyZWF0ZQogIC0gdXBkYXRlCiAgLSBkZWxldGUK</text>
+        <text encoding="base64">ICAgIGlkICdjb20uZ29vZ2xlLmNsb3VkLnRvb2xzLmppYicgdmVyc2lvbiAnMC4xMC4xJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBDUkVBVEUgVVNFUiAnbXlzcWwnQCclJyBJREVOVElGSUVEIEJZICdteXNxbCc7Cg==</text>
+        <text encoding="base64">ICBjaGFydEdpdFBhdGg6IGphdmEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBDUkVBVEUgVVNFUiAnbXlzcWwnQCclJyBJREVOVElGSUVEIEJZICdteXNxbCc7Cg==</text>
+        <text encoding="base64">LSBhcGlHcm91cHM6CiAgLSAiIgogIHJlc291cmNlczoKICAtIHNlYWxlZHNlY3JldHMKICB2ZXJiczoKICAtIGdldAogIC0gbGlzdAogIC0gd2F0Y2gK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtIHVwZGF0ZQogIC0gZGVsZXRlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">OuWQiOW5tuacgOe7iOivhOS7tzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
