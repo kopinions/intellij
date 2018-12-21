@@ -492,10 +492,10 @@
       <file name="/workspace/6c/startup/options/edan/Dockerfile" timestamp="1545398581925">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/workspace/6c/startup/options/edan/build.gradle.kts" timestamp="1545401274085">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="/workspace/6c/startup/options/edan/build.gradle.kts" timestamp="1545402405029">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="/workspace/6c/startup/rxright/config/charts/java/templates/tests/ingress.yaml" timestamp="1541657705985">
         <mark key="[" line="16" column="76" />
@@ -653,7 +653,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW5jbHVkZSgid2VjaGF0IikK</text>
+        <text encoding="base64">CnJlcG9zaXRvcmllcyB7CiAgICBqY2VudGVyKCkKfQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -6700,7 +6700,7 @@
         <text encoding="base64">aW5jbHVkZSgid2VjaGF0IikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVwZW5kZW5jaWVzIHsKICAgIC8vIE1ha2UgdGhlIHJvb3QgcHJvamVjdCBhcmNoaXZlcyBjb25maWd1cmF0aW9uIGRlcGVuZCBvbiBldmVyeSBzdWJwcm9qZWN0CiAgICBzdWJwcm9qZWN0cy5mb3JFYWNoIHsKICAgICAgICBhcmNoaXZlcyhpdCkKICAgIH0KfQo=</text>
+        <text encoding="base64">CnJlcG9zaXRvcmllcyB7CiAgICBqY2VudGVyKCkKfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -6711,28 +6711,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJhc2UK</text>
+        <text encoding="base64">ZGVwZW5kZW5jaWVzIHsKICAgIC8vIE1ha2UgdGhlIHJvb3QgcHJvamVjdCBhcmNoaXZlcyBjb25maWd1cmF0aW9uIGRlcGVuZCBvbiBldmVyeSBzdWJwcm9qZWN0CiAgICBzdWJwcm9qZWN0cy5mb3JFYWNoIHsKICAgICAgICBhcmNoaXZlcyhpdCkKICAgIH0KfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoKICogQ29weXJpZ2h0IDIwMTYgUmVkIEhhdCwgSW5jLiBhbmQvb3IgaXRzIGFmZmlsaWF0ZXMKICogYW5kIG90aGVyIGNvbnRyaWJ1dG9ycyBhcyBpbmRpY2F0ZWQgYnkgdGhlIEBhdXRob3IgdGFncy4KICoKICogTGljZW5zZWQgdW5kZXIgdGhlIEFwYWNoZSBMaWNlbnNlLCBWZXJzaW9uIDIuMCAodGhlICJMaWNlbnNlIik7CiAqIHlvdSBtYXkgbm90IHVzZSB0aGlzIGZpbGUgZXhjZXB0IGluIGNvbXBsaWFuY2Ugd2l0aCB0aGUgTGljZW5zZS4KICogWW91IG1heSBvYnRhaW4gYSBjb3B5IG9mIHRoZSBMaWNlbnNlIGF0CiAqCiAqIGh0dHA6Ly93d3cuYXBhY2hlLm9yZy9saWNlbnNlcy9MSUNFTlNFLTIuMAogKgogKiBVbmxlc3MgcmVxdWlyZWQgYnkgYXBwbGljYWJsZSBsYXcgb3IgYWdyZWVkIHRvIGluIHdyaXRpbmcsIHNvZnR3YXJlCiAqIGRpc3RyaWJ1dGVkIHVuZGVyIHRoZSBMaWNlbnNlIGlzIGRpc3RyaWJ1dGVkIG9uIGFuICJBUyBJUyIgQkFTSVMsCiAqIFdJVEhPVVQgV0FSUkFOVElFUyBPUiBDT05ESVRJT05TIE9GIEFOWSBLSU5ELCBlaXRoZXIgZXhwcmVzcyBvciBpbXBsaWVkLgogKiBTZWUgdGhlIExpY2Vuc2UgZm9yIHRoZSBzcGVjaWZpYyBsYW5ndWFnZSBnb3Zlcm5pbmcgcGVybWlzc2lvbnMgYW5kCiAqIGxpbWl0YXRpb25zIHVuZGVyIHRoZSBMaWNlbnNlLgogKi8K</text>
+        <text encoding="base64">ICAgIGJhc2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ci8qKgogKiBAYXV0aG9yIHlvbmcuamlhbmcKICovCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">LyoKICogQ29weXJpZ2h0IDIwMTYgUmVkIEhhdCwgSW5jLiBhbmQvb3IgaXRzIGFmZmlsaWF0ZXMKICogYW5kIG90aGVyIGNvbnRyaWJ1dG9ycyBhcyBpbmRpY2F0ZWQgYnkgdGhlIEBhdXRob3IgdGFncy4KICoKICogTGljZW5zZWQgdW5kZXIgdGhlIEFwYWNoZSBMaWNlbnNlLCBWZXJzaW9uIDIuMCAodGhlICJMaWNlbnNlIik7CiAqIHlvdSBtYXkgbm90IHVzZSB0aGlzIGZpbGUgZXhjZXB0IGluIGNvbXBsaWFuY2Ugd2l0aCB0aGUgTGljZW5zZS4KICogWW91IG1heSBvYnRhaW4gYSBjb3B5IG9mIHRoZSBMaWNlbnNlIGF0CiAqCiAqIGh0dHA6Ly93d3cuYXBhY2hlLm9yZy9saWNlbnNlcy9MSUNFTlNFLTIuMAogKgogKiBVbmxlc3MgcmVxdWlyZWQgYnkgYXBwbGljYWJsZSBsYXcgb3IgYWdyZWVkIHRvIGluIHdyaXRpbmcsIHNvZnR3YXJlCiAqIGRpc3RyaWJ1dGVkIHVuZGVyIHRoZSBMaWNlbnNlIGlzIGRpc3RyaWJ1dGVkIG9uIGFuICJBUyBJUyIgQkFTSVMsCiAqIFdJVEhPVVQgV0FSUkFOVElFUyBPUiBDT05ESVRJT05TIE9GIEFOWSBLSU5ELCBlaXRoZXIgZXhwcmVzcyBvciBpbXBsaWVkLgogKiBTZWUgdGhlIExpY2Vuc2UgZm9yIHRoZSBzcGVjaWZpYyBsYW5ndWFnZSBnb3Zlcm5pbmcgcGVybWlzc2lvbnMgYW5kCiAqIGxpbWl0YXRpb25zIHVuZGVyIHRoZSBMaWNlbnNlLgogKi8K</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ci8qKgogKiBAYXV0aG9yIHlvbmcuamlhbmcKICovCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCiAqIAogKiBAYXV0aG9yIHlvbmcuamlhbmcKICovCg==</text>
+        <text encoding="base64">LyoKICogQ29weXJpZ2h0IDIwMTYgUmVkIEhhdCwgSW5jLiBhbmQvb3IgaXRzIGFmZmlsaWF0ZXMKICogYW5kIG90aGVyIGNvbnRyaWJ1dG9ycyBhcyBpbmRpY2F0ZWQgYnkgdGhlIEBhdXRob3IgdGFncy4KICoKICogTGljZW5zZWQgdW5kZXIgdGhlIEFwYWNoZSBMaWNlbnNlLCBWZXJzaW9uIDIuMCAodGhlICJMaWNlbnNlIik7CiAqIHlvdSBtYXkgbm90IHVzZSB0aGlzIGZpbGUgZXhjZXB0IGluIGNvbXBsaWFuY2Ugd2l0aCB0aGUgTGljZW5zZS4KICogWW91IG1heSBvYnRhaW4gYSBjb3B5IG9mIHRoZSBMaWNlbnNlIGF0CiAqCiAqIGh0dHA6Ly93d3cuYXBhY2hlLm9yZy9saWNlbnNlcy9MSUNFTlNFLTIuMAogKgogKiBVbmxlc3MgcmVxdWlyZWQgYnkgYXBwbGljYWJsZSBsYXcgb3IgYWdyZWVkIHRvIGluIHdyaXRpbmcsIHNvZnR3YXJlCiAqIGRpc3RyaWJ1dGVkIHVuZGVyIHRoZSBMaWNlbnNlIGlzIGRpc3RyaWJ1dGVkIG9uIGFuICJBUyBJUyIgQkFTSVMsCiAqIFdJVEhPVVQgV0FSUkFOVElFUyBPUiBDT05ESVRJT05TIE9GIEFOWSBLSU5ELCBlaXRoZXIgZXhwcmVzcyBvciBpbXBsaWVkLgogKiBTZWUgdGhlIExpY2Vuc2UgZm9yIHRoZSBzcGVjaWZpYyBsYW5ndWFnZSBnb3Zlcm5pbmcgcGVybWlzc2lvbnMgYW5kCiAqIGxpbWl0YXRpb25zIHVuZGVyIHRoZSBMaWNlbnNlLgogKi8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlkICdjb20uZ29vZ2xlLmNsb3VkLnRvb2xzLmppYicgdmVyc2lvbiAnMC4xMC4xJwo=</text>
+        <text encoding="base64">LyoqCiAqIAogKiBAYXV0aG9yIHlvbmcuamlhbmcKICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjaGFydEdpdFBhdGg6IGphdmEK</text>
+        <text encoding="base64">ICAgIGlkICdjb20uZ29vZ2xlLmNsb3VkLnRvb2xzLmppYicgdmVyc2lvbiAnMC4xMC4xJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LSBhcGlHcm91cHM6CiAgLSAiIgogIHJlc291cmNlczoKICAtIHNlYWxlZHNlY3JldHMKICB2ZXJiczoKICAtIGdldAogIC0gbGlzdAogIC0gd2F0Y2gK</text>
+        <text encoding="base64">ICBjaGFydEdpdFBhdGg6IGphdmEK</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
