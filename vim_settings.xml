@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="/workspace/6c/startup/rxright/config/charts/java/templates/service.yaml" timestamp="1542655703636">
@@ -52,6 +52,12 @@
         <mark key="]" line="42" column="77" />
         <mark key="." line="12" column="20" />
         <mark key="^" line="12" column="20" />
+      </file>
+      <file name="/workspace/6c/startup/devplugins/commands/src/main/resources/META-INF/plugin.xml" timestamp="1550732428340">
+        <mark key="[" line="12" column="12" />
+        <mark key="]" line="12" column="12" />
+        <mark key="." line="12" column="12" />
+        <mark key="^" line="9" column="65" />
       </file>
       <file name="/workspace/6c/startup/rxright/config/charts/java/templates/pvc.yaml" timestamp="1542275398026">
         <mark key="[" line="10" column="0" />
@@ -6698,7 +6704,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>。</text>
       </register>
       <register name="/" type="4">
         <text>sshkey</text>
@@ -6832,6 +6838,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
