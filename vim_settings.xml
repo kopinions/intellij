@@ -361,10 +361,10 @@
         <mark key="." line="12" column="20" />
         <mark key="^" line="12" column="20" />
       </file>
-      <file name="/workspace/6c/startup/devplugins/commands/src/main/resources/META-INF/plugin.xml" timestamp="1550732428340">
-        <mark key="[" line="12" column="12" />
-        <mark key="]" line="12" column="12" />
-        <mark key="." line="12" column="12" />
+      <file name="/workspace/6c/startup/devplugins/commands/src/main/resources/META-INF/plugin.xml" timestamp="1550812866639">
+        <mark key="[" line="28" column="116" />
+        <mark key="]" line="28" column="115" />
+        <mark key="." line="28" column="115" />
         <mark key="^" line="9" column="65" />
       </file>
       <file name="/workspace/6c/startup/rxright/config/charts/java/templates/pvc.yaml" timestamp="1542275398026">
@@ -6718,7 +6718,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>sshkey</text>
