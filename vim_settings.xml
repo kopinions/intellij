@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/workspace/6c/startup/rxright/config/charts/java/templates/service.yaml" timestamp="1542655703636">
@@ -70,6 +70,12 @@
         <mark key="]" line="6" column="250" />
         <mark key="." line="6" column="250" />
         <mark key="^" line="6" column="250" />
+      </file>
+      <file name="/workspace/6c/startup/devplugins/commands/src/test/java/com/dummy/actions/HelloWorldActionTest.java" timestamp="1550820984548">
+        <mark key="[" line="30" column="91" />
+        <mark key="]" line="23" column="60" />
+        <mark key="." line="23" column="60" />
+        <mark key="^" line="23" column="60" />
       </file>
       <file name="/workspace/6c/startup/rxright/config/charts/nginx/rbac.yaml" timestamp="1542007584789">
         <mark key="[" line="0" column="0" />
@@ -361,11 +367,11 @@
         <mark key="." line="12" column="20" />
         <mark key="^" line="12" column="20" />
       </file>
-      <file name="/workspace/6c/startup/devplugins/commands/src/main/resources/META-INF/plugin.xml" timestamp="1550812866639">
-        <mark key="[" line="28" column="116" />
-        <mark key="]" line="28" column="115" />
-        <mark key="." line="28" column="115" />
-        <mark key="^" line="9" column="65" />
+      <file name="/workspace/6c/startup/devplugins/commands/src/main/resources/META-INF/plugin.xml" timestamp="1550821121239">
+        <mark key="[" line="28" column="60" />
+        <mark key="]" line="28" column="60" />
+        <mark key="." line="28" column="60" />
+        <mark key="^" line="28" column="76" />
       </file>
       <file name="/workspace/6c/startup/rxright/config/charts/java/templates/pvc.yaml" timestamp="1542275398026">
         <mark key="[" line="10" column="0" />
@@ -510,10 +516,11 @@
         <mark key="." line="10" column="46" />
         <mark key="^" line="10" column="46" />
       </file>
-      <file name="/workspace/6c/startup/devplugins/commands/src/main/java/com/dummy/actions/HelloWorldAction.java" timestamp="1550813180741">
-        <mark key="[" line="15" column="22" />
-        <mark key="]" line="15" column="26" />
-        <mark key="." line="15" column="26" />
+      <file name="/workspace/6c/startup/devplugins/commands/src/main/java/com/dummy/actions/HelloWorldAction.java" timestamp="1550821224109">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="23" column="26" />
+        <mark key="." line="23" column="26" />
+        <mark key="^" line="23" column="26" />
       </file>
       <file name="/workspace/6c/startup/rxright/config/charts/nginx/templates/configmap.yaml" timestamp="1542010418800">
         <mark key="[" line="7" column="31" />
@@ -569,6 +576,14 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="49" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="/workspace/6c/startup/devplugins/commands/src/test/java/com/dummy/actions/TestCassse.java" timestamp="1550819961768">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+      </file>
+      <file name="/fragment.java" timestamp="1550820006788">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -6718,7 +6733,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>sshkey</text>
@@ -6727,7 +6742,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICtlLm5hbWUuLS1ncmF5IOWkq+Wmu+WPjOaWueaKteaJo+aWueW8jwogICAgICAgICAgICAgICAgK2UudmFsdWVzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zcGFuLi0tZ3JheSAK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -6737,29 +6752,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CnJlcG9zaXRvcmllcyB7CiAgICBqY2VudGVyKCkKfQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCBib29sZWFuIGlzVmFsaWRGb3JDbGFzcyhmaW5hbCBQc2lDbGFzcyB0YXJnZXRDbGFzcykgewogICAgICAgIHJldHVybiBzdXBlci5pc1ZhbGlkRm9yQ2xhc3ModGFyZ2V0Q2xhc3MpICYmICEodGFyZ2V0Q2xhc3MgaW5zdGFuY2VvZiBQc2lBbm9ueW1vdXNDbGFzcyk7CiAgICB9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVwZW5kZW5jaWVzIHsKICAgIC8vIE1ha2UgdGhlIHJvb3QgcHJvamVjdCBhcmNoaXZlcyBjb25maWd1cmF0aW9uIGRlcGVuZCBvbiBldmVyeSBzdWJwcm9qZWN0CiAgICBzdWJwcm9qZWN0cy5mb3JFYWNoIHsKICAgICAgICBhcmNoaXZlcyhpdCkKICAgIH0KfQo=</text>
+        <text encoding="base64">ICAgICAgICA8L2FjdGlvbj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJhc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGFkZC10by1ncm91cCBncm91cC1pZD0iV2luZG93TWVudSIgYW5jaG9yPSJmaXJzdCIvPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoKICogQ29weXJpZ2h0IDIwMTYgUmVkIEhhdCwgSW5jLiBhbmQvb3IgaXRzIGFmZmlsaWF0ZXMKICogYW5kIG90aGVyIGNvbnRyaWJ1dG9ycyBhcyBpbmRpY2F0ZWQgYnkgdGhlIEBhdXRob3IgdGFncy4KICoKICogTGljZW5zZWQgdW5kZXIgdGhlIEFwYWNoZSBMaWNlbnNlLCBWZXJzaW9uIDIuMCAodGhlICJMaWNlbnNlIik7CiAqIHlvdSBtYXkgbm90IHVzZSB0aGlzIGZpbGUgZXhjZXB0IGluIGNvbXBsaWFuY2Ugd2l0aCB0aGUgTGljZW5zZS4KICogWW91IG1heSBvYnRhaW4gYSBjb3B5IG9mIHRoZSBMaWNlbnNlIGF0CiAqCiAqIGh0dHA6Ly93d3cuYXBhY2hlLm9yZy9saWNlbnNlcy9MSUNFTlNFLTIuMAogKgogKiBVbmxlc3MgcmVxdWlyZWQgYnkgYXBwbGljYWJsZSBsYXcgb3IgYWdyZWVkIHRvIGluIHdyaXRpbmcsIHNvZnR3YXJlCiAqIGRpc3RyaWJ1dGVkIHVuZGVyIHRoZSBMaWNlbnNlIGlzIGRpc3RyaWJ1dGVkIG9uIGFuICJBUyBJUyIgQkFTSVMsCiAqIFdJVEhPVVQgV0FSUkFOVElFUyBPUiBDT05ESVRJT05TIE9GIEFOWSBLSU5ELCBlaXRoZXIgZXhwcmVzcyBvciBpbXBsaWVkLgogKiBTZWUgdGhlIExpY2Vuc2UgZm9yIHRoZSBzcGVjaWZpYyBsYW5ndWFnZSBnb3Zlcm5pbmcgcGVybWlzc2lvbnMgYW5kCiAqIGxpbWl0YXRpb25zIHVuZGVyIHRoZSBMaWNlbnNlLgogKi8K</text>
+        <text encoding="base64">ICAgICAgICA8YWN0aW9uIGlkPSJhY3Rpb25zLmhlbGxvIiBjbGFzcz0iY29tLmR1bW15LmFjdGlvbnMuSGVsbG9Xb3JsZEFjdGlvbiIgdGV4dD0iSGVsbG8iIGRlc2NyaXB0aW9uPSJoZWxsb3dvcmxkIj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ci8qKgogKiBAYXV0aG9yIHlvbmcuamlhbmcKICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">LyoKICogQ29weXJpZ2h0IDIwMTYgUmVkIEhhdCwgSW5jLiBhbmQvb3IgaXRzIGFmZmlsaWF0ZXMKICogYW5kIG90aGVyIGNvbnRyaWJ1dG9ycyBhcyBpbmRpY2F0ZWQgYnkgdGhlIEBhdXRob3IgdGFncy4KICoKICogTGljZW5zZWQgdW5kZXIgdGhlIEFwYWNoZSBMaWNlbnNlLCBWZXJzaW9uIDIuMCAodGhlICJMaWNlbnNlIik7CiAqIHlvdSBtYXkgbm90IHVzZSB0aGlzIGZpbGUgZXhjZXB0IGluIGNvbXBsaWFuY2Ugd2l0aCB0aGUgTGljZW5zZS4KICogWW91IG1heSBvYnRhaW4gYSBjb3B5IG9mIHRoZSBMaWNlbnNlIGF0CiAqCiAqIGh0dHA6Ly93d3cuYXBhY2hlLm9yZy9saWNlbnNlcy9MSUNFTlNFLTIuMAogKgogKiBVbmxlc3MgcmVxdWlyZWQgYnkgYXBwbGljYWJsZSBsYXcgb3IgYWdyZWVkIHRvIGluIHdyaXRpbmcsIHNvZnR3YXJlCiAqIGRpc3RyaWJ1dGVkIHVuZGVyIHRoZSBMaWNlbnNlIGlzIGRpc3RyaWJ1dGVkIG9uIGFuICJBUyBJUyIgQkFTSVMsCiAqIFdJVEhPVVQgV0FSUkFOVElFUyBPUiBDT05ESVRJT05TIE9GIEFOWSBLSU5ELCBlaXRoZXIgZXhwcmVzcyBvciBpbXBsaWVkLgogKiBTZWUgdGhlIExpY2Vuc2UgZm9yIHRoZSBzcGVjaWZpYyBsYW5ndWFnZSBnb3Zlcm5pbmcgcGVybWlzc2lvbnMgYW5kCiAqIGxpbWl0YXRpb25zIHVuZGVyIHRoZSBMaWNlbnNlLgogKi8K</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgSGVsbG9Xb3JsZEFjdGlvbigpIHsKICAgICAgICBzdXBlcigpOwogICAgfQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCiAqIAogKiBAYXV0aG9yIHlvbmcuamlhbmcKICovCg==</text>
+        <text encoding="base64">ICAgICAgICBNZXNzYWdlcy5zaG93TWVzc2FnZURpYWxvZyhwcm9qZWN0LCBtc2csIHRpdGxlLCBNZXNzYWdlcy5nZXRJbmZvcm1hdGlvbkljb24oKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlkICdjb20uZ29vZ2xlLmNsb3VkLnRvb2xzLmppYicgdmVyc2lvbiAnMC4xMC4xJwo=</text>
+        <text encoding="base64">ICAgICAgICBBbkFjdGlvbkV2ZW50IGFuQWN0aW9uRXZlbnQgPSBuZXcgQW5BY3Rpb25FdmVudChudWxsLCBjb250ZXh0UmVzdWx0LmJsb2NraW5nR2V0KDEwKQo=</text>
       </register>
       <register name="y" type="4">
         <text>{{procedure.owner.id}}-{{procedure.id}}</text>
