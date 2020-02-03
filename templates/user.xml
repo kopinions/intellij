@@ -1,5 +1,5 @@
 <templateSet group="user">
-  <template name="ati" value="assertThat($actual$, is($expected$));" description="assertThat" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+  <template name="ati" value="org.hamcrest.MatcherAssert.assertThat($actual$, org.hamcrest.CoreMatchers.is($expected$));" description="assertThat" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="actual" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="expected" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
